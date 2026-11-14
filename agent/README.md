@@ -25,7 +25,7 @@ set at the top of [`sync_agent.py`](sync_agent.py).
 3. **First message:** something short, e.g. "Hi! I can tell you what the city council decided, in your language. What would you like to know?"
 4. **Language:** default English. Add Armenian, Spanish and any others you want under *additional languages*, and turn on the **language detection** system tool so the agent switches when the resident does.
    - Verify Armenian end to end before the demo: speech-to-text and text-to-speech list Armenian, but real-time agent support (and which variety, Eastern or Western) is not confirmed.
-5. **Client tools:** add the three tools in [`client-tools.json`](client-tools.json) (Tools → Add tool → Client). Same names and parameter names; tick *Wait for response*. The names must match `src/components/VoiceControl.tsx` exactly.
+5. **Client tools:** add the three tools in [`client-tools.json`](client-tools.json) (Tools → Add tool → Client). Same names and parameter names; tick *Wait for response*. The names must match `src/components/VoiceProvider.tsx` exactly.
 6. **Security:** keep the agent private (authentication on). The app's `/api/agent-session` route gets a short-lived conversation token with your API key, so the key never reaches the browser.
 7. Copy the agent id into `.env.local` as `ELEVENLABS_AGENT_ID`, with `ELEVENLABS_API_KEY`.
 

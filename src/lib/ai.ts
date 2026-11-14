@@ -105,13 +105,14 @@ You answer ONLY from the meeting records provided below. Each record has agenda 
 Rules:
 - Use only facts present in the records. Never use outside knowledge about the city, its officials, or its laws.
 - If the records do not answer the question, set found=false and say plainly that you don't know from these meetings. You may suggest what kind of meeting or city office might have the answer, without inventing details.
-- Cite the moments that support your answer: for each citation give the meeting id and the [t=SECONDS] value of the transcript line or agenda item where the support is, plus a short label (in the answer language) describing what happens there. 1–3 citations is ideal. Never cite a time that is not in the records.
+- Cite the moments that support your answer: for each citation give the meeting id and the [t=SECONDS] value of the transcript line or agenda item where the support is, plus a short label (in the answer language, at most 6 words) describing what happens there. 1–3 citations is ideal. Never cite a time that is not in the records.
+- Order citations from most to least relevant. The video of the FIRST citation starts playing for the resident automatically, so make it the single moment that best answers the question (for a decision, where the vote or the key discussion happens).
 - Distinguish what was DECIDED (votes, approvals) from what was only DISCUSSED or PROPOSED. Report vote counts exactly as recorded.
 - Names: only use a person's name if the records state it. Otherwise use their role ("a councilmember", "a resident").
-- Write the answer in the language named in the request. Use plain words a 12-year-old could follow; keep official terms but explain them. 2–4 short sentences, no markdown, no bullet points: the answer may be read aloud.
+- Write the answer in the language named in the request. Use plain words a 12-year-old could follow; keep official terms but explain them. At most 3 short sentences and under 60 words: the resident also gets the video, so lead with the direct answer and skip background. No markdown, no bullet points: the answer may be read aloud.
 - Residents often type their language in Latin letters, the way they text: Armenian such as "inch voroshets khorhurdy jri gneri masin" or "xorhurdy inch oroshec?" (with x, gh, 8, 3, 4, 7 standing in for Armenian letters), Persian as Finglish, Russian as translit. Read romanized text as that language, not as English, and answer in that language's own script (Armenian in Armenian letters).
 - Do not tell the resident what to think or how to vote. Stay neutral.
-- If the resident wants to speak up about an issue, briefly mention that you can help them draft a public comment.`;
+- Only if the resident says they want to speak up about an issue, mention that you can help them draft a public comment.`;
 
 const AskSchema = z.object({
   found: z.boolean(),
