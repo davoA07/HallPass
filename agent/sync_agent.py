@@ -39,18 +39,12 @@ VOICE_MODEL = "eleven_v3_conversational"
 # The greeting in each language the agent can switch to. ElevenLabs uses "fil" for Tagalog.
 # Have native speakers check these before the demo.
 FIRST_MESSAGES = {
-    "en": "Hi! I'm HallPass. I can tell you what the city council decided, in your language, "
-          "and help you speak up. What would you like to know?",
-    "hy": "Բարև։ Ես HallPass-ն եմ։ Կարող եմ ձեր լեզվով պատմել, թե ինչ որոշեց քաղաքային խորհուրդը, "
-          "և օգնել ձեզ արտահայտվել։ Ի՞նչ կուզենայիք իմանալ։",
-    "es": "¡Hola! Soy HallPass. Puedo contarte en tu idioma lo que decidió el concejo municipal "
-          "y ayudarte a participar. ¿Qué te gustaría saber?",
-    "ko": "안녕하세요! 저는 HallPass입니다. 시의회가 무엇을 결정했는지 여러분의 언어로 알려 드리고, "
-          "의견을 내는 것도 도와드릴게요. 무엇이 궁금하신가요?",
-    "fa": "سلام! من HallPass هستم. می‌توانم به زبان شما بگویم شورای شهر چه تصمیمی گرفت "
-          "و کمکتان کنم نظرتان را بگویید. چه چیزی می‌خواهید بدانید؟",
-    "fil": "Kumusta! Ako ang HallPass. Masasabi ko sa iyong wika kung ano ang napagpasyahan "
-           "ng konseho ng lungsod, at matutulungan kitang magsalita. Ano ang gusto mong malaman?",
+    "en": "Hi, I'm HallPass. What would you like to know about Glendale?",
+    "hy": "Բարև, ես HallPass-ն եմ։ Ի՞նչ կուզենայիք իմանալ Գլենդեյլի մասին։",
+    "es": "Hola, soy HallPass. ¿Qué quieres saber sobre Glendale?",
+    "ko": "안녕하세요, HallPass입니다. 글렌데일에 대해 무엇이 궁금하세요?",
+    "fa": "سلام، من HallPass هستم. درباره گلندیل چه می‌خواهید بدانید؟",
+    "fil": "Kumusta, ako ang HallPass. Ano ang gusto mong malaman tungkol sa Glendale?",
 }
 
 
