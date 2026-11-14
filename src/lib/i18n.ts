@@ -59,6 +59,9 @@ const en = {
   aiError: "Something went wrong. Please try again.",
   busy: "Lots of people are asking right now. Please try again in a moment.",
   videoTitle: "Meeting video",
+  captionsLoading: "Loading captions…",
+  originalAudioOn: "Play original audio (English)",
+  originalAudioOff: "Mute original audio",
 } as const;
 
 export type StringKey = keyof typeof en;
@@ -122,6 +125,9 @@ const hy: Dict = {
   aiError: "Ինչ-որ բան սխալ գնաց։ Խնդրում ենք կրկին փորձել։",
   busy: "Հիմա շատ հարցումներ կան։ Խնդրում ենք մի փոքր ուշ կրկին փորձել։",
   videoTitle: "Նիստի տեսանյութ",
+  captionsLoading: "Ենթագրերը թարգմանվում են…",
+  originalAudioOn: "Միացնել բնօրինակ ձայնը (անգլերեն)",
+  originalAudioOff: "Անջատել բնօրինակ ձայնը",
 };
 
 const es: Dict = {
@@ -180,6 +186,9 @@ const es: Dict = {
   aiError: "Algo salió mal. Inténtalo de nuevo.",
   busy: "Hay muchas consultas en este momento. Inténtalo de nuevo en un momento.",
   videoTitle: "Video de la sesión",
+  captionsLoading: "Traduciendo subtítulos…",
+  originalAudioOn: "Activar audio original (inglés)",
+  originalAudioOff: "Silenciar audio original",
 };
 
 const ko: Dict = {
@@ -238,6 +247,9 @@ const ko: Dict = {
   aiError: "문제가 발생했습니다. 다시 시도해 주세요.",
   busy: "지금 요청이 많습니다. 잠시 후 다시 시도해 주세요.",
   videoTitle: "회의 영상",
+  captionsLoading: "자막 번역 중…",
+  originalAudioOn: "원본 음성 켜기 (영어)",
+  originalAudioOff: "원본 음성 끄기",
 };
 
 const tl: Dict = {
@@ -296,6 +308,9 @@ const tl: Dict = {
   aiError: "May nangyaring mali. Pakisubukang muli.",
   busy: "Maraming nagtatanong ngayon. Pakisubukang muli mamaya.",
   videoTitle: "Video ng pulong",
+  captionsLoading: "Isinasalin ang mga caption…",
+  originalAudioOn: "I-on ang orihinal na audio (Ingles)",
+  originalAudioOff: "I-mute ang orihinal na audio",
 };
 
 const fa: Dict = {
@@ -354,6 +369,9 @@ const fa: Dict = {
   aiError: "مشکلی پیش آمد. لطفاً دوباره تلاش کنید.",
   busy: "اکنون درخواست‌ها زیاد است. لطفاً کمی بعد دوباره تلاش کنید.",
   videoTitle: "ویدیوی جلسه",
+  captionsLoading: "در حال ترجمه زیرنویس…",
+  originalAudioOn: "پخش صدای اصلی (انگلیسی)",
+  originalAudioOff: "قطع صدای اصلی",
 };
 
 const DICTS: Record<string, Dict> = { en, hy, es, ko, tl, fa };

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useImperativeHandle, useRef, useState, type Ref } from "react";
+import { useCallback, useEffect, useImperativeHandle, useRef, useState, type Ref } from "react";
 import { formatTime } from "@/lib/format";
 import type { VideoSource } from "@/lib/types";
 
@@ -14,6 +14,8 @@ interface Props {
   /** Start playing as soon as the player loads (used when the assistant picks a video). */
   autoplay?: boolean;
   onTime?: (seconds: number) => void;
+  /** Playback volume, 0–100; 0 mutes. Lets the page lower the meeting audio under the voice assistant. */
+  volume?: number;
   labels: { noVideo: string; openVideo: string; videoTitle: string };
   ref?: Ref<PlayerHandle>;
 }
@@ -22,7 +24,7 @@ interface Props {
  * One player for every video source. All times are seconds in the source
  * video; file sources that hold only a clip subtract their offset.
  */
-export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, labels, ref }: Props) {
+export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, volume = 100, labels, ref }: Props) {
   const iframeRef = useRef<HTMLIFrameElement>(null);
   const videoRef = useRef<HTMLVideoElement>(null);
   const [linkTime, setLinkTime] = useState(initialTime);
@@ -30,6 +32,31 @@ export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, 
   useEffect(() => {
     onTimeRef.current = onTime;
   });
+
+  // Volume: applied on every change, and again when the YouTube player reports
+  // it is ready (it ignores commands sent before that).
+  const volumeRef = useRef(volume);
+  const applyVolume = useCallback(() => {
+    const v = Math.round(Math.min(100, Math.max(0, volumeRef.current)));
+    if (video.kind === "youtube") {
+      const win = iframeRef.current?.contentWindow;
+      const send = (func: string, args: unknown[] = []) =>
+        win?.postMessage(JSON.stringify({ event: "command", func, args }), "*");
+      if (v === 0) {
+        send("mute");
+      } else {
+        send("unMute");
+        send("setVolume", [v]);
+      }
+    } else if (video.kind === "file" && videoRef.current) {
+      videoRef.current.muted = v === 0;
+      videoRef.current.volume = v / 100;
+    }
+  }, [video.kind]);
+  useEffect(() => {
+    volumeRef.current = volume;
+    applyVolume();
+  }, [volume, applyVolume]);
 
   useImperativeHandle(
     ref,
@@ -63,6 +90,7 @@ export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, 
       try {
         if (!/youtube(-nocookie)?\.com$/.test(new URL(e.origin).hostname)) return;
         const data = typeof e.data === "string" ? JSON.parse(e.data) : e.data;
+        if (data?.event === "onReady" || data?.event === "initialDelivery") applyVolume();
         const time = data?.info?.currentTime;
         if (typeof time === "number") onTimeRef.current?.(time);
       } catch {
@@ -71,7 +99,7 @@ export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, 
     };
     window.addEventListener("message", onMessage);
     return () => window.removeEventListener("message", onMessage);
-  }, [video.kind]);
+  }, [video.kind, applyVolume]);
 
   if (video.kind === "youtube") {
     const src =
@@ -108,6 +136,7 @@ export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, 
         className="aspect-video w-full rounded-2xl bg-black"
         onLoadedMetadata={(e) => {
           if (initialTime) e.currentTarget.currentTime = Math.max(0, initialTime - (video.offset ?? 0));
+          applyVolume();
         }}
         onTimeUpdate={(e) => onTimeRef.current?.(e.currentTarget.currentTime + (video.offset ?? 0))}
       />
