@@ -205,6 +205,7 @@ const DRAFT_SYSTEM = `You help residents write a short public comment to their c
 
 Rules:
 - Write in the first person as the resident. Respectful, specific, under 200 words.
+- Residents often type their language in Latin letters, the way they text: Armenian such as "jri gnery shat en bardzranum, chem karogh vcharel" or "xndrum em chbardzracnel" (with x, gh, 8, 3, 4, 7 standing in for Armenian letters), Persian as Finglish, Russian as translit. Read romanized notes as that language, not as English, and follow the language rule in the request.
 - Use only what the resident told you plus the agenda item facts provided. Do not invent personal details, statistics, or claims. Where a personal detail would help (name, neighborhood), leave a placeholder in square brackets, e.g. [your name], written in the resident's language.
 - Reference the agenda item and meeting date when provided.
 - Keep the resident's position exactly; do not soften, strengthen, or change it.
@@ -245,7 +246,7 @@ export async function draftPublicComment(opts: {
     messages: [
       {
         role: "user",
-        content: `Resident's language: ${language.english} (${language.code})\nPosition: ${opts.position}\n${context}\n\nWhat the resident wants to say, in their words:\n${opts.notes}`,
+        content: `Language for "comment" and "checklist": if the resident's notes below are in a language other than English, in its own script or typed in Latin letters (e.g. "jri gnery shat en bardzranum" is Armenian), write in the notes' language, in its own script. Otherwise write in ${language.english} (${language.code}), the language the resident picked.\nPosition: ${opts.position}\n${context}\n\nWhat the resident wants to say, in their words:\n${opts.notes}`,
       },
     ],
   });
