@@ -6,9 +6,9 @@ A voice assistant that explains what the city council decided, in the resident's
 own language, and then helps them take part in the next meeting. Built for
 JEWEL CITY HACKS 6.0 (Glendale Community College, November 14, 2026).
 
-1. **Learn:** each council meeting becomes a news-style page: headlines by agenda item, plain-language summaries, votes, translated on request.
+1. **Watch:** every council meeting is a video in a YouTube-style feed, split into plain-language chapters (one per agenda item), translated on request.
 2. **Ask:** tap the mic (or type) and ask "What did the council decide about parking?" Answers come only from the meeting records.
-3. **Receipts:** every answer links to the exact moment in the meeting video. If the records don't say, it says it doesn't know.
+3. **Receipts:** every answer plays the most relevant meeting video at the exact moment, with other moments one tap away. If the records don't say, it says it doesn't know.
 4. **Act:** draft a public comment in your language with an English translation beside it. You review, edit and send it yourself. The app never submits anything.
 
 ## Quick start
@@ -51,7 +51,8 @@ meeting video ─ yt-dlp/FFmpeg ─► audio ─ ElevenLabs Scribe ─► words 
    ─► speaker turns ─ Claude ─► agenda items, headlines, votes, key moments ─► data/meetings/*.json
                                                                                   │
  Next.js site ◄───────────────────────────────────────────────────────────────────┘
-   /meetings/[id]   news page, video player, clickable transcript (?t=SECONDS jumps)
+   /                start screen (talk button, question box) → player + chat; meeting video feed below
+   /meetings/[id]   same screen with that meeting already playing (?t=SECONDS jumps)
    /api/ask         Claude answers from all meeting records, cites [t=SECONDS], or says "I don't know"
    /api/draft-comment, /api/translate, /api/translate-meeting
    /api/agent-session  short-lived ElevenLabs token for the voice agent
@@ -67,8 +68,8 @@ server-side refusal fallbacks (`fallbacks: "default"`), except on Claude Haiku 5
 | `pipeline/process_meeting.py` | download → transcribe → structure → translate |
 | `src/lib/types.ts`, `docs/meeting-format.md` | the shared meeting JSON contract |
 | `src/lib/ai.ts` | prompts and Claude calls (answers, drafts, translation) |
-| `src/components/MeetingView.tsx`, `VideoPlayer.tsx` | meeting page, timestamp seeking |
-| `src/components/AssistantPanel.tsx`, `VoiceControl.tsx`, `CommentDrafter.tsx` | ask / voice / speak-up panel |
+| `src/components/HomeView.tsx`, `Stage.tsx`, `VideoFeed.tsx`, `VideoPlayer.tsx` | start screen, player + chapters, video feed, timestamp seeking |
+| `src/components/ChatPanel.tsx`, `VoiceProvider.tsx`, `CommentDrafter.tsx` | chat, voice agent + talk button, write to the council |
 | `src/lib/i18n.ts` | interface strings (have native speakers check them) |
 | `agent/` | ElevenLabs agent prompt, tool definitions, setup steps |
 

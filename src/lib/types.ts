@@ -103,18 +103,38 @@ export interface Meeting {
   translations: Record<string, MeetingTranslation>; // keyed by language code
 }
 
-export interface MeetingSummary {
+export type Tone = "good" | "bad" | "warn" | "neutral";
+
+/** One agenda item, shown like a video chapter. */
+export interface Chapter {
+  id: string;
+  start: number;
+  end: number;
+  headline: string;
+  /** Short result such as "Approved 4–0", only for votes. */
+  result: string | null;
+  tone: Tone;
+}
+
+/** What the browser needs to show a meeting in the video feed and player. */
+export interface VideoCard {
   id: string;
   title: string;
   body: string;
   date: string;
   sample: boolean;
-  reviewed: boolean;
-  overview: string;
-  itemCount: number;
-  headlines: string[];
-  /** Pre-translated overview + headlines, keyed by language code. */
-  i18n: Record<string, { overview: string; headlines: string[] }>;
+  /** Spoken language of the meeting (ISO 639-1); chapters are written in it. */
+  language: string;
+  /** Playable source. A YouTube copy is preferred over a local file. */
+  video: VideoSource;
+  thumbnail: string | null;
+  /** Length in seconds, when known. */
+  duration: number | null;
+  /** The chapter that best describes the meeting (its card title). */
+  mainChapterId: string | null;
+  chapters: Chapter[];
+  /** Stored chapter translations, keyed by language code, then chapter id. */
+  i18n: Record<string, Record<string, { headline: string; result: string | null }>>;
 }
 
 /** A link back to the exact moment in a meeting video. */

@@ -62,3 +62,15 @@ export const PenIcon = (p: SVGProps<SVGSVGElement>) => (
     <path d="M4 20h4L19 9l-4-4L4 16zM14 6l4 4" />
   </svg>
 );
+
+export const BackIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M15 5l-7 7 7 7" />
+  </svg>
+);
+
+export const RestartIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base(p)}>
+    <path d="M4 12a8 8 0 1 0 2.5-5.8M4 4v5h5" />
+  </svg>
+);

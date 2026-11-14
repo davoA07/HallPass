@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { AssistantPanel } from "@/components/AssistantPanel";
 import { AssistantProvider } from "@/components/AssistantProvider";
-import { SiteHeader } from "@/components/SiteHeader";
+import { SiteFooter, SiteHeader } from "@/components/SiteHeader";
+import { VoiceProvider } from "@/components/VoiceProvider";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Ask City Hall",
   description:
-    "Plain-language news from city council meetings, in your language, with links to the exact moment in the video.",
+    "Ask about Glendale City Council meetings in your language. Get a short answer and the exact moment in the meeting video.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -26,14 +26,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col">
         <AssistantProvider>
-          <SiteHeader />
-          <main className="flex-1">{children}</main>
-          <footer className="border-t border-line px-4 py-6 text-center text-xs text-muted">
-            Ask City Hall is a hackathon project (JEWEL CITY HACKS 6.0), not an official city service.
-            Summaries are AI-generated from public meeting recordings; every answer links to the video so you can
-            check it.
-          </footer>
-          <AssistantPanel />
+          {/* Voice lives above the pages so a call keeps going while the page changes. */}
+          <VoiceProvider>
+            <SiteHeader />
+            <main className="flex-1">{children}</main>
+            <SiteFooter />
+          </VoiceProvider>
         </AssistantProvider>
       </body>
     </html>

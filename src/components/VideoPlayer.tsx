@@ -11,6 +11,8 @@ export interface PlayerHandle {
 interface Props {
   video: VideoSource;
   initialTime?: number;
+  /** Start playing as soon as the player loads (used when the assistant picks a video). */
+  autoplay?: boolean;
   onTime?: (seconds: number) => void;
   labels: { noVideo: string; openVideo: string };
   ref?: Ref<PlayerHandle>;
@@ -20,7 +22,7 @@ interface Props {
  * One player for every video source. All times are seconds in the source
  * video; file sources that hold only a clip subtract their offset.
  */
-export function VideoPlayer({ video, initialTime = 0, onTime, labels, ref }: Props) {
+export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, labels, ref }: Props) {
   const iframeRef = useRef<HTMLIFrameElement>(null);
   const videoRef = useRef<HTMLVideoElement>(null);
   const [linkTime, setLinkTime] = useState(initialTime);
@@ -74,9 +76,9 @@ export function VideoPlayer({ video, initialTime = 0, onTime, labels, ref }: Pro
   if (video.kind === "youtube") {
     const src =
       `https://www.youtube-nocookie.com/embed/${encodeURIComponent(video.youtubeId)}` +
-      `?enablejsapi=1&rel=0&playsinline=1&start=${Math.floor(initialTime)}`;
+      `?enablejsapi=1&rel=0&playsinline=1&start=${Math.floor(initialTime)}${autoplay ? "&autoplay=1" : ""}`;
     return (
-      <div className="aspect-video w-full overflow-hidden rounded-xl bg-black">
+      <div className="aspect-video w-full overflow-hidden rounded-2xl bg-black">
         <iframe
           ref={iframeRef}
           src={src}
@@ -100,9 +102,10 @@ export function VideoPlayer({ video, initialTime = 0, onTime, labels, ref }: Pro
         ref={videoRef}
         src={video.src}
         controls
+        autoPlay={autoplay}
         playsInline
         preload="metadata"
-        className="aspect-video w-full rounded-xl bg-black"
+        className="aspect-video w-full rounded-2xl bg-black"
         onLoadedMetadata={(e) => {
           if (initialTime) e.currentTarget.currentTime = Math.max(0, initialTime - (video.offset ?? 0));
         }}
@@ -113,7 +116,7 @@ export function VideoPlayer({ video, initialTime = 0, onTime, labels, ref }: Pro
 
   if (video.kind === "link") {
     return (
-      <div className="grid aspect-video w-full place-items-center rounded-xl border border-line bg-surface-2 p-6 text-center">
+      <div className="grid aspect-video w-full place-items-center rounded-2xl border border-line bg-surface-2 p-6 text-center">
         <a
           href={linkUrl(video.urlTemplate, linkTime)}
           target="_blank"
@@ -127,7 +130,7 @@ export function VideoPlayer({ video, initialTime = 0, onTime, labels, ref }: Pro
   }
 
   return (
-    <div className="grid aspect-video w-full place-items-center rounded-xl border border-dashed border-line bg-surface-2 p-6 text-center text-sm text-muted">
+    <div className="grid aspect-video w-full place-items-center rounded-2xl border border-dashed border-line bg-surface-2 p-6 text-center text-sm text-muted">
       {labels.noVideo}
     </div>
   );

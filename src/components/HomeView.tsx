@@ -1,98 +1,72 @@
 "use client";
 
-import Link from "next/link";
-import { formatDate } from "@/lib/format";
-import { getLanguage } from "@/lib/languages";
-import type { MeetingSummary } from "@/lib/types";
+import { useSearchParams } from "next/navigation";
+import { Suspense, useEffect, useRef } from "react";
+import type { VideoCard } from "@/lib/types";
 import { useAssistant } from "./AssistantProvider";
-import { ChatIcon, MicIcon } from "./icons";
+import { Composer, Suggestions } from "./ChatPanel";
+import { Stage } from "./Stage";
+import { useChapterText } from "./useChapterText";
+import { VideoFeed } from "./VideoFeed";
+import { MicButton } from "./VoiceProvider";
 
-export function HomeView({ meetings }: { meetings: MeetingSummary[] }) {
-  const { lang, tr, setOpen, setTab } = useAssistant();
-  const locale = getLanguage(lang).locale;
+/**
+ * The whole app on one screen:
+ *   start  → a big "talk" button, a question box, and the meeting videos below.
+ *   active → the best matching video plays beside the conversation.
+ * /meetings/[id] renders this same view with that meeting already playing.
+ */
+export function HomeView({ cards, initialMeetingId }: { cards: VideoCard[]; initialMeetingId?: string }) {
+  const { tr, lang, messages, nowPlaying, tab } = useAssistant();
+  const chapterText = useChapterText(cards, lang);
+  const active = Boolean(initialMeetingId) || nowPlaying != null || messages.length > 0 || tab === "comment";
 
   return (
-    <div className="mx-auto max-w-6xl px-4 pb-24">
-      <section className="py-10 sm:py-14">
-        <p className="text-sm font-medium uppercase tracking-wider text-accent">Glendale City Council</p>
-        <h1 className="mt-2 max-w-3xl text-3xl font-semibold leading-tight tracking-tight sm:text-5xl">
-          {tr("tagline")}
-        </h1>
-        <p className="mt-4 max-w-2xl text-base leading-relaxed text-muted sm:text-lg">{tr("intro")}</p>
-        <div className="mt-6 flex flex-wrap gap-3">
-          <button
-            type="button"
-            onClick={() => {
-              setTab("ask");
-              setOpen(true);
-            }}
-            className="inline-flex h-11 items-center gap-2 rounded-xl bg-accent px-5 font-medium text-accent-ink"
-          >
-            <MicIcon width={18} height={18} />
-            {tr("ask")}
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              setTab("comment");
-              setOpen(true);
-            }}
-            className="inline-flex h-11 items-center gap-2 rounded-xl border border-line bg-surface px-5 font-medium"
-          >
-            <ChatIcon width={18} height={18} />
-            {tr("speakUp")}
-          </button>
-        </div>
-      </section>
+    <div className="mx-auto max-w-7xl px-4 pb-16">
+      {initialMeetingId && (
+        <Suspense fallback={null}>
+          <PlayFromUrl meetingId={initialMeetingId} />
+        </Suspense>
+      )}
 
-      <section aria-labelledby="meetings-heading">
-        <h2 id="meetings-heading" className="mb-4 text-lg font-semibold">
-          {tr("meetings")}
-        </h2>
-        {meetings.length === 0 ? (
-          <p className="rounded-xl border border-dashed border-line p-6 text-muted">
-            No meetings yet. Run the pipeline: <code>uv run pipeline/process_meeting.py --help</code>
-          </p>
-        ) : (
-          <ul className="grid gap-4 md:grid-cols-2">
-            {meetings.map((m) => {
-              const loc = m.i18n[lang];
-              const headlines = loc?.headlines ?? m.headlines;
-              return (
-                <li key={m.id}>
-                  <Link
-                    href={`/meetings/${m.id}`}
-                    className="block h-full rounded-2xl border border-line bg-surface p-5 transition hover:border-accent hover:shadow-sm"
-                  >
-                    <div className="flex flex-wrap items-center gap-2 text-xs text-muted">
-                      <span>{formatDate(m.date, locale)}</span>
-                      <span aria-hidden>·</span>
-                      <span>
-                        {m.itemCount} {tr("items")}
-                      </span>
-                      {m.sample && (
-                        <span className="rounded-full bg-warn-soft px-2 py-0.5 font-medium text-warn">
-                          {tr("sample")}
-                        </span>
-                      )}
-                    </div>
-                    <h3 className="mt-1 text-lg font-semibold">{m.title}</h3>
-                    <p className="text-sm text-muted">{m.body}</p>
-                    <ul className="mt-3 space-y-1.5">
-                      {headlines.map((h) => (
-                        <li key={h} className="flex gap-2 text-sm leading-snug">
-                          <span aria-hidden className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-accent" />
-                          <span>{h}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
-        )}
-      </section>
+      {active ? <Stage cards={cards} chapterText={chapterText} /> : <Hero />}
+
+      <VideoFeed
+        cards={cards}
+        chapterText={chapterText}
+        title={active ? tr("moreMeetings") : tr("meetings")}
+      />
     </div>
   );
+}
+
+function Hero() {
+  const { tr } = useAssistant();
+  return (
+    <section className="mx-auto flex max-w-2xl flex-col items-center pb-4 pt-12 text-center sm:pt-16">
+      <h1 className="text-balance text-4xl font-semibold tracking-tight sm:text-5xl">{tr("heroTitle")}</h1>
+      <p className="mt-3 max-w-md text-balance text-lg text-muted">{tr("heroSub")}</p>
+      <div className="mt-10">
+        <MicButton size="lg" />
+      </div>
+      <div className="mt-8 w-full">
+        <Composer big />
+      </div>
+      <Suggestions className="mt-4 justify-center" />
+    </section>
+  );
+}
+
+/** /meetings/[id]?t=SECONDS starts that meeting at that moment. */
+function PlayFromUrl({ meetingId }: { meetingId: string }) {
+  const params = useSearchParams();
+  const { play } = useAssistant();
+  const t = Number(params.get("t") ?? 0);
+  const done = useRef(false);
+  useEffect(() => {
+    if (done.current) return;
+    done.current = true;
+    play(meetingId, Number.isFinite(t) ? t : 0);
+  }, [meetingId, t, play]);
+  return null;
 }

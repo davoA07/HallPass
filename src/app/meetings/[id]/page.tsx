@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
-import { MeetingView } from "@/components/MeetingView";
-import { getMeeting, listMeetings } from "@/lib/meetings";
+import { HomeView } from "@/components/HomeView";
+import { getMeeting, listMeetings, toCard } from "@/lib/meetings";
 
 export function generateStaticParams() {
   // Cache Components requires at least one param; the placeholder 404s.
@@ -30,20 +30,16 @@ async function MeetingContent({ params }: { params: Params }) {
   const { id } = await params;
   const meeting = getMeeting(id);
   if (!meeting) notFound();
-  return <MeetingView meeting={meeting} />;
+  // Same screen as the home page, with this meeting already playing (at ?t=SECONDS if given).
+  return <HomeView cards={listMeetings().map(toCard)} initialMeetingId={meeting.id} />;
 }
 
 function MeetingSkeleton() {
   return (
-    <div className="mx-auto max-w-6xl animate-pulse px-4 pt-6" aria-busy>
-      <div className="h-4 w-48 rounded bg-neutral-soft" />
-      <div className="mt-3 h-8 w-80 max-w-full rounded bg-neutral-soft" />
-      <div className="mt-6 grid gap-8 lg:grid-cols-2">
-        <div className="aspect-video rounded-xl bg-neutral-soft" />
-        <div className="space-y-4">
-          <div className="h-24 rounded-2xl bg-neutral-soft" />
-          <div className="h-40 rounded-2xl bg-neutral-soft" />
-        </div>
+    <div className="mx-auto max-w-7xl animate-pulse px-4 pt-6" aria-busy>
+      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_400px]">
+        <div className="aspect-video rounded-2xl bg-neutral-soft" />
+        <div className="h-[62vh] rounded-2xl bg-neutral-soft lg:h-[calc(100dvh-7rem)] lg:max-h-[46rem]" />
       </div>
     </div>
   );

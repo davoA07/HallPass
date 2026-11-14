@@ -1,7 +1,6 @@
 import { HomeView } from "@/components/HomeView";
-import { listMeetings, summarize } from "@/lib/meetings";
+import { listMeetings, toCard } from "@/lib/meetings";
 
 export default function Home() {
-  const meetings = listMeetings().map(summarize);
-  return <HomeView meetings={meetings} />;
+  return <HomeView cards={listMeetings().map(toCard)} />;
 }

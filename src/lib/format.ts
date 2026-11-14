@@ -25,6 +25,17 @@ export function formatDate(iso: string, locale = "en-US"): string {
   }
 }
 
+/** "Nov 3, 2026" in the given locale. */
+export function formatShortDate(iso: string, locale = "en-US"): string {
+  const d = new Date(`${iso}T12:00:00Z`);
+  if (Number.isNaN(d.getTime())) return iso;
+  try {
+    return d.toLocaleDateString(locale, { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" });
+  } catch {
+    return iso;
+  }
+}
+
 export function momentHref(meetingId: string, seconds: number): string {
   return `/meetings/${encodeURIComponent(meetingId)}?t=${Math.floor(seconds)}`;
 }
