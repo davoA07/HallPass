@@ -11,9 +11,6 @@ import { getLanguage } from "@/lib/languages";
 import { useAssistant } from "./AssistantProvider";
 import { MicIcon } from "./icons";
 
-type SessionOptions = NonNullable<Parameters<ReturnType<typeof useConversation>["startSession"]>[0]>;
-type VoiceLanguage = NonNullable<NonNullable<NonNullable<SessionOptions["overrides"]>["agent"]>["language"]>;
-
 /**
  * Voice mode: an ElevenLabs agent that talks with the resident and calls the
  * client tools below. Tool names and parameters must match agent/client-tools.json.
@@ -129,14 +126,10 @@ function VoiceBridge({ children }: { children: ReactNode }) {
           error?: string;
         };
         if (!res.ok) throw new Error(data.error || "voice unavailable");
-        // Start the call in the picked language: the agent greets, listens and speaks
-        // in it from the first word (its language detection still follows the
-        // resident if they switch). The agent's Tagalog preset is "fil".
-        const overrides = { agent: { language: (lang === "tl" ? "fil" : lang) as VoiceLanguage } };
         if (data.conversationToken) {
-          conversation.startSession({ conversationToken: data.conversationToken, connectionType: "webrtc", overrides });
+          conversation.startSession({ conversationToken: data.conversationToken, connectionType: "webrtc" });
         } else if (data.agentId) {
-          conversation.startSession({ agentId: data.agentId, connectionType: "webrtc", overrides });
+          conversation.startSession({ agentId: data.agentId, connectionType: "webrtc" });
         } else {
           throw new Error("voice unavailable");
         }
@@ -155,7 +148,7 @@ function VoiceBridge({ children }: { children: ReactNode }) {
       start: () => void start(),
       stop: () => conversation.endSession(),
     };
-  }, [connected, starting, status, isSpeaking, error, conversation, tr, lang]);
+  }, [connected, starting, status, isSpeaking, error, conversation, tr]);
 
   return <VoiceContext.Provider value={value}>{children}</VoiceContext.Provider>;
 }
