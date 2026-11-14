@@ -57,7 +57,13 @@ STEPS = ["audio", "transcript", "segments", "structure", "translate"]
 
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 # Server-side refusal fallbacks: a declined request is re-run on a fallback model.
-FALLBACK = dict(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
+# Claude Haiku 5.5 has no fallback model, so its requests leave the parameter out
+# and a declined request stays on Haiku.
+FALLBACK = (
+    {}
+    if MODEL.startswith("claude-haiku")
+    else dict(betas=["server-side-fallback-2026-07-01"], fallbacks="default")
+)
 
 LANG_NAMES = {
     "en": "English", "hy": "Armenian", "es": "Spanish", "ko": "Korean",
