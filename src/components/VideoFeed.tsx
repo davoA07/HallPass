@@ -30,7 +30,7 @@ export function VideoFeed({
           No meetings yet. Run the pipeline: <code>uv run pipeline/process_meeting.py --help</code>
         </p>
       ) : (
-        <ul className="grid gap-x-5 gap-y-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <ul className="grid gap-x-5 gap-y-8 sm:grid-cols-2 md:grid-cols-3">
           {cards.map((c) => {
             const playing = nowPlaying?.meetingId === c.id;
             const headline = chapterText(c, c.mainChapterId)?.headline ?? c.title;
