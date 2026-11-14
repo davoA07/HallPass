@@ -96,6 +96,21 @@ def hms(seconds: float) -> str:
     return f"{s // 3600:02d}:{(s % 3600) // 60:02d}:{s % 60:02d}"
 
 
+def trim_args(start: float | None, end: float | None) -> list[str]:
+    """ffmpeg input options that cut [start, end) out of the source (times in seconds)."""
+    out: list[str] = []
+    if start is not None:
+        out += ["-ss", str(start)]
+    if end is not None:
+        out += ["-to", str(end)]
+    return out
+
+
+def audio_seconds(path: Path) -> float:
+    out = run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=nk=1:nw=1", str(path)])
+    return float(out.strip())
+
+
 def run(cmd: list[str]) -> str:
     log("$ " + " ".join(cmd))
     res = subprocess.run(cmd, capture_output=True, text=True)
@@ -130,10 +145,18 @@ def step_audio(args, work: Path, meta: dict) -> None:
         section = []
         if start is not None or end is not None:
             section = ["--download-sections", f"*{hms(start or 0)}-{hms(end) if end else 'inf'}"]
-        run([
-            "yt-dlp", "--no-playlist", "-x", "--audio-format", "mp3", "--audio-quality", "5",
-            *section, "-o", str(work / "audio.%(ext)s"), args.url,
-        ])
+        # Download the whole audio track, then cut locally. yt-dlp's section
+        # downloads can stop early on long videos and still exit 0, which once
+        # left a 1h26m file for a 4h40m request.
+        for old in work.glob("source.*"):
+            old.unlink()
+        run(["yt-dlp", "--no-playlist", "-f", "bestaudio/best", "-o", str(work / "source.%(ext)s"), args.url])
+        sources = sorted(work.glob("source.*"))
+        if not sources:
+            raise SystemExit("yt-dlp produced no audio file; check its output above.")
+        run(["ffmpeg", "-y", "-loglevel", "error", *trim_args(start, end), "-i", str(sources[0]),
+             "-vn", "-ac", "1", "-ar", "16000", "-b:a", "64k", str(audio)])
+        sources[0].unlink()
         if args.keep_video:
             MEDIA.mkdir(parents=True, exist_ok=True)
             run([
@@ -145,11 +168,7 @@ def step_audio(args, work: Path, meta: dict) -> None:
         src = Path(args.file).expanduser()
         if not src.exists():
             raise SystemExit(f"File not found: {src}")
-        trim = []
-        if start is not None:
-            trim += ["-ss", str(start)]
-        if end is not None:
-            trim += ["-to", str(end)]
+        trim = trim_args(start, end)
         run(["ffmpeg", "-y", "-loglevel", "error", *trim, "-i", str(src),
              "-vn", "-ac", "1", "-ar", "16000", "-b:a", "64k", str(audio)])
         meta.update({"local_file": str(src)})
@@ -160,6 +179,17 @@ def step_audio(args, work: Path, meta: dict) -> None:
 
     if not audio.exists():
         raise SystemExit("Audio extraction produced no audio.mp3; check yt-dlp output above.")
+
+    # Stop on a short file instead of transcribing part of the meeting.
+    got = audio_seconds(audio)
+    full = meta.get("duration")
+    want = (end if end is not None else full) - (start or 0) if (end is not None or full) else None
+    if want and got < want * 0.98 - 5:
+        audio.unlink()
+        raise SystemExit(
+            f"Audio is {hms(got)} long but {hms(want)} was requested; the download was cut short. "
+            "Run the same command again."
+        )
     meta.update({"clip_start": start or 0, "clip_end": end})
     (work / "meta.json").write_text(json.dumps(meta, indent=2))
     log(f"audio ready: {audio} ({audio.stat().st_size / 1e6:.1f} MB)")
