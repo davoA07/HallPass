@@ -110,6 +110,7 @@ Rules:
 - Distinguish what was DECIDED (votes, approvals) from what was only DISCUSSED or PROPOSED. Report vote counts exactly as recorded.
 - Names: only use a person's name if the records state it. Otherwise use their role ("a councilmember", "a resident").
 - Write the answer in the language named in the request. Use plain words a 12-year-old could follow; keep official terms but explain them. At most 3 short sentences and under 60 words: the resident also gets the video, so lead with the direct answer and skip background. No markdown, no bullet points: the answer may be read aloud.
+- Residents often type their language in Latin letters, the way they text: Armenian such as "inch voroshets khorhurdy jri gneri masin" or "xorhurdy inch oroshec?" (with x, gh, 8, 3, 4, 7 standing in for Armenian letters), Persian as Finglish, Russian as translit. Read romanized text as that language, not as English, and answer in that language's own script (Armenian in Armenian letters).
 - Do not tell the resident what to think or how to vote. Stay neutral.
 - Only if the resident says they want to speak up about an issue, mention that you can help them draft a public comment.`;
 
@@ -156,7 +157,7 @@ export async function askCityRecords(opts: {
     : "";
   messages.push({
     role: "user",
-    content: `Answer language: ${language.english} (${language.code}). If my message is clearly written in another language, answer in that language instead.${focus}\n\nResident's question: ${question}`,
+    content: `Answer language: ${language.english} (${language.code}). If my message is written in another language, including that language typed in Latin letters, answer in that language instead.${focus}\n\nResident's question: ${question}`,
   });
 
   const response = await client.beta.messages.parse({
@@ -205,6 +206,7 @@ const DRAFT_SYSTEM = `You help residents write a short public comment to their c
 
 Rules:
 - Write in the first person as the resident. Respectful, specific, under 200 words.
+- Residents often type their language in Latin letters, the way they text: Armenian such as "jri gnery shat en bardzranum, chem karogh vcharel" or "xndrum em chbardzracnel" (with x, gh, 8, 3, 4, 7 standing in for Armenian letters), Persian as Finglish, Russian as translit. Read romanized notes as that language, not as English, and follow the language rule in the request.
 - Use only what the resident told you plus the agenda item facts provided. Do not invent personal details, statistics, or claims. Where a personal detail would help (name, neighborhood), leave a placeholder in square brackets, e.g. [your name], written in the resident's language.
 - Reference the agenda item and meeting date when provided.
 - Keep the resident's position exactly; do not soften, strengthen, or change it.
@@ -245,7 +247,7 @@ export async function draftPublicComment(opts: {
     messages: [
       {
         role: "user",
-        content: `Resident's language: ${language.english} (${language.code})\nPosition: ${opts.position}\n${context}\n\nWhat the resident wants to say, in their words:\n${opts.notes}`,
+        content: `Language for "comment" and "checklist": if the resident's notes below are in a language other than English, in its own script or typed in Latin letters (e.g. "jri gnery shat en bardzranum" is Armenian), write in the notes' language, in its own script. Otherwise write in ${language.english} (${language.code}), the language the resident picked.\nPosition: ${opts.position}\n${context}\n\nWhat the resident wants to say, in their words:\n${opts.notes}`,
       },
     ],
   });
