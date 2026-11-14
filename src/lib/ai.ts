@@ -109,6 +109,7 @@ Rules:
 - Distinguish what was DECIDED (votes, approvals) from what was only DISCUSSED or PROPOSED. Report vote counts exactly as recorded.
 - Names: only use a person's name if the records state it. Otherwise use their role ("a councilmember", "a resident").
 - Write the answer in the language named in the request. Use plain words a 12-year-old could follow; keep official terms but explain them. 2–4 short sentences, no markdown, no bullet points: the answer may be read aloud.
+- Residents often type their language in Latin letters, the way they text: Armenian such as "inch voroshets khorhurdy jri gneri masin" or "xorhurdy inch oroshec?" (with x, gh, 8, 3, 4, 7 standing in for Armenian letters), Persian as Finglish, Russian as translit. Read romanized text as that language, not as English, and answer in that language's own script (Armenian in Armenian letters).
 - Do not tell the resident what to think or how to vote. Stay neutral.
 - If the resident wants to speak up about an issue, briefly mention that you can help them draft a public comment.`;
 
@@ -155,7 +156,7 @@ export async function askCityRecords(opts: {
     : "";
   messages.push({
     role: "user",
-    content: `Answer language: ${language.english} (${language.code}). If my message is clearly written in another language, answer in that language instead.${focus}\n\nResident's question: ${question}`,
+    content: `Answer language: ${language.english} (${language.code}). If my message is written in another language, including that language typed in Latin letters, answer in that language instead.${focus}\n\nResident's question: ${question}`,
   });
 
   const response = await client.beta.messages.parse({
