@@ -6,7 +6,7 @@ A voice assistant that explains what the city council decided, in the resident's
 own language, and then helps them take part in the next meeting. Built for
 JEWEL CITY HACKS 6.0 (Glendale Community College, November 14, 2026).
 
-1. **Watch:** every council meeting is a video in a YouTube-style feed, split into plain-language chapters (one per agenda item), translated on request.
+1. **Watch:** every council meeting is a video in a YouTube-style feed, split into plain-language chapters (one per agenda item), with captions in your language.
 2. **Ask:** tap the mic (or type) and ask "What did the council decide about parking?" Answers come only from the meeting records.
 3. **Receipts:** every answer plays the most relevant meeting video at the exact moment, with other moments one tap away. If the records don't say, it says it doesn't know.
 4. **Act:** draft a public comment in your language with an English translation beside it. You review, edit and send it yourself. The app never submits anything.
@@ -55,6 +55,7 @@ meeting video ─ yt-dlp/FFmpeg ─► audio ─ ElevenLabs Scribe ─► words 
    /meetings/[id]   same screen with that meeting already playing (?t=SECONDS jumps)
    /api/ask         Claude answers from all meeting records, cites [t=SECONDS], or says "I don't know"
    /api/draft-comment, /api/translate, /api/translate-meeting
+   /api/captions    transcript captions in two-minute chunks, translated and cached
    /api/agent-session  short-lived ElevenLabs token for the voice agent
  Voice agent (ElevenLabs) ── client tools in the browser: ask_city_records, show_video_moment, draft_public_comment
 ```
@@ -73,27 +74,32 @@ server-side refusal fallbacks (`fallbacks: "default"`), except on Claude Haiku 5
 | `src/lib/i18n.ts` | interface strings (have native speakers check them) |
 | `agent/` | ElevenLabs agent prompt, tool definitions, setup steps |
 
-## Team split
+### Hearing only your language
 
-| Person | Owns | Start here |
-|---|---|---|
-| A: Data pipeline | 2–3 meetings processed with timestamps | `pipeline/`, `docs/meeting-format.md` |
-| B: Voice agent | agent prompt, tools, language switching, 10 test questions | `agent/`, `src/lib/ai.ts` |
-| C: Website | meeting page, player, panel polish | `src/components/` |
-| D: Pitch and testing | demo script, rehearsals, backup recording, credits | this README |
+Meetings are in English. For any other language the video starts muted, with
+captions in that language under it and a button to turn the original audio on.
+While the voice assistant speaks the video goes silent, and while it listens the
+video drops to 15% so the mic doesn't pick up the meeting. The mic also pauses
+after each question and reopens once the answer is done.
 
-## Before the demo: verify
+Captions come from `/api/captions` in two-minute chunks, translated by Claude and
+cached. Demo moments are pre-translated in `data/captions/` so they appear
+instantly; regenerate them after reprocessing a meeting with
+`node scripts/preload-captions.mjs hy,es` while the app runs.
 
-- [ ] Hackathon rules on pre-existing code and when coding may start
-- [ ] The city's video source works with yt-dlp, and the audio extracts cleanly
-- [ ] Transcription quality on a 5–10 minute clip: names, timestamps, speaker labels
-- [ ] Armenian in the live voice agent (and which variety: Eastern or Western)
-- [ ] How the city accepts public comments (then set `NEXT_PUBLIC_PUBLIC_COMMENT_URL`)
-- [ ] Free credit limits for transcription, the agent and speech
-- [ ] Any population or language statistics used in the pitch
-- [ ] Native speakers checked the interface strings in `src/lib/i18n.ts`
-- [ ] Demo meetings reviewed by hand and marked `"reviewed": true`
-- [ ] Text mode tested as the fallback; backup demo video recorded
+## Demo meetings
+
+| Meeting | What's in it |
+|---|---|
+| Nov 10, 2026 regular meeting | Water rate hearing: 53% revenue increase from Jan 1, 2027; 4,351 protests received of 22,738 needed; hearing kept open a week, 5–0 |
+| Nov 3, 2026 regular meeting | The water rate hearing opens, plus the rest of the agenda |
+| Oct 8, 2024 special meeting | Justin Brezhnev presents the JEWEL CITY HACKS program to the council |
+
+## Languages
+
+English, Armenian, Spanish, Korean, Tagalog and Persian: the interface, spoken
+answers, captions and comment drafts. Typed romanized Armenian ("jri gnery
+kbardzranan?") is understood and answered in Armenian script.
 
 ## Credits
 
