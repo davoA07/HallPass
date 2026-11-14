@@ -7,8 +7,10 @@ import type { Tone, VideoCard } from "@/lib/types";
 import { useAssistant } from "./AssistantProvider";
 import { ChatPanel } from "./ChatPanel";
 import { CapitolIcon } from "./icons";
+import { useCaptions } from "./useCaptions";
 import type { ChapterTextFn } from "./useChapterText";
 import { VideoPlayer, type PlayerHandle } from "./VideoPlayer";
+import { useVoice } from "./VoiceProvider";
 
 const TONE: Record<Tone, string> = {
   good: "bg-good-soft text-good",
@@ -41,6 +43,7 @@ export function Stage({ cards, chapterText }: { cards: VideoCard[]; chapterText:
             card={card}
             seconds={nowPlaying.seconds}
             nonce={nowPlaying.nonce}
+            now={now}
             onTime={onTime}
           />
         ) : (
@@ -65,14 +68,17 @@ function StagePlayer({
   card,
   seconds,
   nonce,
+  now,
   onTime,
 }: {
   card: VideoCard;
   seconds: number;
   nonce: number;
+  now: number;
   onTime: (t: number) => void;
 }) {
-  const { tr } = useAssistant();
+  const { tr, lang } = useAssistant();
+  const voice = useVoice();
   const ref = useRef<PlayerHandle>(null);
   // The first request loads the player at its start time; later ones seek.
   const [start] = useState(seconds);
@@ -81,16 +87,51 @@ function StagePlayer({
     if (nonce !== firstNonce.current) ref.current?.seek(seconds);
   }, [nonce, seconds]);
 
+  // Meetings are in English. Residents using another language read captions in
+  // their language and hear only the assistant, unless they turn the original
+  // audio on. The choice is remembered per language.
+  const english = lang === "en";
+  const [audioChoice, setAudioChoice] = useState<Record<string, boolean>>({});
+  const originalAudio = audioChoice[lang] ?? english;
+  // Never talk over the meeting: silent while the assistant speaks, low while it
+  // listens (so the mic doesn't hear the meeting as the resident), full otherwise.
+  const volume = !originalAudio ? 0 : !voice.connected ? 100 : voice.speaking ? 0 : 15;
+  const showCaptions = !english || volume < 100;
+  const captions = useCaptions(card.id, lang, now, showCaptions);
+
   return (
-    <div className="overflow-hidden rounded-2xl shadow-lg ring-1 ring-line">
-      <VideoPlayer
-        ref={ref}
-        video={card.video}
-        initialTime={start}
-        autoplay
-        onTime={onTime}
-        labels={{ noVideo: tr("noVideo"), openVideo: tr("openVideo"), videoTitle: tr("videoTitle") }}
-      />
+    <div>
+      <div className="overflow-hidden rounded-2xl shadow-lg ring-1 ring-line">
+        <VideoPlayer
+          ref={ref}
+          video={card.video}
+          initialTime={start}
+          autoplay
+          volume={volume}
+          onTime={onTime}
+          labels={{ noVideo: tr("noVideo"), openVideo: tr("openVideo"), videoTitle: tr("videoTitle") }}
+        />
+      </div>
+      {showCaptions && (
+        <div className="mt-2 flex items-start gap-3">
+          <p
+            aria-live="off"
+            className="min-h-[3.25rem] flex-1 rounded-xl bg-neutral-soft px-3 py-2 text-base leading-snug text-ink"
+          >
+            {captions.text ?? (captions.loading ? <span className="text-muted">{tr("captionsLoading")}</span> : null)}
+          </p>
+          {!english && (
+            <button
+              type="button"
+              onClick={() => setAudioChoice((c) => ({ ...c, [lang]: !originalAudio }))}
+              aria-pressed={originalAudio}
+              className="shrink-0 rounded-lg border border-line bg-surface px-3 py-2 text-xs font-medium hover:border-accent"
+            >
+              {originalAudio ? tr("originalAudioOff") : tr("originalAudioOn")}
+            </button>
+          )}
+        </div>
+      )}
     </div>
   );
 }

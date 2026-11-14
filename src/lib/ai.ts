@@ -276,6 +276,41 @@ export async function translateText(text: string, targetLang: string): Promise<s
   return response.parsed_output!.text;
 }
 
+const CaptionSchema = z.object({
+  lines: z.array(z.object({ i: z.number(), text: z.string() })),
+});
+
+/**
+ * Translates transcript lines for on-screen captions, keeping each line's index
+ * so the captions stay in sync with the video. Lines are spoken English from a
+ * council meeting; translations stay close to the original wording.
+ */
+export async function translateCaptions(
+  lines: { i: number; text: string }[],
+  targetLang: string,
+): Promise<Map<number, string>> {
+  const language = getLanguage(targetLang);
+  const response = await client.beta.messages.parse({
+    model: MODEL,
+    max_tokens: 8000,
+    ...FALLBACK,
+    output_config: { effort: "low", format: betaZodOutputFormat(CaptionSchema) },
+    system:
+      "You translate captions for a city council meeting video. Translate each line faithfully into the target language, " +
+      "in that language's own script. Keep every line's index i exactly, one output line per input line, in order. " +
+      "Keep names, numbers, dollar amounts and vote counts exactly. Keep it as spoken, short and plain; drop filler " +
+      "words like 'um' and 'uh'. Translate only; add nothing.",
+    messages: [
+      {
+        role: "user",
+        content: `Target language: ${language.english} (${language.code})\n\n${JSON.stringify(lines)}`,
+      },
+    ],
+  });
+  check(response.stop_reason, response.parsed_output);
+  return new Map(response.parsed_output!.lines.map((l) => [l.i, l.text]));
+}
+
 const MeetingTranslationSchema = z.object({
   overview: z.string(),
   items: z.array(
