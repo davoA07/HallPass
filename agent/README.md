@@ -1,7 +1,24 @@
 # ElevenLabs voice agent setup
 
-The website already handles the voice session and the three client tools. You only
-need to create the agent once in the ElevenLabs dashboard (about 5 minutes).
+The website already handles the voice session and the three client tools.
+
+## Fastest: sync from this folder
+
+The agent already exists in Aram's ElevenLabs workspace; its id is in
+[`elevenlabs.json`](elevenlabs.json). After editing `system-prompt.md` or
+`client-tools.json`, push the changes with:
+
+```bash
+npx -y @elevenlabs/cli@1.11.0 auth login   # once, signs the CLI in through the browser
+python3 agent/sync_agent.py
+```
+
+The script updates the same agent and tools (or creates them if `elevenlabs.json`
+is missing), checks every setting the website depends on, and writes
+`ELEVENLABS_AGENT_ID` into `.env.local`. Voice model, languages and greetings are
+set at the top of [`sync_agent.py`](sync_agent.py).
+
+## By hand in the dashboard
 
 1. **Create an agent** (ElevenLabs → Agents → New agent → blank).
 2. **System prompt:** paste [`system-prompt.md`](system-prompt.md).

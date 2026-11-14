@@ -1,0 +1,8 @@
+{
+  "agent_id": "agent_4801m7drfcxgej29zf78pdj6xkdm",
+  "tool_ids": {
+    "ask_city_records": "tool_1501m7drf6whf5xs8z7pm503m8p2",
+    "show_video_moment": "tool_7501m7drf8vwek2v2d5cdz83jwve",
+    "draft_public_comment": "tool_3101m7drfayzf9zr7vr3ey1re7xb"
+  }
+}
