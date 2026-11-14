@@ -12,7 +12,7 @@ interface Props {
   video: VideoSource;
   initialTime?: number;
   onTime?: (seconds: number) => void;
-  labels: { noVideo: string; openVideo: string };
+  labels: { noVideo: string; openVideo: string; videoTitle: string };
   ref?: Ref<PlayerHandle>;
 }
 
@@ -80,7 +80,7 @@ export function VideoPlayer({ video, initialTime = 0, onTime, labels, ref }: Pro
         <iframe
           ref={iframeRef}
           src={src}
-          title="Meeting video"
+          title={labels.videoTitle}
           className="h-full w-full"
           allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
           onLoad={() =>

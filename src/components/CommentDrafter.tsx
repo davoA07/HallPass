@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { StringKey } from "@/lib/i18n";
-import { postJSON, useAssistant } from "./AssistantProvider";
+import { errorText, postJSON, useAssistant } from "./AssistantProvider";
 import { CopyIcon } from "./icons";
 
 const POSITIONS: { key: StringKey; value: string }[] = [
@@ -25,7 +25,7 @@ export function CommentDrafter() {
       const { text } = await postJSON<{ text: string }>("/api/translate", { text: draft.comment, lang: "en" });
       setDraft({ english: text, status: "ready" });
     } catch (err) {
-      setDraft({ status: "error", error: err instanceof Error ? err.message : String(err) });
+      setDraft({ status: "error", error: errorText(err, tr) });
     }
   }
 

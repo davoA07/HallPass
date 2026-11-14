@@ -12,6 +12,9 @@ import { getLanguage } from "@/lib/languages";
 import { useAssistant } from "./AssistantProvider";
 import { MicIcon } from "./icons";
 
+type SessionOptions = NonNullable<Parameters<ReturnType<typeof useConversation>["startSession"]>[0]>;
+type VoiceLanguage = NonNullable<NonNullable<NonNullable<SessionOptions["overrides"]>["agent"]>["language"]>;
+
 /**
  * Voice mode: an ElevenLabs agent that talks with the resident and calls the
  * client tools below. Tool names and parameters must match agent/client-tools.json.
@@ -109,10 +112,14 @@ function VoiceInner() {
         error?: string;
       };
       if (!res.ok) throw new Error(data.error || "voice unavailable");
+      // Start the call in the picked language: the agent greets, listens and speaks
+      // in it from the first word (its language detection still follows the
+      // resident if they switch). The agent's Tagalog preset is "fil".
+      const overrides = { agent: { language: (lang === "tl" ? "fil" : lang) as VoiceLanguage } };
       if (data.conversationToken) {
-        conversation.startSession({ conversationToken: data.conversationToken, connectionType: "webrtc" });
+        conversation.startSession({ conversationToken: data.conversationToken, connectionType: "webrtc", overrides });
       } else if (data.agentId) {
-        conversation.startSession({ agentId: data.agentId, connectionType: "webrtc" });
+        conversation.startSession({ agentId: data.agentId, connectionType: "webrtc", overrides });
       } else {
         throw new Error("voice unavailable");
       }

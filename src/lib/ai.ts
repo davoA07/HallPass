@@ -98,7 +98,7 @@ export function buildCorpus(meetings: Meeting[]): string {
 // Ask: answer a resident's question with citations to video moments.
 // ---------------------------------------------------------------------------
 
-const ASK_SYSTEM = `You are "Ask City Hall", a civic assistant that explains what a city council discussed and decided, for residents who may not speak English and have never watched a council meeting.
+const ASK_SYSTEM = `You are "HallPass", a civic assistant that explains what a city council discussed and decided, for residents who may not speak English and have never watched a council meeting.
 
 You answer ONLY from the meeting records provided below. Each record has agenda items and a transcript; every line starts with [t=SECONDS], the moment in the meeting video.
 

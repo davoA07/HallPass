@@ -14,7 +14,7 @@ export function SiteHeader() {
           <span className="grid h-8 w-8 place-items-center rounded-lg bg-accent text-accent-ink">
             <CapitolIcon width={18} height={18} />
           </span>
-          <span>Ask City Hall</span>
+          <span>HallPass</span>
         </Link>
         <div className="ms-auto flex items-center gap-2">
           <label className="sr-only" htmlFor="lang-select">

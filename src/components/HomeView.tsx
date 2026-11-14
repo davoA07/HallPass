@@ -14,7 +14,7 @@ export function HomeView({ meetings }: { meetings: MeetingSummary[] }) {
   return (
     <div className="mx-auto max-w-6xl px-4 pb-24">
       <section className="py-10 sm:py-14">
-        <p className="text-sm font-medium uppercase tracking-wider text-accent">Glendale City Council</p>
+        <p className="text-sm font-medium uppercase tracking-wider text-accent">{tr("kicker")}</p>
         <h1 className="mt-2 max-w-3xl text-3xl font-semibold leading-tight tracking-tight sm:text-5xl">
           {tr("tagline")}
         </h1>

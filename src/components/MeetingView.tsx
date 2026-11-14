@@ -104,7 +104,7 @@ export function MeetingView({ meeting }: { meeting: Meeting }) {
             video={meeting.video}
             initialTime={meeting.clip.start ?? 0}
             onTime={setNow}
-            labels={{ noVideo: tr("noVideo"), openVideo: tr("openVideo") }}
+            labels={{ noVideo: tr("noVideo"), openVideo: tr("openVideo"), videoTitle: tr("videoTitle") }}
           />
           <p className="mt-2 font-mono text-xs text-muted">⏱ {formatTime(now)}</p>
           <div className="mt-3 flex flex-wrap gap-3 text-sm">

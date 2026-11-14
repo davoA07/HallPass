@@ -15,7 +15,7 @@ type Params = PageProps<"/meetings/[id]">["params"];
 export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
   const { id } = await params;
   const meeting = getMeeting(id);
-  return { title: meeting ? `${meeting.title} · Ask City Hall` : "Meeting not found" };
+  return { title: meeting ? `${meeting.title} · HallPass` : "Meeting not found" };
 }
 
 export default function MeetingPage({ params }: PageProps<"/meetings/[id]">) {
