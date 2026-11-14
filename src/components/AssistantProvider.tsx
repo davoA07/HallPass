@@ -202,9 +202,12 @@ export function AssistantProvider({ children }: { children: ReactNode }) {
 
   const ask = useCallback(
     async (question: string, via: "text" | "voice" = "text"): Promise<AskResponse> => {
+      // Recent turns only: a voice call logs every phrase, and the model reads just
+      // the last few. Sending the whole log made long calls fail with a 400.
       const history = messagesRef.current
         .filter((m) => m.via !== "receipt" && !m.pending && !m.error)
-        .map((m) => ({ role: m.role, text: m.text }));
+        .slice(-12)
+        .map((m) => ({ role: m.role, text: m.text.slice(0, 4000) }));
       let pendingId: string;
       setTab("ask");
       if (via === "text") {

@@ -113,6 +113,9 @@ def agent_body(tool_ids: dict[str, str]) -> dict:
                 },
             },
             "tts": {"model_id": VOICE_MODEL},
+            # Ignore voices other than the resident's (people talking nearby, a TV),
+            # which otherwise get transcribed as questions and interrupt answers.
+            "vad": {"background_voice_detection": True},
             "language_presets": {
                 code: {"overrides": {"agent": {"first_message": text}}}
                 for code, text in FIRST_MESSAGES.items()
@@ -164,6 +167,7 @@ def main() -> None:
         "3 client tools attached": sorted(prompt.get("tool_ids") or []) == sorted(tool_ids.values()),
         "language detection on": bool((prompt.get("built_in_tools") or {}).get("language_detection")),
         f"voice model {VOICE_MODEL}": (cc.get("tts") or {}).get("model_id") == VOICE_MODEL,
+        "background voice detection on": bool((cc.get("vad") or {}).get("background_voice_detection")),
         "languages: " + ", ".join(sorted(cc.get("language_presets") or {})): set(cc.get("language_presets") or {}) >= set(FIRST_MESSAGES) - {"en"},
         "authentication required": bool(((agent.get("platform_settings") or {}).get("auth") or {}).get("enable_auth")),
         "per-call language override allowed": bool(

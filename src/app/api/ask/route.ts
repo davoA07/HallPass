@@ -8,9 +8,11 @@ const Body = z.object({
   question: z.string().trim().min(1).max(2000),
   lang: z.string().default("en"),
   meetingId: z.string().nullish(),
+  // Keep the most recent turns rather than rejecting a long conversation.
   history: z
-    .array(z.object({ role: z.enum(["user", "assistant"]), text: z.string().max(4000) }))
-    .max(20)
+    .array(z.object({ role: z.enum(["user", "assistant"]), text: z.string().transform((s) => s.slice(0, 4000)) }))
+    .max(200)
+    .transform((h) => h.slice(-20))
     .default([]),
 });
 
