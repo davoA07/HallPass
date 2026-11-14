@@ -1,0 +1,841 @@
+{
+  "meetingId": "2024-10-08-special",
+  "lang": "es",
+  "generatedAt": "2026-11-14T19:46:31+00:00",
+  "chunks": {
+    "0": [
+      {
+        "start": 0.28,
+        "end": 5.62,
+        "text": "Muy bien. Bienvenidos a la reunión especial del 8 de octubre del Concejo Municipal de Glendale. ¿Podemos pasar lista?"
+      },
+      {
+        "start": 6.78,
+        "end": 8.12,
+        "text": "Sí. Concejales Brotman?"
+      },
+      {
+        "start": 8.48,
+        "end": 8.66,
+        "text": "Presente."
+      },
+      {
+        "start": 8.88,
+        "end": 9.6,
+        "text": "¿Gharpetian?"
+      },
+      {
+        "start": 9.64,
+        "end": 9.78,
+        "text": "Presente."
+      },
+      {
+        "start": 9.98,
+        "end": 10.6,
+        "text": "¿Kassakhian?"
+      },
+      {
+        "start": 10.82,
+        "end": 10.96,
+        "text": "Presente."
+      },
+      {
+        "start": 11.2,
+        "end": 13.12,
+        "text": "¿Najarian? Alcaldesa Asatryan."
+      },
+      {
+        "start": 13.58,
+        "end": 15.52,
+        "text": "Presente. ¿Podemos tener su informe?"
+      },
+      {
+        "start": 16.08,
+        "end": 25.66,
+        "text": "Sí. La agenda de la reunión pública especial del Concejo Municipal del martes 8 de octubre de 2024 se publicó el 4 de octubre de 2024 en el tablón de anuncios afuera del Ayuntamiento."
+      },
+      {
+        "start": 26.6,
+        "end": 27.44,
+        "text": "Gracias. ¿Y qué sigue?"
+      },
+      {
+        "start": 28.26,
+        "end": 31.08,
+        "text": "Sigue el único punto de la agenda."
+      },
+      {
+        "start": 31.16,
+        "end": 31.16,
+        "text": "Ajá."
+      },
+      {
+        "start": 31.18,
+        "end": 52.54,
+        "text": "Desarrollo comunitario, sobre la aceptación de fondos estatales de la Oficina del Gobernador de Desarrollo Económico del Estado de California, y la autorización para negociar con hasta dos proponentes del programa de crecimiento de empresas emergentes tecnológicas para desarrollar e implementar la aceptación de fondos estatales del programa de crecimiento de empresas emergentes de la Oficina del Gobernador de Desarrollo Económico del Estado de California."
+      },
+      {
+        "start": 53.3,
+        "end": 67.94,
+        "text": "A, una moción que aprueba la aceptación de fondos estatales por la cantidad de $1 millón de la Oficina del Gobernador de Negocios y Desarrollo Económico del Estado de California. B, resolución de asignación por la cantidad de $1 millón para los Programas de Crecimiento de Empresas Emergentes Tecnológicas de Glendale."
+      },
+      {
+        "start": 71.02,
+        "end": 87.2,
+        "text": "Y C, una moción que autoriza al administrador municipal o a su designado a negociar y firmar acuerdos de servicios profesionales y todos los documentos relacionados con FoundersBoost y SmartGateVC LLC para la operación y la gestión de programas de crecimiento de empresas emergentes tecnológicas ubicados en Glendale."
+      },
+      {
+        "start": 89.84,
+        "end": 93.64,
+        "text": "Eso fue un trabalenguas. Sr. Galanian."
+      },
+      {
+        "start": 93.78,
+        "end": 127.62,
+        "text": "Sí. Alcaldesa Asatryan, miembros del Concejo Municipal, es un momento emocionante en que venimos con una subvención gracias al senador estatal Anthony Portantino, quien fue clave para obtenerla para nuestra ciudad y nuestra comunidad tecnológica. Además, tras un proceso de selección y revisión muy largo, el personal seleccionó a dos empresas emergentes dignas, en apoyo de nuestra comunidad tecnológica en Glendale, algo que lleva en marcha unos años."
+      }
+    ],
+    "1": [
+      {
+        "start": 128.16,
+        "end": 142.56,
+        "text": "Con eso, le cedo la palabra a Xue Wang, nuestro subdirector de desarrollo comunitario, quien tiene un copresentador, David Crowley Delgado, nuestro coordinador sénior de desarrollo económico. Xue."
+      },
+      {
+        "start": 146.16,
+        "end": 159.3,
+        "text": "Gracias, Sr. Galanian. Buenas tardes, señora alcaldesa y miembros del Concejo Municipal. Estamos muy emocionados de estar hoy aquí para presentar una oportunidad que creemos que apoyará y fortalecerá aún más el ecosistema de tecnología e innovación de Glendale."
+      },
+      {
+        "start": 163.1,
+        "end": 187.84,
+        "text": "Pero antes de comenzar, también quisiera aprovechar la oportunidad para reconocer y agradecer a la Oficina de Negocios y Desarrollo Económico del Gobernador y al senador estatal Anthony Portantino. En 2019, él vio el potencial de la creciente comunidad tecnológica de Glendale y aseguró 1 millón en fondos para apoyar a las empresas emergentes y también fomentar la innovación aquí en la ciudad."
+      },
+      {
+        "start": 189.26,
+        "end": 208.6,
+        "text": "Este año, el senador Portantino una vez más impulsó una ronda adicional de fondos para asegurar que podamos sostener, y también hacer crecer y acelerar, el ecosistema de empresas emergentes aquí en Glendale. Por eso estamos sumamente agradecidos por su apoyo continuo y también por su compromiso con la comunidad tecnológica de Glendale."
+      },
+      {
+        "start": 212.1,
+        "end": 227.58,
+        "text": "En las próximas diapositivas, les presentaremos los hitos y logros clave que han ayudado a dar forma a nuestro camino de tecnología e innovación hasta este momento. También explicaremos por qué importan los ecosistemas de empresas emergentes, profundizaremos en el proceso de solicitud de propuestas y luego concluiremos con las recomendaciones del personal."
+      },
+      {
+        "start": 231.8,
+        "end": 253.14,
+        "text": "Comencemos con la base fundamental de este camino. En febrero de 2016, la ciudad se asoció con Estolano Advisors para desarrollar una hoja de ruta para hacer crecer el sector tecnológico de Glendale. Esto dio como resultado la creación de la Estrategia Tecnológica de Glendale, que fue publicada y adoptada por el Concejo Municipal en 2017."
+      }
+    ],
+    "2": [
+      {
+        "start": 254.06,
+        "end": 263.26,
+        "text": "Esta estrategia ha sido nuestro marco de referencia, por así decirlo, que impulsa nuestros esfuerzos continuos para apoyar y fomentar la comunidad tecnológica en Glendale."
+      },
+      {
+        "start": 267.08,
+        "end": 286.2,
+        "text": "Desde la adopción de la estrategia tecnológica, el desarrollo económico ha implementado con éxito varias recomendaciones, incluida la continuación de Glendale Tech on Tap, reuniones mensuales que unen a la comunidad tecnológica en un ambiente informal para hablar de ideas y tendencias, y también para conectarse con otros emprendedores."
+      },
+      {
+        "start": 287.64,
+        "end": 305.86,
+        "text": "En colaboración con varios socios, el mes pasado fuimos anfitriones de nuestra novena Semana Tecnológica de Glendale anual, que atrajo a casi 3,000 fundadores, inversionistas y miembros de la comunidad en 22 eventos a lo largo de la semana, lo cual es una muestra de su creciente impacto y éxito."
+      },
+      {
+        "start": 306.26,
+        "end": 306.46,
+        "text": "Oh."
+      },
+      {
+        "start": 307,
+        "end": 321.5,
+        "text": "Y gracias al millón de dólares en fondos estatales obtenidos en 2019, presentamos dos aceleradoras de empresas emergentes, Hero House y Kids X, con contratos vigentes con estos socios de 2021 a 2023."
+      },
+      {
+        "start": 326.02,
+        "end": 347.68,
+        "text": "Durante los últimos años, hemos ampliado nuestros recursos e iniciativas para poder apoyar mejor a los negocios locales y a las empresas emergentes. Eso incluye que elaboramos una guía de Cómo hacer negocios en Glendale para ofrecer información a las empresas y también a los dueños de negocios que están considerando establecerse aquí en nuestra ciudad."
+      },
+      {
+        "start": 348.72,
+        "end": 379.73,
+        "text": "También implementamos la Cumbre anual de Pequeños Negocios Let's Grow Glendale, y el pasado mayo fuimos anfitriones del segundo evento anual, que atrajo a casi 400 asistentes, el doble de la asistencia del primer año. La cumbre reunió a empresas, líderes del gobierno y organizaciones sin fines de lucro para ofrecer información y recursos valiosos para los negocios, incluidas oportunidades de networking, porque, otra vez, queremos asegurar que nuestros pequeños negocios crezcan y prosperen aquí en la ciudad."
+      }
+    ],
+    "9": [
+      {
+        "start": 1085.76,
+        "end": 1095.16,
+        "text": "Con eso concluye nuestra presentación. Con gusto responderemos cualquier pregunta que tengan. También tenemos a ambos operadores en el público para responder preguntas. Gracias."
+      },
+      {
+        "start": 1096.58,
+        "end": 1113.55,
+        "text": "Gracias. Voy a hacer unos comentarios y, si mis colegas están de acuerdo, podemos pasar a... Tenemos una tarjeta y 12 personas en la línea. ¿Quieren que se respondan primero sus preguntas, o quieren escuchar a-"
+      },
+      {
+        "start": 1113.87,
+        "end": 1115.63,
+        "text": "Puedo escuchar a la gente."
+      },
+      {
+        "start": 1116.23,
+        "end": 1123.13,
+        "text": "Está bien. ¿Saben qué? Yo también esperaré con mis comentarios. ¿Por qué no tomamos los... Gracias por la presentación."
+      },
+      {
+        "start": 1124.33,
+        "end": 1125.43,
+        "text": "¿Cuántos minutos?"
+      },
+      {
+        "start": 1125.55,
+        "end": 1128.75,
+        "text": "¿Todavía son 12?"
+      },
+      {
+        "start": 1133.55,
+        "end": 1134.75,
+        "text": "No. 14 personas en la línea y una tarjeta."
+      },
+      {
+        "start": 1134.79,
+        "end": 1136.85,
+        "text": "Bien. Entonces dos minutos cada uno. Gracias."
+      },
+      {
+        "start": 1139.73,
+        "end": 1143.89,
+        "text": "Nuestro primer comentario público es de Jeff Harris. Jeff, tiene dos minutos."
+      },
+      {
+        "start": 1149.61,
+        "end": 1170.71,
+        "text": "Gracias. Buenas tardes, alcalde y miembros del concejo. Mi nombre es Jeff Harris. Estoy aquí hoy para apoyar a FoundersBoost. Soy el ex director de alianzas entre escuelas y comunidad del Distrito Escolar Unificado de Compton. También soy actualmente presidente de la junta de Food Forward, una organización sin fines de lucro que previene el desperdicio de alimentos y combate el hambre."
+      },
+      {
+        "start": 1171.27,
+        "end": 1191.23,
+        "text": "Estoy aquí para dar fe de FounderBoost y Hackers Fund y de su compromiso y competencia al trabajar con comunidades subrepresentadas y desatendidas, especialmente comunidades de color. En Compton Unified, yo trabajé... Bueno, primero, es un placer trabajar con ellos."
+      },
+      {
+        "start": 1191.31,
+        "end": 1210.77,
+        "text": "Ellos traen una energía y una perseverancia que nunca han visto. Además, trabajé con ellos cuando organizaron nuestra Semana de la Tecnología de Compton. Ayudaron con nuestro Festival STEAM de Compton Unified y vinieron a apoyar nuestra Semana de Ciencias de la Computación todos los años."
+      }
+    ],
+    "10": [
+      {
+        "start": 1211.29,
+        "end": 1232.33,
+        "text": "Además, hace poco tuve la oportunidad de participar como juez en uno de sus hackathons y no sabía qué esperar, pero guau. Las soluciones, propuestas y programas que se les ocurrieron a los estudiantes, a los jóvenes, me dejaron absolutamente asombrado."
+      },
+      {
+        "start": 1232.91,
+        "end": 1262.93,
+        "text": "Yo pensaba que todos eran estudiantes universitarios, y pensé: \"Sí, voy a juzgar algunos proyectos universitarios\". Pero varios de ellos me parecieron totalmente listos para el mercado, hasta el punto de que no solo conecté a uno de los equipos con un capitalista de riesgo que conozco y que trabaja en el área del cambio climático, sino que también estoy buscando formas de incorporar uno de los proyectos para ayudar con nuestro trabajo en Food Forward."
+      },
+      {
+        "start": 1263.57,
+        "end": 1270.85,
+        "text": "Eso es todo lo que tengo que decir. FoundersBoost sería una gran adición a la comunidad de Glendale, y agradezco su atención hoy."
+      },
+      {
+        "start": 1272.47,
+        "end": 1282.21,
+        "text": "Gracias. Nuestro primer llamante es Stephen Rapaport. Stephen, está en el aire. Tiene dos minutos."
+      },
+      {
+        "start": 1283.43,
+        "end": 1311.57,
+        "text": "Muchas gracias. Buenas tardes, alcalde y miembros del concejo. Me llamo Steve Rapaport. Soy el director ejecutivo de National High School Career Day Network. Es una organización sin fines de lucro. Anteriormente me jubilé del Distrito Escolar Unificado de Beverly Hills después de casi 30 años de servicio, con responsabilidades que incluían ser director de desarrollo profesional y del programa ROP."
+      },
+      {
+        "start": 1312.29,
+        "end": 1337.37,
+        "text": "En el programa, fui miembro del comité directivo de los 23 distritos escolares, así que serví con el Distrito Escolar Unificado de Glendale. Tuve el privilegio de trabajar con Justin Brezhnev, como antiguo estudiante y como director ejecutivo de Hacker Fund, así como con varios otros miembros de la organización que han participado en los eventos profesionales que coordino para la preparatoria."
+      }
+    ],
+    "18": [
+      {
+        "start": 2171.97,
+        "end": 2187.03,
+        "text": "Así que tener a personas como estas al frente de este programa es lo que ustedes quieren, porque son figuras de mucho peso. Hoy llamo para pedir ese apoyo. Puedo poner personalmente mi nombre en que estas personas harán maravillas por la Ciudad de Glendale. Lo puedo garantizar. Gracias."
+      },
+      {
+        "start": 2188.45,
+        "end": 2191.41,
+        "text": "Muchas gracias. Y eso es todo en cuanto a las llamadas."
+      },
+      {
+        "start": 2192.97,
+        "end": 2194.91,
+        "text": "¿Eran llamadas reales o generadas por IA?"
+      },
+      {
+        "start": 2198.27,
+        "end": 2204.95,
+        "text": "Gracias a todos por llamar. Muy bien. ¿Mis colegas tienen preguntas?"
+      },
+      {
+        "start": 2207.98,
+        "end": 2212.5,
+        "text": "Yo no tengo preguntas. Tengo comentarios. Puedo empezar ahora mismo."
+      },
+      {
+        "start": 2213.26,
+        "end": 2215.56,
+        "text": "A ver si alguien tiene preguntas y luego-"
+      },
+      {
+        "start": 2215.58,
+        "end": 2216.42,
+        "text": "Tengo un par de preguntas."
+      },
+      {
+        "start": 2216.42,
+        "end": 2219.04,
+        "text": "Concejal Gharpetian, ¿tiene preguntas?"
+      },
+      {
+        "start": 2219.12,
+        "end": 2221.6,
+        "text": "Quiero escuchar a algunas de las personas. Sí, así que."
+      },
+      {
+        "start": 2221.82,
+        "end": 2222.22,
+        "text": "Bien. Entonces-"
+      },
+      {
+        "start": 2222.38,
+        "end": 2223.34,
+        "text": "¿Tenemos tarjetas de oradores?"
+      },
+      {
+        "start": 2223.78,
+        "end": 2233.28,
+        "text": "No, no hay más tarjetas de oradores. Si tiene preguntas, por favor hágalas, y luego el concejal Brotman tiene algunas preguntas adicionales."
+      },
+      {
+        "start": 2234.66,
+        "end": 2236.02,
+        "text": "Bien. Entonces,"
+      },
+      {
+        "start": 2238.1,
+        "end": 2245.82,
+        "text": "este $1 millón se está dividiendo entre dos empresas, FoundersBoost y... ¿Mi tiempo ya se acabó? Eso fue la IA."
+      },
+      {
+        "start": 2248.78,
+        "end": 2269.58,
+        "text": "Y SmartGateVC LLC. ¿Es correcto, señor administrador? Y durante los últimos tres o cuatro años, la primera ronda de fondos que llegó, creo que para el próximo año o el siguiente, cuando se implementen estos programas, me gustaría tener algún tipo de informe sobre los resultados de nuestros programas."
+      },
+      {
+        "start": 2270.08,
+        "end": 2293.48,
+        "text": "Hoy tenemos 12,000 empleados en alta tecnología en Glendale. ¿Han aumentado o no? O las empresas que tenemos, ¿cuántas más empresas llegaron a Glendale? Y también, en cuanto a los programas, algunos de los que llamaron mencionaron programas con las escuelas secundarias y nuestros niños. Me gustaría obtener información sobre eso, sobre qué tipo de programación tenemos para construir la base para ellos."
+      }
+    ],
+    "19": [
+      {
+        "start": 2294.18,
+        "end": 2322.88,
+        "text": "Y, en la página 18 de 222, dice que hay ocho empresas emergentes que fueron dirigidas por FoundersBoost, y continúa explicando lo que se les proporcionó. Me gustaría saber cuál es su situación hoy, de esas ocho empresas emergentes, y si han tenido éxito."
+      },
+      {
+        "start": 2322.94,
+        "end": 2342.36,
+        "text": "Porque sabemos que es muy difícil en el mundo de las empresas emergentes, y no sé cuántas, muy pocas realmente llegan a lo más alto, por así decirlo. Me gustaría obtener algunas respuestas sobre las que ya recibieron ayuda: cuántas tuvieron éxito y dónde están en este momento."
+      },
+      {
+        "start": 2344.06,
+        "end": 2355.3,
+        "text": "Concejal Gharpetian, si me permite, que pase el operador de FoundersBoost para compartir más sobre los éxitos que usted preguntó. Bienvenido."
+      },
+      {
+        "start": 2358.5,
+        "end": 2359.46,
+        "text": "Gracias por postularse."
+      },
+      {
+        "start": 2360.46,
+        "end": 2384.02,
+        "text": "Sí. Muchas gracias por recibirme. Y definitivamente quiero comenzar así. Soy Blake Caldwell, director ejecutivo de FoundersBoost, y gracias por recibirme. También agradezco no solo a la comunidad evaluadora, sino a ustedes dos por hacer un trabajo tan excelente al organizar esto. Muy profesional, y ha sido un placer trabajar con ellos. Y, con FoundersBoost, creo que lo útil sería entender nuestra trayectoria."
+      },
+      {
+        "start": 2384.68,
+        "end": 2412.7,
+        "text": "Llevamos operando más de siete años. Hemos ayudado a 20 ecosistemas diferentes a llevar programas para empresas emergentes como estos. En ese tiempo, hemos podido ayudar a más de 600 empresas emergentes y a más de 1,000 fundadores. De ellas, alrededor del 20% logra recaudar fondos significativos, y han recaudado más de 300 millones hasta la fecha, y entran a las mejores aceleradoras como Y Combinator y Techstars."
+      }
+    ],
+    "22": [
+      {
+        "start": 2653.89,
+        "end": 2654.55,
+        "text": "Bien. Gracias."
+      },
+      {
+        "start": 2654.87,
+        "end": 2655.03,
+        "text": "Sí."
+      },
+      {
+        "start": 2656.29,
+        "end": 2656.65,
+        "text": "Gracias."
+      },
+      {
+        "start": 2657.35,
+        "end": 2657.51,
+        "text": "Gracias."
+      },
+      {
+        "start": 2657.53,
+        "end": 2658.17,
+        "text": "Concejal Robin."
+      },
+      {
+        "start": 2658.37,
+        "end": 2661.45,
+        "text": "Sí, de hecho, si pudiera quedarse un momento."
+      },
+      {
+        "start": 2661.77,
+        "end": 2662.65,
+        "text": "Sí, claro."
+      },
+      {
+        "start": 2663.11,
+        "end": 2675.87,
+        "text": "Solo quiero aprender un poco más. Tengo unas preguntas, pero una de ellas es: FoundersBoost, usted es el director ejecutivo o el fundador de FoundersBoost."
+      },
+      {
+        "start": 2675.89,
+        "end": 2676.03,
+        "text": "Mm-hmm."
+      },
+      {
+        "start": 2676.73,
+        "end": 2688.01,
+        "text": "Y sé que también están HackerFund y Alliance for SoCal Innovation. ¿Puede hablar un poco sobre cómo trabajan juntos y qué papel tiene cada uno?"
+      },
+      {
+        "start": 2688.17,
+        "end": 2693.13,
+        "text": "Sí. Y bueno, yo hablé allí. Definitivamente quisiera que ellos pasen pronto a hablar también-"
+      },
+      {
+        "start": 2693.15,
+        "end": 2693.21,
+        "text": "Sí"
+      },
+      {
+        "start": 2693.23,
+        "end": 2725.83,
+        "text": "... por su parte. Pero, bueno, cuando piensan en el camino de una startup, está el comienzo, en el que están entusiasmados, tienen una idea, están inspirados, y eso es algo que los hackathons hacen muy bien. Logran reunir a la comunidad. A quienes trabajan en empresas como Google, Disney y demás, para venir aquí, apoyar y ser mentores de estudiantes, de jóvenes, la edad no importa, pero a menudo suelen ser jóvenes, que aspiran a descubrir cómo llevar adelante estas ideas."
+      },
+      {
+        "start": 2725.93,
+        "end": 2736.43,
+        "text": "¿Cómo construir cosas realmente, dónde encuentro gente para hacerlo y cómo me inspiro para eso? Así que inspiran ideas y creación en su comunidad. Y luego, a partir de ahí, a medida que ellos-"
+      },
+      {
+        "start": 2736.45,
+        "end": 2737.03,
+        "text": "Y, antes de que usted-"
+      },
+      {
+        "start": 2737.29,
+        "end": 2737.31,
+        "text": "Sí"
+      },
+      {
+        "start": 2737.31,
+        "end": 2747.11,
+        "text": "... antes de que siga con Hack... Entonces, van a realizar dos, o ¿cuántos eventos de este tipo, tipo hackathon, van a organizar aquí?"
+      },
+      {
+        "start": 2747.13,
+        "end": 2749.09,
+        "text": "Esos, sí. Bueno, Justin, ¿por qué no pasas y-"
+      },
+      {
+        "start": 2749.59,
+        "end": 2749.77,
+        "text": "Bien"
+      },
+      {
+        "start": 2749.77,
+        "end": 2753.05,
+        "text": "... él definitivamente lo explica mejor que yo."
+      },
+      {
+        "start": 2753.43,
+        "end": 2755.97,
+        "text": "Bueno, yo... Porque usted los va repasando uno por uno y yo solo-"
+      },
+      {
+        "start": 2755.97,
+        "end": 2764.27,
+        "text": "Sí, sí. Claro. Hola a todos. Muchas gracias por recibirme. Gracias por la oportunidad. Estoy muy entusiasmado con esta oportunidad de hablar sobre el embudo de Glendale Growth Alliance."
+      }
+    ],
+    "23": [
+      {
+        "start": 2764.31,
+        "end": 2765.45,
+        "text": "¿Cuál es su nombre para el registro, por favor?"
+      },
+      {
+        "start": 2765.47,
+        "end": 2787.71,
+        "text": "Oh, para el registro, mi nombre es Justin Brezhnev. Soy el director ejecutivo de HackerFund y soy uno de los socios de apoyo del proyecto Glendale Growth Alliance. Estoy particularmente muy emocionado por el embudo que diseñamos, el embudo de Glendale Growth Alliance. Los hackathons son la punta del embudo. Ahora mismo no lo tengo conmigo, pero hay un Arduino allí que puedo agarrar rápidamente."
+      },
+      {
+        "start": 2788.71,
+        "end": 2813.27,
+        "text": "Entonces esto es... Los hackathons, los hackathons son donde descubrirán un dispositivo como este, y cuando descubren un dispositivo como este, el Arduino, pueden aprender a construir muchas de las cosas a las que se les está asignando dinero ahora mismo, microcontroladores, la Ley CHIPS y de Ciencia. Aquí es donde empieza. Y nuestros hackathons, los cuatro hackathons que vamos a hacer, hackathons trimestrales, para involucrar al Glendale Community College local."
+      },
+      {
+        "start": 2813.61,
+        "end": 2835.69,
+        "text": "Nuestra directora de hackathons, Yuyan, estaba intentando llamar, Yuyan Ang. Ella es egresada de Glendale Community College, luego pasó a UCLA y ha estado trabajando con nosotros desde entonces. Está en comentario público, está tratando de entrar. Pero estos hackathons son específicamente para inspirar a los estudiantes y darles acceso a un entorno de aprendizaje basado en la invención, mediado por computadora y guiado por mentores."
+      },
+      {
+        "start": 2835.93,
+        "end": 2860.47,
+        "text": "Y aquí es donde descubrirán qué es un Arduino, para que cuando pasen a la Glendale Growth Alliance, la siguiente parte del embudo, que es el programa FoundersBoost, realmente conozcan las tecnologías, las tecnologías de base que los harán exitosos, y luego puedan entrar al segundo, el FoundersBoost, para los servicios de desarrollo de capacidades que ofrecen como aceleradora. Entonces, el hackathon específicamente, cuatro hackathons trimestrales es nuestra meta, para el-"
+      },
+      {
+        "start": 2860.67,
+        "end": 2860.71,
+        "text": "Cuatro"
+      },
+      {
+        "start": 2860.73,
+        "end": 2885.47,
+        "text": "... para el presupuesto que se asignó, y también noches de hackeo mensuales, encuentros, y hacer que el Glendale Community College sea lo más accesible posible para empresas como Google, Apple, Microsoft, Disney, para que puedan contratarlos. Porque hemos notado, después de regresar 10 años y 10 años y siete días, y nos dimos cuenta de que después de 10 años de hacer hackathons, realmente son los colegios comunitarios los que tienen mucho del talento."
+      }
+    ],
+    "24": [
+      {
+        "start": 2885.67,
+        "end": 2901.13,
+        "text": "Me gradué de UCLA, y puedo decirles, por mi trabajo con todas las universidades, que son los colegios comunitarios los que tienen el talento más ávido. Estamos aquí para darles oportunidades y para empoderar a los estudiantes. Nos entusiasma que tengamos una directora de hackatones formada en Glendale. Así que gracias."
+      },
+      {
+        "start": 2901.19,
+        "end": 2909.51,
+        "text": "Entonces, el hackatón es básicamente una actividad. Dice que son cuatro al año. Se reúne... La gente puede unirse, y son equipos, y tratan de..."
+      },
+      {
+        "start": 2909.97,
+        "end": 2910.19,
+        "text": "Absolutamente."
+      },
+      {
+        "start": 2910.21,
+        "end": 2913.39,
+        "text": "... desarrollar ideas y productos en el momento, y cosas así."
+      },
+      {
+        "start": 2913.59,
+        "end": 2914.29,
+        "text": "Absolutamente. Absolutamente."
+      },
+      {
+        "start": 2914.33,
+        "end": 2921.31,
+        "text": "¿Y cómo encaja eso en la siguiente fase? Porque eso no... ¿Eso alimenta estas cohortes?"
+      },
+      {
+        "start": 2921.35,
+        "end": 2922.05,
+        "text": "Sí. Sí."
+      },
+      {
+        "start": 2922.05,
+        "end": 2924.93,
+        "text": "... Intento ver cómo se unen las tres piezas."
+      },
+      {
+        "start": 2925.17,
+        "end": 2933.79,
+        "text": "Los hackatones en sí, según mis notas, por ejemplo, los hackatones con los que hemos trabajado producen el tipo de fundadores que son capaces de..."
+      },
+      {
+        "start": 2934.81,
+        "end": 2957.13,
+        "text": "Levantar una Serie A de $30 millones. Por ejemplo, si miran a George Savoulkha de Space Apps NextGen, fue uno de los organizadores. Lo apoyamos. Es estudiante de preparatoria. Ahora está levantando una Serie A porque pasó por ese tipo de programas de aceleración, y ha pasado... Esos estudiantes son el tipo de personas que han obtenido recursos como FoundersBoost. Así que los vamos a preparar con los hackatones para que puedan postularse a FoundersBoost y así pueda surgir una empresa."
+      },
+      {
+        "start": 2957.67,
+        "end": 2983.51,
+        "text": "Por ejemplo, en el Hackatón de TechCrunch, hubo una aplicación llamada Verbin que hizo un exalumno de Beverly Hills llamado Angel Tse. Después de ganar ese hackatón, se postuló a Y Combinator con esa tecnología, luego levantó una ronda, y ahora trabaja con Procore y varias constructoras para usar realidad virtual y realidad mixta para que la planificación urbana sea más eficiente, eficaz y cueste menos dinero."
+      },
+      {
+        "start": 2983.57,
+        "end": 3005.77,
+        "text": "Nuestra meta aquí es usar los hackatones para formar a los fundadores, para que estén listos como fundadores, y formar a los estudiantes para que se entusiasmen con que sus inventos pueden salvar el mundo. También somos el patrocinador fiscal de Hack for LA, así que nuestro enfoque ha sido siempre crear tecnologías cívicas, cosas que realmente puedan ayudar a la ciudad."
+      }
+    ],
+    "25": [
+      {
+        "start": 3006.09,
+        "end": 3015.63,
+        "text": "Y luego, nuestra meta como hackathon es introducirlos en el tipo de programación que FoundersBoost pueda llevar al siguiente nivel de apoyo, para que estén listos para un Techstars, listos para un Y Combinator."
+      },
+      {
+        "start": 3017.17,
+        "end": 3017.49,
+        "text": "Bien."
+      },
+      {
+        "start": 3017.75,
+        "end": 3019.29,
+        "text": "Gracias."
+      },
+      {
+        "start": 3019.49,
+        "end": 3019.89,
+        "text": "Y luego..."
+      },
+      {
+        "start": 3021.67,
+        "end": 3022.45,
+        "text": "¿Tenía usted...?"
+      },
+      {
+        "start": 3022.49,
+        "end": 3022.49,
+        "text": "Vivian."
+      },
+      {
+        "start": 3022.49,
+        "end": 3022.49,
+        "text": "Bien."
+      },
+      {
+        "start": 3022.49,
+        "end": 3023.25,
+        "text": "Adelante."
+      },
+      {
+        "start": 3023.29,
+        "end": 3044.11,
+        "text": "Sí. Y, saben, hay un camino directo desde los hackathons hasta ahí. También hay... Saben, el camino de una startup nunca es uniforme, así que puede haber otros caminos; tal vez les tome otro año mientras averiguan las cosas y construyen sus empresas. Pero FoundersBoost ayuda a empresas en la etapa en que ya tienen un producto, un equipo y, básicamente, algo de validación de mercado."
+      },
+      {
+        "start": 3044.49,
+        "end": 3070.31,
+        "text": "Un producto puede ser tan pequeño como un MVP, un producto mínimo viable con el que los clientes pueden interactuar, o también se le llama producto beta o alfa. Pero tienen validación de mercado: tal vez hicieron una excelente investigación de clientes, o ya tienen clientes e ingresos. Fantástico. Pero hay una etapa en la que ya están en vivo y listos para arrancar, y es difícil saber en qué deben enfocarse."
+      },
+      {
+        "start": 3070.55,
+        "end": 3091.27,
+        "text": "Con los años, antes, lo que ayudábamos era a encontrar información para la gente. Ahora se trata de en qué enfocarse, porque hay demasiada información. No es algo malo, pero es difícil enfocarse. Y ahí es donde entran los mentores, para decirles: \"Muy bien, pero tienen una gran señal de alerta aquí. Están tratando de conseguir inversión, pero no han resuelto este problema o no han respondido esta pregunta."
+      },
+      {
+        "start": 3091.63,
+        "end": 3106.65,
+        "text": "Ahora vayan a averiguarlo y resolverlo. Vuelvan conmigo la próxima semana.\" Y luego repetir ese proceso. Y ahora voy a pedirle a la Glendale... perdón, a la Alliance for Southern California Innovation que venga aquí a hablar de eso hoy. Perdón, lo dije mal. Pero..."
+      },
+      {
+        "start": 3106.75,
+        "end": 3108.23,
+        "text": "¿Está pidiendo esta información?"
+      },
+      {
+        "start": 3108.27,
+        "end": 3108.33,
+        "text": "Sí."
+      },
+      {
+        "start": 3108.35,
+        "end": 3108.77,
+        "text": "¿O quiere...?"
+      },
+      {
+        "start": 3109.19,
+        "end": 3109.43,
+        "text": "Sí."
+      },
+      {
+        "start": 3109.47,
+        "end": 3109.57,
+        "text": "Bien. De acuerdo."
+      },
+      {
+        "start": 3109.59,
+        "end": 3111.63,
+        "text": "Quiero entender, porque hay estos tres..."
+      },
+      {
+        "start": 3111.75,
+        "end": 3111.75,
+        "text": "Sí."
+      },
+      {
+        "start": 3111.77,
+        "end": 3113.73,
+        "text": "Quiero entender cómo funciona todo esto."
+      },
+      {
+        "start": 3114.03,
+        "end": 3120.61,
+        "text": "¿Eso va a cambiar su decisión? Solo trato de entender. Tenemos una sesión cerrada larga, así que..."
+      }
+    ],
+    "30": [
+      {
+        "start": 3615.48,
+        "end": 3619.58,
+        "text": "Muy bien. Si no hay más comentarios, ¿tengo...?"
+      },
+      {
+        "start": 3619.6,
+        "end": 3620.2,
+        "text": "¿Tengo una moción?"
+      },
+      {
+        "start": 3621.02,
+        "end": 3625.5,
+        "text": "Bien. Votamos el uno, el dos y el tres al mismo tiempo, ¿verdad? No. No."
+      },
+      {
+        "start": 3625.54,
+        "end": 3627.14,
+        "text": "En A, B y C, tienen dos mociones..."
+      },
+      {
+        "start": 3627.18,
+        "end": 3627.18,
+        "text": "No"
+      },
+      {
+        "start": 3627.18,
+        "end": 3627.58,
+        "text": "... y una reserva."
+      },
+      {
+        "start": 3627.6,
+        "end": 3627.94,
+        "text": "Secundo."
+      },
+      {
+        "start": 3628.54,
+        "end": 3628.76,
+        "text": "Bien."
+      },
+      {
+        "start": 3629.4,
+        "end": 3629.64,
+        "text": "Muy bien."
+      },
+      {
+        "start": 3630.38,
+        "end": 3630.5,
+        "text": "Muy bien."
+      },
+      {
+        "start": 3630.54,
+        "end": 3631.36,
+        "text": "Llamo a votar los tres."
+      },
+      {
+        "start": 3631.78,
+        "end": 3632.22,
+        "text": "Muy bien. Pase de lista."
+      },
+      {
+        "start": 3632.26,
+        "end": 3632.5,
+        "text": "Secundo."
+      },
+      {
+        "start": 3634,
+        "end": 3634.86,
+        "text": "Concejal Brotman."
+      },
+      {
+        "start": 3635.3,
+        "end": 3635.62,
+        "text": "Sí."
+      },
+      {
+        "start": 3635.88,
+        "end": 3636.54,
+        "text": "Gharpetian."
+      },
+      {
+        "start": 3636.58,
+        "end": 3636.82,
+        "text": "Sí."
+      },
+      {
+        "start": 3637.06,
+        "end": 3637.68,
+        "text": "Kassakhian."
+      },
+      {
+        "start": 3638.02,
+        "end": 3638.24,
+        "text": "Sí."
+      },
+      {
+        "start": 3638.52,
+        "end": 3640.56,
+        "text": "Nojorian. Y la alcaldesa Asadoorian."
+      },
+      {
+        "start": 3640.74,
+        "end": 3648.1,
+        "text": "Sí. Gracias de nuevo. Y luego tenemos... ¿Tenemos...?"
+      },
+      {
+        "start": 3648.76,
+        "end": 3649.18,
+        "text": "¿La clausura?"
+      },
+      {
+        "start": 3649.22,
+        "end": 3651.68,
+        "text": "¿Tenemos tarjetas o llamadas para...?"
+      },
+      {
+        "start": 3653,
+        "end": 3653.5,
+        "text": "No, no hay."
+      },
+      {
+        "start": 3653.7,
+        "end": 3654.28,
+        "text": "No hay nadie."
+      },
+      {
+        "start": 3654.34,
+        "end": 3656.74,
+        "text": "Bien. ¿Tengo una moción para levantar la sesión?"
+      },
+      {
+        "start": 3657.78,
+        "end": 3658.26,
+        "text": "Así se propone."
+      },
+      {
+        "start": 3658.64,
+        "end": 3659,
+        "text": "Secundo."
+      },
+      {
+        "start": 3660.36,
+        "end": 3664.34,
+        "text": "Muy bien. ¿Entramos directamente? ¿Necesitamos cambiar la pantalla?"
+      }
+    ]
+  }
+}
