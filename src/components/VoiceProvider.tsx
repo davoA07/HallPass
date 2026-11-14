@@ -11,6 +11,9 @@ import { getLanguage } from "@/lib/languages";
 import { useAssistant } from "./AssistantProvider";
 import { MicIcon } from "./icons";
 
+type SessionOptions = NonNullable<Parameters<ReturnType<typeof useConversation>["startSession"]>[0]>;
+type VoiceLanguage = NonNullable<NonNullable<NonNullable<SessionOptions["overrides"]>["agent"]>["language"]>;
+
 /**
  * Voice mode: an ElevenLabs agent that talks with the resident and calls the
  * client tools below. Tool names and parameters must match agent/client-tools.json.
@@ -20,6 +23,8 @@ interface VoiceValue {
   connected: boolean;
   busy: boolean;
   speaking: boolean;
+  /** The mic is muted while the agent works on an answer. */
+  held: boolean;
   error: string | null;
   start: () => void;
   stop: () => void;
@@ -40,14 +45,43 @@ function VoiceBridge({ children }: { children: ReactNode }) {
   const [error, setError] = useState<string | null>(null);
   const [starting, setStarting] = useState(false);
 
+  // Take turns: once the resident's question has been heard, the mic is muted
+  // until the agent has answered, so background voices and noise can't
+  // interrupt the lookup or add stray phrases. See the effects below.
+  const [held, setHeld] = useState(false); // mic muted, waiting for the answer
+  const [answered, setAnswered] = useState(false); // agent has spoken since the mic was muted
+  const [toolsBusy, setToolsBusy] = useState(0); // lookups still running
+
   const conversation = useConversation({
+    micMuted: held,
     onMessage: ({ message, role }) => {
-      if (message?.trim()) pushMessage({ role: role === "user" ? "user" : "assistant", text: message, via: "voice" });
+      if (!message?.trim()) return;
+      pushMessage({ role: role === "user" ? "user" : "assistant", text: message, via: "voice" });
+      if (role === "user") {
+        setHeld(true);
+        setAnswered(false);
+      } else {
+        setAnswered(true);
+      }
+    },
+    onDisconnect: () => {
+      setHeld(false);
+      setToolsBusy(0);
     },
     onError: (message) => setError(String(message)),
   });
 
-  useConversationClientTool("ask_city_records", async (p) => {
+  /** Runs a client tool while counting it as a lookup in progress. */
+  async function tracked<T>(work: () => Promise<T>): Promise<T> {
+    setToolsBusy((n) => n + 1);
+    try {
+      return await work();
+    } finally {
+      setToolsBusy((n) => Math.max(0, n - 1));
+    }
+  }
+
+  useConversationClientTool("ask_city_records", (p) => tracked(async () => {
     const question = String(p.question ?? "").trim();
     if (!question) return "error: no question given";
     try {
@@ -71,7 +105,7 @@ function VoiceBridge({ children }: { children: ReactNode }) {
     } catch (err) {
       return `error: could not search the meeting records (${err instanceof Error ? err.message : "unknown"}). Tell the resident and suggest typing the question.`;
     }
-  });
+  }));
 
   useConversationClientTool("show_video_moment", (p) => {
     const seconds = Number(p.seconds) || 0;
@@ -81,7 +115,7 @@ function VoiceBridge({ children }: { children: ReactNode }) {
     return `Now playing that meeting video at ${formatTime(seconds)} on the resident's screen.`;
   });
 
-  useConversationClientTool("draft_public_comment", async (p) => {
+  useConversationClientTool("draft_public_comment", (p) => tracked(async () => {
     const draft = await requestDraft({ position: String(p.position ?? ""), notes: String(p.notes ?? "") });
     if (!draft) return "error: the draft could not be created. Ask the resident to try the Write to the council form.";
     return [
@@ -90,10 +124,26 @@ function VoiceBridge({ children }: { children: ReactNode }) {
       `draft: ${draft.comment}`,
       "Tell the resident to review and edit it, fill in any [placeholders], and send it themselves. You cannot send it.",
     ].join("\n");
-  });
+  }));
 
   const { status, isSpeaking } = conversation;
   const connected = status === "connected";
+
+  // Reopen the mic once the agent has answered: it has spoken since the question,
+  // it stopped speaking, and no lookup is still running. The short wait covers the
+  // gap between "let me look that up" and the lookup starting.
+  useEffect(() => {
+    if (!held || !answered || isSpeaking || toolsBusy > 0) return;
+    const t = setTimeout(() => setHeld(false), 1500);
+    return () => clearTimeout(t);
+  }, [held, answered, isSpeaking, toolsBusy]);
+
+  // Safety net: never keep the mic closed for more than 30 seconds.
+  useEffect(() => {
+    if (!held) return;
+    const t = setTimeout(() => setHeld(false), 30_000);
+    return () => clearTimeout(t);
+  }, [held]);
   const playingId = nowPlaying?.meetingId ?? null;
 
   // Keep the agent informed about language and the video on screen mid-call.
@@ -126,10 +176,14 @@ function VoiceBridge({ children }: { children: ReactNode }) {
           error?: string;
         };
         if (!res.ok) throw new Error(data.error || "voice unavailable");
+        // Start the call in the picked language: the agent greets, listens and speaks
+        // in it from the first word (its language detection still follows the
+        // resident if they switch). The agent's Tagalog preset is "fil".
+        const overrides = { agent: { language: (lang === "tl" ? "fil" : lang) as VoiceLanguage } };
         if (data.conversationToken) {
-          conversation.startSession({ conversationToken: data.conversationToken, connectionType: "webrtc" });
+          conversation.startSession({ conversationToken: data.conversationToken, connectionType: "webrtc", overrides });
         } else if (data.agentId) {
-          conversation.startSession({ agentId: data.agentId, connectionType: "webrtc" });
+          conversation.startSession({ agentId: data.agentId, connectionType: "webrtc", overrides });
         } else {
           throw new Error("voice unavailable");
         }
@@ -144,11 +198,12 @@ function VoiceBridge({ children }: { children: ReactNode }) {
       connected,
       busy: starting || status === "connecting",
       speaking: isSpeaking,
+      held,
       error,
       start: () => void start(),
       stop: () => conversation.endSession(),
     };
-  }, [connected, starting, status, isSpeaking, error, conversation, tr]);
+  }, [connected, starting, status, isSpeaking, held, error, conversation, tr, lang]);
 
   return <VoiceContext.Provider value={value}>{children}</VoiceContext.Provider>;
 }
@@ -162,9 +217,9 @@ export function useVoice() {
 /** The talk button. `lg` is the big one on the start screen. */
 export function MicButton({ size = "md" }: { size?: "lg" | "md" }) {
   const { tr } = useAssistant();
-  const { connected, busy, speaking, error, start, stop } = useVoice();
+  const { connected, busy, speaking, held, error, start, stop } = useVoice();
   const label = connected ? tr("endCall") : busy ? tr("connecting") : size === "lg" ? tr("tapToTalk") : tr("talk");
-  const status = connected ? (speaking ? tr("speaking") : tr("listening")) : null;
+  const status = connected ? (speaking ? tr("speaking") : held ? tr("thinking") : tr("listening")) : null;
 
   if (size === "lg") {
     return (
