@@ -15,13 +15,14 @@ const client = new Anthropic({
 });
 
 /**
- * Every call opts into server-side refusal fallbacks: if the model declines,
- * the API re-runs the request on a fallback model inside the same call.
+ * Calls opt into server-side refusal fallbacks: if the model declines, the API
+ * re-runs the request on a fallback model inside the same call. Claude Haiku 5.5
+ * has no fallback model, so its requests leave the parameter out and a declined
+ * request stays on Haiku (the route then shows its "couldn't answer" message).
  */
-const FALLBACK = {
-  betas: ["server-side-fallback-2026-07-01"],
-  fallbacks: "default" as const,
-};
+const FALLBACK = MODEL.startsWith("claude-haiku")
+  ? {}
+  : { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" as const };
 
 export class AIUnavailableError extends Error {}
 

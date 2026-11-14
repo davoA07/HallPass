@@ -59,7 +59,8 @@ meeting video ─ yt-dlp/FFmpeg ─► audio ─ ElevenLabs Scribe ─► words 
 ```
 
 No database: processed meetings are JSON files. Every model call opts into
-server-side refusal fallbacks (`fallbacks: "default"`).
+server-side refusal fallbacks (`fallbacks: "default"`), except on Claude Haiku 5.5
+(`CLAUDE_MODEL=claude-haiku-5-5`), which has no fallback model.
 
 | Path | What |
 |---|---|

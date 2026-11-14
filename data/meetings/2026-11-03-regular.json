@@ -1,0 +1,3802 @@
+{
+ "id": "2026-11-03-regular",
+ "title": "City Council Regular Meeting",
+ "body": "Glendale City Council",
+ "date": "2026-11-03",
+ "source": {
+  "videoUrl": "https://www.youtube.com/watch?v=e8xiy3bMxbY",
+  "agendaUrl": null,
+  "minutesUrl": null
+ },
+ "video": {
+  "kind": "file",
+  "src": "/media/2026-11-03-regular.mp4",
+  "offset": 0
+ },
+ "clip": {
+  "start": 0,
+  "end": null
+ },
+ "language": "en",
+ "generatedAt": "2026-11-14T19:54:08+00:00",
+ "aiGenerated": true,
+ "reviewed": false,
+ "overview": "On election night, the Glendale City Council opened the public hearing on proposed water rate increases for 2027–2031, heard from more than a dozen residents who mostly opposed the hikes or asked for more time, and voted 4–0 to continue the hearing to November 10 without deciding on the rates. The council also approved past meeting minutes, honored California Teacher of the Year Gagik Galfayan, and voted 4–0 to settle a lawsuit (Ossa v. City of Glendale) for $35,000.",
+ "items": [
+  {
+   "id": "item-1",
+   "agendaNumber": "2a",
+   "title": "Closed Session – Conference with Legal Counsel – Pending Litigation: Ossa v. City of Glendale, L.A.S.C. Case No. 24GDCV00084",
+   "headline": "Council meets privately on Ossa lawsuit",
+   "summary": "Before the public meeting, the council went into closed session, a private meeting allowed by law, to talk with its lawyers about a lawsuit called Ossa v. City of Glendale. Staff said there would be a report on the result later. The council announced and voted on a settlement at the end of the evening.",
+   "whyItMatters": "This private discussion led to the $35,000 settlement the council approved later that night.",
+   "start": 14.0,
+   "end": 37.0,
+   "outcome": {
+    "kind": "procedural",
+    "result": "Recessed to closed session",
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_4"
+   ],
+   "keyMoments": [
+    {
+     "t": 18.0,
+     "label": "Closed session item read into the record"
+    },
+    {
+     "t": 33.0,
+     "label": "Council recesses to closed session"
+    }
+   ],
+   "topics": [
+    "closed session",
+    "lawsuit",
+    "litigation",
+    "ossa"
+   ]
+  },
+  {
+   "id": "item-2",
+   "agendaNumber": "4a",
+   "title": "Recognizing Gagik Galfayan as California Teacher of the Year",
+   "headline": "Council honors Wilson Middle School teacher named California Teacher of the Year",
+   "summary": "The mayor gave a Mayor's Commendation to Gagik Galfayan, a history teacher at Wilson Middle School. He was named one of California's five 2027 Teachers of the Year by the state superintendent. Galfayan thanked his students, fellow teachers and the community, and named two Glendale teachers who inspired him.",
+   "whyItMatters": "Nothing changes for residents; this was an honor for a local teacher.",
+   "start": 227.0,
+   "end": 537.0,
+   "outcome": {
+    "kind": "presentation",
+    "result": null,
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_6",
+    "speaker_7"
+   ],
+   "keyMoments": [
+    {
+     "t": 263.0,
+     "label": "Mayor reads commendation for Galfayan"
+    },
+    {
+     "t": 337.0,
+     "label": "Galfayan thanks students and community"
+    },
+    {
+     "t": 449.0,
+     "label": "Mayor's Commendation presented"
+    }
+   ],
+   "topics": [
+    "teacher of the year",
+    "glendale unified",
+    "wilson middle school",
+    "education"
+   ]
+  },
+  {
+   "id": "item-3",
+   "agendaNumber": null,
+   "title": "Proclamation: American Heart Association's Nation of Lifesavers and CPR Education",
+   "headline": "Council recognizes school district's CPR training push",
+   "summary": "The mayor recognized the American Heart Association's Nation of Lifesavers effort and Glendale Unified School District's work with it. He said the district has taught hands-on CPR, a way to help someone whose heart stops, to more than 11,000 students, families and residents. Superintendent Dr. Watson accepted and thanked the Heart Association.",
+   "whyItMatters": "Nothing changes yet, but residents are encouraged to learn CPR.",
+   "start": 537.0,
+   "end": 708.0,
+   "outcome": {
+    "kind": "presentation",
+    "result": null,
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_6",
+    "speaker_7"
+   ],
+   "keyMoments": [
+    {
+     "t": 561.0,
+     "label": "Mayor describes CPR training of 11,000+ people"
+    },
+    {
+     "t": 609.0,
+     "label": "Dr. Watson accepts proclamation"
+    }
+   ],
+   "topics": [
+    "cpr",
+    "american heart association",
+    "glendale unified",
+    "public health"
+   ]
+  },
+  {
+   "id": "item-4",
+   "agendaNumber": "5a",
+   "title": "City Clerk, re: Minutes of the Glendale City Council Meetings of October 6, 2026, and October 20, 2026",
+   "headline": "Council approves minutes from October meetings",
+   "summary": "The council approved the minutes, the official written record, of its October 6 and October 20 meetings as a routine consent item. The roll call vote had four yes votes.",
+   "whyItMatters": "This is routine record-keeping; nothing changes for residents.",
+   "start": 708.0,
+   "end": 749.0,
+   "outcome": {
+    "kind": "vote",
+    "result": "Approved 4–0",
+    "yes": 4,
+    "no": 0,
+    "abstain": null,
+    "votes": [
+     {
+      "name": "Bartrosouf",
+      "vote": "yes"
+     },
+     {
+      "name": "Brotman",
+      "vote": "yes"
+     },
+     {
+      "name": "Gharpetian",
+      "vote": "yes"
+     },
+     {
+      "name": "Kassakhian",
+      "vote": "yes"
+     },
+     {
+      "name": "Asatryan",
+      "vote": "absent"
+     }
+    ]
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_7",
+    "speaker_8"
+   ],
+   "keyMoments": [
+    {
+     "t": 727.0,
+     "label": "Motion and second to approve minutes"
+    },
+    {
+     "t": 745.0,
+     "label": "Vote: approved 4–0"
+    }
+   ],
+   "topics": [
+    "minutes",
+    "consent calendar"
+   ]
+  },
+  {
+   "id": "item-5",
+   "agendaNumber": "6",
+   "title": "City Council/Staff Comments",
+   "headline": "Brotman seeks earthquake retrofit rules; mayor shares election, Veterans Day and Metro construction news",
+   "summary": "Councilmember Brotman asked to bring up next week a possible ordinance requiring earthquake retrofits for older 'soft story' apartment buildings, like rules in Burbank, Pasadena and Los Angeles. Councilmember Bartrosouf reminded residents about Glendale Water and Power home rebates. The mayor said the water rate hearing would be continued to November 10 because it was election day. He also announced a Veterans Day ceremony on November 11 at 11 a.m. at Fire Station 21, a teen driver safety workshop on November 6, and Metro bus rapid transit construction on Broadway and Verdugo Road starting the week of November 16.",
+   "whyItMatters": "Drivers should expect lane closures on Broadway and Verdugo Road for about three months, and a future earthquake retrofit rule could affect owners of older apartment buildings.",
+   "start": 749.0,
+   "end": 1153.0,
+   "outcome": {
+    "kind": "discussion",
+    "result": null,
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_8",
+    "speaker_9"
+   ],
+   "keyMoments": [
+    {
+     "t": 760.0,
+     "label": "Brotman requests soft-story earthquake retrofit ordinance discussion"
+    },
+    {
+     "t": 819.0,
+     "label": "Bartrosouf promotes GWP home rebate program"
+    },
+    {
+     "t": 1027.0,
+     "label": "Veterans Day ceremony announced"
+    },
+    {
+     "t": 1099.0,
+     "label": "Metro BRT construction update"
+    }
+   ],
+   "topics": [
+    "earthquake retrofit",
+    "soft story",
+    "rebates",
+    "veterans day",
+    "metro brt",
+    "construction"
+   ]
+  },
+  {
+   "id": "item-6",
+   "agendaNumber": "8",
+   "title": "First Period of Oral Communications",
+   "headline": "Residents praise traffic officer and criticize city spending",
+   "summary": "Tony Passarella read a poem thanking motorcycle traffic Officer Cook and the police chief for more traffic enforcement. Valentina spoke against the water rate increase, bonds and taxes, and said council names and the city seal are hard to see on TV. She also reported a knocking sound in the elevator, and the mayor asked staff to look into it.",
+   "whyItMatters": "Nothing changes yet; staff were asked to check the elevator noise.",
+   "start": 1169.0,
+   "end": 1593.0,
+   "outcome": {
+    "kind": "public_comment",
+    "result": null,
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_11",
+    "speaker_12"
+   ],
+   "keyMoments": [
+    {
+     "t": 1203.0,
+     "label": "Resident reads tribute to Officer Cook"
+    },
+    {
+     "t": 1385.0,
+     "label": "Resident opposes taxes and water rate increase"
+    },
+    {
+     "t": 1593.0,
+     "label": "Mayor asks staff to check elevator noise"
+    }
+   ],
+   "topics": [
+    "public comment",
+    "traffic enforcement",
+    "taxes",
+    "water rates"
+   ]
+  },
+  {
+   "id": "item-7",
+   "agendaNumber": "11a",
+   "title": "Glendale Water and Power, re: Public Hearing Regarding Proposed Water Rate Increases for Fiscal Years 2027–2031 and Resolution Establishing Water Rates and Charges; Motion approving Glendale Water and Power Water System cash reserve policy",
+   "headline": "Council opens water rate hearing, hears strong opposition, delays decision to Nov. 10",
+   "summary": "The council opened the public hearing on proposed water rate increases for 2027–2031 but took no action on the rates. Many residents opposed the increases or asked for more time, saying 8 weeks of outreach was not enough. They also raised concerns about affordability, transparency and a water reserve fund, and one speaker said a larger water pipe needed for a fire sprinkler raises his fixed charge. A city attorney explained that Prop 218, a state law, requires at least 45 days of notice, and that written protests are accepted until the hearing closes. GWP's finance chief said rates are planned to start January 1 and delays would push back revenue and possibly projects. The council voted 4–0 to continue the hearing to November 10 without new public notice and asked staff for delay scenarios and a summary of outreach.",
+   "whyItMatters": "No new water rates were set yet, and residents can still file protests and speak until the hearing closes, now set for November 10.",
+   "start": 1593.0,
+   "end": 4544.0,
+   "outcome": {
+    "kind": "vote",
+    "result": "Hearing continued to November 10, approved 4–0",
+    "yes": 4,
+    "no": 0,
+    "abstain": null,
+    "votes": [
+     {
+      "name": "Bartrosouf",
+      "vote": "yes"
+     },
+     {
+      "name": "Brotman",
+      "vote": "yes"
+     },
+     {
+      "name": "Gharpetian",
+      "vote": "yes"
+     },
+     {
+      "name": "Kassakhian",
+      "vote": "yes"
+     },
+     {
+      "name": "Asatryan",
+      "vote": "absent"
+     }
+    ]
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_4",
+    "speaker_8",
+    "speaker_9",
+    "speaker_13",
+    "speaker_14",
+    "speaker_15",
+    "speaker_16",
+    "speaker_17",
+    "speaker_18",
+    "speaker_19",
+    "speaker_20",
+    "speaker_21",
+    "speaker_22",
+    "speaker_23",
+    "speaker_24",
+    "speaker_25",
+    "speaker_26",
+    "speaker_27"
+   ],
+   "keyMoments": [
+    {
+     "t": 1671.0,
+     "label": "Public hearing opened"
+    },
+    {
+     "t": 2297.0,
+     "label": "Save Glendale Water organizer asks for postponement"
+    },
+    {
+     "t": 3977.0,
+     "label": "City attorney explains Prop 218 45-day protest period"
+    },
+    {
+     "t": 4529.0,
+     "label": "Vote: continued to Nov. 10, 4–0"
+    }
+   ],
+   "topics": [
+    "water rates",
+    "glendale water and power",
+    "prop 218",
+    "public hearing",
+    "utility bills",
+    "protest"
+   ]
+  },
+  {
+   "id": "item-8",
+   "agendaNumber": "14",
+   "title": "Second Period of Oral Communications",
+   "headline": "Speakers criticize council over public comment changes and development costs",
+   "summary": "Beth Brooks said the council's change to public comment rules was aimed at silencing her. She called for a water impact fee on developers, given possible new housing under state law SB 79. A caller, Fernando Roldan, asked the council to think about seniors and people with disabilities before changing water rates. The mayor stopped one speaker from returning to the water rate topic, since this period is only for items not on the agenda.",
+   "whyItMatters": "Nothing changes yet; no action can be taken during this comment period.",
+   "start": 4549.0,
+   "end": 5236.0,
+   "outcome": {
+    "kind": "public_comment",
+    "result": null,
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_16",
+    "speaker_17",
+    "speaker_28"
+   ],
+   "keyMoments": [
+    {
+     "t": 4608.0,
+     "label": "Resident objects to public comment changes"
+    },
+    {
+     "t": 4684.0,
+     "label": "Call for water impact fee on developers"
+    },
+    {
+     "t": 4924.0,
+     "label": "Caller raises disability and senior concerns"
+    },
+    {
+     "t": 5182.0,
+     "label": "Mayor reminds speaker topic must be off-agenda"
+    }
+   ],
+   "topics": [
+    "public comment",
+    "developers",
+    "impact fee",
+    "sb 79",
+    "housing"
+   ]
+  },
+  {
+   "id": "item-9",
+   "agendaNumber": "15",
+   "title": "New Business – Settlement of Ossa v. City of Glendale, L.A.S.C. Case No. 24GDCV00084",
+   "headline": "Council settles Ossa lawsuit for $35,000",
+   "summary": "Following the closed session, the council voted to let the city attorney settle the lawsuit Ossa v. City of Glendale for $35,000. In return, the person suing gives up all claims against the city.",
+   "whyItMatters": "The city will pay $35,000 to end this lawsuit.",
+   "start": 5236.0,
+   "end": 5279.0,
+   "outcome": {
+    "kind": "vote",
+    "result": "Approved 4–0",
+    "yes": 4,
+    "no": 0,
+    "abstain": null,
+    "votes": [
+     {
+      "name": "Bartrosouf",
+      "vote": "yes"
+     },
+     {
+      "name": "Brotman",
+      "vote": "yes"
+     },
+     {
+      "name": "Gharpetian",
+      "vote": "yes"
+     },
+     {
+      "name": "Kassakhian",
+      "vote": "yes"
+     },
+     {
+      "name": "Asatryan",
+      "vote": "absent"
+     }
+    ]
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_8",
+    "speaker_9"
+   ],
+   "keyMoments": [
+    {
+     "t": 5248.0,
+     "label": "Motion to settle lawsuit for $35,000"
+    },
+    {
+     "t": 5279.0,
+     "label": "Vote: approved 4–0"
+    }
+   ],
+   "topics": [
+    "lawsuit",
+    "settlement",
+    "ossa"
+   ]
+  }
+ ],
+ "speakers": [
+  {
+   "id": "speaker_0",
+   "name": "Kassakhian",
+   "role": "Mayor"
+  },
+  {
+   "id": "speaker_1",
+   "name": null,
+   "role": "City Clerk"
+  },
+  {
+   "id": "speaker_10",
+   "name": null,
+   "role": null
+  },
+  {
+   "id": "speaker_11",
+   "name": "Valentina",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_12",
+   "name": "Tony Passarella",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_13",
+   "name": "Golanian",
+   "role": "City staff"
+  },
+  {
+   "id": "speaker_14",
+   "name": "James Hankins",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_15",
+   "name": "Manatsakanyan",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_16",
+   "name": "Olivia Webber",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_17",
+   "name": "Beth Brooks",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_18",
+   "name": "Tigran Shahinian",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_19",
+   "name": "Harma Shahjanyan",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_2",
+   "name": "Bartrosouf",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_20",
+   "name": "Gevorg Grigoryan",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_21",
+   "name": "Armand Demirjian",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_22",
+   "name": "Petruzzi",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_23",
+   "name": "Rami",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_24",
+   "name": "Doreen Martirosian",
+   "role": "Principal Assistant City Attorney"
+  },
+  {
+   "id": "speaker_25",
+   "name": "Hagop Choukhatian",
+   "role": "Resident"
+  },
+  {
+   "id": "speaker_26",
+   "name": null,
+   "role": "Public commenter (property owner)"
+  },
+  {
+   "id": "speaker_27",
+   "name": "Audrey Neysayan",
+   "role": "Assistant General Manager/CFO, Glendale Water and Power"
+  },
+  {
+   "id": "speaker_28",
+   "name": "Fernando Roldan",
+   "role": "Public commenter"
+  },
+  {
+   "id": "speaker_3",
+   "name": "Brotman",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_4",
+   "name": null,
+   "role": "City Attorney"
+  },
+  {
+   "id": "speaker_5",
+   "name": null,
+   "role": null
+  },
+  {
+   "id": "speaker_6",
+   "name": null,
+   "role": null
+  },
+  {
+   "id": "speaker_7",
+   "name": null,
+   "role": null
+  },
+  {
+   "id": "speaker_8",
+   "name": "Brotman",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_9",
+   "name": "Gharpetian",
+   "role": "Councilmember"
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "speaker_0",
+   "start": 0.24,
+   "end": 3.78,
+   "text": "All right, let's, uh, call to order at 4:06 PM. Roll call, please."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 6.14,
+   "end": 9.38,
+   "text": "Uh, Council Member Asatryan. Bartrosouf."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 9.5,
+   "end": 9.66,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 10.16,
+   "end": 10.62,
+   "text": "Brotman."
+  },
+  {
+   "speaker": "speaker_3",
+   "start": 10.82,
+   "end": 10.98,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 11.42,
+   "end": 12.0,
+   "text": "Gharpetian."
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 12.42,
+   "end": 12.66,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 12.92,
+   "end": 13.64,
+   "text": "Mayor Kassakhian."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 14.18,
+   "end": 17.54,
+   "text": "Here. Uh, may we have the closed session item read into the record?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 18.32,
+   "end": 29.58,
+   "text": "Conference with legal counsel, pending litigation, Osa versus City of Glendale, LASD, case number 24GDCV00084."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 30.22,
+   "end": 31.76,
+   "text": "All right, do we expect to report out on this?"
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 31.92,
+   "end": 32.78,
+   "text": "Mr. Mayor, yes, we do."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 33.16,
+   "end": 35.74,
+   "text": "All right, then we'll recess to closed session at 4:07 PM."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 37.34,
+   "end": 37.72,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 39.26,
+   "end": 39.26,
+   "text": "Yeah,"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 68.4,
+   "end": 69.44,
+   "text": "I don't know. Yeah."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 71.12,
+   "end": 71.38,
+   "text": "Later."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 71.78,
+   "end": 88.36,
+   "text": "All right, so folks, let us, uh, call this meeting to order. Welcome. Uh, this is a November 3rd meeting of the Glendale City Council being called to order at 6- 6:02 PM. Uh, let us have roll call, please. And if I can ask everyone to just-"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 89.12,
+   "end": 90.0,
+   "text": "Yes,"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 90.06,
+   "end": 101.28,
+   "text": "... uh, keep those conversations to a minimum. If you do need to answer a call or speak to someone, please do so outside of the chambers as we conduct the city's business. Roll call, please."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 101.96,
+   "end": 105.02,
+   "text": "Council Member Asatryan. Bartrosouf."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 105.16,
+   "end": 105.28,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 105.86,
+   "end": 106.36,
+   "text": "Brotman."
+  },
+  {
+   "speaker": "speaker_3",
+   "start": 106.4,
+   "end": 106.66,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 107.06,
+   "end": 107.68,
+   "text": "Gharpetian."
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 107.8,
+   "end": 107.96,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 108.5,
+   "end": 109.36,
+   "text": "And Mayor Kassakhian."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 109.72,
+   "end": 113.62,
+   "text": "Here. I'd like to ask everyone to rise for the flag salute."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 116.3,
+   "end": 118.34,
+   "text": "Put your right hand over your heart. Ready, begin."
+  },
+  {
+   "speaker": "speaker_5",
+   "start": 118.88,
+   "end": 130.92,
+   "text": "I pledge allegiance to the Flag of the United States of America and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 131.56,
+   "end": 141.36,
+   "text": "I'd like to ask everyone to remain standing as we have an invocation delivered by Reverend Father Manuk from the, uh, Armenian Apostolic Church, Western Diocese."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 142.1,
+   "end": 181.74,
+   "text": "Almighty God, we humbly ask for your divine wisdom and guidance upon the members of Glendale City Council as they gather to serve our community. Grant them discernment in their decisions, integrity in their actions, and compassion in their hearts, that they may fulfill their responsibilities with diligence, fairness, and the sincere love for all the citizens of Glendale."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 183.1,
+   "end": 208.78,
+   "text": "May their work promote peace, unity, justice, and the well-being of every member of our community. Bless this gathering and guide all those entrusted with the responsibility of leadership so that their service may be a reflection of your love and grace."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 209.22,
+   "end": 209.68,
+   "text": "Amen."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 210.34,
+   "end": 215.14,
+   "text": "Amen. Thank you. You all may be seated. And may we have the clerk's report, please?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 216.54,
+   "end": 226.36,
+   "text": "The agenda for the November 3rd, 2026 regular meeting of the Glendale City Council was posted on October 28th, 2026 on the bulletin board outside City Hall."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 227.02,
+   "end": 232.14,
+   "text": "All right, thank you. And let's move on to presentation and appointments. What do we have at 4A?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 232.94,
+   "end": 236.58,
+   "text": "Recognition Gagik Galfayan as California Teacher of the Year."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 237.06,
+   "end": 263.6,
+   "text": "Can we have, uh, Mr. Galfayan please come up to the podium, and if you have anyone else you'd like to bring up with you. I know that you've come with some friends and supporters. This is a very, uh, exciting moment for the City of Glendale, uh, as we have Gagik Galfayan here with us. For those who don't know, Gagik Galfayan was just named one of California's Teachers of the Year by the state superintendent, and there's only five such teachers every year."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 263.72,
+   "end": 287.56,
+   "text": "So the City of Glendale, Mr. Galfayan, proudly commends you for being named one of California's five 2027 Teachers of the Year by the state superintendent in recognition of your outstanding dedication and contributions to education. Believed, you are believed to be the only educator to receive this prestigious statewide honor, and the only educator from Los Angeles County selected for the 2027 distinction."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 288.1,
+   "end": 310.44,
+   "text": "The Galfayan, and th- your g- achievement, Mr. Galfayan, represents a historic milestone for Glendale Unified School District. City of Glendale extends its heartfelt congratulations and gratitude for your exemplary service, inspiring leadership, and lasting impact on students, educators, and the community. And I'll present this to you, but I'll give you a moment to share a few words with us. And you are a teacher at Wilson Middle School, I understand, a teacher of history."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 311.08,
+   "end": 316.92,
+   "text": "Uh, I went to Wilson. I don't know if anyone else here, uh, Council Member Bartrosouf? No, not, not Wilson."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 317.4,
+   "end": 320.48,
+   "text": "Not Wilson, but I went to high school with Gagik at Clark Magnet."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 320.64,
+   "end": 321.08,
+   "text": "There you go."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 321.12,
+   "end": 321.12,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 321.28,
+   "end": 324.48,
+   "text": "All right. So, uh, if you had my mom for chemistry, I apologize."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 324.56,
+   "end": 325.96,
+   "text": "I sure did. I did."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 326.74,
+   "end": 332.94,
+   "text": "Yeah. She's a tough, uh, task master, I know. But please, Mr. Galfayan, congratulations."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 333.22,
+   "end": 334.78,
+   "text": "Uh, thank you. Thank you."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 337.36,
+   "end": 357.58,
+   "text": "Uh, thank you so much, uh, City Council, and thank you to the mayor, Mayor, Mayor, uh, Kassakhian. Uh, really appreciate for the recognition. Uh, it's truly a privilege, uh, to be a teacher in this community. Uh, I truly believe GUSD is one of the best districts in California, and, uh, I can tell that not only as a teacher but as a student who went through the system here."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 358.16,
+   "end": 378.16,
+   "text": "And, uh, you know, I just wanted to express my gratitude to my students, uh, to this community, to my fellow teachers because I could not do this on my own. Uh, it really- Um, requires a whole village. And, um, and I'm so grateful I have their support, and I get to represent them at the state level for the next y- year starting in the December. So thank you so much. Really appreciate it."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 378.38,
+   "end": 387.32,
+   "text": "And, um, hopefully I will go ahead and, uh, bring some meaningful change to some aspects of our, uh, state's education system. So thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 387.46,
+   "end": 388.12,
+   "text": "We appreciate that."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 388.28,
+   "end": 388.46,
+   "text": "I appreciate it."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 388.46,
+   "end": 391.96,
+   "text": "And we appreciate what you do. Let's, yeah, indeed. We can, we can give him another round of applause."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 394.74,
+   "end": 412.22,
+   "text": "Um, I think, I think, I think, I believe all of us at some point in our lives, uh, had a teacher that made an impact on our life, on our future. Um, and, uh, you know, I can think of a few. But I want to know, who was the teacher as a product of the Glendale Unified schools that, uh, flipped that switch on inside of you?"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 413.06,
+   "end": 413.7,
+   "text": "Yeah. I have two-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 413.72,
+   "end": 416.76,
+   "text": "And I'm not saying this, I'm not expecting you to say my mom. By any means."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 417.64,
+   "end": 439.96,
+   "text": "Uh, I have two. Uh, the first one, uh, was in my fifth, uh, fifth grade, uh, Miss Lena, uh, who was, uh, truly, uh, instrumental in helping me learn English when I first moved to this country as a eight-year-old. Uh, she, uh, welcomed me in and, you know, helped me prosper as a student. And the second one was, uh, Miss Martin from, uh, Clark Magnet High School, who really challenged me and prepared me for college."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 440.02,
+   "end": 442.52,
+   "text": "So those are the two, of many others. You know-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 442.56,
+   "end": 442.56,
+   "text": "Mm-hmm"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 442.56,
+   "end": 448.94,
+   "text": "... there are so many. You can't just name, uh, one. I got to name two, but there are so many teachers that truly helped me to be where I am today."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 449.46,
+   "end": 454.86,
+   "text": "That's wonderful. I'd like to present the Mayor's Commendation to you, and we can take a few photos. I'd like to ask my colleagues to join me."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 455.34,
+   "end": 455.64,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 458.26,
+   "end": 460.22,
+   "text": "Dr. Watson, would you join us up here as well?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 462.76,
+   "end": 463.24,
+   "text": "With Council Member Atse."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 466.74,
+   "end": 468.02,
+   "text": "Really appreciate it. Thank you."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 468.32,
+   "end": 469.02,
+   "text": "The principal."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 477.06,
+   "end": 477.06,
+   "text": "Hi."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 477.06,
+   "end": 479.32,
+   "text": "Watch out."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 481.46,
+   "end": 482.48,
+   "text": "Congratulations."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 482.62,
+   "end": 486.14,
+   "text": "Please."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 486.4,
+   "end": 487.64,
+   "text": "One, two, three."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 497.26,
+   "end": 499.26,
+   "text": "Okay. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 499.52,
+   "end": 500.34,
+   "text": "And Dr. Watson."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 504.34,
+   "end": 504.9,
+   "text": "Congratulations."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 504.94,
+   "end": 507.08,
+   "text": "Thank you for everything. Thank you. Really appreciate it."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 507.82,
+   "end": 508.2,
+   "text": "Got it."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 515.06,
+   "end": 537.02,
+   "text": "I, I do want to acknowledge that we did, do have school board member Kelly Atse with us, uh, in the chambers, as well as our Superintendent of Public Instruction at GUSD, Dr., uh, Garnika Watson, um, who's wearing the right colors, uh, versus the principal, who I see is wearing a purple tie. Uh, the bell, I believe, is safely home where it belongs at Glendale High School."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 537.8,
+   "end": 560.52,
+   "text": "After last Friday's night, the Glendale High School Dynamiters soundly defeating the Hoover Tornadoes. Uh, all is right in the world. Okay. Um, what is next? We have a, a proclamation. So tonight we are proud to recognize the American Heart Association's Nation of Lifesavers initiative and the importance of CPR education in our community."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 561.02,
+   "end": 582.64,
+   "text": "Cardiac arrest can happen to anyone, anywhere, and knowing how to perform CPR can mean the difference between life and death. Through its partnership with the American Heart Association, Glendale Unified School District has provided hands, uh, on CPR education to more than 11,000 students, families, and Glendale residents, helping prepare our community to respond during emergencies."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 582.72,
+   "end": 599.74,
+   "text": "On behalf of the City of Glendale, I want to recognize Glendale Unified School District for its efforts and encourage all residents to learn CPR and become a part of the Nation of Lifesavers movement. And I'd like to ask, uh, Dr. Watson and the school board member Atse to, uh, come up to accept this proclamation and share a few words with us."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 606.68,
+   "end": 608.62,
+   "text": "If you'd like. I can also just give it to you, but."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 609.16,
+   "end": 631.18,
+   "text": "Okay. Well, I'm here now, and don't put a mic in front of me. I just wanna say thank you for this recognition, this honor. Council members, thank you so much. Mayor Kassakhian, thank you so much. And to the Heart Association, I think they're coming with me. American ... Are they here? Oh, here. The American Heart Association has been partners with us for years, and I just wanna thank you guys for recognizing this honor."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 631.8,
+   "end": 657.4,
+   "text": "Uh, actually, heart, the Heart Association, and Cheryl knows, has been close to my heart from having lost a twin to heart disease. And to see the work that they do into our schools and what they do to support our schools with the CPR kit, our principals that engage our students, the challenges that we have in our community, to see how many people can get involved with the American Heart Association is outstanding and tremendous, and I can't thank them enough for the support."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 657.42,
+   "end": 659.16,
+   "text": "And thank you all for this recognition."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 659.62,
+   "end": 663.34,
+   "text": "Thank you, Dr. Watson. School board member Atse, would you like to say a few words? No?"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 664.98,
+   "end": 667.24,
+   "text": "I think Dr. Watson summed it up great, so thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 667.52,
+   "end": 670.02,
+   "text": "All right. I'll just come down really quick. I'd like to talk a little."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 679.72,
+   "end": 679.84,
+   "text": "Do that?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 679.86,
+   "end": 680.9,
+   "text": "Hey."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 703.08,
+   "end": 703.22,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 703.26,
+   "end": 704.06,
+   "text": "All right. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 708.68,
+   "end": 711.92,
+   "text": "All right. Uh, what is next on the agenda?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 712.96,
+   "end": 727.52,
+   "text": "Next agenda is, uh, consent items including minutes. The following are routine and may be acted upon by one motion. Any member of the council or the audience requesting separate consideration may do so by making such request before a motion is proposed."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 727.88,
+   "end": 730.58,
+   "text": "All right. And would anyone like to move the approval of the minutes?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 731.44,
+   "end": 731.76,
+   "text": "I'll move."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 732.24,
+   "end": 732.58,
+   "text": "Second."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 732.98,
+   "end": 737.3,
+   "text": "Okay, moved by Council Member Gharpetian- And seconded by Council Member Brotman. Let's have roll call, please."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 738.34,
+   "end": 740.84,
+   "text": "Council Member Asatryan. Bartrosouf."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 740.9,
+   "end": 741.12,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 741.54,
+   "end": 742.04,
+   "text": "Brotman."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 742.26,
+   "end": 742.56,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 742.74,
+   "end": 743.34,
+   "text": "Gharpetian."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 743.56,
+   "end": 743.76,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 744.08,
+   "end": 744.8,
+   "text": "Mayor Kassakhian."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 745.46,
+   "end": 749.0,
+   "text": "Yes. Thank you. Uh, let's move on to the next item on the agenda."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 749.88,
+   "end": 754.66,
+   "text": "Next item, city council staff comments, including reports from conference and regional meetings."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 755.54,
+   "end": 756.56,
+   "text": "All right, who would like to go first?"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 757.94,
+   "end": 758.92,
+   "text": "Nothing for me this week."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 760.18,
+   "end": 785.86,
+   "text": "Um, I just have one item I'd like to put on the, uh, new business agenda for next week for, uh, council to consider, um, uh, for agendizing. It would be, uh, an ordinance establishing, uh, earthquake retrofit standards, uh, and related policies, uh, primarily for, um, uh, multifamily soft story buildings, but it could include other pre-1976 structures."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 786.02,
+   "end": 814.82,
+   "text": "So we can get into it more, uh, next week. But it would put us in line with many of our neighboring cities. Burbank, and Pasadena, and Los Angeles have all, uh, uh, implemented ordinances and started working on, um, getting their, uh, soft story structures, which are vulnerable in an earthquake, uh, retrofitted, so that, uh, when the next earthquake comes, um, we will be able to avoid, uh, unnecessary damage and loss of life here in Glendale."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 815.12,
+   "end": 816.58,
+   "text": "Okay. Nothing else?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 817.2,
+   "end": 817.72,
+   "text": "That's it from me."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 817.72,
+   "end": 818.14,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 819.64,
+   "end": 847.58,
+   "text": "Uh, thank you, Mayor. Um, the only thing I'd like to add, um, only because we have a, a relatively large captive audience here, is I, I do wanna mention, um, you know, this is regardless of whether or not we're gonna do anything with the water rates, I do wanna proactively let people know about the GWP Home Rebate Program. Um, there's lots of things, um, that the city offers to improve efficiency, whether it's for water or power, uh, both indoor and outdoor use."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 847.68,
+   "end": 867.34,
+   "text": "Um, I know for me personally, a couple years ago, I replaced my turf and, and got a very generous rebate. Um, since that time, those in- those rebates, um, have increased. Um, so I just wanna make sure folks are aware of these programs that are available to folks. Whether or not there's gonna be an increase, I think we're all looking for ways to save some money."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 867.92,
+   "end": 879.66,
+   "text": "Um, so I wanna make sure folks are aware of that. We're constantly updating, providing additional incentives, um, and I wanna make sure folks are, are aware of that. So please utilize that to your advantage, and thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 880.36,
+   "end": 900.6,
+   "text": "All right. Thank you very much. Uh, I have a few announcements that I'd like to make. First of all, uh, I wanna thank, uh, my colleagues for moving, uh, through a number of business items last week, uh, during my absence. Uh, I was unable to be here due to, uh, personal, uh, family reasons, but, um, I'm back today, and it's election day."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 901.1,
+   "end": 920.82,
+   "text": "So first and foremost, if you haven't voted already, be sure to do so. The polls are open till 8:00 PM. If you go to glendalevotes.org, you'll be able to find one of the polling locations that's closest to you. Uh, there is, there's 11 locations throughout the city, if I'm not mistaken. There we are. 11D. Ele- no. There's..."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 921.08,
+   "end": 924.46,
+   "text": "Where do we go? There's 11D. Where, la, la, la. Where-"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 924.54,
+   "end": 924.72,
+   "text": "I know"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 924.8,
+   "end": 966.76,
+   "text": "... where would someone go? Let's see. All right, there we are. Okay, so we have a number of locations, uh, available, and you see the list there on the screen. Um, I voted this morning at, um, the Brand Studios in Brand Park. Uh, but please make sure you vote, uh, and make your voice heard. So, and for that reason also, because it is election day, the item that is here before us this evening, which is, uh, in relation to, uh, our, um, water and power public hearing regarding proposed water rate increases, that will be continued to November 10th, but we do wish to hear from everyone who did take the time to come out here, um, and, and hear what you have to share with the council."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 967.48,
+   "end": 990.92,
+   "text": "Uh, I'd like to make a few other announcements. Uh, Alzheimer's Awareness Month is, uh, this month. So in recognition of Alzheimer's Awareness Month, Glendale City Hall was illuminated in teal yesterday, November 2nd, and will remain illuminated tonight, November 3rd, as part of Alzheimer's Foundation of America's annual Light the World in Teal campaign. Um, I know my tie isn't really teal, but it's maybe as close as I can get to it in my wardrobe."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 990.96,
+   "end": 991.28,
+   "text": "Glendale's-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 991.28,
+   "end": 991.54,
+   "text": "Is that teal?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 991.9,
+   "end": 1026.3,
+   "text": "Um, uh, I'm not sure. I don't know. Uh, Glendale joins landmarks around the world in raising awareness of Alzheimer's disease and showing support for individuals and families affected by it. This initiative also serves as a reminder of the importance of early detection, education, and access to care. So if you have someone who has, uh, struggled with Alzheimer's, um, or dementia, or any of those, uh, later stage in life, um, conditions, uh, we urge that you, um, take some proactive measures to, for early detection and then, uh, seek, uh, advice and help from medical professionals."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1027.18,
+   "end": 1050.52,
+   "text": "I wanna make an announcement for Veterans Day. The City of Glendale invites the community to join us for our annual Veterans Day ceremony on Wednesday, November 11th at 11:00 AM at Glendale Fire Station 21. This is different from the location where it was last year, so at Fire Station 21 across from the Glendale Galleria parking structure. This special event will be an opportunity to honor and recognize the brave men and women who have served our country and thank them for their service and sacrifice."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1051.02,
+   "end": 1074.54,
+   "text": "We are also grateful to the local businesses that have generously donated food and refreshments for the occasion. We encourage our residents, veterans, and their families to join us as we come together to show our appreciation for those who have served. Learn more about our event and other events in nearby communities by visiting glendaleca.gov/veterans. Also, lastly, or actually there's a few others, teen driver safety workshop."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1074.58,
+   "end": 1097.76,
+   "text": "The City of Glendale invites teens and their families to attend an upcoming teen driver safety workshop happening this Friday, November 6th at 6:00 PM at the Pacific Park and Community Center. Participants will have the opportunity to speak directly with Glendale Police Department officers, California Highway Patrol officers, and Armenian Bar Association attorneys about safe driving practices and making responsible decisions on the road."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1099.73,
+   "end": 1124.53,
+   "text": "Last one, Metro BRT update. Metro is preparing to begin construction along Broadway and Verdugo Road as part of the North Hollywood to Pasadena BRT project. Construction is expected to begin the week of November 16 and last approximately three months with work taking place in phases. Residents should anticipate temporary lane reductions, turn restrictions, sidewalk closures, and pedestrian detours, uh, through at least one..."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1124.57,
+   "end": 1152.25,
+   "text": "A- although at least one travel lane in each direction will remain open and access to Glendale High School will be maintained. Metro will also host two community meetings to provide updates and answer questions, a virtual meeting on November 18th and an in-person open house on November 19, both from 6:00 to 7:30 PM. We encourage residents and businesses to stay informed about construction impacts by visiting metro.net/nohopasbrt, N-O-H-O-P-A-S-B-R-T."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1153.19,
+   "end": 1163.55,
+   "text": "Um, and I'm assuming that is all. All right, so thank you very much. Let's move on to the next portion, which is community event announcements. We do have a few-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 1163.91,
+   "end": 1164.17,
+   "text": "This is"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1165.13,
+   "end": 1167.27,
+   "text": "Okay, so do we do have, do we have any community event-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1167.29,
+   "end": 1167.47,
+   "text": "No cards and community events"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1167.47,
+   "end": 1168.91,
+   "text": "... anyone on the calls? Okay."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1169.19,
+   "end": 1169.27,
+   "text": "No."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1169.37,
+   "end": 1189.95,
+   "text": "Since we don't have that, we move on directly to the first portion, the early portion of oral communications. And I understand council, through majority decision last week, has decided to modify public comments for future meetings, but for today we'd like to invite up Valentina and Tony Passarella."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1190.01,
+   "end": 1193.41,
+   "text": "You will each have three minutes to address the council."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1197.69,
+   "end": 1198.53,
+   "text": "Sorry. Mr. Passarella,"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1200.95,
+   "end": 1201.21,
+   "text": "you go."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1201.25,
+   "end": 1201.35,
+   "text": "Okay. Thank you."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1201.35,
+   "end": 1202.01,
+   "text": "Ladies first."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1203.75,
+   "end": 1223.65,
+   "text": "Oh, okay. Good evening, council. Tony Passarella. Um, November is, uh, gratitude month for me, so here we go. A tribute to Glendale's motorcycle traffic champion, Officer Cook. Ladies and gentlemen, gather around, there's a new traffic champion patrolling our town."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1224.37,
+   "end": 1248.23,
+   "text": "He's short in stature, but don't overlook, there's nothing small about our Officer Cook. Imported from Simi Valley, he's Glendale's new face. On two wheels, he's covering every street, every place. Everywhere, every day, keeping drivers in check, and if you're pushing that pedal, he's watching your neck. He's lurking around corners, he's watching the road, and speeding motorists may get a ticket bestowed."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1249.01,
+   "end": 1269.17,
+   "text": "Some people collect coins, some collect books, but Cook has a special hobby. Just take a look. I've heard there's a certain citation kink. He loves catching speedsters before they can blink. A rolling stop, a red light, a lead foot too fast, Cook's got a way of making that moment your last."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1271.23,
+   "end": 1297.53,
+   "text": "But, but let's put the humor aside for a moment or two. There's a much bigger mission that affects me and you. Our streets aren't racetracks, our sidewalks aren't fair game, and keeping people safe should always be the aim. For seniors and children, for families on foot, for everyone crossing in every neighborhood, traffic enforcement is more than writing a fine."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1298.09,
+   "end": 1324.17,
+   "text": "It's protecting lives one street at a time. And Chief William deserves recognition as well for beefing up traffic patrols and sending a message to tell that speeding and reckless driving won't get a free pass, and Glendale's serious about keeping people safe at last. So here's to Officer Cook, our motorcycle man, putting traffic enforcement back into the plan."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1324.97,
+   "end": 1332.19,
+   "text": "From Pacific to Brand, from downtown to the hills, he's out there doing the job, putting safety before thrills."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1334.19,
+   "end": 1360.47,
+   "text": "He's short in stature, but his presence is tall, and when it comes to traffic, he's watching it all. So Cook, keep the e- engine running, keep that watchful eye, and keep those speed demons wondering why they'll fly. And h- and to Glendale drivers, here's a little advice. Keep your speed under control and think twice, because you never know who's lurking around the next block."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 1361.05,
+   "end": 1372.73,
+   "text": "It might be Officer Cook, and he's ready to write you a ticket around the clock. Thank you, Officer Cook, and thank you, Chief William, for making traffic safety a priority. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1372.89,
+   "end": 1377.43,
+   "text": "All right. Thank you, Mr. Passarella. Valentina, you'll have three minutes."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1378.71,
+   "end": 1382.41,
+   "text": "Uh, yeah, I, I'm sorry. I thought it was 90 minutes."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1385.35,
+   "end": 1407.27,
+   "text": "Uh, okay. The city did very well during the pandemic in 2021, '22. It was under lockdown, and all projects got accomplished and approved. Now, I am, uh, suggesting instead of raising prices, uh, please consider moratorium. I haven't heard that word for a long time."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1407.39,
+   "end": 1426.99,
+   "text": "There used to be a moratorium. Glendale needs to be shut down for a fiscal shutdown, just like the government. Lock this c- this, uh, uh, room, throw away the key, and lock up the City Hall. You will save, uh, and try and see how much money you will save."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1427.65,
+   "end": 1447.27,
+   "text": "Uh, and stop playing business with bonds. Bonds are taxes. I cannot pay any more taxes. So I request that my property taxes be reduced. Um, I, I, I need my taxes to go to water, power, and gas. Stop, um, taxing, uh, my life savings, my house."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1447.73,
+   "end": 1467.3,
+   "text": "It will not function without water, power, and gas. Uh, wa- um, worry about quality of water and quality of life. Stop spending and, uh- I'm not prepared. I thought this was 90 minutes, so where is my minute?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1467.3,
+   "end": 1468.32,
+   "text": "You still have a minute 30."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1468.36,
+   "end": 1468.36,
+   "text": "Oh"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1468.36,
+   "end": 1468.68,
+   "text": "Please proceed."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1468.68,
+   "end": 1488.52,
+   "text": "Number one, I can't see the seal on my television. I don't see Bartrosouf, who's been running this, this government for many years already. I see your name on many, many, uh, decisions. Um, uh, and I don't see any of the names at all, so maybe you can do an improvement."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1488.8,
+   "end": 1494.32,
+   "text": "And the, and the elevator is knocking. Boom, boom, boom, boom."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1494.84,
+   "end": 1494.98,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1495.4,
+   "end": 1517.38,
+   "text": "Okay. Am I done? Oh, I still have... Okay. Yeah. Do not tax... The, there was a, a election, not to tax my life savings, my house. Why are you taxing? Take it away from your, um, revenue. I need, uh, to pay for water, electricity, and gas."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1521.2,
+   "end": 1540.84,
+   "text": "Oh, Sacramento had billions in black. It's all wasted, gone. We don't know where. So, uh, it's happening here, too. Used to be 600 million, now it's a billion dollars. I keep telling people that call me, I said, \"They have a billion dollars in Glendale. Go ask for a job from them.\" All right. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1541.62,
+   "end": 1544.68,
+   "text": "Thank you. Um, I, I'd like to ask staff if there is, uh-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1544.72,
+   "end": 1548.8,
+   "text": "And I'm against the water, uh, the water rate increase. I signed the paper."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1549.52,
+   "end": 1551.86,
+   "text": "Thank, thank you. Thank you. Um-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1554.38,
+   "end": 1556.86,
+   "text": "Is Mr. Nish here? I love him."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1557.2,
+   "end": 1580.42,
+   "text": "Thank, thank you, folks. Uh, thank you, um, uh, Ms. Valentine. I would like to, uh, encourage everyone to, um, follow the rules of the chambers. We do not, uh, we don't want to necessarily clap, not because you may not... We don't want to encourage the people who are speaking, but the more you clap, the longer it takes for us to get through it."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1580.46,
+   "end": 1584.84,
+   "text": "I'm just raising my hand at home. It says, \"Raise your hand.\" My daughter says, \"Raise your hand.\""
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1585.32,
+   "end": 1585.66,
+   "text": "Yes, ma'am."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 1585.68,
+   "end": 1593.08,
+   "text": "I'm raising my hand. I'm not getting through here. The, the instructions are not very clear how to call here. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1593.96,
+   "end": 1613.92,
+   "text": "Thank you. All right. And if there is a knocking sound in the elevator, please, let's have staff look into, uh, the comment that was, the issue that was raised by the speaker. All right. So, um, those were the only speakers for the three-minute portion. We now move on to the hearings, but as we had mentioned, or Mr."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1613.98,
+   "end": 1624.3,
+   "text": "Golanian, would you like to clarify what we will be doing with this, uh, item on the agenda? And we do have a number of speakers who I wish to allow all to speak this evening. Um-"
+  },
+  {
+   "speaker": "speaker_13",
+   "start": 1624.34,
+   "end": 1624.52,
+   "text": "Yes"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1624.56,
+   "end": 1626.98,
+   "text": "... and, and they're all here to speak on this item."
+  },
+  {
+   "speaker": "speaker_13",
+   "start": 1627.32,
+   "end": 1640.52,
+   "text": "Yes. Certainly, Mayor. Excuse me. This would be a public hearing, so my recommendation is, uh, you open the public hearing and continue the item to the next week's, uh, meeting on November 10th."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1641.54,
+   "end": 1646.62,
+   "text": "All right. Um, and then we will be able to continue to hear from the public next week as well, correct?"
+  },
+  {
+   "speaker": "speaker_13",
+   "start": 1646.78,
+   "end": 1647.22,
+   "text": "That's correct."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1647.44,
+   "end": 1653.74,
+   "text": "Okay. So with that, uh, let's ask the, um, clerk to read the item into the record."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 1655.58,
+   "end": 1671.34,
+   "text": "Glendale Water and Power public hearing regarding proposed water rate increase for fiscal year 2027 to 2031, and resolution establishing water rates and charges, motion approving Glendale Water and Power water system cash reserve policy."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1671.96,
+   "end": 1694.32,
+   "text": "All right. Thank you. And just so the public understands this process, the reason why we are opening this public hearing, which we are calling it open at 6:28 PM, is because it has to be advertised. It has to be published in a, a paper, um, that it has regular circulation in the city. Um, and for that reason, it, we could not just pull this off the agenda and move it a week."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1694.5,
+   "end": 1716.96,
+   "text": "We had to leave it on the agenda. We won't be taking action on it, but we will be hearing from everyone, and we'll also allow an opportunity next week as we continue this hearing, which will be the final act on this item, um, for individuals to speak on it then as well. So the rules will be that we will allow everyone three minutes to speak, which is our ordinary or customary amount that we allow members of the public to speak on an item."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1717.88,
+   "end": 1744.36,
+   "text": "Um, when we have gone through the first six minutes, which would be the first two speakers, um, we won't be taking any more calls, uh, for people who are calling in from home. Um, so with that, I appreciate those of you who took the time to come down here to our chambers, to your chambers, and with that, I'd like to invite the first speaker, uh, to the podium, uh, James Hankins to speak."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1744.9,
+   "end": 1747.24,
+   "text": "Mr. Hankins, three minutes."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1751.26,
+   "end": 1771.32,
+   "text": "Thank you. Um, I agree with the proposed rate hikes on almost everything except one item, which I'm gonna hang my hat on the fact that I'm really old and easily confused. And the new and improved..."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1773.58,
+   "end": 1802.74,
+   "text": "I built a garage 24 years ago. I was told I could get a building permit if I put in a fire preventative sprinkler system. I said, \"No one is in the garage. I don't care about the cars.\" They said, \"Sprinkler system or no permit.\" So I put in a sprinkler system, had it engineered. Engineer says, \"I'm sorry, your one-inch water main is insufficient to power the sprinkler system.\" So I had to increase the size of my water main to an inch and a half."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1803.6,
+   "end": 1829.18,
+   "text": "That doubled my customer rate compared to my neighbor and my previous rate. I did the math. The new rate, uh... So for the past 24 years, I've been paying double my neighbor's rate for the customer charge. We use the same amount of water, but I, I pay substantially more. Uh, with the new improved rating structure, I will get to pay almost three times- ..."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1829.22,
+   "end": 1857.66,
+   "text": "my neighbor's rate simply because I put in a fire preventative sprinkler system. And if it was just he's gonna pay 1,000, I'm gonna pay 3,000, I wouldn't really mind. I'd, I'd mind not that much. The real numbers based on the published rate structure as of today that would go into effect, his customer charge would be $16,000 over the next 24 years."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1858.44,
+   "end": 1875.04,
+   "text": "My customer charge would be 45,000. And I don't understand why I pay an extra $30,000 over the next 24 years simply because the water coming to my house is in a half-inch bigger pipe."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1877.24,
+   "end": 1902.96,
+   "text": "That's my, my problem with the rating structure, is I don't see why I should be penalized for complying with the city requirement to put in a fire preventative sprinkler system and then be surcharged an extra $30,000 over the next 24 years. Other than that, thank you for giving me really clear, fresh, odor-free, outstanding water."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 1903.32,
+   "end": 1903.96,
+   "text": "I appreciate it."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1904.68,
+   "end": 1925.02,
+   "text": "Thank you very much, Mr. Hankins. I appreciate it, and that's an interesting point that you raised, and, um, perhaps staff can, uh, look into that and, uh, when we have an opportunity to ask staff questions, you can give us an explanation as to why that is the case for Mr. Hankins. Next speaker is Mr. Manatsakanyan. You'll have three minutes. Followed by, uh, Olivia Webber."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 1932.14,
+   "end": 1933.08,
+   "text": "Good evening, everyone."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 1937.76,
+   "end": 1956.82,
+   "text": "I'm here tonight to urge to stop and reconsider the proposed five-year water rate increase program. Glendale residents are already struggling with the rising cost of living. Seniors on fixed incomes, working families, homeowners, and small businesses are facing increasing financial pressure."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 1958.16,
+   "end": 1990.6,
+   "text": "Under this proposal, the monthly fixed charge and standard five-inch, five-eight inch water meter increase from 19.37 to $42. That is more than double the current fixed charge before we even pay the water we use. I understand that our water infrastructure needs maintenance and that water costs are increasing, but residents should not simply be expected to pay more without true explanation, the cost, alternatives and effort to protect affordability."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 1991.48,
+   "end": 2020.08,
+   "text": "I ask you, have you possibly alternative, uh, find alternatives, seriously consider it? Have you ever explored ways to reduce costs before pricing this additional burden on residents? Reliable water service is essential, but so is affordability. I respectfully urge the council to reject or pause this pro- pro- proposal, conduct a true review, and bring forward a more affordable plan that protects Glendale residents."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 2021.36,
+   "end": 2043.18,
+   "text": "Please remember these are not just numbers on a spreadsheet. These are real families, seniors, and small businesses trying to make ends meet. Glendale has a lot of seniors, and I know that they're struggling, so is a lot of other people. The gas prices, the business is struggling. Every business owner we speak, they're struggling."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 2043.8,
+   "end": 2053.66,
+   "text": "So increasing their water is not gonna help. And we already have a declining people are leaving Glendale. Let's make Glendale great again. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2054.82,
+   "end": 2057.22,
+   "text": "All right. Thank you. Next is Olivia Webber."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2059.66,
+   "end": 2066.4,
+   "text": "And after Ms. Webber is done, let's reset the timer. Once Ms. Webber is done, then we won't, uh, take any, uh, additional callers."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2067.9,
+   "end": 2076.9,
+   "text": "Well, congratulations to the teacher that got the recognition. We are all proud of s- teacher, fellow teachers."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2076.94,
+   "end": 2077.36,
+   "text": "Mr. Galfayan. Mm-hmm."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2078.04,
+   "end": 2104.12,
+   "text": "And to, uh, give a little translation, we are in a bilingual atmosphere. The translation would be, um, from the old Castilian of California, that the good judge begins in his own home. So I would encourage the city to, um, keep it clean, keep it tight, and make it right for the rest of us."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2105.9,
+   "end": 2109.16,
+   "text": "To hunt down the office"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2112.38,
+   "end": 2131.76,
+   "text": "of the department that does graphics, designs. It's like, oh, if you read some footnote, you might find something, and you can always use more info in your Rolodex. I don't do online. The FBI gets hacked. I prefer not to be hacked. Okay?"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2132.52,
+   "end": 2157.54,
+   "text": "So, um, when I tracked them down, they've probably worked for the city, you know, five to 10 years, and some of my issues might seem like, psh, whatever the, I'm talking about. So presumably, because I don't know, these are graphics that would be produced in Glendale. It tells us every two months what we spent in the way of water."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2158.04,
+   "end": 2176.86,
+   "text": "Not in dollars and cents, but in, you know, do we make the grade, right? Is it an A, a B, or a C? And let's not talk about anything beyond that. So I would say that if the oldest one here in my file is, I didn't know that I was gonna be speaking, so I'm off the cuff."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2177.64,
+   "end": 2199.01,
+   "text": "Um, 2014. So that's 12 years worth of paperwork. This is not energy. This is only water, because that's what we're addressing. So I have a separate stack for, uh, electricity. You no doubt get these, and either your spouse Or your circular file knows what it says."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2199.61,
+   "end": 2219.91,
+   "text": "It takes time to say, \"Oh, they say I'm in the middle. I'm not an efficient household. I'm not even an average household. I'm me. I am me.\" Okay? So you probably don't do unusual things like collecting this because you don't, never know when you're gonna show up at a City Hall meeting. I got here by bus."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2220.29,
+   "end": 2234.27,
+   "text": "The gentleman who admitted to being a senior citizen, I wouldn't have suspected it. You wouldn't think that I was either. At any rate, the dollars should be conserved by you, the good judges, who are cleaning up your own"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2236.31,
+   "end": 2251.63,
+   "text": "closets. Um, so we get one page on one side every two months. The backside does not tell us anything about electricity. That comes by way of the postman in another week or two. Right?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2251.63,
+   "end": 2256.07,
+   "text": "Ms., Ms. Weber, uh, your time expired. If I give you 30 seconds, will you be able to wrap up?"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2256.19,
+   "end": 2256.81,
+   "text": "I think so."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2256.99,
+   "end": 2256.99,
+   "text": "Okay. Go ahead."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 2257.03,
+   "end": 2280.01,
+   "text": "I think you got the message. The, the, a gas company has a little graph at the bottom of the bill that says, \"Yay, nay, we made it.\" You guys send us a separate water graphic and a separate electrical. Why are you spending on the postman making the trip to our house two separate times when you could put it on the bill?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2280.23,
+   "end": 2287.39,
+   "text": "Thank you. Uh, Ms., uh, uh, Ms. Brooks, Beth Brooks, followed by, uh, Tigran Shahinian. Three minutes."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2297.39,
+   "end": 2310.23,
+   "text": "Uh, thank you. Uh, along with Gevorg Gregorian, Gevorg and I are running the, uh, saveglendalewater.com website. We are, uh, opposing this increase right now."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2310.67,
+   "end": 2310.67,
+   "text": "Let's keep it all quiet."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2310.75,
+   "end": 2331.51,
+   "text": "I actually think this is cruel given the, uh, doubling and tripling electric rates over the summer to actually hit people with this, because your deadline is arbitrary. It's an absolutely arbitrary deadline. Today was an arbitrary deadline. November 10th is an arbitrary deadline. You can push this off till February. You can push this off till March."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2331.93,
+   "end": 2351.87,
+   "text": "This is crazy. People can't, uh, people can't take this. When you did the, uh, North Verdugo Road improvement project, you gave people from March 18th, 2026 to November 1st, 2026, for outreach. That's eight months. You gave us eight weeks. We are going into the community, and you can call us. We will get you forms."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2352.17,
+   "end": 2374.43,
+   "text": "We have drop-off locations all throughout the city. You can call 818-913-2486 or 820-888-8877, and we will get you forms. Right now, we need about 22,000 forms. You guys have been going throughout the city. I know somebody just told me Alec went to some condo association."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2374.55,
+   "end": 2398.25,
+   "text": "You're going all over the place to, to, to, to push this on people, that we cannot afford right now. I'm asking for a postponement till after 2027 to clo- You don't have to postpone this till next week. You can open a hearing and postpone it for three months. You can postpone it for two months. Why you said it's gonna be postponed till November 10th already, I don't know, because you didn't vote on it yet."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2398.69,
+   "end": 2418.59,
+   "text": "So just because he opens it up doesn't mean that you voted on it yet. So it's not postponed to the 10th, of course, until you voted, and probably you've already decided to vote. I'm asking you not to vote on that. We didn't do enough outreach. You can't tell if people want this or not if there isn't enough outreach. You know, putting it out into the communi- people barely know."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2419.15,
+   "end": 2439.17,
+   "text": "They really barely know. I don't know what kind of journalism we have here, but people barely know what's going on. And until we have enough people to know what's going on... We at least have 3,000 people who signed the petition. We need 22,000. That's something. That's something with very little outreach. So you have to postpone this. I would like it till December, but we lose Thanksgiving."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2439.33,
+   "end": 2461.33,
+   "text": "I would like it till after 2027. It's not gonna kill you for another two months. This entire deadline is arbitrary. This water rate increase that you're hitting people with 50 to 145%, and we know it's because of the bond. You have to increase your cash reserves. You have to increase rates to show that we're a good credit risk. So that's what's happening. You're only fixing two miles of pipe in one year."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2461.53,
+   "end": 2466.99,
+   "text": "This is not a crisis. This is a choice. Make the right choice. Don't do this to people. This is, this is cruel."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2467.91,
+   "end": 2476.47,
+   "text": "Um, Ms. Brooks, since you do have 10 seconds left, uh, what would adequate outreach look like to you? I'm just... I would like to know, genuinely."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2476.61,
+   "end": 2480.15,
+   "text": "For me, for, for us or for you? 'Cause we're operating on $0."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2480.25,
+   "end": 2481.45,
+   "text": "No. No, you're saying that-"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2481.53,
+   "end": 2481.53,
+   "text": "Yeah"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2481.53,
+   "end": 2482.97,
+   "text": "... there wasn't enough outreach done."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2483.29,
+   "end": 2483.95,
+   "text": "No, not from you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2484.77,
+   "end": 2485.63,
+   "text": "So what would-"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2485.67,
+   "end": 2486.09,
+   "text": "Well, yes, from you. But-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2486.11,
+   "end": 2490.71,
+   "text": "What would, what would at, what would ideal outreach look like to you?"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2491.31,
+   "end": 2493.31,
+   "text": "No, your outreach is spin. You see, your-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2493.37,
+   "end": 2494.95,
+   "text": "I, I understand. But what would-"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2494.97,
+   "end": 2495.07,
+   "text": "No, I'm talking about our outreach"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2495.11,
+   "end": 2497.95,
+   "text": "... what would be effective, what would be effective outreach-"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2498.23,
+   "end": 2498.51,
+   "text": "I'm talking about our outreach"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2498.51,
+   "end": 2499.87,
+   "text": "... to inform the entire public?"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2500.19,
+   "end": 2505.93,
+   "text": "Okay. You're listening to me? I'm talking about our outreach. You have your spin."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2506.29,
+   "end": 2506.29,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2506.33,
+   "end": 2509.15,
+   "text": "We have the translation of the spin."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2509.27,
+   "end": 2509.41,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2509.47,
+   "end": 2509.95,
+   "text": "Okay?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2509.99,
+   "end": 2510.59,
+   "text": "All right. Thanks."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2510.59,
+   "end": 2510.61,
+   "text": "That's what I'm talking about."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2510.65,
+   "end": 2511.77,
+   "text": "I just want to be... All right. Uh-"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 2511.89,
+   "end": 2512.03,
+   "text": "Yeah"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2512.19,
+   "end": 2514.31,
+   "text": "... I just need clarification. Ms. Shahinian, please."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2528.67,
+   "end": 2550.09,
+   "text": "Thank you for giving me opportunity. After 41 years of service Glendale, and I decided to retire. My Social Security is $2,467. That's not the issue. Issue is you guys didn't give us enough time. When we got the notice, why couldn't you put one of these in the envelope so people know?"
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2550.69,
+   "end": 2551.13,
+   "text": "Why not?"
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2553.15,
+   "end": 2572.18,
+   "text": "Sending a letter anyway, put one of these so people have a chance to do it. Okay? You know, Mr. Mellon, first meeting I went, he used the words Total transparency and we're gonna make tough decisions. I'm gonna add two more words to that, integrity and accountability."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2575.06,
+   "end": 2577.4,
+   "text": "Okay? We do expect"
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2580.26,
+   "end": 2603.06,
+   "text": "raise to our bills. That's a given. But the well down department could do it within the budget. Easy way out is, uh, let's raise the rates. That's lazy. That's, uh... I can't even say the words. I want to say it. That's irresponsible. That's criminal. If you do it within the budget, he has three assistant managers."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2604.0,
+   "end": 2625.34,
+   "text": "Assistant managers and himself. If he add two more people, I did the math, that's gonna be $2 million a month, just the salary. Times five, that $100 million we're gonna raise, 10% of it's gonna go to their salaries. That's not acceptable. Do it within the budget. Why can't we do it within the budget?"
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2626.16,
+   "end": 2646.36,
+   "text": "Do a single digit increments that probably acceptable, but as far as 100%, 150%. And this is the rebate. The guy came in. This is what he's... He came with this bag. This is the rebate that I got."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2646.8,
+   "end": 2651.5,
+   "text": "You could only get two of these and one of these. 20 cents."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2654.6,
+   "end": 2675.92,
+   "text": "20 cents. And that's all he save me and tell me he got $2,000 from where? He came into our house three months ago. He's trying to sell me some air conditioning unit. What kind of a program is that? 20 cents. Here you go. He could keep it. I don't need it. But if you want to do it, do it within the budget."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2676.8,
+   "end": 2687.22,
+   "text": "I manage a Ross Grocery Company for 38 years. Not even once I miss the salary, I miss the EBITDA, health department, all kinds of stuff."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2689.78,
+   "end": 2696.56,
+   "text": "So all that money we gonna raise, 10% of it just gonna go to the salaries. 10%. That's $10 million."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2699.1,
+   "end": 2699.36,
+   "text": "Why?"
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2703.1,
+   "end": 2703.72,
+   "text": "My time up?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2705.74,
+   "end": 2705.74,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2705.78,
+   "end": 2708.24,
+   "text": "And if we need more copies, I made some extra copies."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2708.64,
+   "end": 2716.46,
+   "text": "All right. Thank you. Thank you. I appreciate you coming down, Mr. Shahjanyan. Next is Harma, uh, Shahjanyan."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2716.48,
+   "end": 2717.36,
+   "text": "Can I leave this here? Maybe you could give it to them."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2717.92,
+   "end": 2724.56,
+   "text": "Sure. Thank you. We'll, we'll make sure someone gets it. Uh, Harma Shahjanyan, followed by Gevork Gregorian."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2724.68,
+   "end": 2733.32,
+   "text": "One, one more. Just one thing. I love Glendale. I have two daughters. When they go out, I never worry about them. I sleep like a baby because of these guys."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2733.66,
+   "end": 2734.22,
+   "text": "All right. Thank you."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 2734.26,
+   "end": 2736.62,
+   "text": "I sleep like a baby because I know they're safe."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2736.92,
+   "end": 2740.68,
+   "text": "Well, we appreciate that. Uh, thank you for those compliments."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2743.06,
+   "end": 2743.44,
+   "text": "Good evening."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2743.92,
+   "end": 2744.04,
+   "text": "Sure."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2744.12,
+   "end": 2763.44,
+   "text": "My name is Harma Shahjanyan. Uh, this is my first time speaking at a council meeting, but I felt the need to speak up today because of this, uh, rate increase. I've lived in Glendale in the exact same neighborhood, almost the same street, for 40 years. Uh, I grew up here. Clark was mentioned a couple of times. I'm actually part of the first graduating class, going there since ninth grade."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2764.24,
+   "end": 2783.78,
+   "text": "Uh, when I was growing up here, our streets felt like a community. It was small, quiet. Uh, we'd play in the streets. I flew a kite, threw footballs going right down the middle of the street. Now you can't do that anymore. Our single family neighborhoods are completely overrun due to all the large scale developments and garage to ADU conversions."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2784.5,
+   "end": 2807.4,
+   "text": "The streets are choked with cars parked bumper to bumper on both sides. And there's no parking, and the small community feel that made Glendale special is being erased. I have to ask the City Council, are we trying to turn Glendale into, like, downtown LA or New York? What's the goal with all these development after development? And then why should today's long-term residents subsidize all these developments?"
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2807.52,
+   "end": 2835.76,
+   "text": "Why should we pay for future residents? We already got burned by the electric rates. It was advertised as being a 25% increase, which I was okay with that. You know, for clean energy, EV charging, we need the new infrastructure. But actually, the bills, like, doubled and tripled. Now you're doing the same with the water, uh, telling us it's gonna be 10, 11%, but when it's year over year, it, it compounds and becomes a lot more than that."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2836.34,
+   "end": 2856.42,
+   "text": "Not to mention the initial massive 50%, 145% rates. Uh, I think we already did our part. We followed your mandates, restricted our water usage, tore out our lawns to plant cactus and native landscaping. On top of that, Glendale increased the sales tax rate. That'll probably push the car sales out of the city."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2857.34,
+   "end": 2876.74,
+   "text": "Uh, residents are completely tapped out. Instead of wasting money on projects that are not well thought out, like the bicycle lane on Brand. I drive that way every day, I saw maybe one bicycle use that lane, and then how much did we spend to rip it back out? Use some of that money for the infrastructure. Finally, I protest the timing of the process."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2877.28,
+   "end": 2919.82,
+   "text": "We did this hearing on election day. Uh, I actually didn't get the chance to go vote because I wanted to come here instead. And, uh, like it's been mentioned already, we haven't had enough time to reach out and get this Proposition 2018, uh, form filled out and have people actually voice their opinion. So, um, I ask that you guys delay the decision at least, give some time for outreach, like they said, and don't force people who built this community to fund a, a infrastructure that could be funded other ways, and save money in other places and use that to address the, you know, the needs that are mainly due to all the development."
+  },
+  {
+   "speaker": "speaker_19",
+   "start": 2919.86,
+   "end": 2923.48,
+   "text": "Maybe cut down on the development so we don't need to increase the rates. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2923.52,
+   "end": 2936.5,
+   "text": "All right. Thank you. And Mr. Shahjanyan, you still have at least an hour and 10 minutes to go vote, and polls were open, uh, as early as 7:30 this morning. So that's when I voted. Um, Gevork Gregorian, three minutes"
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 2942.85,
+   "end": 2971.17,
+   "text": "Good evening, Mr. Mayor and members of the council. I'm Gevorg Grigoryan. Most of you know me. Uh, I'm a resident in Glendale. For the past 45 days, I've walked this city door to door, and I want to ask you something. Have you done this? Have you walked into e- our neighborhoods and talked to our seniors, to the people living on Social Security who, who count every dollar before they make a payment?"
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 2972.11,
+   "end": 2995.19,
+   "text": "Have you looked into their eyes? I have, and I can tell you what I saw. I saw hope. People who didn't know what to do, who were afraid, and who hel- held onto my hand because somebody finally came to them. I received more blessings and more prayers in these 45 days than I can count."
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 2996.25,
+   "end": 3017.03,
+   "text": "So I ask you, if you walked those same streets, would you receive the same, or would the doors stay closed? Because here is the truth. Most of the people I met were not aware of this increase, and the ones who were aware heard about it from us, our team, our volunteers."
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 3017.73,
+   "end": 3049.29,
+   "text": "They did not hear it from the city. That is your job. It was not done properly, so we took it into our own hands. So tonight I'm making one request. Extend the protest period until December the 15th at least. If you're sure that the people will not protest, if you're confident they w- they will understand and accept everything you have told them about the water rate increase, then you have nothing to fear from giving us more time."
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 3050.03,
+   "end": 3069.43,
+   "text": "But if you refuse, we can only conclude one thing, that you're afraid. Afraid that with more time, more people will know, and that when they know, they will protest. Give the people their time. Even an election period has six months. Give them their voice."
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 3069.73,
+   "end": 3088.89,
+   "text": "Extend the protest period until December the 15th at least. Those are all signed petitions that the people have signed already. And well, until today, we receive calls from the people that they are not aware, that they have heard about it from their neighbors."
+  },
+  {
+   "speaker": "speaker_20",
+   "start": 3089.79,
+   "end": 3108.47,
+   "text": "We need more time because they didn't hear it from you. So we c- we will do, we will continue to do it. Give us more time. We will e- show them what you're proposing, and they will decide if they want that or not. That's it. Thank you very much."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3108.97,
+   "end": 3119.71,
+   "text": "Okay. Mr. Demirjian, followed by, uh, David Petruzzi. So it's Armand Demirjian, followed by David Petruzzi."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3121.91,
+   "end": 3147.29,
+   "text": "Thank you. My name is Armand Demirjian. Like another gentleman said, this is my first time speaking at a council meeting. I never really cared about these things until this water rate increase, and I started to take a look at the stuff that was produced, what was not produced. And I think more than anything, I'm a little bit baffled by the lack of transparency behind this whole water rate increase in terms of how it's being pushed onto the, onto the public, onto the ratepayers."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3147.89,
+   "end": 3176.45,
+   "text": "I've been in communication with the city attorneys o- with the city attorney herself, and, uh, I've asked for the, uh, the water rates, the, the master plan. It seems all we have is a summary, and nothing has been released in terms of the data behind it. There's this complete lack of transparency and the, the logic or the, the spin that I've been told that is it, it's proprietary when the contract itself from Raftelis says that it's the city's own property."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3176.85,
+   "end": 3200.31,
+   "text": "So I don't know what's being done here, and there's been some mixed messaging at all the public meetings that the, the community meetings that have been held. But this water rate increase, there, there's a lot of questions that the public doesn't know about, as everyone has mentioned. And for example, at the October 15 community meeting, a resident asked why the city would not use its water surplus."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3200.39,
+   "end": 3230.93,
+   "text": "The city's answer was, quote, \"It's not a surplus.\" At the Brand Library on October 17, GWP's finance staff told residents, quote, \"There is no surplus as is being depicted.\" At the same meeting, staff said the city is not authorized to charge more than what it takes to provide water, which is true. That's Prop 218. But the, but the city's own adopted budget, approved by this council in June, shows a water surplus fund holding $136 million on July 1 of this year, growing to $143 million by next June."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3231.39,
+   "end": 3255.63,
+   "text": "It's got no spending plan. This year, the main water fund moves a new $7.3 million into it. The rate study counts that same set-aside at only $400,000. At the same time, the rate study would nearly triple the reserve target from $11.3 million to about $40 million to hold six months of operating cash based only on what the cit- study calls industry standards."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3256.15,
+   "end": 3277.01,
+   "text": "And so under our city charter... So, so is the $136 million counted in the staff's $24 million? And what, if anything, is it restricted for? So, and as previously been mentioned, the bonds are the reason why this is happening, okay, and why the rates are increasing so much in the first six months. You're not even giving residents a full year."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3277.37,
+   "end": 3297.73,
+   "text": "You're basically uploading all that cost at the first six months. And to be honest, the, the mismanagement of the money is very baffling to me. Um, bike lanes, who cares about that? You spend all this money on bike lanes when that could have been used to help lower some of the costs here. No one's riding these bike lanes. It's ca- causing more traffic."
+  },
+  {
+   "speaker": "speaker_21",
+   "start": 3298.15,
+   "end": 3305.49,
+   "text": "But you all forget that people who voted for you, you end up-- Once you end up on those seats, you end up serving ideology instead of practicality."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3306.55,
+   "end": 3313.93,
+   "text": "Okay. Uh, Paul Petruzzi next. And thank you for coming down, Mr. Demirjian. Followed by Rami."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3316.43,
+   "end": 3340.31,
+   "text": "Thank you guys for hosting this. This is also my first time. Um, I'm here for a few reasons. Um, I obviously voted for some of you to get into council over this past election. And so I think one of the things that was really important for me today was the simple thing of this, and it's been said very well already, this is an affordability crisis that's self-inflicted."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3340.65,
+   "end": 3366.15,
+   "text": "You guys are raising these rates at a time when most people can barely afford their daily, their daily food, gas. You have a ton of people on fixed incomes. And putting aside that this is not a good time, I went to two of these meetings, and unfortunately, my impression of what was presented to us felt as though it was condescending."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3366.29,
+   "end": 3389.75,
+   "text": "It said that we didn't know better, that this was, for a lack of a better term, because of another, uh, administration, this is why they're here now, and this is why we have so much money. But for us, we live in Zone 3. We were told that this would go up $26 a month. Our bill's gonna go up, with their calculation, almost $250 a month."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3389.99,
+   "end": 3410.03,
+   "text": "That's almost $3,000 a year. And for us, neither one of us, our, our, uh, yearly salary has gone up. The cost of living is going up, and this is a 50% increase. So you're asking about what outreach looks like. And for me, this is time. Eight weeks is not enough time."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3410.47,
+   "end": 3430.57,
+   "text": "You have to give people the opportunity to really understand what is happening. This 50% increase by 2027 is in two months. That is not enough time. I understand things need to be fixed. We don't wanna live in a crumbling infrastructure. But you guys have to give people more time. You have to do more outreach."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3430.81,
+   "end": 3454.87,
+   "text": "You can't just send a couple letters, an Instagram post. One of the meetings that I went to, an hour before it was meant to be there, you guys postponed it two hours at the Brand Library because of a staffing issue. So for me, this really comes down to communication. I understand that you guys have to make sure that the city has clean water, that everyone has the right infrastructure."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3455.31,
+   "end": 3479.43,
+   "text": "Don't do 50%, do lower. There's gotta be a better way to get where you need to. And the last thing I'm gonna say, 'cause the gentleman before me said it very well, there is no transparency. They've told us that the reason that we can't hear about what the projects are is 'cause they're worried about someone attacking these infrastructures. But you're asking us for money up front without any plan of what each thing costs."
+  },
+  {
+   "speaker": "speaker_22",
+   "start": 3480.01,
+   "end": 3499.29,
+   "text": "So, uh, what I, I'm really asking for is extend the period of time, more transparency on what projects are being funded, and making sure that you're reaching out to the most vulnerable. Seniors need to know what's going on. People living under the poverty line that live in this community need to be reached out to. Thank you very much."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3499.59,
+   "end": 3505.19,
+   "text": "Thank you. Next is Rami, followed by Hagop Choukhatian."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3507.83,
+   "end": 3531.65,
+   "text": "Hi, council, public. Uh, yes, uh, I, I wanna answer to Mr. Tigran. Uh, uh, the, the chairman of, um, m- manager or whate- of a former manager of the Water and Power once, your boss, told that if you want to live in a nice city, you gotta pay for, uh, for all these high prices."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3531.79,
+   "end": 3570.87,
+   "text": "High rent, high electricity, high water. That- that's your boss said. So, um, yeah, that is just fact. I mean, anyway. Uh, I don't know where to start. Start from the, uh, rapid po- political atmosphere, uh, of this country, rapid changing of political at- uh, atmosphere of this city or, uh, uh, this country, or the, uh, or the, um, authorities that, uh, they're looking into this to gain financial, uh, to gain financial, um, uh, uh, to get financial out of this proposal."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3572.37,
+   "end": 3572.63,
+   "text": "Uh,"
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3575.81,
+   "end": 3600.03,
+   "text": "yeah, the interesting thing, Mr. Kassakhian. Oh, uh, uh, actually, uh, first of all, I'm going to intro- my- myself. I'm a, uh, renter, professional renter. Professional... Uh, of course, this professional renter comes from the phrase, it is a phrase coming from the, one of our members, uh, from a tenants union. And, uh, yeah, but we- we- we tenants are into this with the homeowners."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3600.47,
+   "end": 3625.09,
+   "text": "Mr. Ar- Kassakhian are a ho- homeowner, right? So this, this, this gonna affect you exactly, and, and I, I don't know how, how come you wanna go and, uh, vote for this, uh, proposal. And, um, yeah, we were certain oppose this. Uh, as a renter, uh, we're gonna see a substantial rent increase into this, uh, mm, substantial re- re- re- rent increase."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3625.91,
+   "end": 3646.13,
+   "text": "Um, and I, I'm pretty sure that housing providers are not gonna, uh, burden a cent of this, uh, hike, uh, water hike, water rate hike. Uh, and they, they're gonna, they're gonna burden this, one cent of this, and they're gonna transfer all the costs to the renters."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3647.51,
+   "end": 3648.35,
+   "text": "So, uh,"
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3651.39,
+   "end": 3651.55,
+   "text": "yeah."
+  },
+  {
+   "speaker": "speaker_23",
+   "start": 3661.51,
+   "end": 3666.37,
+   "text": "Yes, M- Mr. Tigran, you gotta pay higher rates if you ever, uh, wants to live in a nice environment."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3668.31,
+   "end": 3674.75,
+   "text": "All right. Thank you. Hagop Choukhatian And how many people do we have on the lines?"
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 3675.69,
+   "end": 3677.93,
+   "text": "We did have one, Mayor, but they call dropped off."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3678.23,
+   "end": 3678.43,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_25",
+   "start": 3679.91,
+   "end": 3703.77,
+   "text": "Thank you, council members, for having this meeting. Um, my request is to look into this and extend the time as everybody else asked for. I feel like it's not enough time for all of us to be aware. I am trying to tell all my neighbors, all, everyone I know about this change, which is gonna happen in January 2027."
+  },
+  {
+   "speaker": "speaker_25",
+   "start": 3704.63,
+   "end": 3732.91,
+   "text": "50% increase, more than 50% increase is not gonna help anybody. We understand life of, life cost is going up. But again, it's too much of a raise for too quick of a time. We should actually look into this and give more time for everyone. And also, my request will be if there's any unnecessary projects, bike lines, which is not helping anybody."
+  },
+  {
+   "speaker": "speaker_25",
+   "start": 3733.61,
+   "end": 3756.41,
+   "text": "I live in La Crescenta, which is part of Glendale, and I take that street down, which is La Crescenta Street, all the way to my work. It's causing too much traffic because of that one lane. People don't know how to drive. They actually are slowing down on a 40 mile, 40 per mile, uh, street."
+  },
+  {
+   "speaker": "speaker_25",
+   "start": 3756.61,
+   "end": 3779.23,
+   "text": "They're driving 35 or less than 35. It's causing too much traffic. We should look into all of the spendings that we are doing in Glendale and cut and maybe fund some of that into our water infrastructures, power, or anything else that it's more necessary than doing unnecessary projects."
+  },
+  {
+   "speaker": "speaker_25",
+   "start": 3780.79,
+   "end": 3783.69,
+   "text": "Thank you for listening to me. I hope this is gonna change something."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3785.35,
+   "end": 3786.97,
+   "text": "All right, thank you. Um-"
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 3787.27,
+   "end": 3787.55,
+   "text": "Mayor."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3788.67,
+   "end": 3788.85,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 3789.09,
+   "end": 3791.23,
+   "text": "The hand that was there, they look like it."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3791.23,
+   "end": 3791.23,
+   "text": "Back?"
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 3791.31,
+   "end": 3791.49,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3791.53,
+   "end": 3793.61,
+   "text": "All right. Let's, uh, hear from the caller. Three minutes."
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3799.47,
+   "end": 3800.95,
+   "text": "Hi, good evening. Can everybody hear me?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3801.37,
+   "end": 3802.25,
+   "text": "Yes, please."
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3802.55,
+   "end": 3802.55,
+   "text": "Me?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3802.59,
+   "end": 3802.91,
+   "text": "Go ahead."
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3803.83,
+   "end": 3840.85,
+   "text": "I'll be brief. I am a property owner, um, of a, uh, 10 unit apartment building, and I am well aware of the need, um, from time to time to raise funds, um, for infrastructure projects. My only question is why... Who, who dropped the ball here, or why wasn't this foreseen previously, and why didn't the c- the city, the council start a, a supposed slush fund, like maybe raise the rates 5% every year until you raised the money that you needed for the infrastructure project?"
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3841.25,
+   "end": 3861.37,
+   "text": "I mean, where is this 53% coming from all of a sudden? It just seems negligent to me. That's number one. Number two, as a property owner of an apartment building, I, uh, I can't control how much water my tenants use, and I pay the water bill. Um, and I can't pass it on to them."
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3862.01,
+   "end": 3883.69,
+   "text": "Um, I have half my building is Section 8 tenants. Um, and they're already stretched, and then because of rent control. So I'm just kinda stre- scratching my head. As a property owner, we... There's so many restrictions as to what we can do, yet the city, and I'm not just talking about Glendale, I'm talking about every ci- city, quite frankly."
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3883.81,
+   "end": 3906.69,
+   "text": "I actually personally live in Pasadena. Um, there, there's just no limit to increases and taxes and new taxes on this and... So why is it that property owners are limited in terms of what they can charge in, in terms of rent, but cities can just arbitrarily charge whatever?"
+  },
+  {
+   "speaker": "speaker_26",
+   "start": 3906.79,
+   "end": 3923.65,
+   "text": "It just seems so unfair. So all I'm asking for is more time to think about this and maybe do smaller increases over the next few years to get to the number you guys need in order to fund these infrastructure projects. Thank you so much for your time."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3923.97,
+   "end": 3936.39,
+   "text": "Thank you. So that's the last speaker, um, for today, um, on this item. Uh, we, uh, we're not gonna close the hearing, because we can't close the hearing. We're gonna continue it, correct?"
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 3936.47,
+   "end": 3939.67,
+   "text": "Ask that you continue to November 10th without further public notice."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3940.29,
+   "end": 3945.13,
+   "text": "Oh, and we, we... That requires a motion and a second and a vote. So who would like to move to-"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 3945.23,
+   "end": 3946.47,
+   "text": "Can I ask a procedural question? Or-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 3946.49,
+   "end": 3948.27,
+   "text": "Sure"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 3948.33,
+   "end": 3969.59,
+   "text": "About the, the opposition and collecting signatures. This 45 days, can you explain the, the process as to how does it work? Is it from the day that it was announced that the rates are going to increase, or the council is thinking about increasing the rates? Uh, can you just explain how the process is or-"
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 3969.93,
+   "end": 3970.31,
+   "text": "I'm gonna have-"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 3970.35,
+   "end": 3972.87,
+   "text": "Why 45 days and not 180 days is the-"
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 3972.87,
+   "end": 3977.55,
+   "text": "I'm gonna have... It's a Prop 218 issue. I'll have, uh, Principal Assistant City Attorney Doreen Martirosian respond to the question."
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 3977.83,
+   "end": 3999.01,
+   "text": "Sure. Good evening, Mayor Kassakhian, council members. Doreen Martirosian, Principal Assistant City Attorney. Um, the 45 days, it's set by the Proposition 218 language. It's, it's in the statute. It's in the government code. Um, it's 45 days from the date the notices are mailed. Um, what the city does is we provide more than 45 days. For example, if the..."
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 3999.29,
+   "end": 4005.91,
+   "text": "Instead of 45 days, we'll make sure the, the notices are mailed 50 days in advance of the public hearing. That's where the 45 days comes from."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4006.99,
+   "end": 4016.51,
+   "text": "And, uh, it was asked for this timeline to be increased. Is that in purview of the council to do that, or it's part of 218 and we cannot do it?"
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 4017.19,
+   "end": 4036.69,
+   "text": "It's part of Prop 218, the 45 days minimum. Of course, it's within the purview of the City Council. Ju- just as you continue the hearing, you could potentially continue it further. And so the, the Proposition 218 period would increase. And as we've indicated before, notice, uh, protests would be accepted until the date of the new hearing."
+  },
+  {
+   "speaker": "speaker_24",
+   "start": 4036.81,
+   "end": 4044.69,
+   "text": "So for example, today the City Council extended or continued the hearing to November 10th. Pro- protests will be accepted until November 10th"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4045.1,
+   "end": 4066.62,
+   "text": "And last question, since we're not having any, um, discussions here tonight on, on, on this issue because it's being continued, if there is a pr- a, a suggestion next week to continue to another month or week or 10 days, is that still time? It won't, it won't close that, uh, opportunity for them to collect signatures?"
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 4068.64,
+   "end": 4074.86,
+   "text": "Uh, as long as the, the, the city has to accept signatures up until the close of the public hearing, so, um, or until-"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4074.9,
+   "end": 4074.9,
+   "text": "Right"
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 4074.9,
+   "end": 4082.62,
+   "text": "... the time is accounted. So if the council were to continue it again, then the, the period to submit, uh, uh, pr- uh, protests would, would continue."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4083.16,
+   "end": 4083.78,
+   "text": "Okay, thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4085.04,
+   "end": 4086.96,
+   "text": "Okay. Um,"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4089.38,
+   "end": 4094.3,
+   "text": "so who would like to make a motion to continue the hearing to November 10th?"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4095.2,
+   "end": 4097.18,
+   "text": "Um, one last question, Mr. Mayor. Sorry."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4097.58,
+   "end": 4097.8,
+   "text": "Sure."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4098.46,
+   "end": 4098.6,
+   "text": "Um-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4099.06,
+   "end": 4099.4,
+   "text": "Go ahead."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4101.42,
+   "end": 4128.08,
+   "text": "And if... I just wanted to know, is there a, is there a desire to continue this thing to, to December as it was, it was asked by the public? 'Cause I, I get this, this, this comments everywhere I go that, \"You're not doing anything. You're, you're, you're trying to shove this in our throats, and you're not, you're not giving us enough time.\" And I just don't wanna come back in, in a month or so later and say, \"Well, we didn't have enough time."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4128.14,
+   "end": 4136.22,
+   "text": "That's why we're not... We, we weren't able to, to collect the signatures.\" I just wanted to know if there's a desire for that or not for, for this-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4136.26,
+   "end": 4161.66,
+   "text": "Uh, I'm, I'm not, I'm, I'm not, uh, against, uh, uh, extending the hearing or the period. Um, I, I don't necessarily think that all of the issues raised were, um, founded in, in legitimate concerns, because I think there may never be an opportunity to make sure everyone, uh, is informed on any item."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4162.44,
+   "end": 4172.72,
+   "text": "Um, that's one of the challenges we have today, but I'm not, uh, against it either. I'm, I just would not want to make that decision this evening with the absence of at least one council member."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4172.96,
+   "end": 4173.1,
+   "text": "Got it."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4173.18,
+   "end": 4177.42,
+   "text": "If we have a full council next week, I think it'll be a discussion worth having."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4177.94,
+   "end": 4178.92,
+   "text": "Okay. Thank you."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4179.8,
+   "end": 4180.7,
+   "text": "May I ask a question?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4181.04,
+   "end": 4181.32,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4181.8,
+   "end": 4202.98,
+   "text": "Uh, a question for GWP. If, um, you could just walk through what would be the impact to your timeline, any other cons- considerations for the financing, for anything else, if we were to, for instance, uh, hold this open till December 15th? Or I don't know if that's the date of a council meeting."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4203.68,
+   "end": 4206.12,
+   "text": "I'm just throwing that out there. Is it the 15th? Yeah."
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 4206.14,
+   "end": 4206.46,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4206.5,
+   "end": 4207.52,
+   "text": "For argument's sake."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4207.72,
+   "end": 4207.88,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4208.76,
+   "end": 4235.6,
+   "text": "Um, good evening, Mayor Kassakhian, members of council. I'm Audrey Neysayan. I'm the AGM CFO for, um, Glendale Water and Power. So the way that the COSA is, um, laid out, uh, uh, it accounts for revenues flowing in January. Um, so any delay in how we implement the rate increases causes a delay in the revenue coming in. And in order for us to be able to build the kind of fund balance and the kind of financial structure that's needed to apply for, um, to go out and seek bonds, the timing is set to November."
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4236.46,
+   "end": 4262.38,
+   "text": "So there will be a ripple effect in how we can implement the bond issuance. Um, if w- if we move with, forward with the projects that we've outlined within the six months of the COSA period, those might need to be delayed, put on hold because the, the, it, it accounts for revenue coming in to offset those project expenditures that are planned within the first six months already. So it, it changes the COSA and, and the revenues coming in as it's been, um, as it's been, um, p- prepared and factored in."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4262.86,
+   "end": 4279.14,
+   "text": "If I could just follow up. So we've, we've now postponed it one week, right? You're saying that if, if this comes to, if, if we, let's say, adopt the plan on December 15th, that would not give you time to initiate the, the increase on January 1st?"
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4279.68,
+   "end": 4285.96,
+   "text": "That's correct. So the, the, the way that that works, I'm not sure if there's a 30-day, uh, minimum. So I think just with testing-"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4286.68,
+   "end": 4286.68,
+   "text": "30"
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4286.68,
+   "end": 4304.92,
+   "text": "... Say that again. Yes. So the way that it works is, uh, we need t- time to test it out, run, you know, the proper process of making sure that January 1st the bills are ready to go. So we can do our best, but, um, bottom line is is it doesn't give us enough time, uh, uh, enough lead time to be able to make sure that the bills go out on January 1st."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4305.44,
+   "end": 4308.14,
+   "text": "January 1st, but what you're... If I may, Council Member Brotman."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4308.16,
+   "end": 4309.36,
+   "text": "Yeah, yeah, please. I, I think it's-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4309.36,
+   "end": 4324.24,
+   "text": "It's, it just pushes everything out by the amount of what it is. There may be some downstream impacts, but what you're saying is all it does is push everything out from the expected time of beginning the billing to the next cycle possibly."
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4324.26,
+   "end": 4333.04,
+   "text": "Yes. And every cycle that we are out, 'cause January is the previous period billing, so it pushes out the revenue coming in, and it pushes up against the holidays. So, you know-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4333.7,
+   "end": 4333.7,
+   "text": "Right"
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4333.7,
+   "end": 4338.3,
+   "text": "... uh, sending out bills and preparing the bills and testing, we gotta make sure that we have staff and, and-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4338.36,
+   "end": 4358.64,
+   "text": "I think what Council Member Brotman and others would like to know, is there anything that is mission-critical that is, uh, tied to the timeline specifically versus just delays which occur, I think, pretty much all the time in a number of city and other private sector functions?"
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4358.96,
+   "end": 4370.86,
+   "text": "As long as we're able to roll out the increases January 1st, then we don't, doesn't ver- doesn't change out the revenue that's estimated in the actual COSA. So as long as we are able to do that within a timeframe, should be no problem."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4370.86,
+   "end": 4389.02,
+   "text": "So then the question becomes, if it doesn't roll out on January 1st and rolls out whenever the next cycle is, I think council and the public would like to know, what would that impact be of the revenue stream as it's needed for the work that you're expected to do and all the other items tied to this?"
+  },
+  {
+   "speaker": "speaker_27",
+   "start": 4389.46,
+   "end": 4413.1,
+   "text": "So right now, with the revenue that's factored in for January 1st, it assumes a 53% for the zone one and the average, right? And then the... So all that, all those numbers will change because the rate is built on a certain number of revenue, and it factors in six months of revenue coming in for fiscal year '26-'27. So any delays in how we actually roll out and any impact on the revenues will have to be recovered through the rate increases that get pushed out."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4413.28,
+   "end": 4438.78,
+   "text": "All right. So let me just say- For next week, anticipating that there will be a discussion on, um, either extending the time, uh, for when the council arrives at a decision or not, I'd like to ask staff to come well-prepared with what impacts of it would be and have the various scenarios already worked out or have some sort of calculator, uh, prepared to figure out what those impacts would be."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4440.32,
+   "end": 4442.6,
+   "text": "All right. Uh, a- any other questions from-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4443.24,
+   "end": 4443.36,
+   "text": "I will"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4443.4,
+   "end": 4446.82,
+   "text": "Before I give you an opportunity to ask a second round of questions, I'd like to give an opportunity to-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4446.86,
+   "end": 4446.86,
+   "text": "quote"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4446.86,
+   "end": 4447.92,
+   "text": "... Council Member Bartosurf."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4448.12,
+   "end": 4471.48,
+   "text": "Sure. The only thing I'd like to add to that request, Mayor, is, um, I know that there have been many comments raised about, uh, the amount of outreach that's been done by the city and by Glendale Water and Power. So I would like for us to be reminded and for the public's awareness about what outreach has been done so far, um, with around the Prop 218 noticing."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4472.14,
+   "end": 4492.56,
+   "text": "Um, I know I've personally received emails. I think I got something in the mail a couple weeks ago as a reminder about the rate increase. Um, so I know what's been coming to me personally, but I wanna know on, you know, citywide, um, what kind of outreach has been done, just for our awareness as we, uh, try to figure out how to move forward."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4492.92,
+   "end": 4493.2,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4493.46,
+   "end": 4495.8,
+   "text": "All right. And is that... And Council Member Gharpetian?"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4495.86,
+   "end": 4499.66,
+   "text": "I'll, I'll, I'll, I'll save my s- um, questions for next week. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4500.36,
+   "end": 4505.48,
+   "text": "Okay. So is there a motion to have this, uh, hearing continued to November 10?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4506.02,
+   "end": 4507.14,
+   "text": "I'll make that motion."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4508.1,
+   "end": 4508.76,
+   "text": "Is there a second?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4509.3,
+   "end": 4509.58,
+   "text": "Second."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4509.98,
+   "end": 4513.82,
+   "text": "All right. Motion was made by Council Member Brotman and seconded by Council Member Bartosurf."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4513.86,
+   "end": 4515.0,
+   "text": "And that's without further public notice."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4515.06,
+   "end": 4516.56,
+   "text": "Without further public noticing."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4517.06,
+   "end": 4518.18,
+   "text": "Without further public notice."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4518.3,
+   "end": 4518.36,
+   "text": "Right."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4518.38,
+   "end": 4518.54,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4519.48,
+   "end": 4520.14,
+   "text": "Roll call, please."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4521.7,
+   "end": 4524.76,
+   "text": "Council Member Asatryan. Bartosurf."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4524.88,
+   "end": 4525.12,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4525.68,
+   "end": 4526.16,
+   "text": "Brotman."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 4526.32,
+   "end": 4526.56,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4526.84,
+   "end": 4527.46,
+   "text": "Gharpetian."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4527.6,
+   "end": 4527.86,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4528.14,
+   "end": 4528.88,
+   "text": "Mayor Kassakhian."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4529.68,
+   "end": 4541.54,
+   "text": "Yes. So with that, this, uh, item will be back, um, same about time, same about channel, folks. We'll see some of you back here or I know that you'll be following it. We appreciate you coming down. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4544.74,
+   "end": 4547.2,
+   "text": "All right. Uh, next item on the agenda."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4549.34,
+   "end": 4549.36,
+   "text": "Next-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4549.42,
+   "end": 4554.74,
+   "text": "And by the way, polls are still open till 8:00 PM, so whoever came up and said they hadn't voted, please go vote."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4557.16,
+   "end": 4557.54,
+   "text": "Yes, next item."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4557.58,
+   "end": 4574.66,
+   "text": "Next item is second period of oral communication. Discussion is limited to items not a part of this agenda. Each speaker is allowed five minutes. Council may re- question or respond to a speaker, but there will be no debate or decision. The city manager may refer to the matter to the appropriate department for investigation and report."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4575.1,
+   "end": 4587.02,
+   "text": "All right. Thank you. Um, if I can ask folks who are, um, exiting the chambers if you can do so quietly and orderly. And the next speaker is Ms. Brooks. Ms. Beth Brooks, you have five minutes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4590.82,
+   "end": 4591.44,
+   "text": "Ms. Brooks."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4591.72,
+   "end": 4594.28,
+   "text": "Ms. Brooks, five minutes for oral communications."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 4595.34,
+   "end": 4595.48,
+   "text": "Ooh."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4599.34,
+   "end": 4599.72,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4603.68,
+   "end": 4604.54,
+   "text": "Thank you. Sorry."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4607.18,
+   "end": 4608.32,
+   "text": "What are you apologizing for?"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4608.66,
+   "end": 4632.24,
+   "text": "Oh, okay, that I was late. Uh, I wanna use this opportunity to explain to people that I'm one of the only people who ever comes and speaks at the end of the meetings at five minutes. Uh, and they're doing away with the five-minute, uh, uh, oral communications basically to shut me up. Uh, because people know if they look at the videos that I'm here at the end, so they don't have to watch, you know, the whole council meeting."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4633.16,
+   "end": 4662.4,
+   "text": "And that's because, you know, the mayor and I have had, uh, uh, an interaction and I had to make a formal complaint to the city attorney and the city manager. And then it moved to Dan Brotman who introduced, uh, uh, this little trick. So here I am probably at the last, uh, time to, to say that, but to say to people, we have to take back our power from this, uh, city council because you really did vote in people who are very, very radical."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4662.98,
+   "end": 4684.7,
+   "text": "And the minute they came to office, they put in, they wanted a sales tax increase. Suddenly the water is increased. Everything is about revenue. In case people don't know, marijuana dispensaries are coming because that's another thing they want. However, one thing that they don't want is a water impact fee, uh, on, on developers."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4684.74,
+   "end": 4716.22,
+   "text": "So that's very interesting. You know, I will get to that because last week you talked about revenue. Not once did anybody say there should be a water impact fee on developers. Because we are going to have a potential 160,000 units built in this city because of SB79, which means a half mile from a BRT bus stop, that radius can, can build up to eight story buildings."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4716.48,
+   "end": 4737.26,
+   "text": "So I spoke to Eric Krause at the planning department, and the number he estimated was 160,000 housing units. This is in addition to the RHNA numbers, so, uh, that's, which is 96,000 over 20 years. So people have to understand that people are coming in who are going to burden the electric grid. They're going to use water."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4737.84,
+   "end": 4764.14,
+   "text": "They're going to put pressure on aging infrastructure. So we have to realize who needs to take the burden of all this development, and it has to be on developers. You have to start to look at developers and not look at us as an ATM, 'cause it's very easy to look at the public and say, \"Well, let's just raise the, you know, raise this, raise that, raise this,\" because it's easy because people don't come, they don't complain."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4764.4,
+   "end": 4785.44,
+   "text": "But you know what? Just like Evorck said, I'm listening to people and they are livid. They are struggling. They can't believe what's happening. You know, you have to protect the public. So if you want revenue, how about you start looking at developers? You don't need a development impact fee to, to fund arts and culture. Come on But you do need a water impact fee."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4786.3,
+   "end": 4807.1,
+   "text": "So look at what you're ... You, you're getting money to, for, for parks, but there is other money for parks. So look to see what you can get for the people who are coming in and will make a pretty penny on this city versus the people who have lived here already who are truly struggling, who need your help."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4807.8,
+   "end": 4827.22,
+   "text": "So, you know, this is what I'm saying. This is very, very bad. You already... Now, last week you talked about, uh, revenue, right? So we heard about the pot dispensaries, not about the water impact fee, which is so fascinating, and even Mr. Brotman said, \"Well, I think developers have, have too many, you know, fees on them,\" at the same time that they want a water increase. That was really ironic."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4827.84,
+   "end": 4854.74,
+   "text": "Uh, and then you talked about censorship basically. So what are we getting from you guys? You come in here and you say, \"You know, we don't wanna hear from the public. We don't... We wanna hear less from the public.\" We had Elena Asatryan say, \"Well, we have to be careful. What are they gonna put on the videos? If, if com- somebody makes a presentation, what content will they have?\" Well, you passed a, a mural ordinance where you can actually put nudity and sexual acts on, on, on, on buildings."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4854.8,
+   "end": 4874.8,
+   "text": "You can. Actually because it's very... Because the obscenity laws, you can push the envelope very, very far. But she was concerned about that, so she... You have to come back and you have to look and see what content, you know, people might put in the City Council. In addition to saying, \"Why do people even have to bother coming?\" That's what she said. \"Why do people have to come to council? They email me."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4875.4,
+   "end": 4894.8,
+   "text": "I know what they want.\" People come to council because the public should, should be heard, and the public also need to hear each other so they know that we have solidarity, uh, and that you will listen to us. Maybe you'll listen to us. I don't think you should have pushed it to, you know... Anyway, maybe you will listen to us, maybe you won't, but so far I don't see it."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 4895.5,
+   "end": 4901.54,
+   "text": "I see you're listening to your constituents who got you in, and everybody else can basically go you know where. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4901.92,
+   "end": 4904.88,
+   "text": "All right. Thank you. Um, any callers?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4905.56,
+   "end": 4906.6,
+   "text": "Yes, Fernando Roldan."
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 4908.26,
+   "end": 4911.4,
+   "text": "Will I be able to say something or you have a spoken card?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4911.44,
+   "end": 4915.7,
+   "text": "You can... If you submit a card now, you'll be able to, but this is the last opportunity, so..."
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 4915.88,
+   "end": 4916.56,
+   "text": "So yes or no?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4917.08,
+   "end": 4919.88,
+   "text": "You will if you submit a card. Please submit a card, ma'am."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 4920.12,
+   "end": 4920.78,
+   "text": "Mr. Roldan?"
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 4924.0,
+   "end": 4955.54,
+   "text": "Thank you, Mr. Mayor and members of the council. Um, unfortunately this really is bad timing, uh, with the g- with these elections, um, um, uh, with these elections, uh, going on. And, um, I have to agree. I mean, you know, a lot of us... My hope is that the next meeting coming up next week, I will participate myself because I didn't see the form at my apartment and all, and by, uh, uh, by not bringing more awareness, uh, uh, to, uh, to, uh, to your constituents, it, it..."
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 4955.58,
+   "end": 4978.68,
+   "text": "that's, like, a really bad a- a- a bad apple going on. I mean, um, I... You know, as a person with a disability, um, you gotta remember some of us, it take time to, uh, to, uh, take a bath, take a shower, a- and, I have to ask that please, uh, uh, consider changing these, uh, changing these rates, okay?"
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 4979.12,
+   "end": 5000.28,
+   "text": "Um, so please think, uh, think about that, and of course, um, and of course, um, you know, think about the seniors, think about people with disabilities, think about, um, uh, just think about everybody because really these changes cannot be made at all. I mean, this has to be, um, a, a, a, a voice for the City of Glendale."
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 5001.04,
+   "end": 5022.74,
+   "text": "And, you know, that's just my think- thinking on, uh, uh, thinking on that because really if, if you don't listen to what people say, I mean, it, it, it's like, it's like, you know, why be in these positions? I mean, really this is, uh, outrageous, and right now we're trying to, uh, we're trying to avoid, uh, staggering crisis."
+  },
+  {
+   "speaker": "speaker_28",
+   "start": 5022.78,
+   "end": 5032.18,
+   "text": "We're trying... A- and, and, you know, and especially because people want to change, make these changes, especially in this important election day. That's all I have to say, and thank you very much for your time. Bye-bye."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5032.22,
+   "end": 5039.64,
+   "text": "All right, thank you. Uh, next speaker here in chambers is Olivia Weber. Ms. Weber, you'll have five minutes, and you're the last speaker."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5042.28,
+   "end": 5075.84,
+   "text": "Again, a little, uh, reference to the teachers. You probably had a majority of female instructors in your schooling. I do not see that proportion here in front of me. And as an earlier speaker said, even with my, um, distance glasses, I can't read your names, but I do have to ask for a printout next time I'm, I'm in the area so that I put it in my file for election time."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5079.78,
+   "end": 5084.52,
+   "text": "Um, I guess when you don't have to shave every day, you use less water."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5087.48,
+   "end": 5109.72,
+   "text": "You probably expect your wives to outlive you, and if you've had a two-income household and you know that one day that won't be the case for your home, you might think about the majority of the citizens who claim to be, willingly claim to be, seniors."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5110.8,
+   "end": 5112.54,
+   "text": "And if you're not here to see them"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5114.72,
+   "end": 5139.42,
+   "text": "when you're up there with whomever, you can look down and say, \"She was right.\" Okay? What choices did I have in terms of voting for whichever of you are in front of me? I don't know. Sometimes the names rhyme. Um, I've been here in this city longer than the ages that you'll admit to."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5141.64,
+   "end": 5145.94,
+   "text": "But when these two young ladies came in their clickety heels"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5148.33,
+   "end": 5175.17,
+   "text": "Um, the second one indicated, if I understood her, that the cycle of when we get our bill and the revenue that's collected from that will impact when a project, whatever the project is, I don't have the labels for it, will begin, right? That's like when you go to the, uh, market, you better not put it on debit if it ain't in the bank."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5177.07,
+   "end": 5181.99,
+   "text": "So if you were hearing it as news to you-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5182.09,
+   "end": 5186.65,
+   "text": "Ms. Weber, may I ask, may I, can you please pause Ms. Weber's time? I want to be as respectful-"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5186.79,
+   "end": 5186.89,
+   "text": "Yes"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5186.93,
+   "end": 5204.95,
+   "text": "... this may be of your first visit to council chambers, and I appreciate that. But this period of oral communication is for items that were not on the agenda, people that wish to raise other issues. And it, what it sounds like is you're revisiting the issue that we already took time to discuss."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5204.99,
+   "end": 5205.07,
+   "text": "No."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5205.11,
+   "end": 5207.09,
+   "text": "You're taking a second bite at the apple."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5207.29,
+   "end": 5207.77,
+   "text": "All right."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5208.11,
+   "end": 5208.15,
+   "text": "Um-"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5208.17,
+   "end": 5215.01,
+   "text": "Then I'll say that the communication that she, they should have provided you didn't happen, nor did you solicit it."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5215.93,
+   "end": 5231.79,
+   "text": "All right. Thank you very much. Um, I just want to make sure that we follow the rules and guidelines, uh, and I appreciate you coming down. Although I, I did not understand the comment about names rhyming, and I would like maybe some clarification about that later."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 5234.47,
+   "end": 5234.87,
+   "text": "That I said the names Smith and Jones rhyme."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5234.87,
+   "end": 5247.49,
+   "text": "Sure. Smith and Jones rhyme, I guess, and depending on how you say it. Um, with that, there's no other items on this agenda. Uh, we do have one new business, uh, item. Who would like to read that into the record?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5248.19,
+   "end": 5267.97,
+   "text": "Yes. Um, I move that the city attorney is authorized to resolve the lawsuit entitled Angela M. Osev versus, uh, City of Glendale, et al., Los Angeles Superior Court case number 24GDCV00084 in exchange for a full release of all claims in the amount of $35,000."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 5267.99,
+   "end": 5268.33,
+   "text": "Second."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5268.67,
+   "end": 5269.75,
+   "text": "All right. May we have the roll call?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 5271.57,
+   "end": 5274.57,
+   "text": "Council Member Asatryan? Bartrosouf?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5274.63,
+   "end": 5274.83,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 5275.35,
+   "end": 5275.77,
+   "text": "Brotman?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 5276.01,
+   "end": 5276.29,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 5276.55,
+   "end": 5277.11,
+   "text": "Gharpetian?"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 5277.61,
+   "end": 5277.85,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 5278.09,
+   "end": 5278.89,
+   "text": "And Mayor Kassakhian."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5279.49,
+   "end": 5282.75,
+   "text": "Yes. Was there a motion to adjourn this evening's meeting?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 5282.93,
+   "end": 5283.55,
+   "text": "So moved."
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 5284.13,
+   "end": 5284.55,
+   "text": "Second."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5284.61,
+   "end": 5288.33,
+   "text": "All right. We are adjourned. Uh, good night. Good luck. Go out and vote."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 5289.67,
+   "end": 5290.27,
+   "text": "Is that a record,"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 5335.01,
+   "end": 5335.39,
+   "text": "7:48?"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 5335.49,
+   "end": 5335.59,
+   "text": "Wow."
+  }
+ ],
+ "translations": {
+  "hy": {
+   "overview": "Ընտրությունների երեկոյան Գլենդեյլի քաղաքային խորհուրդը բացեց 2027–2031 թվականների համար ջրի սակագների առաջարկվող բարձրացման վերաբերյալ հանրային լսումը, լսեց տասնյակից ավելի բնակիչների, որոնք մեծ մասամբ դեմ էին բարձրացմանը կամ ավելի շատ ժամանակ էին խնդրում, և 4–0 քվեարկությամբ որոշեց լսումը շարունակել նոյեմբերի 10-ին՝ առանց սակագների մասին որոշում կայացնելու։ Խորհուրդը նաև հաստատեց նախորդ նիստերի արձանագրությունները, պատվեց Կալիֆորնիայի Տարվա ուսուցիչ Գագիկ Գալֆայանին և 4–0 քվեարկությամբ որոշեց դատական հայցը (Ossa v. City of Glendale) կարգավորել 35,000 դոլարով։",
+   "items": {
+    "item-1": {
+     "headline": "Խորհուրդը փակ նիստ է անցկացնում Ossa հայցի վերաբերյալ",
+     "summary": "Հանրային նիստից առաջ խորհուրդն անցավ փակ նիստի՝ օրենքով թույլատրված մասնավոր հանդիպման, որպեսզի իր իրավաբանների հետ քննարկի Ossa v. City of Glendale կոչվող դատական հայցը։ Աշխատակազմն ասաց, որ արդյունքի մասին կզեկուցվի ավելի ուշ։ Երեկոյի վերջում խորհուրդը հայտարարեց հաշտության համաձայնության մասին և քվեարկեց դրա շուրջ։",
+     "whyItMatters": "Այս մասնավոր քննարկումը հանգեցրեց 35,000 դոլարի հաշտության համաձայնությանը, որը խորհուրդը հաստատեց նույն երեկոյան։",
+     "result": "Ընդմիջում՝ փակ նիստի համար"
+    },
+    "item-2": {
+     "headline": "Խորհուրդը պատվում է Վիլսոն միջնակարգ դպրոցի ուսուցչին, որը ճանաչվել է Կալիֆորնիայի Տարվա ուսուցիչ",
+     "summary": "Քաղաքապետը Քաղաքապետի գովասանագիր հանձնեց Գագիկ Գալֆայանին՝ Վիլսոն միջնակարգ դպրոցի պատմության ուսուցչին։ Նահանգային տեսուչը նրան ճանաչել է Կալիֆորնիայի 2027 թվականի հինգ Տարվա ուսուցիչներից մեկը։ Գալֆայանը շնորհակալություն հայտնեց իր աշակերտներին, գործընկեր ուսուցիչներին և համայնքին, և նշեց Գլենդեյլի երկու ուսուցիչների, որոնք ոգեշնչել են իրեն։",
+     "whyItMatters": "Բնակիչների համար ոչինչ չի փոխվում․ սա տեղացի ուսուցչին մատուցված պատիվ էր։",
+     "result": null
+    },
+    "item-3": {
+     "headline": "Խորհուրդը գնահատում է դպրոցական շրջանի՝ CPR ուսուցման ջանքերը",
+     "summary": "Քաղաքապետը գնահատեց Ամերիկյան սրտի ասոցիացիայի «Կյանք փրկողների ազգ» նախաձեռնությունը և Գլենդեյլի միասնական դպրոցական շրջանի համագործակցությունը դրա հետ։ Նա ասաց, որ շրջանը գործնական CPR՝ սիրտը կանգ առած մարդուն օգնելու եղանակ, սովորեցրել է ավելի քան 11,000 աշակերտների, ընտանիքների և բնակիչների։ Տեսուչ դոկտոր Ուոթսոնն ընդունեց գնահատանքը և շնորհակալություն հայտնեց Սրտի ասոցիացիային։",
+     "whyItMatters": "Առայժմ ոչինչ չի փոխվում, բայց բնակիչներին խրախուսում են սովորել CPR։",
+     "result": null
+    },
+    "item-4": {
+     "headline": "Խորհուրդը հաստատում է հոկտեմբերյան նիստերի արձանագրությունները",
+     "summary": "Խորհուրդը որպես սովորական համաձայնեցված կետ հաստատեց իր հոկտեմբերի 6-ի և հոկտեմբերի 20-ի նիստերի արձանագրությունները՝ պաշտոնական գրավոր գրառումները։ Անվանական քվեարկության ժամանակ եղավ չորս կողմ ձայն։",
+     "whyItMatters": "Սա սովորական փաստաթղթավարություն է․ բնակիչների համար ոչինչ չի փոխվում։",
+     "result": "Հաստատվեց 4–0"
+    },
+    "item-5": {
+     "headline": "Բրոթմանն առաջարկում է երկրաշարժակայունության ամրացման կանոններ, քաղաքապետը տեղեկացնում է ընտրությունների, Վետերանների օրվա և Metro-ի շինարարության մասին",
+     "summary": "Խորհրդի անդամ Բրոթմանը խնդրեց հաջորդ շաբաթ քննարկման դնել հնարավոր որոշում, որը կպահանջի հին «soft story» (թույլ առաջին հարկով) բազմաբնակարան շենքերի երկրաշարժակայունության ամրացում՝ Բըրբենքի, Պասադենայի և Լոս Անջելեսի կանոնների նման։ Խորհրդի անդամ Բարտոսուֆը բնակիչներին հիշեցրեց Glendale Water and Power-ի տնային փոխհատուցումների մասին։ Քաղաքապետն ասաց, որ ջրի սակագների լսումը կշարունակվի նոյեմբերի 10-ին, քանի որ ընտրությունների օր էր։ Նա նաև հայտարարեց Վետերանների օրվա արարողության մասին՝ նոյեմբերի 11-ին, առավոտյան ժամը 11-ին, Հրշեջ կայան 21-ում, դեռահաս վարորդների անվտանգության սեմինարի մասին՝ նոյեմբերի 6-ին, և Brodway-ի ու Վերդուգո Ռոուդի վրա Metro-ի արագ ավտոբուսային երթուղու շինարարության մասին, որը կսկսվի նոյեմբերի 16-ի շաբաթվանից։",
+     "whyItMatters": "Վարորդները պետք է սպասեն Բրոդվեյի և Վերդուգո Ռոուդի վրա գոտիների փակման մոտ երեք ամիս, իսկ ապագա երկրաշարժակայունության կանոնը կարող է ազդել հին բազմաբնակարան շենքերի սեփականատերերի վրա։",
+     "result": null
+    },
+    "item-6": {
+     "headline": "Բնակիչները գովում են երթևեկության ոստիկանին և քննադատում քաղաքի ծախսերը",
+     "summary": "Թոնի Պասարելան բանաստեղծություն կարդաց՝ շնորհակալություն հայտնելով մոտոցիկլետով երթևեկության ոստիկան Քուքին և ոստիկանապետին երթևեկության կանոնների ավելի խիստ վերահսկողության համար։ Վալենտինան դեմ արտահայտվեց ջրի սակագների բարձրացմանը, պարտատոմսերին և հարկերին, և ասաց, որ խորհրդի անդամների անունները և քաղաքի կնիքը հեռուստացույցով դժվար է տեսնել։ Նա նաև հայտնեց վերելակում թակոցի ձայնի մասին, և քաղաքապետը խնդրեց աշխատակազմին ուսումնասիրել այն։",
+     "whyItMatters": "Առայժմ ոչինչ չի փոխվում․ աշխատակազմին խնդրեցին ստուգել վերելակի աղմուկը։",
+     "result": null
+    },
+    "item-7": {
+     "headline": "Խորհուրդը բացում է ջրի սակագների լսումը, լսում ուժեղ ընդդիմություն և որոշումը հետաձգում մինչև նոյեմբերի 10",
+     "summary": "Խորհուրդը բացեց 2027–2031 թվականների համար ջրի սակագների առաջարկվող բարձրացման հանրային լսումը, բայց սակագների վերաբերյալ որևէ որոշում չկայացրեց։ Շատ բնակիչներ դեմ էին բարձրացմանը կամ ավելի շատ ժամանակ էին խնդրում՝ ասելով, որ 8 շաբաթ իրազեկումը բավարար չէր։ Նրանք նաև մտահոգություններ հայտնեցին մատչելիության, թափանցիկության և ջրի պահուստային հիմնադրամի վերաբերյալ, իսկ ելույթ ունեցողներից մեկն ասաց, որ հրդեհային ցողիչ համակարգի համար անհրաժեշտ ավելի մեծ ջրատար խողովակը բարձրացնում է իր ֆիքսված վճարը։ Քաղաքային իրավաբանը բացատրեց, որ Prop 218-ը՝ նահանգային օրենքը, պահանջում է առնվազն 45 օր նախազգուշացում, և որ գրավոր բողոքներն ընդունվում են մինչև լսման փակումը։ GWP-ի ֆինանսական ղեկավարն ասաց, որ սակագները նախատեսվում է կիրառել հունվարի 1-ից, և հետաձգումները հետ կմղեն եկամուտները և, հնարավոր է, նախագծերը։ Խորհուրդը 4–0 քվեարկությամբ որոշեց լսումը շարունակել նոյեմբերի 10-ին՝ առանց նոր հանրային ծանուցման, և աշխատակազմից խնդրեց ներկայացնել հետաձգման սցենարներ և իրազեկման աշխատանքների ամփոփում։",
+     "whyItMatters": "Ջրի նոր սակագներ դեռ չեն սահմանվել, և բնակիչները դեռ կարող են բողոքներ ներկայացնել և ելույթ ունենալ մինչև լսման փակումը, որն այժմ նշանակված է նոյեմբերի 10-ին։",
+     "result": "Լսումը շարունակվում է նոյեմբերի 10-ին, հաստատվեց 4–0"
+    },
+    "item-8": {
+     "headline": "Ելույթ ունեցողները քննադատում են խորհրդին հանրային մեկնաբանությունների փոփոխությունների և կառուցապատման ծախսերի համար",
+     "summary": "Բեթ Բրուքսն ասաց, որ խորհրդի կողմից հանրային մեկնաբանությունների կանոնների փոփոխությունը նպատակ ուներ լռեցնել իրեն։ Նա կոչ արեց կառուցապատողների համար սահմանել ջրի ազդեցության վճար՝ հաշվի առնելով SB 79 նահանգային օրենքով հնարավոր նոր բնակարանաշինությունը։ Զանգահարող Ֆերնանդո Ռոլդանը խորհրդին խնդրեց ջրի սակագները փոխելուց առաջ մտածել տարեցների և հաշմանդամություն ունեցող մարդկանց մասին։ Քաղաքապետը կանգնեցրեց ելույթ ունեցողներից մեկին, որը վերադառնում էր ջրի սակագների թեմային, քանի որ այս ժամանակահատվածը միայն օրակարգում չընդգրկված հարցերի համար է։",
+     "whyItMatters": "Առայժմ ոչինչ չի փոխվում․ այս մեկնաբանությունների ընթացքում որևէ որոշում չի կարող կայացվել։",
+     "result": null
+    },
+    "item-9": {
+     "headline": "Խորհուրդը կարգավորում է Ossa հայցը 35,000 դոլարով",
+     "summary": "Փակ նիստից հետո խորհուրդը քվեարկեց՝ թույլ տալով քաղաքային իրավաբանին կարգավորել Ossa v. City of Glendale հայցը 35,000 դոլարով։ Դրա դիմաց հայցվորը հրաժարվում է քաղաքի դեմ բոլոր պահանջներից։",
+     "whyItMatters": "Քաղաքը կվճարի 35,000 դոլար այս հայցն ավարտելու համար։",
+     "result": "Հաստատվեց 4–0"
+    }
+   }
+  },
+  "es": {
+   "overview": "En la noche de elecciones, el Concejo Municipal de Glendale abrió la audiencia pública sobre los aumentos propuestos a las tarifas de agua para 2027–2031. Escuchó a más de una docena de residentes, que en su mayoría se opusieron a los aumentos o pidieron más tiempo, y votó 4–0 para continuar la audiencia el 10 de noviembre sin decidir sobre las tarifas. El concejo también aprobó actas de reuniones anteriores, homenajeó a Gagik Galfayan, Maestro del Año de California, y votó 4–0 para llegar a un acuerdo en una demanda (Ossa v. City of Glendale) por $35,000.",
+   "items": {
+    "item-1": {
+     "headline": "El concejo se reúne en privado sobre la demanda Ossa",
+     "summary": "Antes de la reunión pública, el concejo entró en sesión cerrada, una reunión privada permitida por la ley, para hablar con sus abogados sobre una demanda llamada Ossa v. City of Glendale. El personal dijo que más tarde se informaría el resultado. El concejo anunció y votó un acuerdo al final de la noche.",
+     "whyItMatters": "Esta conversación privada llevó al acuerdo de $35,000 que el concejo aprobó más tarde esa noche.",
+     "result": "Receso para sesión cerrada"
+    },
+    "item-2": {
+     "headline": "El concejo homenajea a un maestro de Wilson Middle School nombrado Maestro del Año de California",
+     "summary": "El alcalde entregó un Reconocimiento del Alcalde a Gagik Galfayan, maestro de historia en Wilson Middle School. El superintendente estatal lo nombró uno de los cinco Maestros del Año 2027 de California. Galfayan agradeció a sus estudiantes, a sus compañeros maestros y a la comunidad, y mencionó a dos maestros de Glendale que lo inspiraron.",
+     "whyItMatters": "No cambia nada para los residentes; fue un homenaje a un maestro local.",
+     "result": null
+    },
+    "item-3": {
+     "headline": "El concejo reconoce el esfuerzo del distrito escolar para enseñar RCP",
+     "summary": "El alcalde reconoció la campaña Nation of Lifesavers de la American Heart Association y el trabajo del Distrito Escolar Unificado de Glendale con ella. Dijo que el distrito ha enseñado RCP práctica, una forma de ayudar a alguien cuyo corazón se detiene, a más de 11,000 estudiantes, familias y residentes. El superintendente, Dr. Watson, aceptó el reconocimiento y agradeció a la Heart Association.",
+     "whyItMatters": "Todavía no cambia nada, pero se anima a los residentes a aprender RCP.",
+     "result": null
+    },
+    "item-4": {
+     "headline": "El concejo aprueba las actas de las reuniones de octubre",
+     "summary": "El concejo aprobó las actas, el registro oficial por escrito, de sus reuniones del 6 y del 20 de octubre como un asunto de rutina en la agenda de consentimiento. En la votación nominal hubo cuatro votos a favor.",
+     "whyItMatters": "Es un trámite de rutina para llevar registros; no cambia nada para los residentes.",
+     "result": "Aprobado 4–0"
+    },
+    "item-5": {
+     "headline": "Brotman pide reglas de refuerzo contra terremotos; el alcalde comparte noticias sobre las elecciones, el Día de los Veteranos y obras de Metro",
+     "summary": "La concejal Brotman pidió presentar la próxima semana una posible ordenanza que exija reforzar contra terremotos los edificios de apartamentos antiguos de tipo 'soft story' (con planta baja débil), como las reglas de Burbank, Pasadena y Los Ángeles. El concejal Bartrosouf recordó a los residentes sobre los reembolsos para hogares de Glendale Water and Power. El alcalde dijo que la audiencia sobre las tarifas de agua continuaría el 10 de noviembre porque era día de elecciones. También anunció una ceremonia del Día de los Veteranos el 11 de noviembre a las 11 a.m. en la Estación de Bomberos 21, un taller de seguridad para conductores adolescentes el 6 de noviembre y obras del autobús de tránsito rápido de Metro en Broadway y Verdugo Road a partir de la semana del 16 de noviembre.",
+     "whyItMatters": "Los conductores deben esperar cierres de carriles en Broadway y Verdugo Road durante unos tres meses, y una futura regla de refuerzo contra terremotos podría afectar a los dueños de edificios de apartamentos antiguos.",
+     "result": null
+    },
+    "item-6": {
+     "headline": "Residentes elogian a un oficial de tránsito y critican los gastos de la ciudad",
+     "summary": "Tony Passarella leyó un poema para agradecer al oficial de tránsito en motocicleta Cook y al jefe de policía por aumentar el control del tránsito. Valentina habló en contra del aumento de las tarifas de agua, los bonos y los impuestos, y dijo que los nombres de los concejales y el sello de la ciudad se ven mal en la televisión. También reportó un ruido de golpes en el elevador, y el alcalde pidió al personal que lo revisara.",
+     "whyItMatters": "Todavía no cambia nada; se pidió al personal revisar el ruido del elevador.",
+     "result": null
+    },
+    "item-7": {
+     "headline": "El concejo abre la audiencia sobre tarifas de agua, escucha fuerte oposición y pospone la decisión al 10 de noviembre",
+     "summary": "El concejo abrió la audiencia pública sobre los aumentos propuestos a las tarifas de agua para 2027–2031, pero no tomó ninguna decisión sobre las tarifas. Muchos residentes se opusieron a los aumentos o pidieron más tiempo, y dijeron que 8 semanas de información al público no eran suficientes. También expresaron preocupaciones sobre si podrán pagarlas, la transparencia y un fondo de reserva de agua, y un orador dijo que una tubería de agua más grande, necesaria para un rociador contra incendios, le sube el cargo fijo. Un abogado de la ciudad explicó que la Prop 218, una ley estatal, exige al menos 45 días de aviso, y que se aceptan protestas por escrito hasta que se cierre la audiencia. El jefe de finanzas de GWP dijo que se planea que las tarifas empiecen el 1 de enero y que los retrasos atrasarían los ingresos y posiblemente los proyectos. El concejo votó 4–0 para continuar la audiencia el 10 de noviembre sin un nuevo aviso público y pidió al personal escenarios de lo que pasaría con un retraso y un resumen de la información dada al público.",
+     "whyItMatters": "Todavía no se fijaron nuevas tarifas de agua, y los residentes aún pueden presentar protestas y hablar hasta que se cierre la audiencia, ahora programada para el 10 de noviembre.",
+     "result": "Audiencia continuada al 10 de noviembre, aprobado 4–0"
+    },
+    "item-8": {
+     "headline": "Oradores critican al concejo por cambios en los comentarios públicos y por los costos del desarrollo",
+     "summary": "Beth Brooks dijo que el cambio del concejo a las reglas de comentarios públicos tenía como fin silenciarla. Pidió una tarifa de impacto de agua para los desarrolladores, ante la posible construcción de nuevas viviendas bajo la ley estatal SB 79. Un residente que llamó por teléfono, Fernando Roldan, pidió al concejo pensar en las personas mayores y en las personas con discapacidades antes de cambiar las tarifas de agua. El alcalde detuvo a un orador que quiso volver al tema de las tarifas de agua, ya que este periodo es solo para asuntos que no están en la agenda.",
+     "whyItMatters": "Todavía no cambia nada; no se puede tomar ninguna decisión durante este periodo de comentarios.",
+     "result": null
+    },
+    "item-9": {
+     "headline": "El concejo llega a un acuerdo en la demanda Ossa por $35,000",
+     "summary": "Después de la sesión cerrada, el concejo votó para permitir que el abogado de la ciudad llegue a un acuerdo en la demanda Ossa v. City of Glendale por $35,000. A cambio, la persona que demandó renuncia a todos sus reclamos contra la ciudad.",
+     "whyItMatters": "La ciudad pagará $35,000 para terminar esta demanda.",
+     "result": "Aprobado 4–0"
+    }
+   }
+  }
+ }
+}
