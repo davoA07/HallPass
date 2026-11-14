@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -27,7 +28,9 @@ ROOT = Path(__file__).resolve().parent.parent
 AGENT_DIR = ROOT / "agent"
 IDS_FILE = AGENT_DIR / "elevenlabs.json"
 ENV_FILE = ROOT / ".env.local"
-CLI = ["npx", "-y", "@elevenlabs/cli@1.11.0"]
+# On Windows npx is npx.cmd, which subprocess can't find by the bare name;
+# shutil.which resolves it (and npx.ps1 is often blocked by execution policy).
+CLI = [shutil.which("npx") or "npx", "-y", "@elevenlabs/cli@1.11.0"]
 
 NAME = "HallPass"
 # Armenian needs one of ElevenLabs' newer voice models (v3 / v4 families).
