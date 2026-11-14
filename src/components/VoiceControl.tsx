@@ -44,7 +44,11 @@ function VoiceInner() {
     try {
       const r = await ask(question, "voice");
       const sources = r.citations
-        .map((c) => `${c.meetingTitle} (${c.meetingDate}) at ${formatTime(c.seconds)}: ${c.label}`)
+        .map(
+          (c) =>
+            `${c.label}: ${c.meetingTitle} (${c.meetingDate}) at ${formatTime(c.seconds)} ` +
+            `[meeting_id=${c.meetingId}, seconds=${c.seconds}]`,
+        )
         .join("; ");
       return [
         `found: ${r.found}`,
