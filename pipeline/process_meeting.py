@@ -8,7 +8,7 @@
 # ]
 # ///
 """
-Ask City Hall — meeting pipeline.
+HallPass — meeting pipeline.
 
   video URL or local file
     -> 1. audio      (yt-dlp + FFmpeg)          pipeline/work/<id>/audio.mp3
@@ -54,6 +54,11 @@ WORK = ROOT / "pipeline" / "work"
 OUT = ROOT / "data" / "meetings"
 MEDIA = ROOT / "public" / "media"
 STEPS = ["audio", "transcript", "segments", "structure", "translate"]
+
+# Load keys and settings before reading them below. Variables already set in the
+# shell win over the files, so `CLAUDE_MODEL=... uv run ...` overrides one run.
+load_dotenv(ROOT / ".env.local")
+load_dotenv(ROOT / ".env")
 
 MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 # Server-side refusal fallbacks: a declined request is re-run on a fallback model.
@@ -510,8 +515,6 @@ def assemble(args, work: Path, meta: dict) -> Path:
 
 
 def main() -> None:
-    load_dotenv(ROOT / ".env.local")
-    load_dotenv(ROOT / ".env")
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--id", required=True, help="slug for the meeting, e.g. 2026-11-04-regular")
     src = p.add_mutually_exclusive_group()
