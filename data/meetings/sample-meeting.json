@@ -1,0 +1,126 @@
+{
+  "id": "sample-meeting",
+  "title": "Sample Council Meeting (fictional)",
+  "body": "Sample City Council — fictional data for UI testing",
+  "date": "2026-11-04",
+  "sample": true,
+  "source": { "videoUrl": null, "agendaUrl": null, "minutesUrl": null },
+  "video": { "kind": "none" },
+  "clip": { "start": 0, "end": 1500 },
+  "language": "en",
+  "generatedAt": "2026-11-14T10:00:00Z",
+  "aiGenerated": true,
+  "reviewed": false,
+  "overview": "FICTIONAL SAMPLE. The council approved a residential parking permit pilot, delayed a vote on longer library hours, and heard public comment about a park renovation. This file exists so the website can be built before real meetings are processed; it is hidden automatically once a real meeting exists.",
+  "items": [
+    {
+      "id": "item-1",
+      "agendaNumber": "5a",
+      "title": "Residential parking permit pilot program",
+      "headline": "Council approves a one-year parking permit pilot for two crowded neighborhoods",
+      "summary": "Staff proposed a one-year pilot where residents of two neighborhoods near the shopping district can buy a yearly street parking permit. Two councilmembers raised concerns about the permit fee for low-income households. The council approved the pilot 4–1 and asked staff to come back with a fee discount option.",
+      "whyItMatters": "If you live in the pilot area, you may need a permit to park on your street overnight.",
+      "start": 60,
+      "end": 600,
+      "outcome": {
+        "kind": "vote",
+        "result": "Approved 4–1, with direction to study a low-income fee discount",
+        "yes": 4,
+        "no": 1,
+        "abstain": 0,
+        "votes": [
+          { "name": "Member A", "vote": "yes" },
+          { "name": "Member B", "vote": "yes" },
+          { "name": "Member C", "vote": "no" },
+          { "name": "Member D", "vote": "yes" },
+          { "name": "Mayor", "vote": "yes" }
+        ]
+      },
+      "speakers": ["speaker_0", "speaker_1", "speaker_2", "speaker_3"],
+      "keyMoments": [
+        { "t": 75, "label": "Staff presents the pilot" },
+        { "t": 300, "label": "Concern about the fee for low-income households" },
+        { "t": 540, "label": "Vote: approved 4–1" }
+      ],
+      "topics": ["parking", "permits", "transportation", "fees"]
+    },
+    {
+      "id": "item-2",
+      "agendaNumber": "5b",
+      "title": "Extended weekend hours at the central library",
+      "headline": "Longer library weekend hours delayed until staff finds funding",
+      "summary": "Library staff asked to keep the central library open until 8 p.m. on Saturdays and Sundays. Councilmembers supported the idea but asked where the money would come from. The council did not vote; it asked staff to return in two months with a funding plan.",
+      "whyItMatters": "Weekend library hours stay the same for now.",
+      "start": 600,
+      "end": 1020,
+      "outcome": {
+        "kind": "direction",
+        "result": "No vote; staff will return with a funding plan in two months",
+        "yes": null,
+        "no": null,
+        "abstain": null,
+        "votes": []
+      },
+      "speakers": ["speaker_0", "speaker_4", "speaker_2"],
+      "keyMoments": [
+        { "t": 615, "label": "Library staff presents the request" },
+        { "t": 900, "label": "Council asks for a funding plan" }
+      ],
+      "topics": ["library", "budget", "hours"]
+    },
+    {
+      "id": "item-3",
+      "agendaNumber": null,
+      "title": "Public comment on non-agenda items",
+      "headline": "Residents ask for safer crossings near a park under renovation",
+      "summary": "Two residents spoke during public comment. One asked for a crosswalk near the park entrance while construction blocks the sidewalk. Another asked that the renovated playground include shade. Public comment is not a vote; the council took no action.",
+      "whyItMatters": "Public comment is how residents put issues in front of the council, even when nothing is on the agenda.",
+      "start": 1020,
+      "end": 1500,
+      "outcome": {
+        "kind": "public_comment",
+        "result": null,
+        "yes": null,
+        "no": null,
+        "abstain": null,
+        "votes": []
+      },
+      "speakers": ["speaker_0", "speaker_5", "speaker_6"],
+      "keyMoments": [
+        { "t": 1035, "label": "Resident asks for a temporary crosswalk" },
+        { "t": 1260, "label": "Resident asks for shade at the playground" }
+      ],
+      "topics": ["parks", "safety", "crosswalk", "playground"]
+    }
+  ],
+  "speakers": [
+    { "id": "speaker_0", "name": null, "role": "Mayor" },
+    { "id": "speaker_1", "name": null, "role": "City staff (transportation)" },
+    { "id": "speaker_2", "name": null, "role": "Councilmember" },
+    { "id": "speaker_3", "name": null, "role": "Councilmember" },
+    { "id": "speaker_4", "name": null, "role": "City staff (library)" },
+    { "id": "speaker_5", "name": null, "role": "Resident" },
+    { "id": "speaker_6", "name": null, "role": "Resident" }
+  ],
+  "transcript": [
+    { "speaker": "speaker_0", "start": 60, "end": 74, "text": "Moving on to item 5a, the residential parking permit pilot. Staff, please go ahead." },
+    { "speaker": "speaker_1", "start": 75, "end": 140, "text": "Thank you. We are proposing a one-year pilot in the two neighborhoods just north of the shopping district. Residents there tell us they cannot find parking near their homes in the evening because visitors park on residential streets." },
+    { "speaker": "speaker_1", "start": 141, "end": 210, "text": "Under the pilot, each household could buy up to two yearly permits. Overnight parking from 6 p.m. to 6 a.m. would require a permit. Visitors could use day passes that residents print at home." },
+    { "speaker": "speaker_1", "start": 211, "end": 280, "text": "The proposed fee is sixty dollars per permit per year. That covers signs and enforcement. We would report back to council after twelve months with parking counts and resident survey results." },
+    { "speaker": "speaker_2", "start": 300, "end": 370, "text": "I support the idea, but sixty dollars is real money for some families in that area. Could we look at a discount for households that already qualify for utility assistance?" },
+    { "speaker": "speaker_3", "start": 371, "end": 430, "text": "I share that concern. I also worry the parking problem just moves one street over. I would rather see a study of the whole corridor before we start a program." },
+    { "speaker": "speaker_1", "start": 431, "end": 480, "text": "We can bring back a discount option. On spillover, the pilot boundaries were drawn with that in mind, and we will measure the streets next to the zone as well." },
+    { "speaker": "speaker_0", "start": 500, "end": 538, "text": "I'll entertain a motion to approve the pilot, with direction to staff to return with a low-income fee discount." },
+    { "speaker": "speaker_0", "start": 540, "end": 590, "text": "The motion passes four to one, with the councilmember who asked for a corridor study voting no." },
+    { "speaker": "speaker_0", "start": 600, "end": 613, "text": "Item 5b, extended weekend hours at the central library." },
+    { "speaker": "speaker_4", "start": 615, "end": 700, "text": "We are asking to keep the central library open until 8 p.m. on Saturdays and Sundays. Weekend visits are up and many families tell us the current 5 p.m. closing is too early for working parents." },
+    { "speaker": "speaker_4", "start": 701, "end": 760, "text": "This would need about one and a half additional staff positions. That is not in the current budget." },
+    { "speaker": "speaker_2", "start": 800, "end": 880, "text": "I love this idea. But I can't vote for new positions without knowing where the money comes from. Can staff come back with options?" },
+    { "speaker": "speaker_0", "start": 900, "end": 960, "text": "There's consensus to ask staff to return within two months with a funding plan. No action tonight on this item." },
+    { "speaker": "speaker_0", "start": 1020, "end": 1034, "text": "We are now in public comment for items not on the agenda. Each speaker has three minutes." },
+    { "speaker": "speaker_5", "start": 1035, "end": 1140, "text": "Good evening. While the park renovation is happening, the sidewalk by the main entrance is closed and kids are crossing in the middle of the block. Please put in a temporary crosswalk until construction is done." },
+    { "speaker": "speaker_6", "start": 1260, "end": 1370, "text": "Hello. I'm glad the playground is being rebuilt. Please make sure it has shade. In the summer the old slides were too hot to touch." },
+    { "speaker": "speaker_0", "start": 1400, "end": 1430, "text": "Thank you both. Under state law we can't discuss items not on the agenda, but staff has heard your comments." }
+  ],
+  "translations": {}
+}

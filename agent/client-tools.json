@@ -1,0 +1,55 @@
+[
+  {
+    "type": "client",
+    "name": "ask_city_records",
+    "description": "Search the processed city council meetings and get a sourced answer. Use for ANY question about what the council discussed, decided, voted on, or said. Returns found (true/false), an answer in the resident's language, and the video moments shown on screen as sources.",
+    "expects_response": true,
+    "response_timeout_secs": 30,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "question": {
+          "type": "string",
+          "description": "The resident's question, as they asked it, in any language."
+        }
+      },
+      "required": ["question"]
+    }
+  },
+  {
+    "type": "client",
+    "name": "show_video_moment",
+    "description": "Open a meeting video at a specific moment on the resident's screen. Use the meeting id and seconds from the sources returned by ask_city_records.",
+    "expects_response": true,
+    "response_timeout_secs": 5,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "meeting_id": { "type": "string", "description": "Meeting id from the sources, e.g. 2026-11-04-regular." },
+        "seconds": { "type": "number", "description": "Seconds from the start of the meeting video." }
+      },
+      "required": ["meeting_id", "seconds"]
+    }
+  },
+  {
+    "type": "client",
+    "name": "draft_public_comment",
+    "description": "Draft a public comment to the city council in the resident's language, with an English translation, and show it on screen for the resident to review, edit and send themselves. Never claims to send it.",
+    "expects_response": true,
+    "response_timeout_secs": 40,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "position": {
+          "type": "string",
+          "description": "One of: \"supports it\", \"opposes it\", \"has a concern\", \"has a question\"."
+        },
+        "notes": {
+          "type": "string",
+          "description": "What the resident wants to say, in their own words."
+        }
+      },
+      "required": ["position", "notes"]
+    }
+  }
+]

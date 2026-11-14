@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f6f4ef;
+  --surface: #ffffff;
+  --surface-2: #faf9f6;
+  --ink: #1b1f24;
+  --muted: #5b6470;
+  --line: #e2ddd2;
+  --accent: #0d5788;
+  --accent-ink: #ffffff;
+  --accent-soft: #e2edf5;
+  --good: #1d7347;
+  --good-soft: #e1f2e8;
+  --bad: #a3322b;
+  --bad-soft: #f8e3e1;
+  --warn: #8a5300;
+  --warn-soft: #fbefd9;
+  --neutral-soft: #eceef1;
+  --focus: #f0a500;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111317;
+    --surface: #1a1e24;
+    --surface-2: #161a1f;
+    --ink: #eceff3;
+    --muted: #a2abb7;
+    --line: #2b313a;
+    --accent: #66b3e8;
+    --accent-ink: #0a1622;
+    --accent-soft: #15304a;
+    --good: #63d39c;
+    --good-soft: #143026;
+    --bad: #f08a80;
+    --bad-soft: #3a1c1a;
+    --warn: #f0b45a;
+    --warn-soft: #36290f;
+    --neutral-soft: #242a32;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #111317;
+  --surface: #1a1e24;
+  --surface-2: #161a1f;
+  --ink: #eceff3;
+  --muted: #a2abb7;
+  --line: #2b313a;
+  --accent: #66b3e8;
+  --accent-ink: #0a1622;
+  --accent-soft: #15304a;
+  --good: #63d39c;
+  --good-soft: #143026;
+  --bad: #f08a80;
+  --bad-soft: #3a1c1a;
+  --warn: #f0b45a;
+  --warn-soft: #36290f;
+  --neutral-soft: #242a32;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-neutral-soft: var(--neutral-soft);
+  --font-sans: var(--font-geist-sans), system-ui, "Noto Sans Armenian", "Noto Sans", sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+html {
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.flash {
+  animation: flash 1.6s ease-out;
+}
+
+@keyframes flash {
+  0% {
+    background: var(--accent-soft);
+  }
+  100% {
+    background: transparent;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flash {
+    animation: none;
+  }
+}

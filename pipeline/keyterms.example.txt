@@ -1,0 +1,11 @@
+# One term per line (max 50 characters each). Copy to pipeline/keyterms.txt and fill in.
+# Helps ElevenLabs Scribe spell names right. Verify every name against the city's
+# official council roster and the meeting agenda; don't guess.
+Glendale
+City Council
+City Clerk
+Brand Boulevard
+public comment
+consent calendar
+# Councilmember names (from the city's roster):
+# Street and place names on this meeting's agenda:
