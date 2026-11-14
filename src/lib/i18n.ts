@@ -32,7 +32,7 @@ const en = {
   retranslate: "Update English from my edits",
   copy: "Copy",
   copied: "Copied",
-  youSend: "You review and send it yourself. Ask City Hall never submits anything for you.",
+  youSend: "You review and send it yourself. HallPass never submits anything for you.",
   openCommentPage: "Open the city's public comment page",
   howToSend: "Copy it into the city's public comment form or email. Check the deadline on the agenda.",
   general: "General comment",
@@ -55,11 +55,16 @@ const en = {
   writeToCouncil: "Write to the council",
   startOver: "Start over",
   back: "Back",
-  footer: "Answers are AI-generated from public meeting videos. Ask City Hall is a hackathon project, not an official city service.",
+  footer: "Answers are AI-generated from public meeting videos. HallPass is a hackathon project, not an official city service.",
+  aiError: "Something went wrong. Please try again.",
+  busy: "Lots of people are asking right now. Please try again in a moment.",
+  videoTitle: "Meeting video",
 } as const;
 
 export type StringKey = keyof typeof en;
-type Dict = Partial<Record<StringKey, string>>;
+// Every language must define every key, so a missing label is a type error
+// instead of a silent fallback to English.
+type Dict = Record<StringKey, string>;
 
 const hy: Dict = {
   sample: "Օրինակային տվյալներ",
@@ -90,7 +95,7 @@ const hy: Dict = {
   retranslate: "Թարմացնել անգլերենը",
   copy: "Պատճենել",
   copied: "Պատճենված է",
-  youSend: "Դուք ինքներդ եք ստուգում և ուղարկում այն։ Ask City Hall-ը ոչինչ չի ուղարկում ձեր փոխարեն։",
+  youSend: "Դուք ինքներդ եք ստուգում և ուղարկում այն։ HallPass-ը ոչինչ չի ուղարկում ձեր փոխարեն։",
   howToSend: "Պատճենեք այն քաղաքի հանրային մեկնաբանության ձևի կամ էլ․ նամակի մեջ։ Ժամկետը ստուգեք օրակարգում։",
   general: "Ընդհանուր մեկնաբանություն",
   heroTitle: "Ի՞նչ եղավ քաղաքապետարանում",
@@ -113,6 +118,10 @@ const hy: Dict = {
   startOver: "Սկսել նորից",
   back: "Հետ",
   footer: "Պատասխանները ստեղծվում են արհեստական բանականությամբ՝ նիստերի հրապարակային տեսանյութերից։ Սա քաղաքի պաշտոնական ծառայություն չէ։",
+  openCommentPage: "Բացել քաղաքի հանրային մեկնաբանությունների էջը",
+  aiError: "Ինչ-որ բան սխալ գնաց։ Խնդրում ենք կրկին փորձել։",
+  busy: "Հիմա շատ հարցումներ կան։ Խնդրում ենք մի փոքր ուշ կրկին փորձել։",
+  videoTitle: "Նիստի տեսանյութ",
 };
 
 const es: Dict = {
@@ -144,7 +153,7 @@ const es: Dict = {
   retranslate: "Actualizar el inglés con mis cambios",
   copy: "Copiar",
   copied: "Copiado",
-  youSend: "Tú lo revisas y lo envías. Ask City Hall nunca envía nada por ti.",
+  youSend: "Tú lo revisas y lo envías. HallPass nunca envía nada por ti.",
   howToSend: "Cópialo en el formulario o correo de comentarios públicos de la ciudad. Revisa la fecha límite en la agenda.",
   general: "Comentario general",
   heroTitle: "¿Qué pasó en la alcaldía?",
@@ -166,7 +175,11 @@ const es: Dict = {
   writeToCouncil: "Escribir al concejo",
   startOver: "Empezar de nuevo",
   back: "Volver",
-  footer: "Las respuestas las genera IA a partir de videos públicos de las sesiones. Ask City Hall no es un servicio oficial de la ciudad.",
+  footer: "Las respuestas las genera IA a partir de videos públicos de las sesiones. HallPass no es un servicio oficial de la ciudad.",
+  openCommentPage: "Abrir la página de comentarios públicos de la ciudad",
+  aiError: "Algo salió mal. Inténtalo de nuevo.",
+  busy: "Hay muchas consultas en este momento. Inténtalo de nuevo en un momento.",
+  videoTitle: "Video de la sesión",
 };
 
 const ko: Dict = {
@@ -188,7 +201,7 @@ const ko: Dict = {
   englishVersion: "영어 번역",
   copy: "복사",
   copied: "복사됨",
-  youSend: "검토와 제출은 직접 하세요. Ask City Hall은 대신 제출하지 않습니다.",
+  youSend: "검토와 제출은 직접 하세요. HallPass는 대신 제출하지 않습니다.",
   heroTitle: "시청에서 무슨 일이 있었나요?",
   heroSub: "말로 묻거나 입력하세요. 영상 속 그 장면을 보여 드려요.",
   tapToTalk: "눌러서 말하기",
@@ -208,7 +221,23 @@ const ko: Dict = {
   writeToCouncil: "시의회에 의견 쓰기",
   startOver: "처음부터",
   back: "뒤로",
-  footer: "답변은 공개 회의 영상을 바탕으로 AI가 만듭니다. Ask City Hall은 시의 공식 서비스가 아닙니다.",
+  footer: "답변은 공개 회의 영상을 바탕으로 AI가 만듭니다. HallPass는 시의 공식 서비스가 아닙니다.",
+  noVideo: "이 회의의 영상이 없습니다.",
+  openVideo: "영상 열기",
+  connecting: "연결 중…",
+  listening: "듣는 중",
+  speaking: "말하는 중",
+  voiceUnavailable: "지금은 음성 기능을 사용할 수 없습니다. 질문을 입력해 주세요.",
+  aboutMeeting: "주제",
+  notes: "어떤 말을 하고 싶으신가요? 어떤 언어로든 자유롭게 적어 주세요.",
+  drafting: "작성 중…",
+  retranslate: "수정한 내용으로 영어 번역 업데이트",
+  openCommentPage: "시의 공개 의견 페이지 열기",
+  howToSend: "시의 공개 의견 양식이나 이메일에 복사해 붙여 넣으세요. 마감일은 안건 목록에서 확인하세요.",
+  general: "일반 의견",
+  aiError: "문제가 발생했습니다. 다시 시도해 주세요.",
+  busy: "지금 요청이 많습니다. 잠시 후 다시 시도해 주세요.",
+  videoTitle: "회의 영상",
 };
 
 const tl: Dict = {
@@ -229,7 +258,7 @@ const tl: Dict = {
   englishVersion: "Salin sa Ingles",
   copy: "Kopyahin",
   copied: "Nakopya",
-  youSend: "Ikaw ang magsusuri at magpapadala. Hindi kailanman nagsusumite ang Ask City Hall para sa iyo.",
+  youSend: "Ikaw ang magsusuri at magpapadala. Hindi kailanman nagsusumite ang HallPass para sa iyo.",
   heroTitle: "Ano ang nangyari sa City Hall?",
   heroSub: "Magtanong nang malakas o mag-type. Ipapakita namin ang mismong sandali sa video.",
   tapToTalk: "Pindutin para magsalita",
@@ -249,7 +278,24 @@ const tl: Dict = {
   writeToCouncil: "Sumulat sa konseho",
   startOver: "Magsimula muli",
   back: "Bumalik",
-  footer: "Gawa ng AI ang mga sagot mula sa mga pampublikong video ng pulong. Hindi opisyal na serbisyo ng lungsod ang Ask City Hall.",
+  footer: "Gawa ng AI ang mga sagot mula sa mga pampublikong video ng pulong. Hindi opisyal na serbisyo ng lungsod ang HallPass.",
+  sample: "Halimbawang datos",
+  noVideo: "Walang video para sa pulong na ito.",
+  openVideo: "Buksan ang video sa",
+  connecting: "Kumokonekta…",
+  listening: "Nakikinig",
+  speaking: "Nagsasalita",
+  voiceUnavailable: "Hindi available ang boses ngayon. I-type na lang ang iyong tanong.",
+  aboutMeeting: "Tungkol sa",
+  notes: "Ano ang gusto mong sabihin? Isulat ito sa sarili mong salita, sa anumang wika.",
+  drafting: "Ginagawa…",
+  retranslate: "I-update ang Ingles mula sa aking mga pagbabago",
+  openCommentPage: "Buksan ang pahina ng pampublikong komento ng lungsod",
+  howToSend: "Kopyahin ito sa form o email para sa pampublikong komento ng lungsod. Tingnan ang deadline sa agenda.",
+  general: "Pangkalahatang komento",
+  aiError: "May nangyaring mali. Pakisubukang muli.",
+  busy: "Maraming nagtatanong ngayon. Pakisubukang muli mamaya.",
+  videoTitle: "Video ng pulong",
 };
 
 const fa: Dict = {
@@ -270,7 +316,7 @@ const fa: Dict = {
   englishVersion: "ترجمه انگلیسی",
   copy: "کپی",
   copied: "کپی شد",
-  youSend: "بررسی و ارسال با خود شماست. Ask City Hall هرگز چیزی را به جای شما ارسال نمی‌کند.",
+  youSend: "بررسی و ارسال با خود شماست. HallPass هرگز چیزی را به جای شما ارسال نمی‌کند.",
   heroTitle: "در شهرداری چه گذشت؟",
   heroSub: "با صدای بلند بپرسید یا بنویسید. همان لحظه را در ویدیو نشانتان می‌دهیم.",
   tapToTalk: "برای صحبت لمس کنید",
@@ -290,7 +336,24 @@ const fa: Dict = {
   writeToCouncil: "نوشتن به شورا",
   startOver: "شروع دوباره",
   back: "بازگشت",
-  footer: "پاسخ‌ها با هوش مصنوعی از ویدیوهای عمومی جلسات تهیه می‌شوند. Ask City Hall سرویس رسمی شهر نیست.",
+  footer: "پاسخ‌ها با هوش مصنوعی از ویدیوهای عمومی جلسات تهیه می‌شوند. HallPass سرویس رسمی شهر نیست.",
+  sample: "داده‌های نمونه",
+  noVideo: "ویدیویی برای این جلسه موجود نیست.",
+  openVideo: "باز کردن ویدیو در",
+  connecting: "در حال اتصال…",
+  listening: "در حال گوش دادن",
+  speaking: "در حال صحبت",
+  voiceUnavailable: "صدا اکنون در دسترس نیست. پرسش خود را تایپ کنید.",
+  aboutMeeting: "درباره",
+  notes: "چه می‌خواهید بگویید؟ با کلمات خودتان و به هر زبانی بنویسید.",
+  drafting: "در حال نوشتن…",
+  retranslate: "به‌روزرسانی ترجمه انگلیسی از ویرایش‌های من",
+  openCommentPage: "باز کردن صفحه نظرات عمومی شهر",
+  howToSend: "آن را در فرم یا ایمیل نظرات عمومی شهر کپی کنید. مهلت را در دستور جلسه بررسی کنید.",
+  general: "نظر عمومی",
+  aiError: "مشکلی پیش آمد. لطفاً دوباره تلاش کنید.",
+  busy: "اکنون درخواست‌ها زیاد است. لطفاً کمی بعد دوباره تلاش کنید.",
+  videoTitle: "ویدیوی جلسه",
 };
 
 const DICTS: Record<string, Dict> = { en, hy, es, ko, tl, fa };

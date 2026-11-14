@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Create or update the Ask City Hall voice agent in ElevenLabs from the files in agent/:
+Create or update the HallPass voice agent in ElevenLabs from the files in agent/:
 
   system-prompt.md   the agent's instructions
   client-tools.json  the three tools the website runs (names must match VoiceControl.tsx)
@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -27,26 +28,28 @@ ROOT = Path(__file__).resolve().parent.parent
 AGENT_DIR = ROOT / "agent"
 IDS_FILE = AGENT_DIR / "elevenlabs.json"
 ENV_FILE = ROOT / ".env.local"
-CLI = ["npx", "-y", "@elevenlabs/cli@1.11.0"]
+# On Windows npx is npx.cmd, which subprocess can't find by the bare name;
+# shutil.which resolves it (and npx.ps1 is often blocked by execution policy).
+CLI = [shutil.which("npx") or "npx", "-y", "@elevenlabs/cli@1.11.0"]
 
-NAME = "Ask City Hall"
+NAME = "HallPass"
 # Armenian needs one of ElevenLabs' newer voice models (v3 / v4 families).
 VOICE_MODEL = "eleven_v3_conversational"
 
 # The greeting in each language the agent can switch to. ElevenLabs uses "fil" for Tagalog.
 # Have native speakers check these before the demo.
 FIRST_MESSAGES = {
-    "en": "Hi! I'm Ask City Hall. I can tell you what the city council decided, in your language, "
+    "en": "Hi! I'm HallPass. I can tell you what the city council decided, in your language, "
           "and help you speak up. What would you like to know?",
-    "hy": "Բարև։ Ես Ask City Hall-ն եմ։ Կարող եմ ձեր լեզվով պատմել, թե ինչ որոշեց քաղաքային խորհուրդը, "
+    "hy": "Բարև։ Ես HallPass-ն եմ։ Կարող եմ ձեր լեզվով պատմել, թե ինչ որոշեց քաղաքային խորհուրդը, "
           "և օգնել ձեզ արտահայտվել։ Ի՞նչ կուզենայիք իմանալ։",
-    "es": "¡Hola! Soy Ask City Hall. Puedo contarte en tu idioma lo que decidió el concejo municipal "
+    "es": "¡Hola! Soy HallPass. Puedo contarte en tu idioma lo que decidió el concejo municipal "
           "y ayudarte a participar. ¿Qué te gustaría saber?",
-    "ko": "안녕하세요! 저는 Ask City Hall입니다. 시의회가 무엇을 결정했는지 여러분의 언어로 알려 드리고, "
+    "ko": "안녕하세요! 저는 HallPass입니다. 시의회가 무엇을 결정했는지 여러분의 언어로 알려 드리고, "
           "의견을 내는 것도 도와드릴게요. 무엇이 궁금하신가요?",
-    "fa": "سلام! من Ask City Hall هستم. می‌توانم به زبان شما بگویم شورای شهر چه تصمیمی گرفت "
+    "fa": "سلام! من HallPass هستم. می‌توانم به زبان شما بگویم شورای شهر چه تصمیمی گرفت "
           "و کمکتان کنم نظرتان را بگویید. چه چیزی می‌خواهید بدانید؟",
-    "fil": "Kumusta! Ako ang Ask City Hall. Masasabi ko sa iyong wika kung ano ang napagpasyahan "
+    "fil": "Kumusta! Ako ang HallPass. Masasabi ko sa iyong wika kung ano ang napagpasyahan "
            "ng konseho ng lungsod, at matutulungan kitang magsalita. Ano ang gusto mong malaman?",
 }
 
@@ -116,8 +119,14 @@ def agent_body(tool_ids: dict[str, str]) -> dict:
                 if code != "en"
             },
         },
-        # Private agent: the website's /api/agent-session mints short-lived tokens.
-        "platform_settings": {"auth": {"enable_auth": True}},
+        "platform_settings": {
+            # Private agent: the website's /api/agent-session mints short-lived tokens.
+            "auth": {"enable_auth": True},
+            # The website starts each call in the resident's picked language
+            # (VoiceControl.tsx passes overrides.agent.language), which picks the
+            # matching greeting from language_presets above.
+            "overrides": {"conversation_config_override": {"agent": {"language": True}}},
+        },
     }
 
 
@@ -157,6 +166,10 @@ def main() -> None:
         f"voice model {VOICE_MODEL}": (cc.get("tts") or {}).get("model_id") == VOICE_MODEL,
         "languages: " + ", ".join(sorted(cc.get("language_presets") or {})): set(cc.get("language_presets") or {}) >= set(FIRST_MESSAGES) - {"en"},
         "authentication required": bool(((agent.get("platform_settings") or {}).get("auth") or {}).get("enable_auth")),
+        "per-call language override allowed": bool(
+            ((((agent.get("platform_settings") or {}).get("overrides") or {}).get("conversation_config_override") or {})
+             .get("agent") or {}).get("language")
+        ),
     }
     for label, ok in checks.items():
         print(f"  {'ok ' if ok else 'BAD'} {label}")

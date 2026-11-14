@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ask City Hall",
+  title: "HallPass",
   description:
     "Ask about Glendale City Council meetings in your language. Get a short answer and the exact moment in the meeting video.",
 };

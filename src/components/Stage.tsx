@@ -89,7 +89,7 @@ function StagePlayer({
         initialTime={start}
         autoplay
         onTime={onTime}
-        labels={{ noVideo: tr("noVideo"), openVideo: tr("openVideo") }}
+        labels={{ noVideo: tr("noVideo"), openVideo: tr("openVideo"), videoTitle: tr("videoTitle") }}
       />
     </div>
   );

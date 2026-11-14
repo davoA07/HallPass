@@ -14,7 +14,7 @@ interface Props {
   /** Start playing as soon as the player loads (used when the assistant picks a video). */
   autoplay?: boolean;
   onTime?: (seconds: number) => void;
-  labels: { noVideo: string; openVideo: string };
+  labels: { noVideo: string; openVideo: string; videoTitle: string };
   ref?: Ref<PlayerHandle>;
 }
 
@@ -82,7 +82,7 @@ export function VideoPlayer({ video, initialTime = 0, autoplay = false, onTime, 
         <iframe
           ref={iframeRef}
           src={src}
-          title="Meeting video"
+          title={labels.videoTitle}
           className="h-full w-full"
           allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
           onLoad={() =>

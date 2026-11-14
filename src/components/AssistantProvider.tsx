@@ -102,15 +102,39 @@ const LANG_KEY = "ach.lang";
 let counter = 0;
 const newId = () => `m${Date.now().toString(36)}${(counter++).toString(36)}`;
 
+/** A failed API call. `status` is 0 when the request never reached the server. */
+export class RequestError extends Error {
+  constructor(
+    message: string,
+    readonly status: number,
+  ) {
+    super(message);
+  }
+}
+
 async function postJSON<T>(url: string, body: unknown): Promise<T> {
-  const res = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
+  let res: Response;
+  try {
+    res = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+  } catch (err) {
+    throw new RequestError(err instanceof Error ? err.message : String(err), 0);
+  }
   const data = await res.json().catch(() => ({}));
-  if (!res.ok) throw new Error((data as { error?: string }).error || `Request failed (${res.status})`);
+  if (!res.ok) throw new RequestError((data as { error?: string }).error || `Request failed (${res.status})`, res.status);
   return data as T;
+}
+
+/**
+ * The message a resident sees when a request fails, in their language. Server
+ * error texts are English and meant for developers, so they go to the console.
+ */
+export function errorText(err: unknown, tr: (key: StringKey) => string): string {
+  console.warn(err);
+  return err instanceof RequestError && err.status === 429 ? tr("busy") : tr("aiError");
 }
 
 export function AssistantProvider({ children }: { children: ReactNode }) {
@@ -207,7 +231,7 @@ export function AssistantProvider({ children }: { children: ReactNode }) {
         if (best) play(best.meetingId, best.seconds);
         return result;
       } catch (err) {
-        const message = err instanceof Error ? err.message : String(err);
+        const message = errorText(err, (key) => translate(langRef.current, key));
         updateMessage(pendingId, { pending: false, error: true, text: message });
         throw err;
       }
@@ -254,7 +278,7 @@ export function AssistantProvider({ children }: { children: ReactNode }) {
       setDraftState(next);
       return next;
     } catch (err) {
-      const message = err instanceof Error ? err.message : String(err);
+      const message = errorText(err, (key) => translate(langRef.current, key));
       setDraftState((prev) => ({ ...prev, status: "error", error: message }));
       return null;
     }

@@ -45,7 +45,7 @@ export function ChatPanel({
 
   return (
     <aside
-      aria-label="Ask City Hall"
+      aria-label="HallPass"
       className="flex h-[62vh] min-h-[22rem] flex-col overflow-hidden rounded-2xl border border-line bg-surface shadow-sm lg:sticky lg:top-20 lg:h-[calc(100dvh-7rem)] lg:max-h-[46rem]"
     >
       <header className="flex items-center gap-1 border-b border-line px-3 py-2">
@@ -63,7 +63,7 @@ export function ChatPanel({
             <span className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-accent text-accent-ink">
               <CapitolIcon width={14} height={14} />
             </span>
-            <span className="hidden truncate min-[420px]:inline lg:hidden xl:inline">Ask City Hall</span>
+            <span className="hidden truncate min-[420px]:inline lg:hidden xl:inline">HallPass</span>
           </span>
         )}
         <div className="ms-auto flex shrink-0 items-center gap-1">
