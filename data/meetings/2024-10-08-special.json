@@ -1,0 +1,1978 @@
+{
+  "id": "2024-10-08-special",
+  "title": "Special City Council Meeting",
+  "body": "Glendale City Council",
+  "date": "2024-10-08",
+  "source": {
+    "videoUrl": "https://www.youtube.com/watch?v=A8vptSXHU5g",
+    "agendaUrl": null,
+    "minutesUrl": null
+  },
+  "video": {
+    "kind": "file",
+    "src": "/media/2024-10-08-special.mp4",
+    "offset": 0
+  },
+  "clip": {
+    "start": 0,
+    "end": null
+  },
+  "language": "en",
+  "generatedAt": "2026-11-14T19:46:31+00:00",
+  "aiGenerated": true,
+  "reviewed": false,
+  "overview": "At a short special meeting, the Glendale City Council accepted $1 million in state money and approved using it for tech startup programs. The council voted 4–0 to let the City Manager sign deals giving $500,000 each over three years to FoundersBoost and SmartGateVC. Councilmember Najarian did not answer the roll call.",
+  "items": [
+    {
+      "id": "item-1",
+      "agendaNumber": "1",
+      "title": "Community Development, re: Acceptance of state funds from the State of California Governor's Office of Business and Economic Development; and Authorization to Negotiate with Up to Two Tech Startup Growth Program Proposer(s) to Develop and Implement the Startup Growth Program(s)",
+      "headline": "Council accepts $1 million state grant and splits it between two tech startup programs",
+      "summary": "The state's business office (GO-Biz) gave Glendale $1 million. State Senator Anthony Portantino helped get the money. Staff picked two groups from 17 proposals to run startup programs for three years, with $500,000 each. FoundersBoost will work with Hacker Fund and the Alliance for SoCal Innovation on the Glendale Growth Alliance, which plans startup training programs, called accelerators, and quarterly hackathons. SmartGateVC will run a Venture Building Program that helps turn university research, especially in artificial intelligence, into new companies. Many callers spoke in support, and the council approved accepting the money, budgeting it (an \"appropriation\"), and letting the City Manager sign the contracts.",
+      "whyItMatters": "Glendale will fund new programs to help local startups, students and entrepreneurs, which the city hopes will bring more tech jobs and investment.",
+      "start": 28,
+      "end": 3640,
+      "outcome": {
+        "kind": "vote",
+        "result": "Approved 4–0",
+        "yes": 4,
+        "no": 0,
+        "abstain": null,
+        "votes": [
+          {
+            "name": "Brotman",
+            "vote": "yes"
+          },
+          {
+            "name": "Gharpetian",
+            "vote": "yes"
+          },
+          {
+            "name": "Kassakhian",
+            "vote": "yes"
+          },
+          {
+            "name": "Najarian",
+            "vote": "absent"
+          },
+          {
+            "name": "Asatryan",
+            "vote": "yes"
+          }
+        ]
+      },
+      "speakers": [
+        "speaker_0",
+        "speaker_1",
+        "speaker_3",
+        "speaker_5",
+        "speaker_6",
+        "speaker_7",
+        "speaker_8",
+        "speaker_9",
+        "speaker_10",
+        "speaker_11",
+        "speaker_12",
+        "speaker_13",
+        "speaker_14",
+        "speaker_15",
+        "speaker_16",
+        "speaker_17",
+        "speaker_18",
+        "speaker_19",
+        "speaker_20",
+        "speaker_21",
+        "speaker_22",
+        "speaker_23",
+        "speaker_24",
+        "speaker_25",
+        "speaker_26"
+      ],
+      "keyMoments": [
+        {
+          "t": 146,
+          "label": "Staff presentation on the tech startup grant begins"
+        },
+        {
+          "t": 1139,
+          "label": "Public comment begins; speakers support FoundersBoost and SmartGateVC"
+        },
+        {
+          "t": 2238,
+          "label": "Councilmember Gharpetian asks for a report on program results"
+        },
+        {
+          "t": 2756,
+          "label": "Justin Brezhnev of Hacker Fund explains the hackathon program"
+        },
+        {
+          "t": 3634,
+          "label": "Vote: approved 4–0"
+        }
+      ],
+      "topics": [
+        "tech startups",
+        "state grant",
+        "foundersboost",
+        "smartgatevc",
+        "hackathons",
+        "economic development"
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "id": "speaker_0",
+      "name": "Asatryan",
+      "role": "Mayor"
+    },
+    {
+      "id": "speaker_1",
+      "name": null,
+      "role": "City Clerk"
+    },
+    {
+      "id": "speaker_10",
+      "name": "George Francisco",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_11",
+      "name": "Christy Onghengo",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_12",
+      "name": "Patty Spencer",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_13",
+      "name": "Scott Witt",
+      "role": "Resident"
+    },
+    {
+      "id": "speaker_14",
+      "name": "Eva Vang",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_15",
+      "name": "Emmy Wayner",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_16",
+      "name": "Mushegh Gevorkian",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_17",
+      "name": "Moaz Hamid",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_18",
+      "name": "Arezu Aghaseh",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_19",
+      "name": "Sri Batchu",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_2",
+      "name": "Brotman",
+      "role": "Councilmember"
+    },
+    {
+      "id": "speaker_20",
+      "name": "Kassakhian",
+      "role": "Councilmember"
+    },
+    {
+      "id": "speaker_21",
+      "name": null,
+      "role": null
+    },
+    {
+      "id": "speaker_22",
+      "name": "Gharpetian",
+      "role": "Councilmember"
+    },
+    {
+      "id": "speaker_23",
+      "name": "Brotman",
+      "role": "Councilmember"
+    },
+    {
+      "id": "speaker_24",
+      "name": "Blake Caldwell",
+      "role": "CEO, FoundersBoost"
+    },
+    {
+      "id": "speaker_25",
+      "name": "Justin Brezhnev",
+      "role": "Executive Director, Hacker Fund"
+    },
+    {
+      "id": "speaker_26",
+      "name": "Eric Eide",
+      "role": "Managing Director, Alliance for SoCal Innovation"
+    },
+    {
+      "id": "speaker_3",
+      "name": "Golanian",
+      "role": "City staff"
+    },
+    {
+      "id": "speaker_4",
+      "name": "Kassakhian",
+      "role": "Councilmember"
+    },
+    {
+      "id": "speaker_5",
+      "name": "Xue Wang",
+      "role": "Community Development Deputy Director"
+    },
+    {
+      "id": "speaker_6",
+      "name": "David Crowley-Delgado",
+      "role": "Senior Economic Development Coordinator"
+    },
+    {
+      "id": "speaker_7",
+      "name": "Steve Rapaport",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_8",
+      "name": "Jeff Harris",
+      "role": "Public commenter"
+    },
+    {
+      "id": "speaker_9",
+      "name": "Tori Wright",
+      "role": "Public commenter"
+    }
+  ],
+  "transcript": [
+    {
+      "speaker": "speaker_0",
+      "start": 0.28,
+      "end": 5.62,
+      "text": "All right. Uh, welcome to the October 8th special meeting of the Glendale City Council. May we have roll call?"
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 6.78,
+      "end": 8.12,
+      "text": "Yes. Council Members Brotman?"
+    },
+    {
+      "speaker": "speaker_2",
+      "start": 8.48,
+      "end": 8.66,
+      "text": "Here."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 8.88,
+      "end": 9.6,
+      "text": "Gharpetian?"
+    },
+    {
+      "speaker": "speaker_3",
+      "start": 9.64,
+      "end": 9.78,
+      "text": "Here."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 9.98,
+      "end": 10.6,
+      "text": "Kassakhian?"
+    },
+    {
+      "speaker": "speaker_4",
+      "start": 10.82,
+      "end": 10.96,
+      "text": "Here."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 11.2,
+      "end": 13.12,
+      "text": "Najarian? Mayor Asatryan."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 13.58,
+      "end": 15.52,
+      "text": "Here. Uh, may we have your report?"
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 16.08,
+      "end": 25.66,
+      "text": "Yes. The agenda for the Tuesday, October 8th, 2024 special public meeting of the City Council was posted on October 4th, 2024 on the bulletin board outside City Hall."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 26.6,
+      "end": 27.44,
+      "text": "Thank you. And what's next?"
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 28.26,
+      "end": 31.08,
+      "text": "Next is, uh, the one item on the agenda."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 31.16,
+      "end": 31.16,
+      "text": "Uh-huh."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 31.18,
+      "end": 52.54,
+      "text": "Community development regarding acceptance of state funds from the State of California Governor's Office of Economic Development, and authorization to negotiate with up to two tech startup growth program proposers to develop and implement, um, the startup grow- growth program's acceptance of state funds from the State of California Governor's Office of Economic Development."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 53.3,
+      "end": 67.94,
+      "text": "A motion approving acceptance of state funds in the amount of $1 million from the State of California Governor's Office of Business and Economic Development. B, resolution of appropriation in the amount of $1 million for the Glendale Tech Startup Growth Programs."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 71.02,
+      "end": 87.2,
+      "text": "And C, motion authorizing the city manager or designee to negot- negotiate and execute professional services agreements and all related documents with FoundersBoost and SmartGateVC LLC for the operation and program management of tech startup growth programs located in Glendale."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 89.84,
+      "end": 93.64,
+      "text": "That was a mouthful. Uh, Mr. Galanian."
+    },
+    {
+      "speaker": "speaker_3",
+      "start": 93.78,
+      "end": 127.62,
+      "text": "Yes. Mayor Asatryan, members of City Council, it's an exciting time that we come to you, uh, with a grant thanks to State Senator Anthony Portantino, uh, who was instrumental in securing this grant for, uh, our city and our tech community. As well as after a, uh, very lengthy selection and review process, uh, that staff will go through, uh, selected two, uh, worthy entity startups, uh, in support of our tech community in Glendale that has been in the works for a few years."
+    },
+    {
+      "speaker": "speaker_3",
+      "start": 128.16,
+      "end": 142.56,
+      "text": "With that, I'll turn it over to Xue Wang, our community, uh, development deputy director, uh, who has a, um, co-presenter with him, David Crowley, uh, Delgado, our senior economic development coordinator. Xue."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 146.16,
+      "end": 159.3,
+      "text": "Thank you, Mr. Galanian. Good afternoon, Madam Mayor and City Council members. We are so excited to be here today to present an opportunity that we believe will further support and strengthen Glendale's tech and innovation ecosystem."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 163.1,
+      "end": 187.84,
+      "text": "But before we dive in, I would like to also take an opportunity to recognize and extend our gratitude to the Governor's Office of Business and Economic Development and State Senator Anthony Portantino. Back in 2019, he saw the potential of Glendale's growing tech community and secured 1 million in funding to help support startups and also build innovation here in the city."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 189.26,
+      "end": 208.6,
+      "text": "This year, Senator Portantino once again championed an additional round of funding to ensure that we can sustain and also grow and accelerate the startup ecosystem here in Glendale. So we are incredibly grateful for his continued support and also commitment to Glendale's tech community."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 212.1,
+      "end": 227.58,
+      "text": "In the next few slides, we will walk you through the key milestones and achievements that have helped shaped our tech and innovation journey up to this point. We'll also cover why startup ecosystems matter, dive into the RFP process, and then conclude with staff recommendations."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 231.8,
+      "end": 253.14,
+      "text": "So let's begin with the core foundation of this journey. In February 2016, the city partnered with Estolano Advisors to develop a roadmap for growing Glendale's technology sector. This resulted in the formation of the Glendale Tech Strategy, which was published and adopted by City Council in 2017."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 254.06,
+      "end": 263.26,
+      "text": "This strategy has been our guiding framework, if you will, c- driving our continuous efforts to support and nurture the tech community in Glendale."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 267.08,
+      "end": 286.2,
+      "text": "Since the adoption of the tech strategy, economic development has successfully implemented several recommendations, including continuation of Glendale Tech on Tap, which are monthly meetups uniting the tech community in a casual setting to discuss ideas and trends, and also to connect with other entrepreneurs."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 287.64,
+      "end": 305.86,
+      "text": "In collaboration with multiple partners, we hosted our ninth annual Glendale Tech Week last month, which attracted nearly 3,000 founders, investors, and community members across 22 events throughout the week, which is a testament to its growing impact and success."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 306.26,
+      "end": 306.46,
+      "text": "Oh."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 307,
+      "end": 321.5,
+      "text": "And thanks to the 1 million in state funding secured in 2019, we introduced two startup accelerators, Hero House and Kids X, with contracts in place with these partners from 2021 to 2023."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 326.02,
+      "end": 347.68,
+      "text": "So o- over the past couple of years, we have expanded our resources and initiatives so that we can better support local businesses and startups. That includes we produced a How to Do Business in Glendale guide to offer insights to businesses and business owners as well who are looking at establishing a location here in our city."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 348.72,
+      "end": 379.73,
+      "text": "We also implemented the annual Let's Grow Glendale Small Business Summit, and this past May we hosted the second annual event, attracting nearly 400 attendees, double the turnout of the inaugural year. The summit brought together businesses, government leaders, and nonprofits to provide valuable business information and resources, including networking opportunities, 'cause again, we want to ensure that our small businesses grow and thrive here in the city."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 381.27,
+      "end": 394.57,
+      "text": "We also launched a free human resource hotline, which is important especially for Glendale employers to offer expert guidance on labor and wage laws, hiring practices, labor regulations, and much more."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 399.91,
+      "end": 430.87,
+      "text": "So in June of 2022, City Council approved the city's very first three-year economic development strategic plan, reaffirming our commitment to strengthening the tech ecosystem here and to drive sustainable economic growth in the city. The plan identifies four key pillars, as you can see on the screen, starting with enhancing Glendale's brand identity so that we can position the city as a top choice to live, to work, to experience, and to invest."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 432.31,
+      "end": 440.03,
+      "text": "The second element is fostering a business-friendly culture that supports business attraction as well as retention purposes."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 442.13,
+      "end": 464.75,
+      "text": "Followed by growing the tech and innovation industry so that we can attract and retain talent while also supporting the growth and success of entrepreneurs. And lastly, expanding our arts and entertainment offerings to provide a healthy mix of amenities for our residents, as well as to promote Glendale as a top destination for visitors."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 466.03,
+      "end": 483.01,
+      "text": "So as you can see, growing the tech and innovation ecosystem is at the heart of this plan, and by aligning our strategic efforts with the growth of our sector, we are ensuring that Glendale remains a competitive and business-friendly city that embraces innovation for the benefit of the entire community."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 487.53,
+      "end": 506.95,
+      "text": "And now I would like to turn it over to David Crowley-Delgado, our senior economic development coordinator, for the next portion of the presentation. David actually joined the city in January of this year and brings extensive experience as a former innovation strategist at the CHLA Innovation Studio."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 507.35,
+      "end": 516.89,
+      "text": "Since he started, he has been extremely instrumental in really driving our tech initiatives here, and he also served as the project manager during the tech RFP process."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 520.01,
+      "end": 520.09,
+      "text": "Welcome, David."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 520.09,
+      "end": 544.25,
+      "text": "Thank you, Shuah. Thank you very much. Um, Madam Mayor and Council, it's a privilege to work as part of this team as we build an even brighter future for this Jewel City. As part of this presentation, we wanted to make sure we're explaining the broader context of this work and why it remains relevant. Since the adoption of the tech strategy, the city has placed an emphasis on building and maintaining a vibrant startup ecosystem to drive innovation, economic growth, and job creation."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 545.11,
+      "end": 577.43,
+      "text": "According to the Harvard Business Review, vibrant startup ecosystems attract talent and investment and create a multiplying effect where new businesses stimulate demand for services and infrastructure. Additionally, the Kauffman Foundation highlights that startups are a primary source of net new job creation, often outpacing larger firms in growth. Cities with strong ecosystems foster collaboration between academia, government, and the private sector, spurring technological advancements, positioning the city as a hub for entrepreneurial activity, and enhancing the city's global competitiveness and resilience."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 578.97,
+      "end": 598.39,
+      "text": "So how's the health of our ecosystem here in Glendale? We have a very strong tech presence here within the city, with three unicorns on Brand Boulevard, media and innovation giants such as The Walt Disney Company, and hundreds of small and medium-sized tech startups, and this number is growing. In total, high-tech companies employ over twelve thousand individuals within the city."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 599.23,
+      "end": 625.65,
+      "text": "The city also boasts a robust network of support services and proactive government that is proudly business-friendly in approach and policy. While we have a strong tech industry presence, our tech ecosystem has an opportunity to be strengthened. We have a small yet growing investment community and are home to f- a few hyper-targeted accelerator programs, such as Hero House and the Disney Accelerator, who provide a large impact on a fairly narrow group of companies."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 626.45,
+      "end": 671.27,
+      "text": "While foundationally strong, this growing ecosystem has the need for additional programs to fill some of the remaining gaps. There still exists an opportunity to expand the number of services available to startups and create stronger connections to corporate partners, educational institutions, and the entrepreneurs driving innovation here in Glendale. The purpose of this RFP is to recruit, select, and fund programs that will showcase the local startup community and provide emerging companies with the tools and support they need to thrive in today's market, to promote Glendale and the region as an innovation hub, to attract and retain a diverse pool of tech talent in Glendale and the broader area, and to drive local economic development through supporting entrepreneurs and potential high-growth startups that may generate revenue, create high-paying jobs,"
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 671.53,
+      "end": 694.15,
+      "text": "and create products and ideas that are solving meaningful problems. In order to achieve the city's goal of diversifying and broadening the startup ecosystem within the city, the RFP was written to split the one million dollar grant between two operators over the course of the three-year term. Submissions included an overview of the proposed growth programs as well as a budget for how the five hundred thousand dollars in funds would be utilized."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 694.87,
+      "end": 702.79,
+      "text": "Applicants had the option to include in their proposal a second program structure and budget for the full one million dollars if the selection committee could consider that as well."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 705.17,
+      "end": 729.21,
+      "text": "The RFP was distributed widely in order to attract the highest tier of applicant. In addition to the typical outlets that the city uses, the RFP was distributed to the local and national outlets specific to the tech community. All applicants of the 2019 grant were also invited to apply. In total, the RFP was distributed to one hundred and ninety-four publications and journalists, community groups, and interested parties, many of whom redistributed the information on their own platforms."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 729.98,
+      "end": 758.06,
+      "text": "This allowed visibility that attracted applicants from across the entire United States. The selection committee was comprised of subject matter experts with diverse backgrounds, perspectives, and expertise. We selected judges to fit seven personas representing viewpoints that allowed for a recommendation that has considered how the operators will improve the city's tech ecosystem, advance the startups within their programs, increase the city's reputation, and elevate the city's role as a collaborative and driving member of the SoCal tech scene."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 758.96,
+      "end": 782.44,
+      "text": "In total, 17 proposals met the requirements for this RFP and were reviewed by the selection committee. The top five proposals were brought in for interviews. The committee identified two proposals that, in their expert opinion, best achieved the RFP's goals and advanced the t- city's tech strategy. The two proposals are the Glendale Growth Alliance led by FoundersBoost, and Venture Building Program led by SmartGateVC."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 785.12,
+      "end": 807.46,
+      "text": "The FoundersBoost Foundation proposes partnering with The Hacker Fund and the Alliance for SoCal Innovation to establish, launch, and operate the Glendale Growth Alliance. This program aims to support underrepresented founders from the LA region, attracting them to the Glendale ecosystem. The core initiative revolves around biannual FoundersBoost accelerators focused on scalable tech startups led by underrepresented founders."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 808.04,
+      "end": 829.36,
+      "text": "Graduates will receive support to enter the Alliance for SoCal Innovation's SoCal Venture Pipeline, providing them with further opportunities for growth and investment. In addition, the Glendale Growth Alliance has proposed hosting large scale hackathons within the City of Glendale hosted by The Hacker Fund, bringing together students, entrepreneurs, and innovators from across the region to collectively solve pressing problems."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 830.2,
+      "end": 845.96,
+      "text": "The selection committee appreciated how these programs touched on every stage of the startup journey, from idea development through company founding and growth. Additionally, the committee appreciated the focus on providing opportunity for underrepresented founders, as well as engaging students and the non-founder community."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 848.36,
+      "end": 876.66,
+      "text": "SmartGateVC proposes a Venture Building Program, which will be a premier studio located here within the City of Glendale. Its mission will be to bridge the gap between cutting-edge research and market-ready products by fostering collaborations between academic institutions and industry leaders. With a focus on labora- laboratories and universities across Southern California, the proposed Venture Building Program will be dedicated to building companies from groundbreaking technologies, focusing on real-world applications of artificial intelligence."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 877.76,
+      "end": 901.1,
+      "text": "The objective will be to build businesses, to help founders raise pre-seed funding following the program, to establish operations here in Glendale, and to acquire their very first paying customers. The selection committee saw value in the, this bridge that would be created between the research insti- institutions and the business community, and recognizes how this program will greatly strengthen the incubator network within Glendale and the broader LA region."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 901.94,
+      "end": 918.02,
+      "text": "Funding both programs will allow these two operators to work symbiotically, not detracting from either program, but allowing each to amplify the other's impact. The selection committee feels confident that funding these two programs will be a powerful step for the city towards achieving the vision of Glendale as a vibrant tech hub."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 920.52,
+      "end": 940.36,
+      "text": "Additionally, I'd like to quickly walk through the key milestones in this process. The RFP was released on May 15th of 2024, and after a pre-bid conference and a period to submit written questions and receive answers, proposals were due on July 12th. After reviewing all the proposals, the selection committee identified the top five and invited those operators to follow-up interviews during the week of August 20th."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 941,
+      "end": 950.96,
+      "text": "After discussion and deliberation, the committee reached a unanimous vote to recommend awarding $500,000 each over three years to the Venture Building Program and the Glendale Glo- Growth Alliance program."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 958.08,
+      "end": 986.22,
+      "text": "Thank you, David. So to quickly recap, both applicants have a proven track record of building successful startup ecosystems locally. They are dedicated to supporting Glendale's technology growth and remain actively engaged in fostering collaboration and innovation within the community. In addition, they both have strong connections to Glendale and the broader tech community, including ties with educational institutions, investors, startups, uh, you name it."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 986.94,
+      "end": 1016.7,
+      "text": "They also have expressed a strong commitment to remaining in Glendale, further solidifying their role in our community's growth. And these efforts align perfectly with the goals and objectives of our economic development strategic plan and the Glendale tech strategy. So we are definitely feeling confident in terms of their continued partnership as far as it driving local innovation and also elevating Glendale's global brand and reputation as a tech hub."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 1019.32,
+      "end": 1044.7,
+      "text": "So in closing, I would like to express our sincere gratitude to City Council for your leadership and ongoing support of economic development. A very special thank you to the amazing selection committee for all of their time and hard work throughout this intensive process. I also wanna take a moment to thank all the interested applicants for dedicating a lot of time and effort in putting together their proposals and submitting it to the city."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 1045.4,
+      "end": 1085.08,
+      "text": "And lastly, I also want to acknowledge our very own Sevak Dashoyan in ac- in economic development for his creativity and assistance in putting together this PowerPoint presentation. So this leads me to the staff recommendation. We recommend that City Council accept the $1 million in state funding and allocate the funds for the Tech Startup Growth Programs, followed by authorize the city manager or designee to negotiate and execute all agreements and related documents with both FoundersBoost and SmartGateVC in the amount of $500,000 each for a period of three years."
+    },
+    {
+      "speaker": "speaker_5",
+      "start": 1085.76,
+      "end": 1095.16,
+      "text": "So with that, this concludes our presentation. We're happy to answer any questions you may have. We also have both operators in the audience to answer questions as well. Thank you."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 1096.58,
+      "end": 1113.55,
+      "text": "Thank you. Um I'm gonna make a few comments, um, and then if my colleagues are okay with it, we can go to... We have one card and 12 callers. Would you like to have your questions answered first, or you wanna hear the-"
+    },
+    {
+      "speaker": "speaker_7",
+      "start": 1113.87,
+      "end": 1115.63,
+      "text": "I can, I can hear from folks."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 1116.23,
+      "end": 1123.13,
+      "text": "Okay. Okay, you know what? I'll hold off my comments too. Why don't we take the... Thank you for the presentation."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1124.33,
+      "end": 1125.43,
+      "text": "How many minutes?"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 1125.55,
+      "end": 1128.75,
+      "text": "Um, is, is it still at 12?"
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1133.55,
+      "end": 1134.75,
+      "text": "Um, no. Um, 14 callers and one card."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 1134.79,
+      "end": 1136.85,
+      "text": "Okay. So let's do two minutes each. Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1139.73,
+      "end": 1143.89,
+      "text": "Our first public comment is by Jeff Harris. Jeff, you have two minutes."
+    },
+    {
+      "speaker": "speaker_8",
+      "start": 1149.61,
+      "end": 1170.71,
+      "text": "Thank you. Good afternoon, Mayor and council members. Uh, my name is Jeff Harris. I'm here today to support FoundersBoost. Uh, I am the former director of school and community partnerships with Compton Unified, uh, School District. I also currently serve as the board chair of Food Forward, a nonprofit that prevents food waste and fights hunger."
+    },
+    {
+      "speaker": "speaker_8",
+      "start": 1171.27,
+      "end": 1191.23,
+      "text": "Um, I'm here to really attest to, uh, FounderBoost and Ha- uh, Hackers Fund and their commitment and competency in working with underrepresented and, uh, underserved communities, especially communities of color. At Compton Unified, I worked... Well, A, it's a pleasure to work with these folks."
+    },
+    {
+      "speaker": "speaker_8",
+      "start": 1191.31,
+      "end": 1210.77,
+      "text": "They are-- They bring an energy, uh, and a stick-to-it-iveness, uh, that you've never seen before. But also, um, I've worked with them as they put together our Compton Tech Week. They helped with our Compton Unified STEAM Fest, uh, and came to support our Computer Science Week, uh, every single year."
+    },
+    {
+      "speaker": "speaker_8",
+      "start": 1211.29,
+      "end": 1232.33,
+      "text": "Uh, moreover, I recently had the opportunity to participate as a judge in one of their hackathons and, um, I didn't really know what to expect, but wow. The solutions and, uh, pro- pro- uh, proposals and programs that the students, the young people came up with absolutely blew my mind."
+    },
+    {
+      "speaker": "speaker_8",
+      "start": 1232.91,
+      "end": 1262.93,
+      "text": "Um, I was thinking these were all college students, and thought, \"Yeah, I'll judge some, some college, uh, some college, uh, uh, projects.\" Uh, but several of them, I thought were absolutely market ready, uh, to the point where not only did I connect one of the teams to, uh, a, a venture capitalist that I know that works in the, um, in, in the climate change area, but also I'm finding ways to bring in one of the projects, uh, to help with our work at Food Forward."
+    },
+    {
+      "speaker": "speaker_8",
+      "start": 1263.57,
+      "end": 1270.85,
+      "text": "Uh, so that's all I have to say. It's, uh, FoundersBoost would be a great addition to the Glendale community, uh, and I'm happy to have your attention today."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1272.47,
+      "end": 1282.21,
+      "text": "Thank you. Um, our first caller is Stephen Rap- uh, Rapaport. Uh, Stephen, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_7",
+      "start": 1283.43,
+      "end": 1311.57,
+      "text": "Thank you very much. Um, good, good afternoon, Mayor and council members. My name is Steve Rapaport. I am the CEO of National High School Career Day Network. This is a non-profit organization. I previously retired from the Beverly Hills Unified School District after serving almost 30 years with responsibilities that included serving as the director of career development and the ROP program."
+    },
+    {
+      "speaker": "speaker_7",
+      "start": 1312.29,
+      "end": 1337.37,
+      "text": "In the program, I was a member of the 23 school district, um, steering committee, so I served with Glendale Unified. I had the privilege to work with Justin Brezhnev as a former student and as the executive director of Hacker Fund, as well as several other members of the organization who have participated in the career events I coordinate for high school."
+    },
+    {
+      "speaker": "speaker_7",
+      "start": 1338.35,
+      "end": 1350.61,
+      "text": "They're dedicated to education, and I want to express my support of the Glendale Growth Alliance with FoundersBoost Alliance for SoCal Innovation and the Hacker Fund. Thank you very much."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1351.59,
+      "end": 1356.41,
+      "text": "Thank you. Our next caller is To- Tori Wright. Tori, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_9",
+      "start": 1357.97,
+      "end": 1381.43,
+      "text": "Hello. Um, my name is Tori Wright, and I work in Glendale currently. Um, and I volunteer with Hacker Fund to inspire youth through hackathons, and I am calling to express my support of the Glendale Growth Alliance program with FoundersBoost, Alliance for SoCal Innovation and Hacker Fund. Um, I'm very excited for more opportunities to inspire the generation of in- innovators coming from, uh, the city of Glendale."
+    },
+    {
+      "speaker": "speaker_9",
+      "start": 1381.63,
+      "end": 1382.67,
+      "text": "So thank you very much."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1388.09,
+      "end": 1394.43,
+      "text": "Um, thank you. Our next caller is George Francisco. George, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 1395.73,
+      "end": 1417.47,
+      "text": "Very much. Uh, Mayor, council members, my name is George Francisco. Uh, I'm calling you today from my community in Venice, uh, but my connection to your community and city in Glendale comes from being one of the co-chairs of the LA County BizFed Arts, Entertainment, and Sports Committee and a member of our Technology and Innovation Committee."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 1418.19,
+      "end": 1444.39,
+      "text": "Um, what you have here is an incredibly important example-- Uh, excuse me, opportunity for the region and for your city to provide an enthusiastic framework to create the next generation of vibrant employment and to help the overall growth and development of Los Angeles as a county."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 1445.13,
+      "end": 1472.23,
+      "text": "Um, our region needs good jobs, and I'm sure without hesitation you will pass this motion because it's incredibly important, not just for your city, but for the region. Um, obviously in Venice, we have a deep connection to our tech community, and I would like to take an opportunity to echo the gentleman before me and at least speak to the relationship that I've had with Hacker Fund and with Justin Brezhnev"
+    },
+    {
+      "speaker": "speaker_11",
+      "start": 1472.97,
+      "end": 1492.59,
+      "text": "Uh, I can validate that you will never have a more enthusiastic, a more dedicated, uh, and, uh, an, an organization with more integrity to come and help create the next generation of employees. Again, I encourage you to support the motion to pass it forward."
+    },
+    {
+      "speaker": "speaker_11",
+      "start": 1492.71,
+      "end": 1494.49,
+      "text": "With that, thank you for your time."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1497.51,
+      "end": 1502.19,
+      "text": "Thank you. Our next caller is Patricia Spencer. Patricia, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_12",
+      "start": 1503.91,
+      "end": 1515.11,
+      "text": "Thank you for this opportunity to comment. I'm Patty Spencer. As a, a master's degree level public administrator for three decades, I served as a federal state,"
+    },
+    {
+      "speaker": "speaker_12",
+      "start": 1517.35,
+      "end": 1546.41,
+      "text": "uh, local grant writer and chief grants director with a career total of five hundred million in public grant and contract awards. My professional tr- records of, uh, over the thirty-year period of successfully administrating government grants, contracts, and private funding to maintain financial, uh, legal compliance resulted in a hundred percent clean audit findings on every grant and contract award under my management."
+    },
+    {
+      "speaker": "speaker_12",
+      "start": 1547.33,
+      "end": 1567.75,
+      "text": "I'm grateful for the opportunity to share this experience with Hacker Fund's CEO and in my role on the Hacker Fund board of directors as the board chair. I have professionally invested in Hacker Fund's work, such as this project, supporting entrepreneurs from Glendale to unlock the power of grant funding for their civic technologies."
+    },
+    {
+      "speaker": "speaker_12",
+      "start": 1568.41,
+      "end": 1587.19,
+      "text": "I'm calling in today to give my enthusiastic support for the Glendale Growth Alliance with FoundersBoost, Alliance for SoCal Infi-Innovation, and Hacker Fund. Our entire team at Hacker Fund is excited to serve the community, and we thank you for the opportunity to be part of this experience. Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1588.89,
+      "end": 1593.39,
+      "text": "Thank you. Our next caller is Scott Witt. Scott, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_13",
+      "start": 1594.35,
+      "end": 1617.33,
+      "text": "Thank you very much. Good evening. I'm sorry, good afternoon. Um, I've been a Glendale resident for over twenty years, and in that time, I've been an entrepreneur and a startup and investment advisor. Um, I've also been helping to educate founders at accelerators, universities, and community and industry organizations, including Glendale's Tech on Tap. And so I enthusiastically support the selection of the FoundersBoost program."
+    },
+    {
+      "speaker": "speaker_13",
+      "start": 1617.85,
+      "end": 1641.89,
+      "text": "Um, and this is based on my personal experience as a mentor at FoundersBoost, my ongoing work with some of their graduates, including a female CEO whose award-winning startup is now working with a parent of Louis Vuitton, that's LVMH. Um, and also in my ongoing conversations with Blake, the FoundersBoost CEO, where we talk about new ways to help underrepresented founders to build successful businesses."
+    },
+    {
+      "speaker": "speaker_13",
+      "start": 1642.45,
+      "end": 1660.11,
+      "text": "I'm also a member of the evaluation committee for the SoCal Venture Pipeline and can vouch for their commitment to growing our community of founders. So over the years, we've all seen a lot of startup theater, but let me tell you, FoundersBoost and these other organizations are the real deal. So I look forward to supporting their work here in Glendale. Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1661.31,
+      "end": 1667.05,
+      "text": "Thank you. Our next caller is Eva Vang. Eva, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_14",
+      "start": 1668.43,
+      "end": 1687.69,
+      "text": "Good afternoon. My name is Eva Vang. I'm an immigrant entrepreneur, technologist, and community organizer who went to middle and high school in the LA County. I'm also the founder and CEO of Impact, a technology company that connects people inspired by media storytelling with call to actions to make a real impact in their community."
+    },
+    {
+      "speaker": "speaker_14",
+      "start": 1688.59,
+      "end": 1716.83,
+      "text": "And prior to that, I built the sales and community function at Notion after founding the largest collegiate hackathon in the United States called CalHacks at my alma mater, UC Berkeley. Now, prior to organizing CalHacks, I attended HackTech in twenty fourteen, which is CalTech's hackathon organized by Justin Brezhnev, the executive director of Hacker Fund, where I was bitten by the hackathon bug all over again and became champion for youth development through invention-based learning."
+    },
+    {
+      "speaker": "speaker_14",
+      "start": 1717.81,
+      "end": 1739.03,
+      "text": "I serve on the board of directors at Hacker Fund and have volunteered to give back to my community and inspire youth from the City of Glendale through the hackathon support we have provided across Upstart Valley with our team of technology mentors. I'm calling in to give my support for Glendale Growth Alliance with FoundersBoost, Alliance for SoCal Innovation, and Hackathon-- Hacker Fund."
+    },
+    {
+      "speaker": "speaker_14",
+      "start": 1739.71,
+      "end": 1753.31,
+      "text": "Hackathons and community are a key part of what made me the person I am today, and I can't wait to pass it forward. Our team at Hacker Fund is extremely excited to serve the community and build and inspire the next generation as innovators. Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1754.95,
+      "end": 1762.11,
+      "text": "Thank you. Our next caller is Christy Onghengo. Uh, Christy, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_11",
+      "start": 1763.35,
+      "end": 1795.73,
+      "text": "Hi, my name is Christy Onghengo. I'm calling in to voice my support for the Glendale Growth Alliance with FounderBoost, the Alliance SoCal Innovation, Hacker Fund. I grew up in LA County and San Fernando Valley and graduated at UCLA, and I've had the pleasure of volunteering as a Hacker Fund mentor since its in- since its inception in twenty fourteen and helped their efforts in launching the first-ever Compton Innovation Center, the first-ever Compton Tech Week, and the first Hacktoberfest through the LA Mayor's Office."
+    },
+    {
+      "speaker": "speaker_11",
+      "start": 1796.21,
+      "end": 1821.61,
+      "text": "Throughout my career, I led technology and marketing teams at companies like Snapchat and TikTok, where I ensured we continue to invest into the communities to provide workforce development opportunities. By supporting Glendale Growth Alliance with FounderBoost, the Alliance for SoCal Innovation, and Hacker Fund, I believe the City of Glendale will ensure that no student is left behind as the digital world advances."
+    },
+    {
+      "speaker": "speaker_11",
+      "start": 1821.65,
+      "end": 1822.11,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1823.79,
+      "end": 1828.87,
+      "text": "Thank you. Our next caller is Emmy Wayner. Emmy, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_15",
+      "start": 1830.49,
+      "end": 1850.01,
+      "text": "Thank you. Good afternoon, Mayor and the City Councils. Uh, my name is Emmy Wayner, and I currently work at Google focusing on startup As a hackathon volunteer, judge, and partner with the Hackathon, I work with their team to bring more resources that they need to use across Los Angeles County today."
+    },
+    {
+      "speaker": "speaker_15",
+      "start": 1850.71,
+      "end": 1872.29,
+      "text": "I'm calling to express my support of the Glendale Growth Alliance program with FoundersBoost, Alliance for SoCal Innovation, and the Hackathon. Today, I'm actively working with the Hackathon to inspire youth from Los Angeles County to submit their innovations to our hackathon by October 15th."
+    },
+    {
+      "speaker": "speaker_15",
+      "start": 1872.99,
+      "end": 1898.15,
+      "text": "They'll get a chance to demo in front of panels of technology inventors, venture capitalists, and entrepreneurs from the Forbes 30, Under 30 list during the LA Tech Week. It's, it's still time to sign up for the website. Uh, www.gain.la is the website to sign up, and then we hope to see more Glendale youth in a hackathon."
+    },
+    {
+      "speaker": "speaker_15",
+      "start": 1898.77,
+      "end": 1899.15,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1900.95,
+      "end": 1907.07,
+      "text": "Thank you. Our next caller is Mushegh Gevorkian. Um, Mushegh, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_16",
+      "start": 1909.31,
+      "end": 1937.85,
+      "text": "Hey, good afternoon, dear mayor and council members. My name is Mushegh Gevorkian. I'm the CEO and founder of Dura Technologies, and I recently mo-moved to Glendale from Armenia to grow my business in the region. Uh, I'm calling to say I'm really thrilled to see SmartGateVC and Hero House as one of the potential operators for the venture building program. Actually, we have been part of the Hero House community since day one, and Hero House was, uh, one of the key landing places and supporters when we're exploring the LA Tech scene."
+    },
+    {
+      "speaker": "speaker_16",
+      "start": 1938.51,
+      "end": 1963.69,
+      "text": "And basically, they are the reason that I chose Glendale when I was looking where to move in the US. What is more important, with the help of Hero House, uh, we signed our first contract with a big company located in the Glendale just within the first month of my arrival. So I'm really excited to see that the Hero House and SmartGateVC will hopefully potentially continue having its big impact in startup ecosystem here in Glendale."
+    },
+    {
+      "speaker": "speaker_16",
+      "start": 1963.93,
+      "end": 1964.33,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 1965.71,
+      "end": 1971.51,
+      "text": "Thank you. Our next caller is, um, Moaz Hamid. Uh, Moaz, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_17",
+      "start": 1972.97,
+      "end": 2000.95,
+      "text": "Good afternoon, uh, Glendale City Council. I am Moaz Hamid, and I'm a venture capitalist, uh, and the managing director of Movement Venture and the board of director and a trustee of the Consumer Technology Association Foundation. Uh, I'm calling to express my support of FounderBoost for the Glendale Growth Alliance program. Uh, the resources that I received from FounderBoost has been critical to my journey and helped me grow from entrepreneur into investor, mentor, and philanthropist."
+    },
+    {
+      "speaker": "speaker_17",
+      "start": 2001.43,
+      "end": 2019.89,
+      "text": "I'm excited to see Glendale's tech strategy continue to head and strengthen in this direction because it will help the City of Glendale create more opportunity locally for entrepreneurs and drive venture capital funding into the community, inspiring the next generation of innovator and creating more local jobs. Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 2021.25,
+      "end": 2026.11,
+      "text": "Thank you. Our next caller is Arezu Aghaseh. Arezu, you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_18",
+      "start": 2029.97,
+      "end": 2059.23,
+      "text": "Hello, good afternoon, everyone. My name is Arezu Aghaseh. I am a venture capitalist at CREA. Um, I'm here to support, um, the initiative by FoundersBoost, the Alliance for SoCal Innovation, and Hackers Fund. Um, my background is I'm also an immigrant, um, where I was born in Cyprus and then raised here in SoCal for my undergrad-- for my elementary school and high school, and then I went to UC Berkeley for my ba- bachelor's and master's."
+    },
+    {
+      "speaker": "speaker_18",
+      "start": 2059.89,
+      "end": 2094.29,
+      "text": "Um, um, on top of that, I'm a twenty-five-time hackathon winner, where some of the wins led to building out features for the big companies and senior leadership from Deloitte, um, for focusing on Fortune 100 companies. I'm calling in to express my support given that, um, Alliance for SoCal Innovation team, FoundersBoost, and Hackers Fund will allow for our fund to bring in current and upcoming investment opportunities, hiring opportunities, and research and innovation to the City of Glendale, um, in contribution to the Grow- Glendale Growth Alliance."
+    },
+    {
+      "speaker": "speaker_18",
+      "start": 2094.69,
+      "end": 2107.95,
+      "text": "The startups that come from FoundersBoost have supported our deal flow and development efforts, and this initiative is also very important to me coming from a grimi- immigrant entrepreneur mindset and supporting underrepresented founders and communities."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 2111.05,
+      "end": 2117.65,
+      "text": "Thank you. Uh, our final caller is Sri Batchu. Sri, on-- you're on air. You have two minutes."
+    },
+    {
+      "speaker": "speaker_19",
+      "start": 2118.85,
+      "end": 2144.67,
+      "text": "Um, hello, council members, mayor. Um, my name is Sri Batchu. I am the vice president of innovation banking at HSBC. Prior to my role at HSBC, I served as the director of business development and community at Bioscience LA, which is an incubator and accelerator funded by LA County that was based in Culver City. Um, I personally am responsible for writing the, uh, grow, gr- I guess, grant proposal for the KidZx Accelerator while I was at Children's Hospital Los Angeles."
+    },
+    {
+      "speaker": "speaker_19",
+      "start": 2145.15,
+      "end": 2171.29,
+      "text": "I was also a founding team member of Cub-- KidZx. Um, I am calling in today to provide my support for the Glo- Glendale Growth Alliance, specifically for FoundersBoost, Alliance for SoCal Innovation, and Hackathon. I will say Blake Cogswell, Steve Gillison, Andy Wilson, Justin Brevne- Brezhnev, these individuals have dedicated a large portion of their lives for supporting the overall in-innovation ecosystem in LA and beyond."
+    },
+    {
+      "speaker": "speaker_19",
+      "start": 2171.97,
+      "end": 2187.03,
+      "text": "So having people like this at the helm of this program is people that you want because these are very heavy hitters. So today, I'm calling in for that support. I can personally put my own name on it that these people will do wonders for the City of Glendale. I can guarantee it. Thank you."
+    },
+    {
+      "speaker": "speaker_1",
+      "start": 2188.45,
+      "end": 2191.41,
+      "text": "Thank you very much. And that is all for the calls."
+    },
+    {
+      "speaker": "speaker_16",
+      "start": 2192.97,
+      "end": 2194.91,
+      "text": "Were those real calls or AI-generated?"
+    },
+    {
+      "speaker": "speaker_16",
+      "start": 2198.27,
+      "end": 2204.95,
+      "text": "Thank you for everybody for calling in. Um, all right. Uh, do my colleagues have questions?"
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 2207.98,
+      "end": 2212.5,
+      "text": "I, I don't have any questions. I, I have comments. I, I can get into it right now."
+    },
+    {
+      "speaker": "speaker_21",
+      "start": 2213.26,
+      "end": 2215.56,
+      "text": "Uh, let's see if anyone has questions and then-"
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2215.58,
+      "end": 2216.42,
+      "text": "I have a couple questions."
+    },
+    {
+      "speaker": "speaker_21",
+      "start": 2216.42,
+      "end": 2219.04,
+      "text": "So Council Member Gharpetian, do you have questions?"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2219.12,
+      "end": 2221.6,
+      "text": "I wanna hear, hear from some of the folks. Yeah, so."
+    },
+    {
+      "speaker": "speaker_21",
+      "start": 2221.82,
+      "end": 2222.22,
+      "text": "Okay. So-"
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2222.38,
+      "end": 2223.34,
+      "text": "Do we have speakers cards?"
+    },
+    {
+      "speaker": "speaker_21",
+      "start": 2223.78,
+      "end": 2233.28,
+      "text": "No, no more speaker cards. So if you wanna-- if you have questions, uh, please ask your questions, and then, uh, Council Member Brotman, um, has some additional questions."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2234.66,
+      "end": 2236.02,
+      "text": "Okay. Um, so"
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2238.1,
+      "end": 2245.82,
+      "text": "this $1 million is being divided between two companies, FoundersBoost and... My time is already up? That was the AI."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2248.78,
+      "end": 2269.58,
+      "text": "And, uh, Smart, SmartGateVC LLC. Am I correct, Mr., Mr. Manager? And for the last three or four years, the first round of, uh, funding that came in, I think for, for next year or the following year when these programs are implemented, I'd like to have some, some sort of a report as to what the results of our programs are."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2270.08,
+      "end": 2293.48,
+      "text": "Uh, we have 12,000 employees in high tech today in Glendale. Are they-- have they increased or not? Or the companies that we have, how many more companies came to Glendale? And also, as far as the programs with some of, some of the, the, the callers mentioned programs with the high schools and our, our kids. I would like to get some information about that as to what kind of programmings do we have to build the base for them."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2294.18,
+      "end": 2322.88,
+      "text": "Um, and, uh, on page 18 of 222, uh, it says that there are eight startups, uh, that was run by, uh, FoundersBoost, uh, that it, it goes on and tells, tells us what, what they were provided. I would like to know what their, uh, how-- w-what's their status today out of the, those eight startups, and, uh, have they succeeded?"
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2322.94,
+      "end": 2342.36,
+      "text": "Because we know it's very difficult with the, with the startup world, and a lot of-- I don't know how many, very few really hit the high, high, high note, if you will. Uh, I would like to get some, some answers on that as to the ones that were, were already helped, how many of them succeeded, and where, where, where they are at this time."
+    },
+    {
+      "speaker": "speaker_21",
+      "start": 2344.06,
+      "end": 2355.3,
+      "text": "Council Member Gharpetian, if, if I may have, uh, the FoundersBoost operator come up to share more in terms of the successes that you had inquired about. Welcome."
+    },
+    {
+      "speaker": "speaker_21",
+      "start": 2358.5,
+      "end": 2359.46,
+      "text": "Thank you for applying."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2360.46,
+      "end": 2384.02,
+      "text": "Yeah. Thank you very much for having me. And, um, definitely wanna start. So I'm Blake Caldwell, uh, CEO of FoundersBoost, and thanks for having me. And also thank you to not only the evaluation community, but to you two for doing such a great job of putting this together. Very professional and, uh, it's been, uh, a pleasure working with them. Uh, and, you know, with FoundersBoost, I guess what would be helpful is to kinda understand our background."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2384.68,
+      "end": 2412.7,
+      "text": "So we've been operating for over seven years. Uh, we've helped 20 different ecosystems bring startup, uh, programming like these to their ecosystems. In that time, we've been able to help over 600 startups, um, and, uh, over 1,000 founders. And of them, we get about 20% that go on to raise significant funding and, you know, they've gone on to raise over 200-- uh, 300 million to date, and get into the top accelerators out there like Y Combinator and Techstars."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2412.74,
+      "end": 2435.14,
+      "text": "And our goal is to be a part of this ven- this, you know, venture path forward and be kind of the early step towards that direction. Um, we're also passionate about making sure we support underrepresented founders. So, you know, this doesn't mean that these are, um, founders that are, uh, incapable or, um, un- um, just being helped."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2435.18,
+      "end": 2456.3,
+      "text": "It-- or it's just that these are founders who are amazing but don't necessarily have all the resources as everybody else, and that's what we're here to, to fix. And we do that through mentorship programming and bringing in people who can help figure out where they're at. At this point in time, these, these startups don't have a book to read anymore. Their path is not written for them. They need to figure it out, and so it's good to get this mentorship and bring that into it."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2456.66,
+      "end": 2485.94,
+      "text": "And because of that, we've actually had, and to your question, um, some startup successes over the years that, um, you know, across our different programs. You know, I think one of our earliest programs and, you know, it's a long journey forward. Um, it's, you know, if you think about the venture timeline, that's a 10-year investment. Um, for these startups, uh, you know, in the last seven years, our earliest ones have actually gone on to raise, think about, uh, Caper, which was, uh, a shop list-- or sorry, a checkout list shopping cart."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2486.5,
+      "end": 2511.74,
+      "text": "Um, they raised, uh, 15 million, and then, then were able to exit and kind of relatively early in the process for, um, 350 million to Instacart. Um, they're, you know, one of our largest successes. Got to it early, so it, it's nice to talk about them. Um, and then also some others, uh, in Los Angeles. We have a company, um, currently operating, uh, it's called ReJoule, and they focus on, um, battery, uh, technology sensors."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2511.9,
+      "end": 2531.26,
+      "text": "And so being able to actually test, if you don't know this, but we, we don't know how much energy is in batteries. Like, we don't have that capability, and they're trying to create innovations to be able to do that, um, accurately, um, rather than just kind of generally. Uh, and they've gone-- They've raised over 23 million so far with the most recent investment from the Department of Energy."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2531.92,
+      "end": 2551.98,
+      "text": "Um, they're now based out of, uh, Long Beach, Signal Hill area. Um, and I mean, so we have a bunch of-- I'm just giving you a few different examples. I think today we have, um, I have a list, you know, easily two from every cohort so that we've run, um, 90 programs, um, and, uh, 14, 15 cohorts."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2552.48,
+      "end": 2577.09,
+      "text": "So we have, uh, you know, over 50 companies that are still, you know, raising, doing great things. I think, uh, we're at probably at 100 plus. Um, another one I'll just highlight quickly is one you guys might find interesting, you all might find interesting, is, um, Abstract. They do government, uh, affairs, uh, technology, trying to innovate the ability for, um- People to be part of the legislative process."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2577.17,
+      "end": 2597.33,
+      "text": "Rather than people, it's more organizations to be part of the legislative, legislative process here in California is where they're starting. Um, and, uh, you know, all parties, including lobbyists, but also, you know, any, you know, corporation making it easy to not only see what's going on, but also be able to, uh, help draft and, and work on that. Um, did that cover your question?"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2597.35,
+      "end": 2598.37,
+      "text": "I would love to see if there's a follow-up."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2598.37,
+      "end": 2612.57,
+      "text": "Yes, I think. And also the, uh, with this limited budget that you have for next two or three years, uh, how many, uh, applicants do you think are going to, uh, apply, or how many applications do you have already? How many people can be served with this-"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2613.39,
+      "end": 2613.53,
+      "text": "Yeah"
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2613.53,
+      "end": 2614.47,
+      "text": "... the budget that we have?"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2614.51,
+      "end": 2637.67,
+      "text": "So we're breaking this into two different accelerators, um, and we're gonna be giving a focus, um, to each, which will be a B2B accelerator and also a B2C accelerator. Um, really trying to focus on, you know, still be broad, but... And be able to kind of capture all of the market, but be able to have a focus to each one of those. Um, and, uh, with those, in each of them we'll have eight startups that go through them."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2638.17,
+      "end": 2653.11,
+      "text": "Um, typically we have about 100 applications that, that, um, get there. So we have, you know, less than 10% of the companies that we're able to support, but we always hope that they come back again and, uh, we have, you know, additional resources that we share with them on their journey too, but yeah."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 2653.89,
+      "end": 2654.55,
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2654.87,
+      "end": 2655.03,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 2656.29,
+      "end": 2656.65,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2657.35,
+      "end": 2657.51,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 2657.53,
+      "end": 2658.17,
+      "text": "Council Member Robin."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2658.37,
+      "end": 2661.45,
+      "text": "Um, yeah, actually if you could stick around."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2661.77,
+      "end": 2662.65,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2663.11,
+      "end": 2675.87,
+      "text": "Um, just, just trying to learn a little bit more. So m- one question I have, I have a few questions, but one of them is, so FoundersBoost, you're the CEO or you're the, you're the founder of FoundersBoost."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2675.89,
+      "end": 2676.03,
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2676.73,
+      "end": 2688.01,
+      "text": "Um, and then I know there's, um, HackerFund and Alliance for SoCal, uh, Innovation. Can you just talk a little bit about how you all work together, what roles you play?"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2688.17,
+      "end": 2693.13,
+      "text": "Yeah. And, uh, I mean, I spoke there. I, I would definitely want them to come up quickly and s- and speak, you know-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2693.15,
+      "end": 2693.21,
+      "text": "Yeah"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2693.23,
+      "end": 2725.83,
+      "text": "... for their part as well. But, um, you know, as you think about the startup journey, there's the beginning where you are excited, you have an idea, you're either inspired and, you know, that's one of the things that hackathons are great at doing. They're able to bring the community together. Um, those that are working in the, you know, the Googles, the Disneys and, and whatnot, to come here and support and provide mentors to students, to young, um, uh, d- age doesn't matter, but oftentimes that he- tends to be there, um, who are aspiring to figure out, you know, how do I take these ideas?"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2725.93,
+      "end": 2736.43,
+      "text": "How do I actually go about build things and, and where do I find people to do this with and get inspired to do that? So they are inspiring ideas and creation in the, in your community. And then from there as they-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2736.45,
+      "end": 2737.03,
+      "text": "And, and before you-"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2737.29,
+      "end": 2737.31,
+      "text": "Yeah"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2737.31,
+      "end": 2747.11,
+      "text": "... before you go on from Hack... So, and they're gonna run, um, two or how many, how many of these kind of hackathon events will they be hosting here?"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2747.13,
+      "end": 2749.09,
+      "text": "Those, those, yeah. Um, well, Justin, why don't you come up and-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2749.59,
+      "end": 2749.77,
+      "text": "Okay"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 2749.77,
+      "end": 2753.05,
+      "text": "... um, he definitely does a better job of talking about this than me."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2753.43,
+      "end": 2755.97,
+      "text": "Well, I-- 'Cause you're, you're going through each one and then I just-"
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2755.97,
+      "end": 2764.27,
+      "text": "Yeah, yeah. Uh, absolutely. Hi, hi everyone. Thank you so much for having me. Thank you for the opportunity. I'm very excited, uh, for this opportunity to discuss, uh, the Glendale Growth Alliance funnel."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2764.31,
+      "end": 2765.45,
+      "text": "What's your name for the record, please?"
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2765.47,
+      "end": 2787.71,
+      "text": "Oh, for the record, my name is, uh, Justin Brezhnev. I'm the, uh, executive director of HackerFund, and I'm one of the, uh, supporting partners of the Glendale Growth Alliance project. Um, I'm particularly very excited about the funnel that we designed, the Glendale Growth Alliance, uh, funnel. Uh, the hackathons are the tip of the funnel. Uh, you know, I don't have it on me right now, but there's an Arduino over there that I can grab real quickly."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2788.71,
+      "end": 2813.27,
+      "text": "So this is... The hackathons, the hackathons are where you will discover a device like this, and then when you discover a device like this, the Arduino, you're able to learn how to build a lot of the stuff that is allocated money right now, microcontrollers, the CHIPS and Science Act. This is where it begins. And our hackathons, the four hackathons that we're gonna do, quarterly hackathons, uh, to engage the local Glendale Community College."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2813.61,
+      "end": 2835.69,
+      "text": "Our hackathon director, Yuyan, she was trying to call in, um, Yuyan Ang. Uh, she's a graduate of Glendale Community College, and, uh, then she went on to UCLA and has been working with us ever since. She's on public comment, she's trying to get in. Uh, but these hackathons specifically are to inspire students and give them access to the mentor-guided, computer-mediated, invention-based learning environment."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2835.93,
+      "end": 2860.47,
+      "text": "And this is where they will discover what an Arduino is, so that when they go into the Glendale Growth Alliance, uh, next piece of the funnel, which is the FoundersBoost program, they actually know the technologies, the underlying technologies that are gonna make them successful, and then they can enter the second, uh, the FoundersBoost for the capacity building services that they provide as a, as an accelerator. So, uh, the hackathon specifically, four quarterly hackathons is our goal, uh, for the-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2860.67,
+      "end": 2860.71,
+      "text": "Four"
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2860.73,
+      "end": 2885.47,
+      "text": "... for the budget that was allocated, and then also monthly hack nights, meetups, and, you know, making the Glendale Community College as accessible as possible, uh, for the, uh, companies like a Google, Apple, Microsoft, Disney, so they can hire them. Because we've noticed after returning 10 years and 10 years old and seven days, and we've realized after 10 years of doing hackathons, it really is the community colleges that have a lot of the talent."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2885.67,
+      "end": 2901.13,
+      "text": "I graduated UCLA, and I can tell you from working with all the different universities, it really is the community colleges that have the hungriest talent. So we're here to give you opportunities, and we're here to empower the students. We're excited that we have a hackathon director that is Glendale grown. So thank you."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2901.19,
+      "end": 2909.51,
+      "text": "So the hackathon basically is this one activity. You're saying they're four a year. You bring in... You know, people can, can join and, and they're teams, and they try to kind of-"
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2909.97,
+      "end": 2910.19,
+      "text": "Absolutely"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2910.21,
+      "end": 2913.39,
+      "text": "... on the spot develop ideas and products and that kind of thing."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2913.59,
+      "end": 2914.29,
+      "text": "Absolutely. Absolutely."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2914.33,
+      "end": 2921.31,
+      "text": "And then how does that fit in then maybe the next phase? 'Cause that, that doesn't... Does that feed into these co- cohorts, um-"
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2921.35,
+      "end": 2922.05,
+      "text": "Yes. Yes"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 2922.05,
+      "end": 2924.93,
+      "text": "... that's-- I'm trying to see how the three pieces come together."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2925.17,
+      "end": 2933.79,
+      "text": "The hackathons themselves, uh, on my notes here, for example, uh, the hackathons that we worked with, for example, they produce the kind of founders that are, you know, able to-"
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2934.81,
+      "end": 2957.13,
+      "text": "Raise a Series A that's, uh, $30 million. For example, if you look at George Savoulkha from Space Apps NextGen, he was one of the organizers. We supported him. He's a high school student. Now he's raising a Series A because he's gone through the kinds of accelerator programs, and he's gone... Those kinds of students are the kinds of folks that have gotten the resources like a FoundersBoost. So we're gonna prepare them through the hackathons to be able to apply for the FoundersBoost so that a company can actually come out."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2957.67,
+      "end": 2983.51,
+      "text": "So like for example, the TechCrunch Hackathon, there was a, uh, app called Verbin that was actually made by a Beverly Hills alum named Angel Tse. And then, uh, you know, after he won that hackathon, he then applied using that technology to Y Combinator, then he raised a round, and then he went off, uh, to now he works with Procore and a bunch of different construction companies to be able to use virtual reality, mixed reality to make urban planning more efficient, effective, and, you know, cost less money."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 2983.57,
+      "end": 3005.77,
+      "text": "So our goal here is to use the hackathons to mold the founders, uh, so that they're founder-ready, mold the students so that they can, uh, be excited about the fact that their inventions can save the world. We're also the, the fiscal sponsor for, uh, Hack for LA, so our focus has consistently been to create civic technologies, stuff that can, you know, really help the city."
+    },
+    {
+      "speaker": "speaker_25",
+      "start": 3006.09,
+      "end": 3015.63,
+      "text": "And then our goal as the hackathon is to usher them in to the kind of programming that a FoundersBoost can then give them the next level of support so that they are ready for a Techstars, they are ready for a Y Combinator."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3017.17,
+      "end": 3017.49,
+      "text": "Okay."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3017.75,
+      "end": 3019.29,
+      "text": "Thank you. Um-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3019.49,
+      "end": 3019.89,
+      "text": "And then-"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3021.67,
+      "end": 3022.45,
+      "text": "Did you have-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3022.49,
+      "end": 3022.49,
+      "text": "Vivian."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3022.49,
+      "end": 3022.49,
+      "text": "Okay."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3022.49,
+      "end": 3023.25,
+      "text": "Well, you go."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 3023.29,
+      "end": 3044.11,
+      "text": "Yeah. And, you know, there, there is a direct path from hackathons there. There's also... You know, the startup journey is never consistent, so there can be various other paths, whether it may take them another year as they're figuring things out, building their companies. But FoundersBoost helps companies in the stage where they have a product, they have a team, they have, uh, essentially some market validation."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 3044.49,
+      "end": 3070.31,
+      "text": "So a product could be as little as an MVP, like a minimum viable product that, you know, customers can engage with, like, or you might hear it as, like, a beta or alpha product. Um, but they have market validation where maybe they've done amazing customer research or they've got customers and they have revenue. You know, fantastic. But, um, these are... There's a stage where at that point in time, you're now in, in live and ready to go, and it's hard to really kind of figure out where you need to focus."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 3070.55,
+      "end": 3091.27,
+      "text": "Um, over the years, you know, where we were helping was finding information for people back in the day. Now it's about what to focus on 'cause there's too much information out there. Um, well, not a bad thing, but it's hard to focus on it. And, you know, that's where mentors come in and to help them be like, \"You know, great, but you have a huge red flag over here. You're trying to get investment, but you haven't solved this problem, or you haven't answered this question."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 3091.63,
+      "end": 3106.65,
+      "text": "Now go, let's go figure that out and solve it. Come back to me next week.\" And then reiterate through that. Um, and then I'm gonna ask, uh, the Glendale-- uh, sorry, the, uh, Alliance for Southern California Innovation, um, to come up here to talk about that today. Sorry, I said it wrong. But, um-"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3106.75,
+      "end": 3108.23,
+      "text": "Are you asking for this information?"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3108.27,
+      "end": 3108.33,
+      "text": "Yes."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3108.35,
+      "end": 3108.77,
+      "text": "Or do you want-"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3109.19,
+      "end": 3109.43,
+      "text": "Yes."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3109.47,
+      "end": 3109.57,
+      "text": "Okay. All right."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3109.59,
+      "end": 3111.63,
+      "text": "I wanna, I wanna understand 'cause there are these three-"
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 3111.75,
+      "end": 3111.75,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3111.77,
+      "end": 3113.73,
+      "text": "You know, I wanna understand how this whole thing works."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3114.03,
+      "end": 3120.61,
+      "text": "Is that gonna move your decision? I'm just trying to figure out. We have a, a long closed session, so..."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3121.49,
+      "end": 3122.81,
+      "text": "Okay. I would like to know what-"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3123.23,
+      "end": 3123.37,
+      "text": "Okay"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3123.51,
+      "end": 3124.09,
+      "text": "... what, um-"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3124.71,
+      "end": 3124.79,
+      "text": "All right"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3125.03,
+      "end": 3126.05,
+      "text": "... you know, I'm getting into here."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3126.27,
+      "end": 3126.43,
+      "text": "Okay."
+    },
+    {
+      "speaker": "speaker_24",
+      "start": 3126.83,
+      "end": 3134.49,
+      "text": "Eric is, is, uh, is brief, I'm sure. And, um, I'll pass it off. And yeah. The, uh... They're able to help. And I'll pass it off."
+    },
+    {
+      "speaker": "speaker_26",
+      "start": 3135.87,
+      "end": 3161.95,
+      "text": "Thank you. Um, I will be brief. My name's Eric Eide. I'm, um, managing director of our capital access programs at the Alliance for SoCal Innovation. Spent the biggest bulk of my, my period of time in public service, so I really appreciate all the work that you all are trying to do and the staff has done so diligently. Real quickly, the Alliance for SoCal Innovation opens up doors to venture capital that are difficult for founders to open on their own."
+    },
+    {
+      "speaker": "speaker_26",
+      "start": 3162.55,
+      "end": 3183.95,
+      "text": "It's a very closed system, and we use our network to give people access that don't have that access. Now, in order to do that, we run a selective program because we will not be able to keep, um, the attention and the engagement of the venture capitalists that we, we know, um, without making sure that they're truly venture-ready."
+    },
+    {
+      "speaker": "speaker_26",
+      "start": 3184.39,
+      "end": 3209.15,
+      "text": "Now, what's beautiful about this partnership with Hacker Fund and, uh, FoundersBoost is if they're not ready, and we only accept generally about 12% of the companies, we have partners, credible partners, that have a wonderful reputation and track record throughout LA County to help them do that capacity building, get them prepared so they can come back when they're ready to raise that first institut- institutional check."
+    },
+    {
+      "speaker": "speaker_26",
+      "start": 3209.57,
+      "end": 3225.51,
+      "text": "And that check is one million-plus. And this is what's exciting for cities, is when you start getting that kind of capital, that means you can start hiring, hiring high-paying jobs. This is what, you know, really buoys the quality of life in our communities. And I'll stop there. Thank you so much."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3225.83,
+      "end": 3238.31,
+      "text": "Okay. Thanks. And that was, that was mainly it. And, and I just wanna say to SmartGateVC, um, we don't... You're probably not hearing a lot of questions and not a lot of calls 'cause we know you already. Um, so thank you."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3240.11,
+      "end": 3243.95,
+      "text": "All right. Uh, Council Member Bro-- uh, Kassakhian."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3244.99,
+      "end": 3269.45,
+      "text": "I, I only have comments. Um, uh, first of all, uh, I'm also very excited by the prospect of having these two, um, organizations work here in Glendale to help, um, grow and enhance our, our tech ecosystem. Uh, one comment though. I do have a question. I was glad to see the Evite CEO, um, uh, as part of the panel that made the selections."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3269.85,
+      "end": 3288.29,
+      "text": "But you had a list of, uh, Glendale-based unicorns. Is Evite not considered one of those since they moved their headquarters here, or was that just an omission? I don't even know what unicorn necessarily means. Just something I hear, and I just go with it. But I know that they're one of the big tech companies that decided to relocate to their headquarters to Glendale, correct?"
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 3288.68,
+      "end": 3314.32,
+      "text": "Correct. Yeah. So, a unicorn is a valuation of over $1 billion, uh, within kind of that startup phase before you go public. Uh, there are a lot of other kind of requirements that go into it as well, but that's just the sticky note version of that. Um, and so the three companies that are listed there are truly Glendale born and raised, and they are companies that were started and have grown into unicorn status within that area."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 3314.72,
+      "end": 3330.7,
+      "text": "Um, Evite is, is definitely a huge tech company that's within there. I think it typically falls outside of that unicorn realm, uh, just because of its maturity, honestly. Um, but, uh, it's, you know, one of the major players. And David Yom, of course, has been a fantastic support and champion of tech within the city."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3330.76,
+      "end": 3352.04,
+      "text": "All right. Well, by maturity, you probably mean age. And I remember when I started using the internets or the interwebs, I remember Evite. But, um, we're very glad to have them in Glendale as well. So, uh, um, again, I, I... We know SmartGate, um, as was mentioned. We know their work. Uh, very excited to have them back and, uh, very excited to add FoundersBoost to this as well."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3352.5,
+      "end": 3375.94,
+      "text": "Uh, good to see, uh, former Council Member Wilson from Pasadena here. Uh, thank you for visiting, uh, the best city in the tri-city area. Gracing us with your presence. Um, but I'm very confident in, uh, that, with the two of you working in concert with one another, we're gonna be able to do great things, um, both for the local economy, creating jobs, and doing some very interesting and great things in the field of innovation."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3376.44,
+      "end": 3382.62,
+      "text": "So that's it. Um, and again, of course, thank you to Senator Portantino for having faith in us and in Glendale. That's all."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3383.62,
+      "end": 3402.16,
+      "text": "Thanks. Um, so I'll start off by thanking staff. Um, I'm gonna reiterate some comments I made during the staff briefing. Uh, but this is the best report I've ever seen in the last two years, at least, that I've been here, uh, when it comes- I, yeah, I think it..."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3405.5,
+      "end": 3436.72,
+      "text": "Um, I say this as somebody that has continually questioned our procurement and RFP process, um, in hoping that we create a more transparent process. And what I absolutely loved about this report was not just the background going back all the way to when it started, um, as somebody that has been here for two years and hasn't been part of that process before, uh, but also the thoughtfulness in which you put, uh, in the outreach to get proposals."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3437.34,
+      "end": 3459.82,
+      "text": "Um, a lot of times when we've had other RFP processes, you've heard me time and again comment on, \"Well, who did we reach out to? What list did we use?\" And not only seeing the list in the report, uh, which gave me confidence in your process, um, but also the thoroughness that you kind of went through."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3460.16,
+      "end": 3499.62,
+      "text": "And it wasn't just something like, \"Hey, these are the email addresses we have, so this is where we're gonna send it,\" or, \"We're, we posted it on our site, so therefore we notified people.\" And this is what, like, going above and beyond looks like. And I... This is my opportunity to signal every other department in saying that when we talk about a transparent RFP process, when we talk about, um, creating the kind of panels that give confidence to the decision-making process, I will say that initially when I saw the headline of us splitting the $1 million, I had concerns about, you know, is that gonna really work out for both of the companies?"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3500.22,
+      "end": 3529.22,
+      "text": "Uh, but seeing who you had on the panel and the caliber of people that you had on the panel that made this decision, the reason that I don't have any questions today is because you brought in experts, and you created a process that was not only thorough, but a process that I trusted. And so, um, I think the caliber of people that you had on the panel also gave me the confidence that they are from this industry, and they will know this and how this can be best spent way better than I can."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3529.58,
+      "end": 3546.82,
+      "text": "I'm not in tech. So, um, uh, kudos to staff, um, like, through and through. Um, please keep up the good work. And I guess, David, welcome to Glendale. Lo- uh, and Sadek, thanks for the awesome presentations all the time. But, um,"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3549.04,
+      "end": 3571.64,
+      "text": "I think with that, I clearly support the, the recommendation, and I wanna say thank you to Senator Portantino, um, and to all the applicants. Uh, the one comment I did make during the staff briefing was that my hope is that these two companies can actually work together hand in hand, uh, because you are servicing two different, uh, sectors."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3572.2,
+      "end": 3597.6,
+      "text": "Um, and even, uh, you know, figuring out how we're doing some PR around both of you. So for example, if someone's going to SmartGate's site, they see that, you know, for, you know, midsize or small or any of the stuff that the other company's doing, there's really, like, collaboration between the two, right? And, you know, doing the same thing for SmartGate, um, you know, as it pertains to the programming for Glendale."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3597.66,
+      "end": 3612.54,
+      "text": "So, um, I think the more collaborative we can be, the, the bigger and better our tech ecosystem in Glendale can be. So, uh, I appreciate everybody's, uh, thoughtfulness on this, and, you know, I obviously support it. Thank you again."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3615.48,
+      "end": 3619.58,
+      "text": "All right. Uh, if there are no more comments, uh, do I have-"
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3619.6,
+      "end": 3620.2,
+      "text": "Do I have a motion?"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3621.02,
+      "end": 3625.5,
+      "text": "Okay. Uh, we're moving one, two, and three at the same time, right? No. No."
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 3625.54,
+      "end": 3627.14,
+      "text": "On A, B, and C, you have two motions-"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3627.18,
+      "end": 3627.18,
+      "text": "No"
+    },
+    {
+      "speaker": "speaker_6",
+      "start": 3627.18,
+      "end": 3627.58,
+      "text": "... and a reservation."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3627.6,
+      "end": 3627.94,
+      "text": "Second."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3628.54,
+      "end": 3628.76,
+      "text": "Okay."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3629.4,
+      "end": 3629.64,
+      "text": "All right."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3630.38,
+      "end": 3630.5,
+      "text": "All right."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3630.54,
+      "end": 3631.36,
+      "text": "I call three of those."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3631.78,
+      "end": 3632.22,
+      "text": "All right. Roll call."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3632.26,
+      "end": 3632.5,
+      "text": "Second."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 3634,
+      "end": 3634.86,
+      "text": "Council Member Brotman."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3635.3,
+      "end": 3635.62,
+      "text": "Yes."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 3635.88,
+      "end": 3636.54,
+      "text": "Gharpetian."
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3636.58,
+      "end": 3636.82,
+      "text": "Yes."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 3637.06,
+      "end": 3637.68,
+      "text": "Kassakhian."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 3638.02,
+      "end": 3638.24,
+      "text": "Yes."
+    },
+    {
+      "speaker": "speaker_10",
+      "start": 3638.52,
+      "end": 3640.56,
+      "text": "Nojorian. And Mayor Asadoorian."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3640.74,
+      "end": 3648.1,
+      "text": "Yes. Thank you again. Um, and then, uh, we have... Do we have-"
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3648.76,
+      "end": 3649.18,
+      "text": "Adjournment?"
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3649.22,
+      "end": 3651.68,
+      "text": "Do, do we have any cards or callers for-"
+    },
+    {
+      "speaker": "speaker_20",
+      "start": 3653,
+      "end": 3653.5,
+      "text": "No, we don't."
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3653.7,
+      "end": 3654.28,
+      "text": "There's no one."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3654.34,
+      "end": 3656.74,
+      "text": "Okay. Um, do I have a motion to adjourn?"
+    },
+    {
+      "speaker": "speaker_23",
+      "start": 3657.78,
+      "end": 3658.26,
+      "text": "So moved."
+    },
+    {
+      "speaker": "speaker_22",
+      "start": 3658.64,
+      "end": 3659,
+      "text": "Second."
+    },
+    {
+      "speaker": "speaker_0",
+      "start": 3660.36,
+      "end": 3664.34,
+      "text": "All right. Are we just rolling in? Do we need a screen change?"
+    }
+  ],
+  "translations": {
+    "hy": {
+      "overview": "Կարճ արտահերթ նիստի ժամանակ Գլենդելի քաղաքային խորհուրդը ընդունեց նահանգից $1 միլիոն գումար և հաստատեց այն օգտագործել տեխնոլոգիական սթարթափների ծրագրերի համար։ Խորհուրդը 4–0 քվեարկությամբ թույլատրեց Քաղաքի կառավարչին ստորագրել պայմանագրեր, որոնցով երեք տարվա ընթացքում $500,000-ական գումար կտրամադրվի FoundersBoost-ին և SmartGateVC-ին։ Խորհրդի անդամ Նաջարյանը չպատասխանեց անվանական ստուգմանը։",
+      "items": {
+        "item-1": {
+          "headline": "Խորհուրդն ընդունում է նահանգի $1 միլիոն դրամաշնորհը և այն բաժանում երկու տեխնոլոգիական սթարթափ ծրագրերի միջև",
+          "summary": "Նահանգի բիզնեսի գրասենյակը (GO-Biz) Գլենդելին տրամադրեց $1 միլիոն։ Նահանգային սենատոր Էնթընի Պորտանտինոն օգնեց ստանալ այդ գումարը։ Աշխատակազմը 17 առաջարկներից ընտրեց երկու կազմակերպություն, որոնք երեք տարի կղեկավարեն սթարթափ ծրագրեր՝ յուրաքանչյուրը ստանալով $500,000։ FoundersBoost-ը Hacker Fund-ի և Alliance for SoCal Innovation-ի հետ կաշխատի Glendale Growth Alliance-ի վրա, որը նախատեսում է սթարթափների ուսուցման ծրագրեր, այսպես կոչված «արագացուցիչներ» (accelerators), և եռամսյակային հաքաթոններ։ SmartGateVC-ն կղեկավարի Venture Building Program-ը, որն օգնում է համալսարանական հետազոտությունները, հատկապես արհեստական բանականության ոլորտում, վերածել նոր ընկերությունների։ Շատ զանգահարողներ արտահայտվեցին ի պաշտպանություն, և խորհուրդը հաստատեց գումարի ընդունումը, այն բյուջեում հատկացնելը («appropriation») և Քաղաքի կառավարչին պայմանագրերը ստորագրելու թույլտվություն տալը։",
+          "whyItMatters": "Գլենդելը կֆինանսավորի նոր ծրագրեր՝ տեղական սթարթափներին, ուսանողներին և ձեռնարկատերերին օգնելու համար, ինչը, քաղաքի հույսով, կբերի ավելի շատ տեխնոլոգիական աշխատատեղեր և ներդրումներ։",
+          "result": "Հաստատվեց 4–0"
+        }
+      }
+    },
+    "es": {
+      "overview": "En una breve reunión especial, el Concejo Municipal de Glendale aceptó $1 millón en fondos estatales y aprobó usarlos para programas de empresas emergentes de tecnología (startups). El concejo votó 4–0 para permitir que el Administrador Municipal firme acuerdos que otorgan $500,000 a cada uno, durante tres años, a FoundersBoost y SmartGateVC. El concejal Najarian no respondió al pase de lista.",
+      "items": {
+        "item-1": {
+          "headline": "El concejo acepta una subvención estatal de $1 millón y la divide entre dos programas de empresas emergentes de tecnología",
+          "summary": "La oficina de negocios del estado (GO-Biz) le dio a Glendale $1 millón. El senador estatal Anthony Portantino ayudó a conseguir el dinero. El personal municipal eligió a dos grupos, entre 17 propuestas, para dirigir programas para empresas emergentes durante tres años, con $500,000 cada uno. FoundersBoost trabajará con Hacker Fund y la Alliance for SoCal Innovation en la Glendale Growth Alliance, que planea programas de capacitación para empresas emergentes, llamados aceleradoras, y hackatones cada tres meses. SmartGateVC dirigirá un Venture Building Program que ayuda a convertir investigaciones universitarias, especialmente en inteligencia artificial, en nuevas empresas. Muchas personas llamaron para expresar su apoyo, y el concejo aprobó aceptar el dinero, incluirlo en el presupuesto (una \"asignación\") y permitir que el Administrador Municipal firme los contratos.",
+          "whyItMatters": "Glendale financiará nuevos programas para ayudar a empresas emergentes, estudiantes y emprendedores locales, lo que la ciudad espera que traiga más empleos e inversión en tecnología.",
+          "result": "Aprobado 4–0"
+        }
+      }
+    }
+  }
+}
