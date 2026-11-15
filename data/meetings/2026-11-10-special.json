@@ -1,0 +1,3935 @@
+{
+ "id": "2026-11-10-special",
+ "title": "Special City Council Meeting",
+ "body": "Glendale City Council",
+ "date": "2026-11-10",
+ "source": {
+  "videoUrl": "https://www.youtube.com/watch?v=90nLHzuliQw",
+  "agendaUrl": null,
+  "minutesUrl": null
+ },
+ "video": {
+  "kind": "youtube",
+  "youtubeId": "90nLHzuliQw"
+ },
+ "clip": {
+  "start": 0,
+  "end": null
+ },
+ "language": "en",
+ "generatedAt": "2026-11-15T00:47:57+00:00",
+ "aiGenerated": true,
+ "reviewed": false,
+ "overview": "At a special study session, the Glendale City Council reviewed the city's 2,047-item fee schedule with finance staff and a consultant. No formal vote was taken on the fee schedule. Council members gave staff informal direction to study lower fees for events, libraries, parks and filming, a smaller subsidy for Mills Act historic reviews, and lower costs for small home projects, then adjourned.",
+ "items": [
+  {
+   "id": "item-1",
+   "agendaNumber": "1",
+   "title": "Finance, re: Citywide Fee Schedule Overview (FY 2026-27 Citywide Fee Schedule Overview; direction on additional revisions)",
+   "headline": "Council reviews city fee schedule and gives staff direction to study subsidies, Mills Act fee and small-project costs",
+   "summary": "Finance staff and a consultant from Matrix Consulting Group explained how Glendale sets its 2,047 fees. About half recover full cost, about 11% are subsidized, and about 31% are set by state or local rules. Staff also described two pending changes from Community Development: new tiered solar panel permit fees required by state law ($450 for 1–15 kilowatts, plus $15 for each additional kilowatt up to 29, and $649 for 30 kilowatts and above, replacing a single fee), and renamed \"major\" and \"minor\" design review fees. Council members asked many questions about fees and then, by general agreement and without a formal vote, directed staff to study: a subsidy program for library, park and filming use that supports the local economy; a timed filming pilot; permit fee relief for small home projects and clean-energy upgrades; a lower subsidy for the Mills Act review fee; and process improvements such as remote inspections.",
+   "whyItMatters": "No fees changed at this meeting, but staff will bring back proposals that could lower costs for community events, filming and small home projects and raise the Mills Act historic review fee.",
+   "start": 610.6,
+   "end": 6901.0,
+   "outcome": {
+    "kind": "direction",
+    "result": "Staff given informal direction by council consensus; no formal vote on the fee schedule; meeting adjourned by voice motion",
+    "yes": null,
+    "no": null,
+    "abstain": null,
+    "votes": []
+   },
+   "speakers": [
+    "speaker_0",
+    "speaker_1",
+    "speaker_2",
+    "speaker_3",
+    "speaker_4",
+    "speaker_5",
+    "speaker_6",
+    "speaker_7",
+    "speaker_8",
+    "speaker_10",
+    "speaker_11",
+    "speaker_12",
+    "speaker_13",
+    "speaker_14",
+    "speaker_15",
+    "speaker_16",
+    "speaker_17",
+    "speaker_18"
+   ],
+   "keyMoments": [
+    {
+     "t": 892.0,
+     "label": "Consultant explains how fees are calculated and the legal limit on charging more than cost"
+    },
+    {
+     "t": 3781.0,
+     "label": "Staff present solar permit fee tiers and design review renaming"
+    },
+    {
+     "t": 4145.0,
+     "label": "Nonprofit 50% fee discount policy revisited; council member asks for it to return as a separate item"
+    },
+    {
+     "t": 6504.0,
+     "label": "Staff summarize council direction; no objections raised"
+    }
+   ],
+   "topics": [
+    "fee schedule",
+    "user fees",
+    "subsidies",
+    "mills act",
+    "filming permits",
+    "solar permits",
+    "nonprofit discount",
+    "building permits"
+   ]
+  }
+ ],
+ "speakers": [
+  {
+   "id": "speaker_0",
+   "name": "Mayor Kassakhian",
+   "role": "Mayor"
+  },
+  {
+   "id": "speaker_1",
+   "name": null,
+   "role": "City Clerk"
+  },
+  {
+   "id": "speaker_10",
+   "name": "Council Member Gharpetian",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_11",
+   "name": "Council Member Bartrosouf",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_12",
+   "name": "Council Member Brotman",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_13",
+   "name": "Nina Mousayan",
+   "role": "City staff (revenue manager)"
+  },
+  {
+   "id": "speaker_14",
+   "name": null,
+   "role": "City staff"
+  },
+  {
+   "id": "speaker_15",
+   "name": null,
+   "role": "City staff (Community Development)"
+  },
+  {
+   "id": "speaker_16",
+   "name": null,
+   "role": "City staff (parks)"
+  },
+  {
+   "id": "speaker_17",
+   "name": null,
+   "role": "City staff (fire)"
+  },
+  {
+   "id": "speaker_18",
+   "name": null,
+   "role": "City staff (Public Works)"
+  },
+  {
+   "id": "speaker_2",
+   "name": "Council Member Asatryan",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_3",
+   "name": "Council Member Bartrosouf",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_4",
+   "name": "Council Member Brotman",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_5",
+   "name": "Council Member Gharpetian",
+   "role": "Councilmember"
+  },
+  {
+   "id": "speaker_6",
+   "name": "Mr. Golanian",
+   "role": "City staff"
+  },
+  {
+   "id": "speaker_7",
+   "name": "Jack Liang",
+   "role": "Director of Finance"
+  },
+  {
+   "id": "speaker_8",
+   "name": "Khushbu Ingle",
+   "role": "Vice President, Matrix Consulting Group (consultant)"
+  },
+  {
+   "id": "speaker_9",
+   "name": null,
+   "role": null
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "speaker_0",
+   "start": 610.63,
+   "end": 620.71,
+   "text": "All right. Welcome, everyone, to the November 10, 2026 special meeting of the Glendale City Council being called to order at 3:11 PM. Uh, may we have roll call, please?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 621.65,
+   "end": 622.59,
+   "text": "Council Member Asatryan."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 622.87,
+   "end": 623.53,
+   "text": "I, here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 624.23,
+   "end": 625.09,
+   "text": "Uh, Bartrosouf."
+  },
+  {
+   "speaker": "speaker_3",
+   "start": 625.31,
+   "end": 625.45,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 625.71,
+   "end": 626.13,
+   "text": "Brotman."
+  },
+  {
+   "speaker": "speaker_4",
+   "start": 626.49,
+   "end": 626.69,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 627.01,
+   "end": 627.63,
+   "text": "Gharpetian."
+  },
+  {
+   "speaker": "speaker_5",
+   "start": 628.73,
+   "end": 628.89,
+   "text": "Here."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 629.95,
+   "end": 630.39,
+   "text": "Kassakhian."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 630.81,
+   "end": 632.73,
+   "text": "Here. May we have the clerk's report, please?"
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 633.31,
+   "end": 643.33,
+   "text": "The agenda for the Tuesday, November 10th, 2026 special public meeting of the g- City Council was posted on November 4th, 2026 on the bulletin board outside City Hall."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 644.05,
+   "end": 649.59,
+   "text": "All right, thank you. And, uh, please read the items before this, uh, body for this special meeting into the record."
+  },
+  {
+   "speaker": "speaker_1",
+   "start": 650.49,
+   "end": 664.67,
+   "text": "Item one, citywide fee schedule overview. A, motion to note and file the fis- fiscal 2026-2027 citywide fee schedule overview, and B, motion to provide direction on additional revisions to the citywide fee schedule."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 665.55,
+   "end": 670.75,
+   "text": "All right, thank you. Um, I will turn it over to Mr. Golanian, please."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 671.39,
+   "end": 692.57,
+   "text": "Yeah. Good afternoon, Mayor, members of City Council. Um, this is the-- today's, uh, study session is in response to Council's direction that was given to staff during a budget study session, uh, previously on the '26-27, fiscal year '26-27 budget. And, um, I'm going to turn it over to Mr."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 692.85,
+   "end": 704.37,
+   "text": "Liang, our Director of Finance, to walk you through, uh, today's agenda, and then I, I believe, uh, there's a staff member who'll make part of the presentation as well. Mr. Liang."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 705.31,
+   "end": 724.43,
+   "text": "Thank you, Mr. Golanian. Good afternoon, Mayor Kassakhian and members of the City Council. Um, as mentioned, I am-- uh, my name is Jack Liang. Uh, I am the Director of Finance, and I'm very excited to be providing a overview of our fee schedule as requested by the Council. Um, if I can have the PowerPoint presentation, uh, up on screen, please."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 728.43,
+   "end": 750.03,
+   "text": "Okay. So we have a four-part agenda today, and, uh, the first part we are actually going to have our consultant from, uh, Matrix Consulting Group to provide, um, high-level overview of our methodology of establishing fees. And the second part, we're going to, uh, look at our fee schedule for c- the City of Glendale specifically, and, uh, we'll have a, a overview of our structure."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 750.55,
+   "end": 770.11,
+   "text": "Third part, we do have some pending fee schedule revisions that was requested by CDD, and we'll provide more details on that. And the fourth part, um, is a policy discussion and direction time where we would like to hear your council's, um, direction on a number of items or any other interested areas that you would like to bring up and discuss."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 771.53,
+   "end": 787.25,
+   "text": "So with that, we are going to move on to our first part of our presentation today, the methodology of establishing fees, and that will be presented by Khushbu Ingle, um, from Matrix Consulting Group. I understand that she should be available online. Can we promote her a- as a presenter, please?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 788.63,
+   "end": 806.91,
+   "text": "Yes. Good afternoon, council. Um, I'm Khushbu Ingle. I'm a vice president with Matrix Consulting Group. I've been working with the city over the last, um, several years on fee studies, and so I just wanted to give a brief background. So if we can go to the first slide of the methodology section."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 810.25,
+   "end": 831.53,
+   "text": "Perfect. So just giving a quick overview of who pays for these services. So when we're looking at fee-related services, we're thinking about three primary buckets. So the community benefit, um, so the larger community at hand, the residents of Glendale, what are they benefiting from those services? And those are things like police services, fire services, park maintenance."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 831.59,
+   "end": 857.13,
+   "text": "These are usually typically considered lower cost recovery fee services because there is that larger community benefit. When we look at something called like a shared benefit, these are services that both benefit the larger community at hand, but can also sometimes have more group level or individualistic benefits. So it's a shared benefit between kind of a larger group and the larger community at hand."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 857.21,
+   "end": 881.83,
+   "text": "So those are things like recreation and community services, a lot of fire prevention activities or library arts and culture. And then we get into what we call the much more individualized benefit services. So things like building permits, planning and zoning, engineering, development review, facility rentals. These are things that only the individual who's pulling these permits, who's participating in these rentals is specifically benefiting from."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 881.89,
+   "end": 889.19,
+   "text": "So there isn't a larger community benefit or even a shared benefit to these services. It's very individualistic. If we go to the next slide."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 892.27,
+   "end": 913.51,
+   "text": "So why do we do fee studies? Um, big picture, really the purpose of a fee study is to determine what's the true cost to the city of providing these services. So what's the fully loaded cost of these services, your direct and your indirect costs? And as part of that, there is some legal requirements in the state of California that state that you cannot charge more than it costs, uh, for user fees."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 913.57,
+   "end": 934.95,
+   "text": "So part of this study is also ensuring compliance and documentation with those legal requirements. When we do these studies, we're really trying to understand again, what are all the levels of effort that go into these services? Are there different ways to express these services? So if we need to streamline these services, either adding fees, removing fees, expanding fees."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 935.01,
+   "end": 959.69,
+   "text": "So again, making sure that the fee schedule really reflects the true services provided by the city. Um, we also like to compare the city's current fees to those of other jurisdictions. One caveat to that we always put is just because it's the same fee name in another city doesn't mean it really reflects the same level of service. Um, it could mean something different in Glendale than it could mean in Burbank than it could mean in Pasadena."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 959.75,
+   "end": 976.57,
+   "text": "So it's really understanding again, truly, what are the nuances behind that. And then ultimately the results of this type of analysis help you as City Council make those informed decisions of where and how you wanna set fees, how do you wanna recover those costs. We go to the next slide."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 979.23,
+   "end": 1003.69,
+   "text": "So big picture, talking a little bit about how user fees are calculated. So through this study we take a look at two major components, the time, effort that goes into it and the fully burdened rate. When we're talking about that time effort, we're really focusing on not the most complicated project staff has ever done or the simplest project staff has ever done. We're really focusing on what that average project is, what that average level of time is."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1004.09,
+   "end": 1039.29,
+   "text": "We're also not focusing on the fact that projects can last multiple weeks, months, sometimes years. We're really focusing on the time on task. So it's really meant to be the specific time that staff are spending in relation to each of those activities, applications, projects. Um, again, we work with staff to develop these time estimates. We review these time estimates against our gut check of making sure that we've done these types of projects all across the state, all across the country to make sure that there isn't major variances, and that if there are major variances, we have documentation and an understanding of why those variances could exist."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1040.37,
+   "end": 1060.55,
+   "text": "We take that time estimate information and we multiply it by the fully burdened rate. That fully burdened rate is not someone's take-home pay. It is the fully loaded cost of that employee to exist for the city. So it's taking into account your salaries, your benefits, and when we're looking at those salaries, we're looking at the adopted budgeted approved salaries."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1060.59,
+   "end": 1091.25,
+   "text": "So not the most expensive, highest step salaries or the cheapest, lowest step salaries. And the reason for that is because those are adopted officially approved values. And what we wanna do is reconcile this information to the cost of service, and that cost is directly based on the adopted budgeted information. We layer in productive hours, so we layer in things like vacation, sick, holidays, um, trainings, breaks, those types of hours that staff are not available to provide those services."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1091.31,
+   "end": 1111.83,
+   "text": "So taking a look at those budgeted salaries, those budgeted benefits, those productive hours, and then we layer in the operational expenses, so the services and supplies that staff need to do their job. We layer in any sort of administrative internal departmental support that's needed, so clerical staff, management staff, supervisory staff, all of those staff."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1111.95,
+   "end": 1139.25,
+   "text": "And then we lastly layer in any sort of citywide overhead, so finance, HR, city council, city manager's office, all of those services, again, that are needed for those employees to exist. So we take those fully burdened rates, we multiply them by that time estimate, and we come up with what the full cost of the service is. So this is the bottom-up approach. It's the most defensible way to calculate fees because we're really looking at it at that granular level for each service line item on the fee schedule."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1139.71,
+   "end": 1154.87,
+   "text": "What does it truly take to provide that service? And this is generally considered the maximum fee that you can charge for most services, with the exception of facility rentals and recreation programs, as those are voluntary services and can be based on market rates."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1156.17,
+   "end": 1156.39,
+   "text": "Before we-"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1156.41,
+   "end": 1157.15,
+   "text": "So go to the next slide"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1157.17,
+   "end": 1163.17,
+   "text": "... before we move on to the next slide, um, I have a colleague who would like to ask a question. And so I think-"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1163.29,
+   "end": 1163.65,
+   "text": "Mm-hmm"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1163.65,
+   "end": 1178.31,
+   "text": "... um, because we have 25 slides to get through, um, we'll take some periodic breaks just to have council members ask points of clarification questions or, um, questions about, uh, items that were brought up in the presentation. Council Member Asatryan."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1180.11,
+   "end": 1201.23,
+   "text": "Um, hi. Um, the, where are the checks and balances on, um, the information that is provided to you by staff? H- how do you, how do you check to ensure that those time allocation and estimates are not padded?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1203.13,
+   "end": 1244.01,
+   "text": "Yeah. So the, for the time piece, like I said, is because we've done these types of studies all across the state, all across the country, we have a really good understanding of generally what most of these applications, these permits, these projects should take to do. And so if something seems outside of the realm of the o- ordinary or variance that we would expect, we would have that conversation with staff to be like, \"Hey, you know, why does it take you so long?\" Or, \"Why does it take you so little to provide this service?\" And then we'd wanna get that level of understanding of, okay, is there a particular code, you know, requirement in the City of Glendale that requires this to go to two extra commissions perhaps, and that's why there's all this extra review?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1244.65,
+   "end": 1269.77,
+   "text": "Or is it just, you know, staff kind of go, to your point, kind of padded their time or, you know, vice versa. A lot of times staff will underestimate their time. They'll be... They'll forget, \"Oh, we needed to write a staff report for this,\" or, \"Oh, this actually goes to a hearing board, so we need to factor that in.\" So it's really having those conversations with staff and making sure that at the end of the day, those time estimates generally make sense with our experience of doing these types of projects."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1269.95,
+   "end": 1294.57,
+   "text": "Um, that's one layer of cross-check. And then the second layer of cross-check we do is we take a look at the annual workload that staff has and compare it against to those time assumptions. So if staff tells us it takes them an hour to do something, but they process 1,000 of those in a year, and they have, you know, less than a full-time employee dedicated to that activity, well, 1,000 hours equates, you know, half a person."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1294.67,
+   "end": 1310.63,
+   "text": "And so if they have, you know, a quarter of a person only for that activity, then we would wanna have that conversation that there's no possible way for you to spend an hour on this. So we do that type of cross-check too to make sure that staff haven't over or extremely underallocated their time."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1311.27,
+   "end": 1352.55,
+   "text": "And does your analysis, uh, also include, um, feedback on processes that are making for that fee? Or is it just you taking the information and then, um, just look at the costs? So if you're cross-checking it with other cities as an example, and we have two or three additional layers or three other individuals involved in one process, whereas most cities do not, does part of your report also provide information on, like, it's this fee because, it's this amount because you have all this extra things in your processes?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1355.01,
+   "end": 1379.55,
+   "text": "Not generally kind of from that layer. It's really the purpose of the fee study is to capture this is truly what it's costing you right now based on your existing processes. Um, we can do other scopes of analyses where we look at, you know, whether is this the most efficient way to provide that service, but that's typically not what the goal of a fee study analysis is."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1379.59,
+   "end": 1382.89,
+   "text": "That would be considered kind of a separate study or a separate analysis."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1383.35,
+   "end": 1383.51,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1383.89,
+   "end": 1384.09,
+   "text": "Yeah, and I-"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1384.11,
+   "end": 1399.59,
+   "text": "Council Member Asatryan, um, as far as checks and balances are concerned, um, I do believe that the department heads get tasked with checking the final numbers one- once they're already calculated, so they make sure that they're accurate."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1401.01,
+   "end": 1403.89,
+   "text": "I'm just gonna... I'm, I'll hold my comments until later. Yeah."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1404.81,
+   "end": 1404.97,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1407.17,
+   "end": 1408.59,
+   "text": "All right. You can continue, uh, Kush."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1408.63,
+   "end": 1411.95,
+   "text": "Well, let me ask, any other colleagues have any questions? All right, please continue."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1415.07,
+   "end": 1415.75,
+   "text": "Awesome. Great."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1417.89,
+   "end": 1441.99,
+   "text": "And I think if we can go back to the presentation. And then the last slide that's under my purview is just to give kind of a brief history of where we're at with fees. So in 2016, the city did a full comprehensive review of all of its fees across the various city departments, and then in between, those fees got adjusted."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1442.11,
+   "end": 1474.71,
+   "text": "And then in 2024, um, that's when we had worked with the city last. We came in and did, again, a full comprehensive review that actually started much earlier, um, but finished around 2023, 2024 mark when we did the final presentation, which looked at all of the city funds and departments. And so when we went through that with the city There was this discussion that because of how many fees there are, how many departments there are, how much level of involvement there is for these activities, that what makes sense is to do a phased approach."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1474.81,
+   "end": 1501.45,
+   "text": "So instead of coming back in five years and redoing all, you know, 20-plus departments and divisions across the whole city all at once, is to really look at a couple of departments every year. So then they're on this rolling cycle of taking a look at, you know, what's that full impact. So in 2026, when we did that rolling cycle, we looked at building, planning, housing, licensing, um, filming, and library."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1501.57,
+   "end": 1523.39,
+   "text": "So we focused on those particular departments and divisions and services, and that represented roughly even with that 2024 study based on that, there was still a gap identified. And primarily it's more on the library side of things because it's harder to raise a lot of those fees. Um, but you're still at a much higher cost recovery than you even were in 2024."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1523.49,
+   "end": 1546.57,
+   "text": "So again, showing the impact of when you do these studies at kind of that cadence, there is the ability to sh- recognize and see that, um, increase in cost recovery. And so the goal would be that you would wanna continue doing those annual inflationary factor increases in the interim until those departments are studied again. And then, like we talked about, is that essentially you would look at a whole..."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 1546.77,
+   "end": 1557.27,
+   "text": "a couple new set of departments this year for next year's, um, fee increases. And with that, I will stop my portion of the presentation and turn it back over to city staff."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1557.93,
+   "end": 1562.25,
+   "text": "All right. Thank you, Khushbu. Um, is there any questions for Khushbu on this last slide?"
+  },
+  {
+   "speaker": "speaker_9",
+   "start": 1563.83,
+   "end": 1564.23,
+   "text": "Anyone?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1565.83,
+   "end": 1569.57,
+   "text": "I want-- I'm gonna hold until you guys go through your presentation and do that one."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1569.65,
+   "end": 1594.43,
+   "text": "All right. So we are going to get to the next part of our presentation. Um, thank you, Khushbu, for joining us. And, uh, next we're going to take a look at, uh, specifically our, our fee schedule, and all of you should have a copy, uh, with you to refer to, and we're going to go over the structure of the fee schedule. I do want to, uh, mention that our fee schedule is a pretty massive document with more than two thousand fees in there."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1594.87,
+   "end": 1614.87,
+   "text": "And, uh, today's conversation, we, we expect to have a very good discussion today, but also at the same time, this conversation could be the first of many iterations of, uh, tackling our fees to ensure that we hit that transparency mark, to ensure that we have good understanding, um, of the fees, as well as have a good connection with, uh, the City Council's policy directions on this."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1616.35,
+   "end": 1636.35,
+   "text": "With that, um, I'm, I am going to start by, um, just providing, um, overview of, uh, how do we establish these fees. Um, we have-- our fee schedule is organized into nine parts and thirty-five different sections, and all of those, uh, are basically is a, a separate category of fees that we kind of organize together."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1636.95,
+   "end": 1672.97,
+   "text": "Within each one of the sections, we usually establish those fees in one of four ways, as Khushbu mentioned in, in part of her presentation. Our most common way to esta- establish fee is, uh, the full cost recovery. That's where we really study what's the time that goes into, um, providing certain services, what is the, the hourly rate that gets-- the fully burdened rate that gets applied to those services, and then we calculate a fully, um, burdened cost for certain services, and then we establish, establish the fees that's associated with that particular service, um, to a hundred pers- percent cost recovery."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1673.67,
+   "end": 1706.03,
+   "text": "And next, we have subsidized fees. There are certain fees that we intentionally set below full cost, and usually those provides community benefits, um, and either by promoting certain activities or there's a specific reason to subsidize certain fees. And then we have a, a number of fees that, uh, that we're not recovering full cost. Um, and then the next, as, uh, Khushbu mentioned, there are certain fees that are not restricted to the cost recovery, and those are the fees that we, um, are using market rate to kind of, um, assess what would be the right rate to, to charge for those."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1706.49,
+   "end": 1737.49,
+   "text": "And then also we, we look at operational need just to, to see if there's any operational need to set those fees differently. And those are-- I would say the majority of those fees are related with, with the facility and space rental. And last but not least, we do have, uh, regulatory requirements. There are certain fees that are governed either by state or local ordinance, um, or prior resolutions, and those fees are, are usually set in place either, um, based on a fixed amount or a certain reference to other amounts, and those are the fees that we do not have discretion to change."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1740.59,
+   "end": 1760.33,
+   "text": "So next, we're going to just go through, um, our fee schedule from a structural perspective, part by part, section by section, just so I can provide t- your council a quick overview of, um, you know, the magnitude of the fees and, um, and what do we have all in there. The first part on this slide, we have three parts, uh, on this slide. The first part is, uh, what we call miscellaneous charges."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1760.77,
+   "end": 1783.37,
+   "text": "Um, I mean, they're really not miscellaneous. They're citywide charges that actually applies to multiple departments. Um, and that includes ten fees in total, uh, in there, and eight of which is, uh, full cost recovery, and two of them is, uh, regulatory, um, determined fee levels. Next, uh, part is called filming charges, and we have three sections under filming charges."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1783.81,
+   "end": 1803.01,
+   "text": "The, the general filming a special event, the filming charges related with library, and the s- the filming charges related with, uh, community services and parks. And in total, within this part, we have fifty-two fees in total. Uh, about sixteen, sixteen of them are full cost recovery, nine were s- are subsidized, and twenty-seven is based on market."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1803.97,
+   "end": 1828.83,
+   "text": "And then under public works, which is part number three, we have six sections under here. That includes engineering, maintenance of services, integrated waste management, environmental management, parking fees, and transit fees. And there are a total of one hundred and seventy-two fees under public works, with one hundred and four, um, that is full cost recovery, five of which is subsidized, and fifty-seven of which is, uh, set at market rate."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1829.33,
+   "end": 1834.97,
+   "text": "Um, there are six fees that is, uh, determined by regulatory, um, requirements as well."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1837.32,
+   "end": 1864.1,
+   "text": "And then next slide, we have two parts on this slide. Um, part four, which is, uh, library, art and culture, we have two sections under here. There's a library meeting space fees, which the, um, a dedicated category, as well as miscellaneous library, arts, and culture fees. There are 81 fees in total, 46 of which is full cost-recovery, 29 of which is subsidized, four under market rate, and two under regulatory requirement."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1865.34,
+   "end": 1886.76,
+   "text": "Next is part five, community development. This is where our building and safety fees, the permitting fees, planning fees, neighborhood services, license and permit type fees, taxi cab and vehicle for hire fees, administrative citations, as well as housing-related fees. There are seven sections in here, and there are a total of 1,012, um, fees under community development."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1887.36,
+   "end": 1897.2,
+   "text": "451 of that, those fee are full cost-recovery, three are subsidized, eight are market rate, and, uh, 550 are regulatory, um, requirement."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1898.88,
+   "end": 1899.48,
+   "text": "Can I ask a clarifying question?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1899.6,
+   "end": 1901.16,
+   "text": "Uh, w- let's take a moment to pause."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1901.34,
+   "end": 1902.54,
+   "text": "Just a clarifying question."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1903.28,
+   "end": 1903.34,
+   "text": "Go ahead, Claire."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1903.34,
+   "end": 1918.26,
+   "text": "So, uh, say, um, I'm gonna actually go off the top of my head on, um, an issue that was brought. If someone was trying to extend their driveway, um, would that fee be under the public works?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1919.64,
+   "end": 1919.74,
+   "text": "Mm."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1919.84,
+   "end": 1931.56,
+   "text": "Or would that be a community development? And I'm talking about a single family home 'cause I'm, I'm just remembering one of the instances where it was gonna cost $2,000, $3,000 just for the permit. Um-"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1932.46,
+   "end": 1941.58,
+   "text": "C- c- council member Asatryan, it depends which part of the driveway. If it's the driveway apron, which is the entrance-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1941.74,
+   "end": 1941.94,
+   "text": "Yes"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1942.08,
+   "end": 1951.04,
+   "text": "... and it's within the public right of way, then that's public works. But if it's in the front setback on private property, then it's, uh, CDD."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1952.14,
+   "end": 1952.24,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1952.86,
+   "end": 1953.12,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 1954.74,
+   "end": 1955.76,
+   "text": "Council Member Gharpetian?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1956.16,
+   "end": 1956.16,
+   "text": "Um-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 1956.18,
+   "end": 1960.26,
+   "text": "Do you need a permit to redo your driveway on your, on your property?"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1960.32,
+   "end": 1961.6,
+   "text": "Not redo, but I heard extend."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1962.18,
+   "end": 1965.98,
+   "text": "It's like they wanted to extend it by, like, two or three whatever feet, yeah."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1966.0,
+   "end": 1967.6,
+   "text": "Well, you don't, you don't need a permit for that."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 1967.62,
+   "end": 1968.7,
+   "text": "You don't need a permit for that."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1968.78,
+   "end": 1975.98,
+   "text": "That's not what Public Works said, but we can deal with that later. I don't wanna turn this into... And they gave a fee about $2,000, $3,000 was-"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1976.12,
+   "end": 1976.26,
+   "text": "Uh-huh"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1976.26,
+   "end": 1977.96,
+   "text": "... the response for that, so."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1978.08,
+   "end": 1980.0,
+   "text": "It's more than likely in the public right of way."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 1980.84,
+   "end": 1981.02,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1982.08,
+   "end": 1986.44,
+   "text": "Which, which would mean they have to remove the old one and build a new one."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1987.68,
+   "end": 1988.34,
+   "text": "Well, I don't wanna-"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1988.68,
+   "end": 1988.96,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1988.98,
+   "end": 1990.74,
+   "text": "Yeah. Sorry, I don't wanna take away from your thing."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 1990.76,
+   "end": 1991.16,
+   "text": "No problem."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1991.18,
+   "end": 1991.28,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 1994.16,
+   "end": 1994.52,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 1994.64,
+   "end": 1999.8,
+   "text": "Okay. And, uh, next slide, we have our part nine. Um, actually, uh..."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2002.36,
+   "end": 2026.82,
+   "text": "Actually, next slide, we have our community services and parks. And, uh, under that we have, we have eight different sections. Uh, community services and parks has a wide variety of, uh, services as it will, has a wide variety of fees. That includes field rental, facility rental, civic auditorium, aquatic program fees, party package, development impact fees, and miscellaneous community services and park fees."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2027.28,
+   "end": 2047.98,
+   "text": "There are 296 fees in total, 64 under full cost-recovery, 175 subsidized fees, and, uh, 57 market rate-based fees. Under police, we have two sections, the miscellaneous police fees, which, uh, pretty much covers all the general fees, as well as a separate dedicated section for parking bail am- amounts."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2048.62,
+   "end": 2074.36,
+   "text": "94 fees in total, uh, 33 under full cost-recovery, six under subsidized, and, uh, 55 regulatory required. Under fire, we have two sections as well, the miscellaneous general fire fees, as well as, uh, ambulance rates, um, under its own dedicated section. There are 198 fees in total with 182 full cost-recovery, two under market conditions, and, uh, 12 regulatory required fees."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2076.9,
+   "end": 2098.68,
+   "text": "Last but not least, we have Glendale Water and Power rates and charges. And, um, um, we have 132 fees in total, uh, with 126 full cost-recovery, four subsidized fees, and, uh, two regulatory required. That is divided into four different sections on- including water, electric, customer service, and fiber optics, uh, section fees."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2099.72,
+   "end": 2120.44,
+   "text": "So with that, that brings us to a total of over 2,000, 2,047 fees within our fees, cities fee schedule. And of that, a little bit above 50% is full cost-recovery, about 1,030 fees, uh, under full cost-recovery. We currently subsidize about 231 fees, uh, which is about 11.3% of the total fees."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2121.02,
+   "end": 2146.62,
+   "text": "And then, uh, 157 are under market rate operational need, which is 7.7%. And that's 6,200, 629 fees, um, or 30.7%, is, uh, regulatory r- required, um, fee level. I will pause over here to see if there's any questions. This is pr- pretty much the table of content of the entirety of our fee schedule, and each one of the section obviously includes a number of fees that we, we can look into."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2147.14,
+   "end": 2153.2,
+   "text": "Um, but I'll pause here just to see if there, there's any questions about the structure or the methodology of, uh, setting fees."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2154.04,
+   "end": 2154.76,
+   "text": "Questions, uh-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 2154.96,
+   "end": 2156.24,
+   "text": "Yes, Council Member Gharpetian."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2156.5,
+   "end": 2170.2,
+   "text": "So the market rate or operational need, are they basically same as fee or cost-wise, cost-recovery? I- is it the same as full cost-recovery, or is it lower than that?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2170.92,
+   "end": 2175.46,
+   "text": "Um, I would say sometimes, uh, actually many times, it might be even higher than our cost-recovery."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2175.48,
+   "end": 2176.42,
+   "text": "Maybe higher. Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2176.86,
+   "end": 2176.88,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2176.92,
+   "end": 2184.84,
+   "text": "So the only one that we're subsidizing is that 231, uh, fees that mostly are... I, I went through it, is park related."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2185.22,
+   "end": 2185.3,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2185.34,
+   "end": 2185.96,
+   "text": "Parks fees, field-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2185.98,
+   "end": 2187.02,
+   "text": "Parks and library usually."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2187.18,
+   "end": 2187.18,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2187.94,
+   "end": 2187.96,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2188.0,
+   "end": 2188.2,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2188.7,
+   "end": 2192.38,
+   "text": "Yeah. And those are usually set l- Those are lower by the definition of subsidizing."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2193.02,
+   "end": 2208.17,
+   "text": "And the market rate operational need, the fees based on market conditions, uh... When you say market rate, is it market rate on- Private sector or public sector? Because there's a huge difference between the two."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2208.77,
+   "end": 2234.17,
+   "text": "Yeah. There's a-- There's definitely a little bit of art in term of comparing to the market. I would say for the most part, we do compare to our public sector peers. Um, one example is, uh, some of our rental facility rates in parks. We do compare to rental rates in Burbank or rental rates in Pasadena. Um, and, uh, that's, that is a methodology that we use to determine, um, what the right market rate is."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2234.53,
+   "end": 2242.25,
+   "text": "And there are certain times where when we have a high demand in certain areas, we actually do kind of bring our rate up a little bit to kind of help control the demand a little bit."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2242.47,
+   "end": 2242.59,
+   "text": "Uh-huh."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2242.65,
+   "end": 2249.37,
+   "text": "Um, you know, that's-- So it's not one-size-fits-all kind of market comparison. It's, uh, every case is a little bit different on how we assess that."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2249.79,
+   "end": 2250.09,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 2253.07,
+   "end": 2253.91,
+   "text": "Um, I have a question."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 2254.27,
+   "end": 2255.17,
+   "text": "Yes, Council Member Barto."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 2255.49,
+   "end": 2279.01,
+   "text": "Thank you. Um, this is a broad question that might help as we proceed. Um, on the regulatory category, um, I know you, you had talked about so we've got fees governed by state or local ordinances or prior resolutions. Um, while I was looking through the spreadsheet, th-there is a significant number of fees that fall under this category."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 2279.65,
+   "end": 2304.35,
+   "text": "Um, I think it would be helpful for me to hear some examples of what falls into each of those sub-buckets, so governed by state, local ordinances, and prior resolutions. So you don't have to give that to me in this moment, but as we go through this exercise, if you can just highlight some examples so that I and we have an understanding of, um, what each of those are."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2304.77,
+   "end": 2304.81,
+   "text": "Mm-hmm."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 2304.87,
+   "end": 2312.25,
+   "text": "Because there may be some flexibility in the, the latter two, local ordinances and prior resolutions, where we may, we may wanna make some adjustments."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2312.87,
+   "end": 2339.53,
+   "text": "Yeah, absolutely. Actually, in our next section, when we talk about CDD fees, um, there's a perfectly good example where there's new state legislations that actually determine certain fee for, um, uh, for solar panel-related, um, work, and then that's one example for outside regulation. And, uh, examples of our, our internal ordinance or, um, past, past resolutions are mostly, you know, a perfectly good example is our administrative citations."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2339.87,
+   "end": 2348.63,
+   "text": "Those are, um, governed under the City of Glendale's ordinance, but it's us determining the level of the, the citations that we charge."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 2349.09,
+   "end": 2349.51,
+   "text": "Right. Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2349.51,
+   "end": 2353.29,
+   "text": "Yeah. So those are the two examples of outside regulation versus inside, inside regulation."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 2353.31,
+   "end": 2354.15,
+   "text": "Perfect. Thank you."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2355.99,
+   "end": 2387.51,
+   "text": "Okay. Um, all right. So I-- Moving on to the next slide, I just wanna quickly kind of go over the principles of each one of those, um, categories. So as I mentioned that the cost recovery is actually our most common and our usually is our default fee calculation methodology. If there isn't any, um, policy directions or compelling reason for us to subsidize certain fees or kind of charge above our cost, we usually stick with the cost recovery, just, um, you know, to compensate the service that's being provided."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2388.19,
+   "end": 2417.21,
+   "text": "And, uh, usually the best practice for the cost recovery is also to adopt an annual fee update or increase mechanism to keep up with inflation, which is what we have here at the City of Glendale, where we have a, an annual CPI, um, calculation, and that gets applied to our cost recovery fees to, um, to be updated on an annual basis. And then, uh, for the principle of subsidization, as, uh, Kushma mentioned, um, partially that there is a-- there should be a community benefit, um, consideration."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2417.69,
+   "end": 2456.83,
+   "text": "So all cities use subsidies strategically to balance economic, social, administrative objectives. Um, so our subsidizing policy really should m-matches the city's, um, general priorities as well as council's, um, council's, uh, goals and priorities. And some examples of, uh, core reasons for subsidy, um, that incu-cur-- includes like encouraging certain beneficial community behaviors or promote participation in certain a-areas or promote equity and accessibilities, um, for example, for low income or nonpro-nonprofit, um, organizations, uh, support economic developments, uh, lowering costs, creating jobs, increasing revenues."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2457.11,
+   "end": 2483.39,
+   "text": "Those are all good reasons for subsidizing and enhancing public health and safety, uh, usually that's a good reason. And again, these are just a few examples of many, uh, examples, but at the end of the day, the subsidizing decisions really should meet the community's priorities as well as reflect the council's policy directions. Um, for the non-restrictive fees, as, um, as mentioned earlier, is usually that it's, um, usually that is set by the market rate."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2483.61,
+   "end": 2506.33,
+   "text": "That includes like parking rates, that includes space rental, sports field rental, and these are not restricted by Proposition twenty-six, and fees can exceed cost. Fees are for private-- These are usually fees for private benefits, uh, for specific individuals using that service at the time and, um, you know, um, really comparing to the market data is a very, very good way to establish those fees."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2508.45,
+   "end": 2536.39,
+   "text": "So I wanna talk about the twenty twenty-six fee study. As Kushma mentioned, that we actually took a phased approach rather than a citywide approach, um, where we really focused in on two specific departments. And to, um, Council Member Asatryan's, uh, earlier point, where it, it is, um, healthy actually for the city to look at our processes from time to time and just to do a deep dive into our, um, our processes and look at our time, uh, estimates, if I understand your question earlier correctly."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2536.85,
+   "end": 2557.15,
+   "text": "And that's part of the reason why we wanted to take one or two departments each year and then really do a very deep dive into the processes. Um, this last year we did library and, uh, community, uh, development departments. Those are the two departments that we did. And some full cost recovery- Examples in there includes the Brand Library Recital Hall."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2557.51,
+   "end": 2583.53,
+   "text": "Um, the commercial, commercial rate for any customer that wants to rent out the recital hall is, um, $463 an hour, and that is cal- cal- calculated based on full cost. But then at the same time, if we have students that wants to rent out that hall, we actually, um, do provide a subsidy of 25% of the cost recovery for that particular rental. So that's, uh, just a example of the full cost versus subsidized cost, um, as a library rental perspective."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2584.13,
+   "end": 2607.69,
+   "text": "Under community development, we also did a deep dive into the time study, um, for all of the community development fees. That is actually the one department that has the most, uh, number of fees within the city. Um, it took quite a bit of work. And the full cost recovery perspective on that is one example is the ADU review. It's a $475 review. And, uh, for each application review, we, um, are charging that as a full c- full cost."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2608.15,
+   "end": 2628.69,
+   "text": "A subsidizing, um, example is a historical preservation process, uh, the Mills Act, uh, contract fee. That is set at $3,008 per application. Although that still looks like a pretty big amount, but I would say that the fully calculated cost for each one of those, um, each one of those contracts is actually over $10,000."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2629.15,
+   "end": 2636.29,
+   "text": "So the $3,000 is a subsidized, um, level already. How much did you say? Uh, it's over $10,000- Hundred ... the full, fully loaded cost. Thank you."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 2638.63,
+   "end": 2650.11,
+   "text": "And could I ask, that's, that's just for the review, but in many cases, the review doesn't, doesn't, um, culminate in a recommendation to go forward, right?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2651.09,
+   "end": 2653.63,
+   "text": "That is a operational question that I may need to-"
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 2653.73,
+   "end": 2653.89,
+   "text": "Oh"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2653.91,
+   "end": 2654.59,
+   "text": "... follow up on. Yeah."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 2654.79,
+   "end": 2665.69,
+   "text": "Yeah, I mean, I guess so, 'cause it's going in front of... First it has to get a staff recommendation that it qualifies, then it goes to the historic, then it, then it... preservation commission, then it comes to us."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2666.01,
+   "end": 2667.33,
+   "text": "Correct. Yep."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 2667.97,
+   "end": 2676.49,
+   "text": "And do we calculate all that in the fees? Like, like the cost of coming to council, the cost of coming to historic preservation?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2677.05,
+   "end": 2694.95,
+   "text": "Yeah, usually when we go through the cost, um, study, um, the full, the time study of the full, full process will be considered. So every, every portion of the time that staff spends on handling and processing each, each one of those applications is, uh, going to be part of the, the time study."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 2696.17,
+   "end": 2696.55,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2696.59,
+   "end": 2698.73,
+   "text": "Yeah, in general. But yeah. Go ahead."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2700.31,
+   "end": 2727.21,
+   "text": "So if we're talking about CDBG fees, um, and one project includes several permits that you need to get, is each fee associated... If, if say, say, there's like a plan check involved or whatever it may be, are you counting those as separate even though it's one application that's being handed that then ends up being like, you know..."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2727.73,
+   "end": 2736.09,
+   "text": "Are you counting one review, or are you counting all of the reviews, um, separately into your fee structure?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2737.67,
+   "end": 2738.09,
+   "text": "It really de-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2738.11,
+   "end": 2738.41,
+   "text": "That's just my-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2739.61,
+   "end": 2767.87,
+   "text": "Uh, I'll take a stab at answering the question first. It really depends on the work that's required for the application, right? And, uh, um, CDBG actually has a computer system that's very sophisticated in term of mapping out all the fees and the work that's related with each, um, application. And just as you mentioned, that one particular job may actually trigger and activate different parts of the, of that, uh, system and different parts of the fees and the activities."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2767.97,
+   "end": 2779.47,
+   "text": "So each one of those are assessed individually, but then they are kind of brought together into one bill to essentially come up with a, with a cost or come up with a fee for that particular job. Um-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2782.01,
+   "end": 2782.39,
+   "text": "Uh, well-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2782.77,
+   "end": 2783.57,
+   "text": "Is the question if, is there any-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2783.67,
+   "end": 2801.23,
+   "text": "Then, then if you are, if you are comparing, and then when they're going through the process of comparing it with other cities, um, are they taking each permit separately? And what happens when we're charging things, like we're, we're merging certain activities into one permit versus another city? How is that calculated?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2803.21,
+   "end": 2803.65,
+   "text": "I may have-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2803.67,
+   "end": 2803.97,
+   "text": "Does that make sense?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2804.45,
+   "end": 2815.13,
+   "text": "Yeah. I, I think if I understand the question correctly, is, uh, the question... Are, are you wondering if we're actually duplicating some of this, uh, application intake effort in some of our calculations?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2815.17,
+   "end": 2839.17,
+   "text": "Yes. Or, you know, I think the, the first time the fee schedule, when I was on the council, that came, wh- when it came up, my comment was that we're not just raising $50 or $100 on this item. We're actually... It's 50 here, 150 here, 200 here, and all of a sudden, what would have been the, the full amount of, say, like something that's gonna be $1,000 is now gonna be like $3,000."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2839.71,
+   "end": 2840.07,
+   "text": "Oh, I see."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2840.09,
+   "end": 2846.93,
+   "text": "Right? It's not the 150 or 50 that... 'Cause we're looking at line by line versus, like each project requires multiple permits."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2847.51,
+   "end": 2849.07,
+   "text": "I see. You mean the combined increase-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2849.17,
+   "end": 2849.17,
+   "text": "Yes"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2849.17,
+   "end": 2854.15,
+   "text": "... of, like one project, the cost of one project. Um, yeah, we, we-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2854.23,
+   "end": 2859.93,
+   "text": "Is that, is that taken into account when they're doing their analysis, or is it just fee by fee by fee?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2860.75,
+   "end": 2880.67,
+   "text": "I would say yes. It's, uh, you know, CDBG fee are actually break down into a pretty granular level of, uh, different activities and pr- and different type of services. So each one of them are studied separately. Uh, we do, uh, have our, uh, revenue manager, Nina Mousayan, that's, uh, that can actually, uh, provide some of those details in this year's work."
+  },
+  {
+   "speaker": "speaker_13",
+   "start": 2881.03,
+   "end": 2898.11,
+   "text": "Yeah. Hi. Hello. Um, so yes, each fee is separate, but it comes together in one bill. So when the consultant looks at it, she looks at each fee that's on the fee schedule individually."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2899.25,
+   "end": 2904.13,
+   "text": "Do they look at the combined to see how that matches up with other cities?"
+  },
+  {
+   "speaker": "speaker_13",
+   "start": 2904.95,
+   "end": 2912.55,
+   "text": "Uh, I, I'm sure it goes into their analysis, but I'm not... She's on, she's stayed on. We can ask her the question-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 2912.55,
+   "end": 2912.67,
+   "text": "We can ask her"
+  },
+  {
+   "speaker": "speaker_13",
+   "start": 2912.73,
+   "end": 2913.09,
+   "text": "... if you want."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 2913.13,
+   "end": 2914.19,
+   "text": "Let's ask the consultant. Yeah"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 2916.44,
+   "end": 2939.94,
+   "text": "Yeah. Good, good afternoon, council, again. So typically, in terms of when we're looking at the fee comparisons, we're really... It's, it's hard enough to do an apples to apples even with an individual fee line item, let alone a project, because every city has different requirements of what they, what they allow to be submitted at certain points in the process and what they would require that."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 2940.02,
+   "end": 2969.38,
+   "text": "So usually we're looking at it kind of more on an individualistic fee level, even when we're comparing it across cities, just so that we can try and keep it as close as possible to what's in the current fee. But when we are collecting the time assumption, that is one consideration, is, you know, we have the conversation of if a particular fee or application is always going to be part of another fee or application process, we ask the question, does it need to be itemized separately?"
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 2970.04,
+   "end": 2992.16,
+   "text": "Um, so the only reason in most community development fee schedules, the reason you'll see all of these different itemized line items, is because there are instances where these processes can happen outside of combined projects. And so therefore, the, there needs to be a separate fee that exists because the code says you can just do this on your own. You don't have to do it as part of a larger development project."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 2992.68,
+   "end": 3013.94,
+   "text": "And then when we look at the time, we factor that in, of saying, \"Okay, yes, you have to go to a commission hearing,\" but the commission hearing isn't just for this one item or for this one project. It can account for multiple projects. So we need to balance that out and not just take the full amount of the commission hearing and load it on every single project. We wanna spread it over the projects that it could cover."
+  },
+  {
+   "speaker": "speaker_8",
+   "start": 3014.46,
+   "end": 3036.28,
+   "text": "Um, same thing for the application intake or the review, is taking a look at, okay, for reviewing this project, which could include three different entitlements, is it really three hours per entitlement, or is it three hours for all three, and really it s- should be an hour per entitlement? So those are all things that go into the conversation and consideration for calculating the, uh, the amounts to make sure that they're reasonable."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 3038.88,
+   "end": 3068.2,
+   "text": "The goal... Ultimately, the goal would be never to double count a fee just because there is a fire inspection fee and then there's a planning review fee. You wouldn't charge both if the planning review fee already had a component of the fire review built into it. You would just charge the planning review fee because that's what this project requires. If there was a separate project that didn't require a full planning review and just had one fire component, maybe it's some kind of a filming, uh, request, and there is a fire piece to it, we would just charge the fire piece."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 3068.6,
+   "end": 3078.5,
+   "text": "So we go through and we look at each individual fee independently, but, but the des- the system's designed never to charge those individual fees multiple times on the same process."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 3080.46,
+   "end": 3082.06,
+   "text": "Yep. Yep."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 3082.12,
+   "end": 3082.4,
+   "text": "Just to-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 3083.22,
+   "end": 3083.36,
+   "text": "Yes"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 3083.4,
+   "end": 3108.8,
+   "text": "... follow up on that. I think I had the same question within my questions, that sometimes when you have, I don't know, a little house, you wanna get a permit for your roof, your stucco, your windows, your, I don't know, exterior lighting or what have you, and you have a garage. You have to pull permits for every single one of them for your house and every single one of them for your garage."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 3109.18,
+   "end": 3132.86,
+   "text": "So for y- one small project, you will have eight permits, basically. One permit for the roof on the, on the house, and one permit for the roof on the garage. So I think what we need to do is have a combination permit that incorporate everything in one, so... And it's less paperwork for us, too. You don't have eight permit numbers on one, one house that is doing one simple..."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 3133.26,
+   "end": 3156.16,
+   "text": "well, not simple, you know, smaller, smaller renovation on the house. Uh, makes it easier for the inspector, too. When he comes in, they know, they see under one permit everything is there. So, uh, and the fees are kind of you're paying a roof fee, you know, billing, uh, for, for roofing replacement fee on the house and another roofing replacement fee on the garage."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 3156.22,
+   "end": 3163.04,
+   "text": "So have to combine this, all of them, so it'll be one fee for, for that. Yes, sir. I think-"
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 3163.46,
+   "end": 3185.38,
+   "text": "Council Member Gharpetian, I, I believe we already do that. We, we do have individual permit fees for plumbing, mechanical, electrical, roofing. But if you're doing a, a larger scale construction project, a mass... a, a significant remodel, we would issue a combination permit which would include a, a combination of all of those trades. The inspector essentially would go out on that one permit and sign off on the individual ones."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 3185.68,
+   "end": 3192.24,
+   "text": "I feel like I've stepped into the CDD, uh, territory a little bit. I'll step back now. If there's anything that I misspoke about, Ms. Steinem can correct me."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3193.08,
+   "end": 3213.08,
+   "text": "No, that's already how we're set up. Um, I understand what you're saying, though, to make sure that we're not having to issue... I think in some cases, when you have a standalone garage, we end up issuing separate permits for a separate structure. Um, but we can certainly make sure to, uh, ensure that we're doing one set of combo permits, which we already have for those types of projects."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 3213.9,
+   "end": 3231.24,
+   "text": "Okay. My, my, my suggestion would be to let the applicants know, because I didn't even know, and, and I had to pull permits for every single one of them. So let, let people know that you have all this work, you can have one permit for the whole thing, and makes it easier on everyone. That's all. Thank you."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 3232.9,
+   "end": 3273.32,
+   "text": "I think, I think if I can add, uh, just to go off of Council Member Satrian's comments, is, like, i- is there an opportunity to consolidate some of these fees? And un- like, a, a very practical thing I can think of, uh, I can't think of other examples, you can play with this, is if there's an inspection that's happening on a property and three ins- three inspection points have to occur, like, are we charging every s- are we charging the time that it takes to go out to this property three times, when in reality we're just going once and one inspector is doing three inspections at the same time?"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 3273.52,
+   "end": 3301.02,
+   "text": "So I think it's that cost savings that we're looking for, not only for the- ... customer, the resident, but also for us as well. It is, in this case it's more for the customer, um, which I think we're all a little bit sensitive to these days, is, is are we truly charging, um, a fee that is truly the cost, um, if we're having these consolidated efforts happening a- at a site visit, for example?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3302.04,
+   "end": 3324.36,
+   "text": "Well, I mean, I would also add, like, going back to processes, um, I know that as an example in the past, um, it used to be the city inspector that would just come out, um, and now we require that the engineer come out. They do all the work, they s- they give their stamp of approval, but then the city in- then comes out and inspects."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3325.02,
+   "end": 3334.26,
+   "text": "Um, and that is a recent change that happened that we didn't have historically. So I don't know, I mean, some of our processes have added additional inspections-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 3334.56,
+   "end": 3334.64,
+   "text": "Mm"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3334.64,
+   "end": 3356.38,
+   "text": "... that didn't exist in the past, which then drive up the cost because every time they're coming out, they're, you know, they're charging the, the customer. And I'm not... Look, I'll be very honest, like, I, I really don't care if it's a big development. I care more about our single family homeowners. I care about people that are potentially living in multifamily."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3356.98,
+   "end": 3387.46,
+   "text": "You know, those are, um, those are more of the concerns that I have and, and in making things affordable because at the end of the day, those costs, especially for multifamily, are gonna be, you know, passed down to the renter or, um, you know, I think I wanna have a conversation about condos and HOAs in general because there's been so many different things that have come down from the state that are, uh, raising the cost of HOA fees that it's not ..."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3387.72,
+   "end": 3394.06,
+   "text": "And, and they're making it mandatory, and so it's not as affordable as it used to be to actually even own a condo because of the HOA fees."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 3394.98,
+   "end": 3412.24,
+   "text": "Yeah, uh, Council Member Sawyers, we can certainly, um, Ms. Diamond will look into. We definitely don't want duplication of efforts. If we can eliminate a step that may be done by another person or another staff member, we can certainly, uh, reconsider that."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3412.68,
+   "end": 3435.52,
+   "text": "But it, I mean it's, it's also not just within CDD. Um, I will, I'm gonna, I was gonna wait to talk about it, like, but for the, as an example for somebody organizing an event, um, it's not just the fac- Like, that's a community benefit and it's free to the public. You're looking at it as, well, facility rental, uh, and possibly, um, something with checking with fire."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3436.1,
+   "end": 3458.16,
+   "text": "Um, but then if you add, if the more successful the event is, the more police need to be present. Um, I know some of the events ha- just the PD fee, uh, was $10,000 for them to do, but you're not calculating that into all one thing that would ha- have to happen in order for someone to put together an event that has community benefit to our city."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3458.52,
+   "end": 3474.18,
+   "text": "So how you look at bundling these and seeing that true cost so we can also determine, you know, is this something that we wanna subsidize, and how much do we subsidize to make it, um, feasible for people to actually host those events?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3474.7,
+   "end": 3479.3,
+   "text": "Yeah. Absolutely. I, I think, you know, the last part of our today's discussion is actually-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3479.34,
+   "end": 3479.4,
+   "text": "Yeah"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3479.4,
+   "end": 3484.64,
+   "text": "... specifically that, and we would love to, to hear from the council, um, about directions on that."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3485.56,
+   "end": 3485.88,
+   "text": "If I could-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 3485.92,
+   "end": 3487.44,
+   "text": "Council Member Brotman, and then we'll start paying"
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3488.68,
+   "end": 3522.5,
+   "text": "... later, but since we're talking about inspections and, and reducing the cost, um, I was, I just had a heat pump put in, a heat pump HVAC put in. I was talking to the contractor and, um, you know, when the, w- there's, there's now s- some new law, SB222, the Heat Pump Access Act, which I didn't know about, but apparently that not only sets, you know, rates for, um, kind of regulatory rates for, uh, heat pumps, but it also either requires at some point or allows for asynchronous inspections."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3523.32,
+   "end": 3558.72,
+   "text": "Um, I don't know if you know the term, if everybody knows the term, but, um, you know, you c- basically the, the contractor can take pictures and submit them in and, and for, like, standard things, that saves money. I mean, that saves us money not having to send out a, an inspector. He said that where he's done this, you know, like nine times out of 10, I don't know if that's a precise number, but nine times out of 10 it's like it's good enough, and one time out of 10 it's not quite good enough and they have to send, you know, maybe the pictures weren't clear or for whatever reason they send the inspectors out anyway."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3558.78,
+   "end": 3570.94,
+   "text": "So I, I would like us to look at any opportunity we have to do that because that reduces our cost, then we could pass that on or if we're already subsidizing 'cause it's regulatory, you know. At least it's reducing our costs."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3571.84,
+   "end": 3580.06,
+   "text": "That's definitely something we're prepping for. It's required of us to have, um, asynchronous or virtual inspections by July 1st of next year."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3580.36,
+   "end": 3581.84,
+   "text": "For which items? For-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3582.02,
+   "end": 3608.12,
+   "text": "Um, for certain smaller projects, I believe, and I'll have to look into it further. I believe it includes single family homes, um, and perhaps certain other types of permits, but it's mostly single family residential that it applies to. But we could certainly offer that more broadly, particularly once we, um, work out the kinks, but it'll save, I think to both of the comments we heard before, it'll save us time and it will save time on the contractor side or the owner side."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3608.66,
+   "end": 3628.2,
+   "text": "So whatever we can do, um, and I think once we have an idea of what our process is, we can work with finance to adjust the fees so that there's a separate fee which would come back to you specifically for virtual inspection so that we are charging a different fee because technically it, it does take us less time, and so we should a- address that."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3628.62,
+   "end": 3646.72,
+   "text": "Yeah, and, and to your point, I mean, it saves time for the contractor. I'm sure you know this, but, you know, what I was told is, like, we, for an inspection we give, like, a half a day window, and so the, the, the contractor is just kinda like sitting in his car waiting for that, that time, spending half a day, um, just waiting Right."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3646.98,
+   "end": 3648.64,
+   "text": "Yeah, we give a slightly shorter window than that-"
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3648.72,
+   "end": 3648.72,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3648.72,
+   "end": 3661.8,
+   "text": "... but it, it will, it will allow for no window for immediate sharing of information. I mean, this is actually, I think, a great move forward, and actually brings us back to some of the work we were doing during COVID that we ceased to do. So-"
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3662.04,
+   "end": 3662.16,
+   "text": "Hmm"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3662.16,
+   "end": 3670.52,
+   "text": "... um, again, this could be a cost savings that we could start with the required by state, um, inspections and expand this out if it works well."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3671.18,
+   "end": 3671.84,
+   "text": "Sounds good. Thank you."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3671.88,
+   "end": 3672.84,
+   "text": "One suggestion on that."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3673.06,
+   "end": 3673.96,
+   "text": "Yes, Council Member Gharpetian."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3674.06,
+   "end": 3679.24,
+   "text": "Uh, when, when you call for an inspection, it's like, they, they tell you between 10:00 to 12:00, for example."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3679.26,
+   "end": 3679.48,
+   "text": "Mm-hmm."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3679.52,
+   "end": 3696.14,
+   "text": "Two-hour window or three-hour window. Uh, and we tried this several times, and it works well. The inspector has your phone number, can call you, like, 15 minutes or half an hour before he gets there, and you don't have to sit down and wait for two hours. That's one of the things. It's just a suggestion if-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3696.44,
+   "end": 3696.44,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3696.44,
+   "end": 3699.52,
+   "text": "... we can incorporate that as well, that would be better. So yeah."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 3699.58,
+   "end": 3702.72,
+   "text": "Sorry I exaggerated the amount of time that, that they make you wait."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3703.0,
+   "end": 3703.42,
+   "text": "No, no."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3703.78,
+   "end": 3708.52,
+   "text": "It certainly can be that way at times, and ideally we're making that window narrower and narrower."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3708.52,
+   "end": 3708.64,
+   "text": "Right."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3708.66,
+   "end": 3729.18,
+   "text": "But yeah, absolutely, we can work on, you know, making sure we're calling. I know people are getting calls in the morning. Um, they can go online and see where the inspector is. But there are a lot of technology improvements that we can make to help people know, kind of like when you get a food delivery, you can watch your inspector get towards your house, um, and give you accurate real-time information. That's something we'll work on as well."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3730.42,
+   "end": 3761.24,
+   "text": "If I just may add la- one last thing on that. Um, I know we stagger our inspections across departments. Um, I think part of that is also looking at does fire have to be the one that goes out? Does, does it have to be a CDD? Could it be done at the same time? Because I think one of the main complaints that we receive is, you know, one comes out, but then, you know, GWP takes another three weeks, and the fire takes another three weeks, and so then it's delay after delay for the person that's doing the construction."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 3762.32,
+   "end": 3777.96,
+   "text": "Yes, we, we are, Council Member, um, Asatryan. We are aware of the, the situations like, uh, like that, and, uh, departments are coordinating to see if we can consolidate, uh, inspection, uh, when it's applicable. It's on their list."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3778.28,
+   "end": 3778.5,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3781.2,
+   "end": 3810.36,
+   "text": "Okay. So we'll move on to the next part. Um, so since we're talking about fee schedule, we have received some request from CDD, um, on some revisions, and these are revisions after you last adopted the fee schedule back in June of 2026. Um, there are two parts to this request. The first part is, uh, that we're removing one of the fees for the, uh, solar, solar panel systems, um, that, um, that used to be one fee, which is a $649 per permit."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3810.9,
+   "end": 3838.74,
+   "text": "And then there's some s- new state legislation that was established, actually the, the California Government Code 66015, that actually provided, um, a tiered approach to this permit. So instead of just doing one fee, one size fits all, we are, um, introducing a tiered approach with, uh, $450 for the first 1 to 15 kilowatt, and then another $15 for each additional kilowatt, um, up to 29 kilowatt."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3839.24,
+   "end": 3859.48,
+   "text": "And then when it's, uh, 30 kilowatt, um, and above, the fee becomes, uh, $649, and that is the same for any special fees for commercial, uh, solar panel, uh, systems. So that, uh, we're removing the traditional one fee and then introducing four new fees, um, to comply with, uh, the government code."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3860.16,
+   "end": 3887.44,
+   "text": "That's the first change that CDD has require- requested. The second change, um, is just some minor description changes. There's no fee changes, uh, in this, this part of the request. It's really to describing these two different fees, um, by, uh, describing major project and the minor project. Um, the major project, I, I think traditionally we used to call them, uh, design review exempt, and then design review for fence and walls."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3887.82,
+   "end": 3899.08,
+   "text": "Um, but C- CDD's request, uh, calling them major projects and minor projects are more, um, more accurate descriptions of these fees. Um, so that's, um, the second request from CDD."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3900.82,
+   "end": 3921.0,
+   "text": "Is that... Um, I know there's an item that's supposed to be coming to us for us to actually talk about what goes to Design Review Board, 'cause I know that we're one of the very few cities that has these single family, um, projects going to Desri- Design Review Board. Um, would this be reassessed once that item comes?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3921.34,
+   "end": 3941.82,
+   "text": "So that's not... I... That will be reassessed depending on, you know, whatever process changes happen over time. We would adjust the, you know, what we call different processes and what the fees are. This specific change that we're requesting is for things that don't go to Design Review Board, but instead are looked at administratively, um, and even, uh, there's an administrative design review."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3941.9,
+   "end": 3961.76,
+   "text": "This is a, a slightly lower level, um, planning review that happens in-house. Um, we have obviously very different fee structures for minor and major. Um, and so what we're looking to do is, um, change the definition so that a lot more projects fall under minor."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3962.14,
+   "end": 3982.5,
+   "text": "So for things that are taking us about an hour or less to look at, typically that's less based on that fee, um, it's falling into that minor process. And then things that really need a lot of conversation, meetings, review, um, site visits, that sort of thing, fall into the major projects and are a much higher category and price tag."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 3983.84,
+   "end": 3984.0,
+   "text": "Thanks."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 3985.36,
+   "end": 3993.78,
+   "text": "What it allows us to do is drastically reduce the amount of money people spend on design review, um, for really minor changes to their homes."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 3996.88,
+   "end": 4018.16,
+   "text": "Okay. So these, uh, two pending fee re- uh, schedule revisions will come back to your council, uh, at a regular council meeting to, uh, to be included. And depends on what direction that we receive from council today, we may combine these, uh, pending revisions- With any, uh, additional directions that will cause the fee schedule to be revised, um, to, to be included in the next item, um, that will come, come to your council."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4019.54,
+   "end": 4039.02,
+   "text": "The last part of today's, uh, special meeting is a council discussion and policy directions. There are a couple items under this category, um, that, that we have heard from council before, and we want to revisit that. And then as I mentioned, if there's any other area of interest, uh, from any council members, this is the time for the discussion."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4039.54,
+   "end": 4060.88,
+   "text": "Now, before we launch into that, uh, that council discussion, I just wanted to provide some information for consideration when subsidizing fees. Um, as mentioned, that there are perfectly good reasons to subsidize fees. But every time we, when your council makes that decision, um, really weighing the community benefits versus the revenue service, potential service reductions is, um, kind of the consideration points."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4061.28,
+   "end": 4091.92,
+   "text": "On the community benefits front, um, you know, we should always think about is this a short-term benefit, long-term benefit? Where does the benefit, um, gets applied? How widespread it actually shows up in the community? And also, um, very importantly, it's, uh, it's recommended for us to think about how do we measure the performance and the progress of this community benefit? Um, at the same time, um, for us to subsidize fees, obviously it takes other resources to kind of make those costs whole as a, especially at the general fund level, but really at all funds level."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4092.32,
+   "end": 4115.62,
+   "text": "So the potential revenue impact to, um, to our financial structure should be considered. As mentioned before, tax alone does not cover the full cost of our municipal services. We actually depends on fee revenues to cover a great deal of our services. Uh, fees are approximately 20% of general fund revenue that, um, that actually funds the general services on our general fund."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4116.22,
+   "end": 4144.68,
+   "text": "And, uh, any subsidy, um, that, uh, additional subsidy that we decide will actually reduce general fund revenue and potentially lead to service reductions down the road. So those are just some consideration points, uh, for us to think about. And, um, the first topic we want to revisit with our council is a nonprofit subsidy policy that was actually, um, presented to council, um, at this last, uh, budget, budget adoption process."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4145.08,
+   "end": 4168.32,
+   "text": "And this was a policy that was, um, um, implemented by Resolution 24-170 back in June of 2024. And the council determined that in order to continue providing effective services for the public welfare, the city must esta- establish a not-for-profit rate, and that is a fif- fifty percent, uh, discount for not-for-profit on, uh, a, a number of our standard fee rates."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4168.68,
+   "end": 4193.96,
+   "text": "The policy excludes the Alex Theatre and requires the organization to show a 501[c][3] status. And for large events requiring city staffing, subsidy would also cover up to $10,000 of staff cost. Um, the citywide not-for-profit subsidy is estimated to be, um, essentially with that 50%, is estimated to be foregoing about $150,000 in, in revenues, uh, for those areas."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4194.7,
+   "end": 4197.12,
+   "text": "So I'll take a pause here just to... Yes?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4197.68,
+   "end": 4208.12,
+   "text": "Well, um, last time this conversation came up, um, this council gave direction, uh, to staff to bring back the policy separate from the fee conversation-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4208.64,
+   "end": 4208.68,
+   "text": "Mm-hmm"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4208.7,
+   "end": 4216.94,
+   "text": "... uh, because we had agreed that, um, there needs to be some revisions made. Uh, it's not working as we had hoped."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4217.08,
+   "end": 4217.08,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4217.12,
+   "end": 4220.66,
+   "text": "And so my hope is that we can still have that as a separate item."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4221.22,
+   "end": 4221.3,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4221.5,
+   "end": 4245.52,
+   "text": "Um, and I think it would be worthwhile, um, for staff to not only identify issues that they're coming across, uh, but also truly the, uh, some of the annual events that have, uh, occurred now. Um, because what ended up happening when we, we, after we passed this policy, we also ended up increasing our fees significantly."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4246.04,
+   "end": 4269.7,
+   "text": "And so while we were still subsidizing at 50%, the costs were still, uh, closer to that original number that we had. Um, I think I gave some of the examples, but I think it would be worthwhile for that report to also include, um, some breakdowns of how much these, um, events ended up costing, um, to the applicant."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4269.84,
+   "end": 4302.8,
+   "text": "I will also say as an example, the Glendale Police Foundation, um, used to host the K9, uh, event at Verdugo Park. That used to be an open to the public event, um, where f- uh, community members and families could gather, and it was because of the park fees and all the other fees that were associated with it that then turned it into the comedy night that they have now, um, because it was more cost-effective for them to host an, a comedy night than to host the community event, um, at the park."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4303.5,
+   "end": 4311.8,
+   "text": "Uh, I can speak about Vartavar and all the other events, but I think it would be helpful for us to get that report and for us to review and alter it-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4312.5,
+   "end": 4312.52,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 4312.52,
+   "end": 4313.58,
+   "text": "... is where I stand on that."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4314.04,
+   "end": 4314.28,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4314.46,
+   "end": 4315.26,
+   "text": "Council Member Gharpetian."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4315.5,
+   "end": 4332.24,
+   "text": "Yeah, I have a question. Um, how much time do we have? Because my understanding was that we had to go through this fee structure or this packet and ask question regarding different things. And I have, like, maybe seven, eight questions."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4332.4,
+   "end": 4332.54,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4332.82,
+   "end": 4340.22,
+   "text": "Major questions, but not, I don't wanna go through the... I went through the whole thing, but I don't wanna discuss. I know we don't have time to discuss everything, but, uh-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4340.5,
+   "end": 4345.38,
+   "text": "So I would like us to at least, uh, figure that we can go to what, 5:00, 5:15?"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4345.62,
+   "end": 4345.96,
+   "text": "Yes, sir."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 4346.32,
+   "end": 4365.46,
+   "text": "Uh, 5:00, 5:00 probably because we do have a couple of closed session items that, um, we still have to, uh, address. Um, we started closed session, um, at 1:00, but we, uh, didn't complete it. Couple of items took longer. So, um, floor is yours, Council Member Gharpetian. I encourage you to start through the questions. We'll see how many of them we can get through."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4365.82,
+   "end": 4367.94,
+   "text": "Okay. Um, basically the,"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4370.06,
+   "end": 4390.99,
+   "text": "some of this page, uh, some of the, the items here, they're more about libraries and parks, and they're, they're subsidizing, like- But 38 to 48, uh, and, uh, I wanna talk about... And different fees about mechanical, electrical building permit fees. Those are, those are some things that we can have a discussion, uh, I can have a briefing on those."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4391.09,
+   "end": 4417.05,
+   "text": "But, uh, uh, express plan check fees, that's on page 72. Uh, many cities, they charge one and a half times of the fee, but we charge the fee and plus one and a half times on top of it in order to get the, the plan check to be expressed, and I think that's something that need to be looked at."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4417.27,
+   "end": 4421.05,
+   "text": "Uh, page 72 of my packet, I don't know what number is that."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4423.11,
+   "end": 4423.31,
+   "text": "Yeah, the-"
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 4423.33,
+   "end": 4431.45,
+   "text": "Council Member Gharpetian, we are aware, and Ms. Diamond, again, it's, uh, another item on her very long list of tasks to accomplish."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4433.97,
+   "end": 4451.71,
+   "text": "The express plan check fees are, like, item 169, and it's, like, two and a half times, basically, in order to get an... So that's something that if you wanna encourage people to use it, so we would reduce our load as well, I think we need to look at that and, and reduce that one. Um, page 81, there's a building,"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4455.27,
+   "end": 4470.81,
+   "text": "uh, item 232. It says, \"Building permit single-family residential from 500,000 to a, to a million.\" Are you charging them, on top of everything, for first $500,000, $3576?"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4473.09,
+   "end": 4477.33,
+   "text": "What is that, that fee for? I just wanna understand it. The-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4478.03,
+   "end": 4499.41,
+   "text": "Thanks for the question. So when you have-- when you're getting a building permit for a single family home, um, this is based on valuation. So for the first, um, $500,000, um, of valuation, you are paying that 3576 as the base. Um, and then..."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4502.07,
+   "end": 4502.15,
+   "text": "So-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4502.51,
+   "end": 4520.07,
+   "text": "Right, and then you're paying a fraction thereof based on the increase in valuation in line 236. And then if it's, um, if the valuations are different, you use the, the f- the line items after the 233, 234, 235."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4520.43,
+   "end": 4523.59,
+   "text": "This is just for the building permit, or this is for..."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4525.49,
+   "end": 4525.49,
+   "text": "This is for-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4525.49,
+   "end": 4525.91,
+   "text": "This is for-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4525.91,
+   "end": 4526.61,
+   "text": "... a building permit"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4526.63,
+   "end": 4531.13,
+   "text": "... the building permit, and it doesn't include the electrical, mechanical, plumbing, and everything else?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4531.27,
+   "end": 4532.23,
+   "text": "I don't believe so."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4532.27,
+   "end": 4532.27,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4532.29,
+   "end": 4533.59,
+   "text": "I believe that's the combo."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4533.81,
+   "end": 4553.45,
+   "text": "I, I just wanted to understand what that is. Uh, also we need to... We, we talked about it. I wanna really talk about this because I don't wanna run out of time. Uh, the condominium projects, uh, I have-- we have to understand what the fees are when they convert it from existing buildings to condominium and the new ones."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4553.99,
+   "end": 4578.77,
+   "text": "Uh, is it per unit? Is it... There are a few of them here, but they're not very major. They're, like, 10,000 here, 12,000 there, but as far as the plan check fee and building fee and everything else, if you have a, I don't know, twen- 10-unit apartment building, you wanna convert it, we need to see what those fees are so we provide that incentive to recover or cover the, the insurance cost, the builder's liability insurance cost."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4579.45,
+   "end": 4581.83,
+   "text": "Um, there is one on this"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4586.17,
+   "end": 4608.01,
+   "text": "And also, the SB-9 applications, I don't wanna, you know, promote SB-9 applications, but they are being treated as subdivision. They're not subdivision. There's lot splits, and the fees are, like, 18,000 to $20,000. Uh, City of LA does it for $4500. So we need to look at that, that, that fee for that application."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4608.07,
+   "end": 4620.49,
+   "text": "I'm not... Again, I don't wanna promote SB-9, but, uh, they ha- it's not a subdivision. It's a lot split, so... And that's why it's, it's interpreted in the state, state law as well. Uh, page 91."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4624.75,
+   "end": 4639.87,
+   "text": "This is about condominiums. Uh, page 91. Uh, again, conversion, it says 14,000, 15,000. I don't know what these fees are, but these are small. I don't think they will cover, uh, most of the, the fees that we were, we were, we were talking about."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4646.25,
+   "end": 4646.25,
+   "text": "Um..."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4646.27,
+   "end": 4652.13,
+   "text": "And those are, like I've said, strictly for the subdivision itself, like the, the mapping that occurs."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4652.17,
+   "end": 4652.27,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4652.31,
+   "end": 4657.57,
+   "text": "And then any building permit associated with updates that need to occur would be separately charged."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4657.65,
+   "end": 4681.77,
+   "text": "Okay. I think w- Okay. Well, I think in the future meetings, we, we will have an update as to what the costs are and then decide if you wanna give them a break or not. Page 90, uh, parking reduction permit. With SB-2097, uh, are we still charging that $6300 for pa- parking reduction permit when SB's 90..."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4682.39,
+   "end": 4684.11,
+   "text": "Was it 97? Yeah, SB, uh, 2097."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4684.23,
+   "end": 4684.97,
+   "text": "2097."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4685.11,
+   "end": 4699.11,
+   "text": "Yeah. It's in place, and it tells you that any project that is, I don't know, within half a mile of major transit stop, uh, you don't even have to provide parking. I know you have to file for park- parking reduction, but do we charge that fee?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4699.71,
+   "end": 4707.65,
+   "text": "So we don't charge that fee, um, for 2079 reduction since that just adjusts the, um, the parking-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4707.71,
+   "end": 4707.73,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4707.73,
+   "end": 4714.21,
+   "text": "... requirement itself. This is when you have a parking requirement and you're asking to reduce that. Uh-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4714.27,
+   "end": 4714.39,
+   "text": "Right"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4714.39,
+   "end": 4717.67,
+   "text": "... there is a, a separate fee for 2079, and let me look at that."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4718.53,
+   "end": 4719.35,
+   "text": "There's a separate fee?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4719.59,
+   "end": 4720.15,
+   "text": "I believe so."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4720.23,
+   "end": 4720.33,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4720.35,
+   "end": 4722.69,
+   "text": "Yes, but let me just look at that and I'll get right back to you."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4733.41,
+   "end": 4738.33,
+   "text": "Also, maybe, uh, w- what is the difference between the, the..."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4741.69,
+   "end": 4742.67,
+   "text": "What is it called?"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4745.84,
+   "end": 4752.74,
+   "text": "Between a cart permit and a sidewalk vendor license permit, what's the difference between these two?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4754.04,
+   "end": 4754.36,
+   "text": "A cart-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4754.36,
+   "end": 4757.44,
+   "text": "Cart license. Ca- ca- cart license."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4758.34,
+   "end": 4766.8,
+   "text": "Cart is movable. Uh, think like, uh, someone who's pushing a cart versus, um, a sidewalk vending is, uh, a stationary activity."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4771.08,
+   "end": 4778.3,
+   "text": "Okay. So the sidewalk... Because, yeah, the, it's stationary for time, uh, for the time that they're there."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4778.84,
+   "end": 4779.04,
+   "text": "Right."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4779.28,
+   "end": 4800.52,
+   "text": "Okay. Okay. Um, citations, I don't have a question. Sports complex, I don't have a question. By the way, fire department has the most fees, Chief. Like 100 and, 180 fees. Uh, and you mentioned that, uh, ADU re- review is how much?"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4801.44,
+   "end": 4804.06,
+   "text": "$4,000? $4,300?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4805.58,
+   "end": 4806.12,
+   "text": "Um..."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4806.24,
+   "end": 4809.94,
+   "text": "Review fee for ADU. It's page 157."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4810.42,
+   "end": 4811.84,
+   "text": "Yeah, 475 I think."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4811.9,
+   "end": 4812.04,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 4812.08,
+   "end": 4813.86,
+   "text": "Yeah, I saw 475."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4814.18,
+   "end": 4815.18,
+   "text": "475?"
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 4815.22,
+   "end": 4816.66,
+   "text": "That's what I thought I saw."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4817.56,
+   "end": 4821.4,
+   "text": "Oh, this is over 750 square feet is $4,700?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4822.1,
+   "end": 4825.58,
+   "text": "Mm. Mitigation re- residential ADU."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4826.08,
+   "end": 4833.24,
+   "text": "So this is actually, um, not the fee for the permit itself. This is, um, an impact fee."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4833.36,
+   "end": 4834.26,
+   "text": "Development impact, yeah."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4834.34,
+   "end": 4846.44,
+   "text": "So this is specifically the development impact fee for parks. So, um, for, um, ADUs that are... This is less than 750, and I believe it's-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4846.48,
+   "end": 4846.64,
+   "text": "Mm-hmm"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4846.64,
+   "end": 4848.26,
+   "text": "... more than 750."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4848.46,
+   "end": 4849.1,
+   "text": "Oh, is that a typo?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4849.26,
+   "end": 4850.12,
+   "text": "So there is a typo."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4850.2,
+   "end": 4850.56,
+   "text": "We have a typo."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4850.62,
+   "end": 4852.46,
+   "text": "So larger ADUs were allowed to charge-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4852.46,
+   "end": 4852.98,
+   "text": "Okay. That's what I was going to-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4852.98,
+   "end": 4854.06,
+   "text": "... a development impact fee."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4854.46,
+   "end": 4854.5,
+   "text": "So-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4854.58,
+   "end": 4857.46,
+   "text": "Smaller ADUs are exempt for most of the fees."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4858.18,
+   "end": 4859.56,
+   "text": "Okay, so smaller ADUs-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4859.56,
+   "end": 4859.68,
+   "text": "For new construction"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4859.72,
+   "end": 4862.02,
+   "text": "... they don't, that 4,700 doesn't apply."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4862.14,
+   "end": 4862.9,
+   "text": "That's correct, yes."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4862.94,
+   "end": 4867.36,
+   "text": "Okay. And, uh, for single family, that $21,828 apply?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4868.2,
+   "end": 4868.28,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4868.32,
+   "end": 4870.28,
+   "text": "As a, as a impact fee?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4870.94,
+   "end": 4872.58,
+   "text": "For this specific impact fee, yes."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4873.72,
+   "end": 4879.12,
+   "text": "Are there any other impact fees for residential, like single family development? This is single family, right?"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4879.92,
+   "end": 4900.08,
+   "text": "Yes. So there is, um, there's two different fees, um, that you could have the option to pay depending on, um, the, um, the type of single family, and there's some details in there. There's the Quimby fee or that mitigation fee, so it's either 21,828 or 19,795."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4900.64,
+   "end": 4908.44,
+   "text": "In addition to this, we also have, and all of these fees, um, they're on different pages too, right?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4908.5,
+   "end": 4908.5,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4908.58,
+   "end": 4909.74,
+   "text": "I can pull together all our different-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4909.74,
+   "end": 4910.48,
+   "text": "These are under parks."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4910.82,
+   "end": 4911.98,
+   "text": "Yeah. There are a few different fees though."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 4912.0,
+   "end": 4915.58,
+   "text": "We do have library impact fees, and we have CDD development impact fees."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4916.16,
+   "end": 4926.84,
+   "text": "So if you wanna build a single family house, there's, there may be another 40, $50,000 impact fees, not including before even you pay for your permits and everything else."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4927.02,
+   "end": 4931.86,
+   "text": "For net new units too. So this is for a brand new house where there was none before."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4931.96,
+   "end": 4931.96,
+   "text": "Oh."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4932.0,
+   "end": 4937.46,
+   "text": "So if someone is taking their existing house and remodeling it or adding to it or knocking it down and building-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4937.5,
+   "end": 4937.5,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 4937.5,
+   "end": 4939.44,
+   "text": "... a new one, they're not paying these fees."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4939.92,
+   "end": 4940.26,
+   "text": "Got it."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4942.48,
+   "end": 4958.76,
+   "text": "Um, what are the fees for civic auditorium? I think it's page 141. Uh, because I remember that school district, they had their event there, the poster contest they had, and they said for a couple of hours it was, like, $2,500 to rent that place."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 4963.2,
+   "end": 4982.7,
+   "text": "Our agreements with the school district generally fall underneath the joint use agreements. Uh, in that joint use agreement, we pay for their staff time. They pay for our staff time. So I can't imagine that it was only for a couple of hours, and it cost that much. Um, if it's just a, a traditional, a public agency like the school district using our space, maybe our parks director knows more."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 4983.16,
+   "end": 4996.82,
+   "text": "Um, good afternoon, uh, Mayor Kassakhian, members of the council. Uh, Mr. Takhtalian is correct. Basically, uh, we would charge you was the out-of-pocket cost. So our out-of-pocket cost for that event, setting up, working the event, and tearing down and clean up was probably 2,500 at that time."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 4997.12,
+   "end": 4999.3,
+   "text": "Okay, so it's $2,500. The number was right."
+  },
+  {
+   "speaker": "speaker_16",
+   "start": 4999.36,
+   "end": 4999.54,
+   "text": "Yes."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5000.06,
+   "end": 5000.56,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 5000.62,
+   "end": 5005.66,
+   "text": "It, that's not a flat fee. It's just what that particular event costs in terms of staff time to set up and break down."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5005.7,
+   "end": 5005.7,
+   "text": "Staff time."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 5005.72,
+   "end": 5010.12,
+   "text": "It could be less or more depending on how much effort was required based on their, their event needs."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5010.18,
+   "end": 5012.74,
+   "text": "Yeah. Understand. Thank you. Um-"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 5013.02,
+   "end": 5023.14,
+   "text": "And just if I could follow up on your last question about SB 2079- or 2097 for, um, parking, uh, in order to check that, uh, we do not charge a fee."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5023.78,
+   "end": 5024.54,
+   "text": "We do not charge a fee."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 5024.68,
+   "end": 5024.92,
+   "text": "That's correct."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5025.0,
+   "end": 5031.94,
+   "text": "So when they file an application for parking reduction, with that SB 2097, there are no f- Okay. Good."
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 5032.0,
+   "end": 5044.18,
+   "text": "Exactly. So that would really be for more, something like a, a variance or reduction because they're sharing parking off-site, which requires a lot of staff time. In this case, we do take a little bit of staff time. It's mostly checking a math though. Um-"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5044.64,
+   "end": 5044.78,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_15",
+   "start": 5044.78,
+   "end": 5046.02,
+   "text": "... so we don't charge a fee for that."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5046.44,
+   "end": 5051.18,
+   "text": "Okay. And what are our ambulance rates? That's, that's I think..."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5053.46,
+   "end": 5056.16,
+   "text": "Yeah, that's under fire. Um..."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5060.08,
+   "end": 5069.32,
+   "text": "Good afternoon, Mayor, members of city council. Council Member Gharpetian. Ambulance rate are set by the Los Angeles County EMS agency, and so that's basically, their standardized rate is what we charge."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5070.86,
+   "end": 5077.32,
+   "text": "No, I, uh, I understand. It, it... That's why there's no number here. So we don't... It changes every week?"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5077.64,
+   "end": 5082.22,
+   "text": "It's not every week. It's every year those rates get evaluated and changed, so it, it moves."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5082.64,
+   "end": 5085.52,
+   "text": "Okay. If you can provide that for, for future meetings-"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 5085.54,
+   "end": 5085.68,
+   "text": "Sure"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5085.68,
+   "end": 5089.56,
+   "text": "... I would appreciate that. And last, last question is, uh,"
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5091.64,
+   "end": 5110.26,
+   "text": "where is this water thing? Page 209 till 213, it says w- the water, water section, water section fees, but it says actual cost. There's no, no fees mentioned here, and I wanted to know what that means."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 5111.55,
+   "end": 5131.47,
+   "text": "Yeah, so that's a fee that's managed by Glendale Water and Power. And, um, um, usually it's depending on the project at, at the time, um, what we understand from Glendale Water and Power is that the actual cost may be slightly different, um, on the projects. And that is why when we publish the fees, it's, it's not in a fixed, um... it's not a fixed fee."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 5131.51,
+   "end": 5136.21,
+   "text": "It could vary, um, a little bit. That's why, that's why we publish it as such."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 5138.67,
+   "end": 5139.53,
+   "text": "Okay. It says-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 5139.61,
+   "end": 5146.77,
+   "text": "But usually when the customer engage on the service, they do get the amount of fee on the front end, so they're not... there's no surprises, um, when they're working."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 5146.81,
+   "end": 5153.27,
+   "text": "I understand. But here it says water meter one inch, one half inch, two inch, there should be a fee next to it. I, it-"
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 5154.29,
+   "end": 5154.33,
+   "text": "It-"
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 5154.39,
+   "end": 5154.51,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 5154.53,
+   "end": 5175.83,
+   "text": "... so the reason why it says... Okay, b- uh, to your point, I think I t- I understand your point, that you have an actual cost associated with, with the water. What one meter, uh, one inch is three quarter inch, five-eighths inch because those meters have a cost. That, it, that, that wouldn't take into account the staff, staff cost, uh, for that particular project to go and make that rep- uh, replacement or the installation."
+  },
+  {
+   "speaker": "speaker_14",
+   "start": 5176.19,
+   "end": 5196.77,
+   "text": "There's times where it's easily accessible, there's times where it's not accessible at all. Could be a brand-new connection requiring tapping into the main line, uh, and pulling a lateral all the way, installing a meter, and then having the homeowner connect to it. So each project is different. So the base fee for a meter is, uh, I'm not sure if there is a separate base fee for a meter in the fee schedule, but it would be the equipment and the labor."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 5197.33,
+   "end": 5198.85,
+   "text": "Okay. Thank you. That's all I understand."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5200.23,
+   "end": 5203.67,
+   "text": "All right. Um, let me recognize Council Member Brotman, and then-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5203.71,
+   "end": 5204.11,
+   "text": "No, I'm not."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5204.31,
+   "end": 5209.07,
+   "text": "Oh, sorry. All right. Council Member Bartosik, do you have any questions? Any questions or comments?"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5209.07,
+   "end": 5209.93,
+   "text": "Questions or comments."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5210.85,
+   "end": 5213.93,
+   "text": "Do you have questions? If not, you can make comments."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5214.27,
+   "end": 5230.95,
+   "text": "Um, well, I do have one... Yeah, sure. I have one specific question. It was about the parking subsidy, uh, for the garages. Um, it, they're categorized as market rate operational need, um,"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5233.15,
+   "end": 5240.33,
+   "text": "which I found a little curious. Um, our garages have a cost to maintain and operate."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5240.87,
+   "end": 5240.87,
+   "text": "Right."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5240.91,
+   "end": 5241.01,
+   "text": "So"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5243.05,
+   "end": 5254.71,
+   "text": "how is providing these, uh, subsidies not a... Yeah, why is it not categorized as a subsidy, and why is it categorized as a market rate or operational need?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 5255.21,
+   "end": 5282.95,
+   "text": "Yeah. I, I believe... I, I'll have Linda, uh, chime in, um, in a minute, but I believe our parking rates are set by, not necessarily by looking at the cost. And, uh, I wanna confirm if the, the rate actually is, uh, above the cost, um, in a way, um, the cost of maintaining the parking garages, um, in a way that is comparable to the market. And the reason why, um, I- I'm hesitant in term of to define the market is that we're not as high as the private parking lots or parking garages."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 5283.35,
+   "end": 5297.23,
+   "text": "Um, at the same time, we're, we're still trying to promote public usage of public parking garages. So it's, it's set at above the cost, um, of maintaining the parking garages, but not as high as, say, a private parking lot out there, if that makes sense."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5298.31,
+   "end": 5330.15,
+   "text": "Um, I hear what you're saying, but I, uh, I, I can't possibly imagine that the cost, um, or, or the fees that we've set for our garages cover the maintenance and operation of those garages. Um, and it, it just got me curious because I noticed a, uh, validation of a doll- paying a dollar for up to four hours if you're seeing a mo- if you've gone to a theater, uh, whereas otherwise it's 90 minutes free."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5330.95,
+   "end": 5358.67,
+   "text": "Um, and I don't know if those structures have cha- those rate structures have changed since we, uh, increased parking rates on, at the s- uh, streets. So I'm, I'm just curious the justification for the, that, that validation rate. Um, and, and essentially why are we providing a discount for somebody that's seeing a movie versus somebody that's going to a restaurant, for example."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5359.85,
+   "end": 5367.37,
+   "text": "Um, so I, I'm just curious about that, and I, I'm wondering, um, if that needs to be adjusted to cover more of our costs."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 5367.73,
+   "end": 5369.95,
+   "text": "Okay. We'll have Public Works, uh, address that."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5370.37,
+   "end": 5370.37,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_18",
+   "start": 5370.45,
+   "end": 5378.41,
+   "text": "Uh, so Council Member Bar- Bartosik. Good evening, Council. So this is obviously something that, uh, I'll have to, uh, discuss with staff, so we'll bring that back to you as part of our follow-up items."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5378.93,
+   "end": 5386.65,
+   "text": "Great. That'd be great. Um, okay. That's the only, uh... Oh, um, yeah. I'll, I'll save... I have comments, so-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5387.53,
+   "end": 5387.69,
+   "text": "Okay"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5387.71,
+   "end": 5388.73,
+   "text": "... do I do that now or later?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5388.75,
+   "end": 5391.91,
+   "text": "Do you want... I think might as well roll into it, and then we can go down the line, unless..."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5393.07,
+   "end": 5421.91,
+   "text": "Yeah. Um, so I, I, I have, like, several detailed questions about very specific fees. I'm gonna save it. I'll... We can talk about it or I can send it to you in writing. Um, I think broadly speaking, um, and I, I mentioned a version of this during our council retreat that I am very interested in, um, leaning further into the, um, subsidies, um, specifically ones that generate economic activity within our city."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5422.63,
+   "end": 5453.57,
+   "text": "Um, I think large picture, we're looking at libraries, parks, and also the filming permits, which we didn't talk much about today, but I'm particularly interested in. Um, because a lot of these fees, um, or these events that take place in our city come with these secondary benefits of providing, you know, generating economic activity, whether it's, um, hiring a caterer or, um, doing business before or after a particular event."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5454.27,
+   "end": 5475.96,
+   "text": "Um, those are the kinds of things that I'm interested in seeing. And to the degree that staff is able to dive into those types of fees and, and how we can subsidize those, knowing full well that they come with these secondary economic benefits is of interest to me. Um, so I'll say that just as a, as a broad, uh- Policy direction, I guess."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5476.58,
+   "end": 5504.94,
+   "text": "Um, and then I am interested in having a discussion about the Mills Act, uh, review fee. Um, I'll be honest, I discovered the true cost of the review of that a couple months ago, and I was a little bit shocked. Um, but now that I've gone through some cycles of reviewing Mills Acts, um, we have, we have a few tonight, um, I now see the full, like, how much work it takes to go through these applications."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5505.6,
+   "end": 5528.86,
+   "text": "Um, and while I still want to support and subsidize and, and promote historic preservation in our city, I think the level at which we're subsidizing is perhaps something that we can't stomach at this point in time. Um, so I, I don't know if we need... I, I don't know at what point we have a policy discussion around that, but I think it's worth having a conversation."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5530.46,
+   "end": 5530.64,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5531.86,
+   "end": 5532.72,
+   "text": "That's it for me. Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5532.82,
+   "end": 5533.8,
+   "text": "Council Member Asatryan."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5534.66,
+   "end": 5560.86,
+   "text": "Okay. Um, on page four of your presentation or our consultant's presentation, I think the... So in the first bucket that says community benefit, um, I would actually take library, arts, and culture as well as, um, community services and facility rentals that are a community benefit under community benefit."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5561.22,
+   "end": 5582.76,
+   "text": "Um, facility rentals are very similar to, uh, Council Member Bartrosouf's comments, uh, when it comes to economic activity, when it comes to events in our city. Um, I think those, those are different than somebody renting it for a birthday party or a private event that they're hosting that is ticketed."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5583.92,
+   "end": 5607.1,
+   "text": "Um, so I think that looking at that methodology as a starting point, um, would be my direction. Um, and then, you know, we set community events, uh, and facilities as one of our priority areas, um, during the retreat that we have, and I think our fees, um, should reflect that."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5607.86,
+   "end": 5632.36,
+   "text": "Um, that also goes along with economic development, um, and any... You know, I, I speak to this a lot, um, about arts, culture, and entertainment also being sources of indirect revenue for the city, um, because when someone comes for a concert, they end up eating at our restaurants, um, so kind of looking at it from that lens."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5633.04,
+   "end": 5667.08,
+   "text": "I know that the City of Burbank just launched a filming, um, a whole film program, a filming program and, uh, reducing rates. Um, I would like to see how we compare, um, but also kind of thinking through with whether it's our Historic Preservation Commission, some of our nonprofits, on how we highlight, uh, opportunities for filming, uh, and locations in our city beyond, um, what perhaps has been used, uh, in the past."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5667.16,
+   "end": 5710.7,
+   "text": "I always think about some of our historic sites, um, and, and parks, uh, that I feel like are great opportunities but they're not utilized to their full potential. Um, and then again, a bucket for the CDD public works and GWP and fire as it pertains to smaller projects, um, and making sure that, um, as we had increased fees, um, that we weren't significantly increasing the overall cost for, uh, people that are trying to renovate their homes or, um, how we merge some of those permits together and streamline those."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 5711.4,
+   "end": 5737.8,
+   "text": "Um, I wasn't aware about the Mills Act, uh, either. Um, for me, that's like um, I would prefer to see if we, uh, can see if there's some like state funds that are available that people can apply for, but I'm, I'm not one to want to subsidize to the amount that it's being subsidized now, so."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5741.66,
+   "end": 5741.84,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 5742.12,
+   "end": 5742.32,
+   "text": "All right."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5743.84,
+   "end": 5745.84,
+   "text": "Uh, let me move on to Council Member Brotman."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 5746.64,
+   "end": 5770.22,
+   "text": "Yeah, I don't have a lot. I just, um, I c- I do concur with comments on Mills Act, especially considering the fact that, um, at least in successful cases, there's a financial benefit, um, back to the homeowner. Of course, the homeowner's also committing to put in work to maintain that property, so it's not just a straight up financial benefit entirely, but nonetheless, I concur."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 5770.68,
+   "end": 5801.86,
+   "text": "And I also, you know, I agree with the point that, um, if there's, if, you know, if we can demonstrate that there are economic knock-on effects, um, from certain activities, um, it does make sense to encourage those. So I agree with that. Um, on, you know, um, electrification and clean energy, I mean, the state is kind of, uh, dictating some of those, um, fees and, and, and, you know, reducing them I think in most cases."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 5801.94,
+   "end": 5829.1,
+   "text": "But, um, sometimes we have a little bit of a conflict like we are through our public benefit charge program. We may be encouraging, you know, giving rebates, let's say, to an EV charger or to something else, and then we're charging full freight on the fees. So I don't know if, um, if that's an area where there could be some subsidy on the fees, but probably charged to the PBC budget as opposed to the general fund."
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 5829.2,
+   "end": 5856.31,
+   "text": "So we would have to look at what spare capacity there is in the PBC budget. I think there's some Uh, I think we're discussing that tonight. So maybe that's a place where we can make sure we're not, you know, on the one hand giving a subsidy, on the other hand, taking it away by, um, you know, charging full freight on the fees. And then that's, that's it. I mean, in general, like, we all wanna be generous and, and reduce fees, but we have to recognize, like you've said, there are trade-offs, right?"
+  },
+  {
+   "speaker": "speaker_12",
+   "start": 5856.43,
+   "end": 5874.89,
+   "text": "We have costs. We need to cover our costs. We have a budget shortfall. So I don't wanna... I, I wanna be judicious in the areas where we do provide subsidy and try as much as possible not to be hitting the general fund unless there's really a, a benefit we get back, like that economic development concept. So that's all I have to say."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5874.93,
+   "end": 5876.89,
+   "text": "All right. Council Member Gharpetian."
+  },
+  {
+   "speaker": "speaker_10",
+   "start": 5877.93,
+   "end": 5881.37,
+   "text": "Um, I'm, I'm done, Mr. Mayor. Thank you. I made all my comments."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5881.53,
+   "end": 5904.61,
+   "text": "All right. Uh, so for myself, uh, in terms of a lot of questions that I had were already asked, um, there were a few that I, um, I wanted to give my colleagues as much of an opportunity to ask their questions. So in the interest of time, I'll-- I won't ask my questions, but I'll, uh, direct them to the city manager for a response, and he can share them with the rest of the council if he feels, uh, it's necessary."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5905.11,
+   "end": 5937.63,
+   "text": "Um, but I generally would like to explore, um, in terms of where we place our incentives, um, where we subsidize the cost to look at, um, a couple of areas. One is, uh, use of city facilities that help create s- third spaces or third places, um, which is a term used for that community-building, um, uh, experience, which has been spoken about in different ways by my colleagues about how, what we're trying to do, whether it's with concerts, libraries."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5938.17,
+   "end": 5974.69,
+   "text": "Um, I feel that at times, uh, a lot of the nonprofits feel, uh, um, that they're priced out of using city facilities. So I would like us to see whe- whether there is a, um... And I don't know, this may already exist, and if it is the case, please correct me. Whether if a f- city facility is being used at an hour when there's already staff allocated and present versus if they're asking for use of a city facility when it's after hours, um, if it's, for instance, on a weekend or if it's gonna go later than when staff is supposed to be at a park facility or wherever else."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 5975.33,
+   "end": 6006.33,
+   "text": "Um, and if staff is already there, and they're on site, and the facility is being used, we're asking for recouping of costs, for what reason is my big question mark, right? Because technically, in the eyes of the public, the- there's a reason why they pay taxes, and they have city employees, uh, in various spaces. So if you're doing, let's say, a book signing or an author, uh, meet and greet at a library facility during library hours on, let's say, a Saturday, uh, why is there an additional fee being charged for that?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6006.37,
+   "end": 6035.57,
+   "text": "Now, I know that there's rationalization of, you know, if you're having cookies or coffee, there's a fee for using the kitchen. Believe me, I've had all sorts of conversations with all sorts of groups. Some of it makes sense to me when staff gives me a response. Other parts of it do not. What I'm most interested in, how do we encourage people to use the facilities, especially if it's a Glendale-based organizati-tion, organization, if it's serving a purpose here and bringing community together, and, um, how can we, um, encourage that?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6035.69,
+   "end": 6059.43,
+   "text": "Because it may be an, uh, a cost to us on the up front, but the benefit to the city organization a- as our community as a whole is far greater than whatever the staff, uh, costs are in recouping that. Filmings as well. Um, I was going to raise the issue, so I'm glad my colleagues, uh, brought it up, uh, uh, before I did, which is, uh, City of Los Angeles."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6060.03,
+   "end": 6086.07,
+   "text": "Um, nationally, the whole conversation is about how we can keep film production and the entertainment industry here. It is a force multiplier. As was mentioned, it's not just the filming. It's, uh, people that work in the industry and all the other, uh, industries that they support, uh, as residents, as visitors to our city. Um, but it's also the fact that, uh, it is one of the few manufacturing-- Well, there's a reason why we call it film production."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6086.09,
+   "end": 6112.45,
+   "text": "They're producing something. They're making something, something that's also being exported. And I've had a number of conversations, had some with Assembly Member Schultz this morning. Uh, Congresswoman, uh, Laura Friedman had a press conference at the Alex Theatre where they are pushing for, and believe it or not, in this climate, it is a bipartisan bill for a national film, uh, tax credit because no longer is California just competing with states like Georgia, um, or New York."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6112.77,
+   "end": 6142.75,
+   "text": "Now we're competing with, uh, countries overseas that are, uh, drawing productions away, such as Australia, of course, Canada for a long time, but even, uh, places further than, from home than that. So if there is something we can do to-- I'm not looking to beat other jurisdictions, uh, and say we're, uh, much, uh, less expensive to film than others, but at the very least be somewhat comparative and competitive, um, I think that's worthwhile, uh, worth looking into."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6143.31,
+   "end": 6163.23,
+   "text": "Um, and then in terms of if these are things that perhaps make staffs, uh, staff uncomfortable and, um, squirm in the seat and, and because they see us not necessarily, uh, talking about how we can increase revenues, then perhaps we put a, a, a timeline on these to see how it does work for a period of time."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6163.25,
+   "end": 6185.03,
+   "text": "And then if we can measure and see if there's been a benefit, um, we can continue it, or if not, then, uh, we go back to the status quo or whatever it is that we need to, quote-unquote, recoup our staff time. But it's worth trying because we have to do something, and I think that just telling folks that, you know, it's the whole thing of, uh, when you go to a restaurant-- I know, this is gonna be another corny example."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6185.13,
+   "end": 6211.63,
+   "text": "But you go to a restaurant, you ask for an extra packet of sauce, and when the restaurant tells you it's gonna be another dollar for a packet of sauce, it makes you question, you know, where their customer service is and whether they want, really want your business if they're gonna nickel and dime you on everything And so, you know, as we're talking about raising some serious costs on the public for services that we don't have much wiggle room on, on those areas where we do have wiggle room, um, we should be able to, uh, do so."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6212.21,
+   "end": 6238.95,
+   "text": "Uh, again, I've advocated for a, a subsidized bus pass for any Glendale residents. You know, call it Be Local or whatever else that people can pay into every month and ride the bus as many times as they want. You know, just have it be a membership fee. Um, anything we can do to be creative and make doing business in Glendale feel special, feel welcoming, um, have those organizations and individuals who live here feel like there's something special about being a part of Glendale."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6239.51,
+   "end": 6267.15,
+   "text": "And, you know, I know that maybe it doesn't seem like it's the most intuitive way of... You know, it's like you give a service, you have to take money, but sometimes giving away something helps you bring in more people. It's like the, uh, loss leader Costco chicken or hot dogs, I suppose. Um, and that, in the end, will actually drive more business, as Council Member Asatryan has mentioned about economic development being a key part of, you know, whether it's the arts, um, concerts, programming at the Alex."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6267.71,
+   "end": 6288.55,
+   "text": "Um, and there's certainly a, a, a sweet spot. You know, there may be opportunities to, um... You may get to a point where perhaps you're giving away too much, but I don't know if we're quite at that point yet. Um, economically, I think there's a lot of activity. We can certainly see more activity in our downtown, and whatever we can do to encourage that, uh, is, is important."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6289.77,
+   "end": 6292.41,
+   "text": "Um, specifics, what? I'm sorry."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6292.47,
+   "end": 6292.89,
+   "text": "Oh, sorry."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6293.51,
+   "end": 6318.79,
+   "text": "Uh, specifically on these, again, on the, um, other fees, I can share my thoughts, uh, in- by email, but I think a lot of good points were raised. Again, we just wanna make sure that we're delivering quality service. Even if we are charging fees, if people feel that we're responsive, and we're getting back to them in a timely manner, and we're explaining to them why things will take a certain period of time, I think people are overall understanding."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6318.89,
+   "end": 6338.27,
+   "text": "That's at least been my experience. Um, and I appreciate this conversation because I think that has helped bring a lot of things to light, but certainly we can do more in regards to this. There was a lot of fees here. I would also like to know how many of all these fees, which are the ones that are least ever, you know..."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6341.33,
+   "end": 6342.17,
+   "text": "Uh, w- are there any that we could-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6342.21,
+   "end": 6342.59,
+   "text": "Heard. Heard."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6342.61,
+   "end": 6356.53,
+   "text": "Yeah. Can we get rid of anything? Is there one that's just been on the books for a long time that we're saying, \"Ah, this is the time to kinda just strike this,\" or do we just keep it in our back pocket for that one instance when someone really does want to get a permit for keeping a pet ferret?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6357.81,
+   "end": 6370.33,
+   "text": "Yeah. I, I would say we have some of those. I, I don't have a particular example right off the top of my head, but we do have certain fees where, um, we probably have one case every five or six years or something like that."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6370.37,
+   "end": 6371.07,
+   "text": "Okay. All right."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6371.77,
+   "end": 6375.01,
+   "text": "Um, but, you know, for that one case, we still need to have something kinda in place."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6375.01,
+   "end": 6375.83,
+   "text": "Sure. Fair enough. Fair enough."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6375.83,
+   "end": 6375.91,
+   "text": "Um-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6375.95,
+   "end": 6376.35,
+   "text": "But to your-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6376.57,
+   "end": 6377.17,
+   "text": "Review. Yeah."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6377.49,
+   "end": 6387.79,
+   "text": "To your point, Mayor, as we go through individual department's set of fees, then if there's some redundant or outdated or unnecessary, then we'll definitely eliminate it, like we did today."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6388.25,
+   "end": 6396.45,
+   "text": "All right. Is there anything staff w- uh, would like sp- a more clear direction on from council more than any of the comments that we've shared already?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6397.59,
+   "end": 6401.83,
+   "text": "Um, Mayor, if you don't mind, if I can just quickly go over the summary of what we heard, um, from policy director."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6401.83,
+   "end": 6402.85,
+   "text": "Before you do that, let me ask-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6402.89,
+   "end": 6403.33,
+   "text": "Can I just add one, um-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6403.35,
+   "end": 6405.33,
+   "text": "... Council Member Asatryan to add what she wants to add."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6405.83,
+   "end": 6405.97,
+   "text": "Um-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6406.61,
+   "end": 6406.67,
+   "text": "Go ahead."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6406.71,
+   "end": 6411.39,
+   "text": "I keep thinking about the mural ordinance that came and the fees that were associated with it. Um-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6411.89,
+   "end": 6412.09,
+   "text": "Mm-hmm."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6412.63,
+   "end": 6436.07,
+   "text": "You know, I said it then, and I'll say it now, it's either a process issue or it's a lot of padding. Um, so as you're going through these, also figuring out, um, you know, if it's a process that needs to be cleaned up. Um, and with the fees, uh, I would also say that there's a lot of, like, written policies that we should be looking at."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6436.57,
+   "end": 6466.09,
+   "text": "Um, some of them can be cleaned up by staff. Others, like, need to be coming to the council, and I'll just give you a very simple example of a couple of years ago when they were holding the Fall Festival, um, and one of the nonprofits, uh, that's when I learned that we can't have any mechanical things in our... Technically, we, we couldn't have any fairs because the train wasn't being allowed, and we learned that, that there was a policy in place in parks that didn't allow that for that time being."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6466.45,
+   "end": 6493.41,
+   "text": "That's something that could've been cleaned up by staff, um, but I'm sure there's many other things that require, um, council direction. And so as you're going through this process, really looking at, you know, is it a process or is it how we're, um... I think I've had issues with how we're providing information and, you know, the hours that we're providing, um, to the consultant that then determines the fees ultimately."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6493.91,
+   "end": 6500.99,
+   "text": "Because it can't be so different than neighboring cities, and I hear that all the time, especially with our CDBG fees. Okay?"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6501.41,
+   "end": 6501.57,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6501.63,
+   "end": 6501.85,
+   "text": "Thank you."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6502.15,
+   "end": 6503.37,
+   "text": "All right. Yes, now."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6503.89,
+   "end": 6504.11,
+   "text": "All right."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6504.13,
+   "end": 6504.17,
+   "text": "All right."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6504.25,
+   "end": 6530.09,
+   "text": "So, um, we heard a number of, uh, policy directions from, uh, uh, various council members. I just wanted to quickly go over them in summary format, um, just to make sure that we, we heard them correctly and we can follow through with, uh, uh, follow-up plans. Uh, first, we heard from, uh, Council Member Gharpetian on a number of, uh, develop- development-related fees, and, uh, the request was for us to look into ways to promote certain activities like condo development, for example."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6530.43,
+   "end": 6533.39,
+   "text": "Is that something that, uh, the whole council feels supportive of?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6533.71,
+   "end": 6534.01,
+   "text": "I b-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6534.31,
+   "end": 6538.89,
+   "text": "Do you need us to do thumbs up? I, I would be in support of that."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6538.93,
+   "end": 6538.99,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6539.01,
+   "end": 6541.73,
+   "text": "Can I, can I, can I recommend something on, on this?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6542.01,
+   "end": 6542.27,
+   "text": "Sure."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6542.49,
+   "end": 6545.65,
+   "text": "I don't, I didn't hear anything from my colleagues that I disagreed with."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6546.17,
+   "end": 6546.77,
+   "text": "Okay. That's-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6546.85,
+   "end": 6550.55,
+   "text": "Uh, uh, uh, just as an example. Like, none of my colleagues said anything that..."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6551.73,
+   "end": 6552.33,
+   "text": "That works for me, too."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6552.33,
+   "end": 6552.39,
+   "text": "I guess."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6552.43,
+   "end": 6553.49,
+   "text": "You can give me thumbs down. Um"
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 6553.51,
+   "end": 6556.95,
+   "text": "Would it be, would it be easier for him to su- summarize what he heard, and then if there's any objection from any of you-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6556.97,
+   "end": 6558.63,
+   "text": "Yes. And maybe there's something that gets left off, so."
+  },
+  {
+   "speaker": "speaker_17",
+   "start": 6558.73,
+   "end": 6558.95,
+   "text": "Yeah, yeah."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6559.01,
+   "end": 6561.71,
+   "text": "I think it's worthwhile to do summary since we do have a little bit of time."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6562.01,
+   "end": 6585.89,
+   "text": "Absolutely. And then, uh, I'm hearing that, uh, um, that the council is interested in looking into a subsidy program related with library, parks, and filming activities with the g- Objective that it promotes economic activities within the city. As well as the mayor, mayor mentioned, not only for economic activities, but also creating that third space where it builds community culture, um, toward a positive place, I imagine."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6586.39,
+   "end": 6596.09,
+   "text": "Um, so with those objectives, we can look at a subsidy program and have staff bring back a program or a policy for the council to consider. The... I'm not... Okay."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6596.19,
+   "end": 6596.25,
+   "text": "I think-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6596.31,
+   "end": 6597.17,
+   "text": "No objections there."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6597.37,
+   "end": 6597.79,
+   "text": "Yes. Thumbs up."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6598.25,
+   "end": 6598.43,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6598.71,
+   "end": 6617.73,
+   "text": "Um, on that. And then I am also specifically on filming, I'm hearing, I heard from the mayor about, uh, you know, we need to look for ways to promote filming activities, keeping the industry in the area, and also potentially consider a timed pilot program to basically measure the pro- progress, um, of a, a potential subsidy."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6617.75,
+   "end": 6619.87,
+   "text": "That was also, I think, mentioned by our council member-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6619.91,
+   "end": 6620.99,
+   "text": "Right. Multiple council members"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6621.01,
+   "end": 6621.01,
+   "text": "..."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6621.07,
+   "end": 6621.25,
+   "text": "Right."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6621.27,
+   "end": 6621.73,
+   "text": "Gharpetian and others."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6621.77,
+   "end": 6636.45,
+   "text": "Yes. Yeah. That one looks everyone feels comfortable with that. Uh, from Council Member Brotman, I'm hearing the electrification and clean energy. Look for additional ways for the public benefit fund potentially to, um, kind of increase the effort of the incentive, incentive."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6636.89,
+   "end": 6640.69,
+   "text": "Well, it, specifically with regard to the fees, the permit fees that are-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6641.57,
+   "end": 6641.65,
+   "text": "Yeah"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6641.79,
+   "end": 6648.93,
+   "text": "... that come with some of these, um, offerings that, um, we provide through the public benefit charge programs."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6649.25,
+   "end": 6650.77,
+   "text": "Actually, I, if I remember correctly-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6650.83,
+   "end": 6650.83,
+   "text": "Mm-hmm"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6650.83,
+   "end": 6658.51,
+   "text": "... the one that we would like, uh, people can sign up to change their front lawn, the permit is more expensive than the-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6659.09,
+   "end": 6659.31,
+   "text": "Than the rebate?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6659.31,
+   "end": 6660.71,
+   "text": "... uh, than the, than the rebate."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6661.17,
+   "end": 6662.19,
+   "text": "Mm-hmm. Okay."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6662.51,
+   "end": 6663.09,
+   "text": "Good example."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6663.45,
+   "end": 6664.77,
+   "text": "That's something worth looking into."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6665.17,
+   "end": 6689.43,
+   "text": "Okay. So we can definitely look into that, and that's one thing that we've heard, and looks like there's no objections on the council. Um, the one thing that's, uh, that honestly could revise the fee policy, uh, the fee schedule quite quickly is the Mills Act. Um, currently it's at a subsidized reed- rate. I'm hearing from multiple council members that you're interested in looking at potentially charging full cost for this, uh, applications."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6690.27,
+   "end": 6690.77,
+   "text": "Or closer-"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6690.85,
+   "end": 6691.11,
+   "text": "I, I'm, I'm-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6691.11,
+   "end": 6691.69,
+   "text": "... closer to full"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6691.73,
+   "end": 6704.61,
+   "text": "... I'm happy to revisit it. I don't know about full cost because I believe that part of the purpose of this was to help preserve unique homes and structures that have some sort of character and value historically or otherwise."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6705.01,
+   "end": 6705.07,
+   "text": "Mm-hmm."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6705.09,
+   "end": 6716.65,
+   "text": "But if, you know, I know that we, uh, had a much lower, uh, fee to help encourage that. It may be time during these economic times to revisit it. So I'd be open to revisiting it."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6717.09,
+   "end": 6717.09,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6717.13,
+   "end": 6727.01,
+   "text": "Yeah. For the record, I didn't say full cost, but, um, so somewhere between what we currently have with our fee and, and about."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6727.31,
+   "end": 6728.99,
+   "text": "Okay. A less aggressive subsidy-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6729.23,
+   "end": 6729.47,
+   "text": "Correct"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6729.51,
+   "end": 6731.67,
+   "text": "... for, for that particular fee. Okay. We can have staff look into that."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6731.69,
+   "end": 6732.23,
+   "text": "For consideration."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6732.25,
+   "end": 6735.97,
+   "text": "Not a prohibitive fee. So somewhere in between."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6736.41,
+   "end": 6758.73,
+   "text": "Yeah. Uh, yes, we can definitely follow up with a, with a, a separate report for that. Um, I believe that's... Oh, the last point that Council Member Asatryan mentioned is that as we are going through future fee studies, um, we would like to focus, um, the council's direction is for us to focus also on process improvements just to, to ensure that we actually go through a pretty efficient process in term of providing services and charging fees."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6758.93,
+   "end": 6768.05,
+   "text": "The one bucket you are missing is the looking at CDD fees in general, um, for smaller projects-"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6768.05,
+   "end": 6768.21,
+   "text": "Projects"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6768.25,
+   "end": 6781.17,
+   "text": "... and single family homes and so forth. Not, I'm not looking to subsidize big developers, but, um, how all of these fees come, come together and how costly that ends up being for people to make changes."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6781.61,
+   "end": 6783.83,
+   "text": "Thank you. Got it. For that, uh, for that agenda item."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6783.83,
+   "end": 6791.39,
+   "text": "It's not just CDD, so public works, then the water and power 'cause I know that, like, each one has their... I always say CDD, and then everybody else is"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6791.41,
+   "end": 6792.71,
+   "text": "For smaller individual residents-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6792.81,
+   "end": 6792.89,
+   "text": "Yeah"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6792.91,
+   "end": 6794.01,
+   "text": "... basically to look into their-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6794.09,
+   "end": 6794.13,
+   "text": "Yeah"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6794.15,
+   "end": 6801.33,
+   "text": "... their house call projects. So the, is that, uh, supported? Is the rest of the council supportive of that? Okay. All right."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6801.37,
+   "end": 6803.45,
+   "text": "Yeah, I mean, subject to the financial impact."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6803.75,
+   "end": 6820.61,
+   "text": "Yes. Yes, yes. Um, and for all of this, we'll have staff actually look into it and potentially bring back a proposal, um, where we actually do strike a balance of, uh, promotion subsidy, but also at the same time it's not at the detriment of the city's financial conditions. So."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6820.65,
+   "end": 6821.87,
+   "text": "And I mentioned... Can I?"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6822.35,
+   "end": 6822.39,
+   "text": "Yeah."
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6822.49,
+   "end": 6836.01,
+   "text": "Uh, just one thing we did talk about also was this a- asynchronous, um, i- in- inspections and, and maybe other ways that we can streamline that inspection process and save, save costs there too."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6837.73,
+   "end": 6839.73,
+   "text": "I think that does fall under the process improvement-"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6839.81,
+   "end": 6840.67,
+   "text": "Process improvement. Yeah"
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6840.67,
+   "end": 6841.51,
+   "text": "... overall umbrella."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6841.65,
+   "end": 6841.65,
+   "text": "Right."
+  },
+  {
+   "speaker": "speaker_7",
+   "start": 6841.73,
+   "end": 6844.89,
+   "text": "Um, we'll look into that as we go through the studies."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 6844.95,
+   "end": 6845.33,
+   "text": "Mayor."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6845.65,
+   "end": 6846.83,
+   "text": "Yes, Council, uh, Mr. Galfayan."
+  },
+  {
+   "speaker": "speaker_6",
+   "start": 6846.89,
+   "end": 6864.83,
+   "text": "We got, we got a response to Council Member Bartrosouf's question regarding parking, uh, from public works. Currently, we have 90 minutes with no validation, but in 2019, city council approved a dollar for four hours with movie theater validation."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6866.13,
+   "end": 6866.23,
+   "text": "Okay."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6870.17,
+   "end": 6876.45,
+   "text": "Any other comments before we, uh, um, make a motion to adjourn? Because I don't think there's any other specific action-"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6876.79,
+   "end": 6877.03,
+   "text": "I'll motion"
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6877.05,
+   "end": 6891.03,
+   "text": "... associated with this. Mr. Takhtalian, was, were you trying to get our attention? All right. All right, sorry, staff. I know that, uh, you know, some of you are kinda worried about all the things we've thrown at you, but we have all the faith that you'll be able to do it."
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6892.67,
+   "end": 6894.79,
+   "text": "They're excited. I can see it. They're all smiling."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6894.85,
+   "end": 6898.47,
+   "text": "Oh, absolutely. That's, I'm sorry. Yeah. All right, is there a motion to adjourn?"
+  },
+  {
+   "speaker": "speaker_2",
+   "start": 6899.07,
+   "end": 6899.69,
+   "text": "I'll move to adjourn."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6900.19,
+   "end": 6900.49,
+   "text": "Second?"
+  },
+  {
+   "speaker": "speaker_11",
+   "start": 6900.75,
+   "end": 6901.07,
+   "text": "Second."
+  },
+  {
+   "speaker": "speaker_0",
+   "start": 6901.31,
+   "end": 6908.23,
+   "text": "All right, we are adjourned. All right, so, um, we have closed session. Closed session right now."
+  }
+ ],
+ "translations": {
+  "hy": {
+   "overview": "Հատուկ ուսումնասիրական նիստում Գլենդելի քաղաքային խորհուրդը ֆինանսական բաժնի աշխատակիցների և խորհրդատուի հետ քննարկեց քաղաքի 2,047 կետից բաղկացած վճարների ցանկը: Վճարների ցանկի վերաբերյալ պաշտոնական քվեարկություն չեղավ: Խորհրդի անդամները աշխատակիցներին ոչ պաշտոնական հանձնարարական տվեցին ուսումնասիրել միջոցառումների, գրադարանների, այգիների և նկարահանումների համար ավելի ցածր վճարների հնարավորությունը, Mills Act-ի պատմական վերանայումների համար ավելի փոքր սուբսիդիան, ինչպես նաև փոքր տնային նախագծերի ավելի ցածր ծախսերը, ապա նիստը փակվեց:",
+   "items": {
+    "item-1": {
+     "headline": "Խորհուրդը քննարկեց քաղաքի վճարների ցանկը և աշխատակիցներին հանձնարարեց ուսումնասիրել սուբսիդիաները, Mills Act-ի վճարը և փոքր նախագծերի ծախսերը",
+     "summary": "Ֆինանսական բաժնի աշխատակիցները և Matrix Consulting Group-ի խորհրդատուն բացատրեցին, թե ինչպես է Գլենդելը սահմանում իր 2,047 վճարները: Մոտ կեսը ամբողջությամբ ծածկում է ծախսերը, մոտ 11%-ը սուբսիդավորվում է, իսկ մոտ 31%-ը սահմանվում է նահանգային կամ տեղական կանոններով: Աշխատակիցները նաև նկարագրեցին Community Development բաժնի երկու սպասվող փոփոխություն. արևային վահանակների թույլտվության նոր աստիճանավորված վճարներ, որոնք պահանջվում են նահանգային օրենքով, և «major» ու «minor» դիզայնի վերանայման վճարների անվանափոխություն: Խորհրդի անդամները շատ հարցեր տվեցին վճարների մասին, ապա ընդհանուր համաձայնությամբ և առանց պաշտոնական քվեարկության աշխատակիցներին հանձնարարեցին ուսումնասիրել՝ գրադարանների, այգիների և նկարահանումների օգտագործման սուբսիդիայի ծրագիր, որը աջակցում է տեղական տնտեսությանը, ժամանակային սահմանափակմամբ նկարահանումների փորձնական ծրագիր, փոքր տնային նախագծերի և մաքուր էներգիայի բարելավումների թույլտվության վճարների թեթևացում, Mills Act-ի վերանայման վճարի համար ավելի ցածր սուբսիդիա, և գործընթացների բարելավումներ, օրինակ՝ հեռակա ստուգումներ:",
+     "whyItMatters": "Այս նիստում ոչ մի վճար չփոխվեց, բայց աշխատակիցները կներկայացնեն առաջարկներ, որոնք կարող են նվազեցնել համայնքային միջոցառումների, նկարահանումների և փոքր տնային նախագծերի ծախսերը և բարձրացնել Mills Act-ի պատմական վերանայման վճարը:",
+     "result": "Աշխատակիցներին խորհրդի համաձայնությամբ տրվեց ոչ պաշտոնական հանձնարարական. վճարների ցանկի վերաբերյալ պաշտոնական քվեարկություն չեղավ. նիստը փակվեց ձայնային առաջարկով"
+    }
+   }
+  },
+  "es": {
+   "overview": "En una sesión especial de estudio, el Concejo Municipal de Glendale revisó con el personal de finanzas y un consultor la lista de tarifas de la ciudad, que incluye 2,047 conceptos. No se tomó ninguna votación formal sobre la lista de tarifas. Los miembros del concejo dieron instrucciones informales al personal para estudiar tarifas más bajas para eventos, bibliotecas, parques y filmaciones, un subsidio menor para las revisiones históricas de la Ley Mills, y costos más bajos para proyectos pequeños en el hogar, y luego se levantó la sesión.",
+   "items": {
+    "item-1": {
+     "headline": "El concejo revisa la lista de tarifas de la ciudad y da instrucciones al personal para estudiar subsidios, la tarifa de la Ley Mills y los costos de proyectos pequeños",
+     "summary": "El personal de finanzas y un consultor de Matrix Consulting Group explicaron cómo Glendale establece sus 2,047 tarifas. Cerca de la mitad recupera el costo total, alrededor del 11% está subsidiado y alrededor del 31% se fija según reglas estatales o locales. El personal también describió dos cambios pendientes de Desarrollo Comunitario: nuevas tarifas escalonadas de permisos para paneles solares, exigidas por la ley estatal, y nuevos nombres para las tarifas de revisión de diseño \"mayor\" y \"menor\". Los miembros del concejo hicieron muchas preguntas sobre las tarifas y luego, por acuerdo general y sin votación formal, pidieron al personal que estudie: un programa de subsidios para el uso de bibliotecas, parques y filmaciones que apoye la economía local; un programa piloto de filmación con horarios; alivio en las tarifas de permisos para proyectos pequeños en el hogar y mejoras de energía limpia; un subsidio menor para la tarifa de revisión de la Ley Mills; y mejoras en los procesos, como inspecciones remotas.",
+     "whyItMatters": "En esta reunión no cambió ninguna tarifa, pero el personal presentará propuestas que podrían reducir los costos de eventos comunitarios, filmaciones y proyectos pequeños en el hogar, y aumentar la tarifa de revisión histórica de la Ley Mills.",
+     "result": "El personal recibió instrucciones informales por consenso del concejo; no hubo votación formal sobre la lista de tarifas; la reunión se levantó por moción de viva voz"
+    }
+   }
+  }
+ }
+}
