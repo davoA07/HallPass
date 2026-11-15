@@ -20,7 +20,7 @@
  "generatedAt": "2026-11-14T21:44:34+00:00",
  "aiGenerated": true,
  "reviewed": false,
- "overview": "The Glendale City Council held a long public hearing on a Glendale Water & Power plan to raise water rates over five years, starting with a 53% revenue increase on January 1, 2027 and about 120% in total by 2031. Dozens of residents spoke, most against the increase or asking for more time. The council made no decision on the rates. It voted 5–0 to keep the hearing open and bring the item back next week, so written protests can still be turned in until then.",
+ "overview": "The Glendale City Council held a long public hearing on a Glendale Water & Power plan to raise water rates over five years, starting with a 53% revenue increase on January 1, 2027 and about 120% in total by 2031. Dozens of residents spoke, most against the increase or asking for more time. The council made no decision on the rates. It voted 5–0 to keep the hearing open and bring the item back on Tuesday, November 17, 2026, so written protests can still be turned in until the hearing closes at that meeting.",
  "items": [
   {
    "id": "item-1",
@@ -28,12 +28,12 @@
    "title": "Glendale Water and Power, re: Public Hearing Regarding Proposed Water Rate Increases for Fiscal Years 2027–2031 and Resolution Establishing Water Rates and Charges; Motion Approving Glendale Water and Power Water System Cash Reserve Policy",
    "headline": "Council delays water rate decision one week after hours of mostly opposing testimony",
    "summary": "Glendale Water & Power (GWP) asked the council to approve five years of water rate increases: 53% more revenue in 2027, then 11%, 10%, 10% and 7%, which adds up to about 120% over five years. Staff said costs for imported water, electricity and equipment have risen much faster than rates since 2018. The money would pay for $100 million in pipe, tank, pump, fire-flow and water meter work, plus a $40 million bond that staff said depends on the January start date. Staff said a typical single-family home in the lowest zone would pay about $21–26 more per month, and homes in the highest zone about $71–86 more. Under Proposition 218, a state rule that lets property owners block a rate increase with written protests, the clerk reported 4,351 protests received, far short of the 22,738 needed. Most speakers opposed the increase or asked for a delay, while a few supported it. Council members raised a late letter from Forest Lawn about recycled water rates and an idea from Councilmember Gharpetian to rely on a flat meter charge instead. Staff said they needed time to study that idea and that it would require a new public notice.",
-   "whyItMatters": "Water rates have not changed yet, but if the plan is approved next week, most customers' water bills would rise sharply starting January 1, 2027, and residents can still submit written protests while the hearing stays open.",
+   "whyItMatters": "Water rates have not changed yet, but if the plan is approved at the November 17, 2026 meeting, most customers' water bills would rise sharply starting January 1, 2027, and residents can still submit written protests while the hearing stays open.",
    "start": 7160.5,
    "end": 23931.0,
    "outcome": {
     "kind": "vote",
-    "result": "Approved 5–0 to keep the hearing open and continue the item one week without further public notice",
+    "result": "Approved 5–0 to keep the hearing open and continue the item one week, to November 17, 2026, without further public notice",
     "yes": 5,
     "no": 0,
     "abstain": null,
