@@ -1,7 +1,8 @@
 "use client";
 
+import Image from "next/image";
 import { useSearchParams } from "next/navigation";
-import { Suspense, useEffect, useRef } from "react";
+import { Suspense, useEffect, useRef, useState } from "react";
 import type { VideoCard } from "@/lib/types";
 import { useAssistant } from "./AssistantProvider";
 import { Composer, Suggestions } from "./ChatPanel";
@@ -22,38 +23,76 @@ export function HomeView({ cards, initialMeetingId }: { cards: VideoCard[]; init
   const active = Boolean(initialMeetingId) || nowPlaying != null || messages.length > 0 || tab === "comment";
 
   return (
-    <div className="mx-auto max-w-7xl px-4 pb-16">
-      {initialMeetingId && (
-        <Suspense fallback={null}>
-          <PlayFromUrl meetingId={initialMeetingId} />
-        </Suspense>
-      )}
+    <>
+      {/* Full width, outside the page column, so the City Hall photo runs edge to edge. */}
+      {!active && <Hero />}
 
-      {active ? <Stage cards={cards} chapterText={chapterText} /> : <Hero />}
+      <div className="mx-auto max-w-7xl px-4 pb-16">
+        {initialMeetingId && (
+          <Suspense fallback={null}>
+            <PlayFromUrl meetingId={initialMeetingId} />
+          </Suspense>
+        )}
 
-      <VideoFeed
-        cards={cards}
-        chapterText={chapterText}
-        title={active ? tr("moreMeetings") : tr("meetings")}
-      />
-    </div>
+        {active && <Stage cards={cards} chapterText={chapterText} />}
+
+        <VideoFeed
+          cards={cards}
+          chapterText={chapterText}
+          title={active ? tr("moreMeetings") : tr("meetings")}
+        />
+      </div>
+    </>
   );
 }
 
 function Hero() {
   const { tr } = useAssistant();
   return (
-    <section className="mx-auto flex max-w-2xl flex-col items-center pb-4 pt-12 text-center sm:pt-16">
-      <h1 className="text-balance text-4xl font-semibold tracking-tight sm:text-5xl">{tr("heroTitle")}</h1>
-      <p className="mt-3 max-w-md text-balance text-lg text-muted">{tr("heroSub")}</p>
-      <div className="mt-10">
-        <MicButton size="lg" />
+    <section className="relative isolate overflow-hidden">
+      <HeroBackdrop />
+      <div className="mx-auto flex max-w-2xl flex-col items-center px-4 pb-10 pt-12 text-center sm:pt-16">
+        <h1 className="text-balance text-4xl font-semibold tracking-tight sm:text-5xl">{tr("heroTitle")}</h1>
+        {/* Stronger than text-muted: it sits on the photo, over the white tower. */}
+        <p className="mt-3 max-w-md text-balance text-lg text-ink/75">{tr("heroSub")}</p>
+        <div className="mt-10">
+          <MicButton size="lg" />
+        </div>
+        <div className="mt-8 w-full">
+          <Composer big />
+        </div>
+        <Suggestions className="mt-4 justify-center" />
       </div>
-      <div className="mt-8 w-full">
-        <Composer big />
-      </div>
-      <Suggestions className="mt-4 justify-center" />
     </section>
+  );
+}
+
+/**
+ * Glendale City Hall behind the hero: grey, washed toward the page colour so the
+ * heading and buttons stay readable in light and dark mode, drifting slowly, and
+ * fading into the page at the bottom. It fades in once the photo has loaded.
+ */
+function HeroBackdrop() {
+  const [loaded, setLoaded] = useState(false);
+  return (
+    <div
+      aria-hidden
+      className={`pointer-events-none absolute inset-0 -z-10 overflow-hidden transition-opacity duration-1000 ${
+        loaded ? "opacity-100" : "opacity-0"
+      }`}
+    >
+      <Image
+        src="/glendale-city-hall.webp"
+        alt=""
+        fill
+        priority
+        sizes="100vw"
+        onLoad={() => setLoaded(true)}
+        className="hero-drift object-cover object-[50%_65%] contrast-[.85] grayscale"
+      />
+      <div className="absolute inset-0 bg-bg/72" />
+      <div className="absolute inset-0 bg-linear-to-b from-bg/40 via-transparent via-45% to-bg" />
+    </div>
   );
 }
 
