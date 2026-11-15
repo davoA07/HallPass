@@ -1,0 +1,632 @@
+{
+  "meetingId": "2026-11-10-special",
+  "lang": "es",
+  "generatedAt": "2026-11-15T00:47:57+00:00",
+  "chunks": {
+    "5": [
+      {
+        "start": 610.63,
+        "end": 620.71,
+        "text": "Muy bien. Bienvenidos todos a la sesión especial del Concejo Municipal de Glendale del 10 de noviembre de 2026, que se abre a las 3:11 p. m. ¿Podemos pasar lista, por favor?"
+      },
+      {
+        "start": 621.65,
+        "end": 622.59,
+        "text": "Concejal Asatryan."
+      },
+      {
+        "start": 622.87,
+        "end": 623.53,
+        "text": "Presente."
+      },
+      {
+        "start": 624.23,
+        "end": 625.09,
+        "text": "Bartrosouf."
+      },
+      {
+        "start": 625.31,
+        "end": 625.45,
+        "text": "Presente."
+      },
+      {
+        "start": 625.71,
+        "end": 626.13,
+        "text": "Brotman."
+      },
+      {
+        "start": 626.49,
+        "end": 626.69,
+        "text": "Presente."
+      },
+      {
+        "start": 627.01,
+        "end": 627.63,
+        "text": "Gharpetian."
+      },
+      {
+        "start": 628.73,
+        "end": 628.89,
+        "text": "Presente."
+      },
+      {
+        "start": 629.95,
+        "end": 630.39,
+        "text": "Kassakhian."
+      },
+      {
+        "start": 630.81,
+        "end": 632.73,
+        "text": "Presente. ¿Podemos escuchar el informe de la secretaria, por favor?"
+      },
+      {
+        "start": 633.31,
+        "end": 643.33,
+        "text": "La agenda de la reunión pública especial del Concejo Municipal del martes 10 de noviembre de 2026 se publicó el 4 de noviembre de 2026 en el tablón de anuncios afuera del Ayuntamiento."
+      },
+      {
+        "start": 644.05,
+        "end": 649.59,
+        "text": "Muy bien, gracias. Y por favor lea al acta los puntos que este cuerpo tiene ante sí para esta sesión especial."
+      },
+      {
+        "start": 650.49,
+        "end": 664.67,
+        "text": "Punto uno, resumen de la tarifa municipal de cuotas. A, moción para tomar nota y archivar el resumen de la tarifa municipal de cuotas del año fiscal 2026-2027, y B, moción para dar instrucciones sobre revisiones adicionales a la tarifa municipal de cuotas."
+      },
+      {
+        "start": 665.55,
+        "end": 670.75,
+        "text": "Muy bien, gracias. Le cedo la palabra al Sr. Golanian, por favor."
+      },
+      {
+        "start": 671.39,
+        "end": 692.57,
+        "text": "Sí. Buenas tardes, alcalde, miembros del Concejo Municipal. La sesión de estudio de hoy responde a la instrucción que el Concejo dio al personal durante una sesión de estudio del presupuesto anterior, sobre el presupuesto del año fiscal 2026-27. Y le cedo la palabra al Sr."
+      },
+      {
+        "start": 692.85,
+        "end": 704.37,
+        "text": "Liang, nuestro director de Finanzas, para que les explique la agenda de hoy, y creo que también un miembro del personal presentará una parte. Sr. Liang."
+      },
+      {
+        "start": 705.31,
+        "end": 724.43,
+        "text": "Gracias, Sr. Golanian. Buenas tardes, alcalde Kassakhian y miembros del Concejo Municipal. Como se mencionó, mi nombre es Jack Liang. Soy el director de Finanzas y me entusiasma presentarles un resumen de nuestra tarifa de cuotas, como lo solicitó el Concejo. ¿Podemos poner la presentación de PowerPoint en pantalla, por favor?"
+      }
+    ],
+    "6": [
+      {
+        "start": 728.43,
+        "end": 750.03,
+        "text": "Bien. Hoy tenemos una agenda de cuatro partes. En la primera parte, nuestro consultor de Matrix Consulting Group presentará una visión general de alto nivel de nuestra metodología para establecer tarifas. En la segunda parte, veremos específicamente el cuadro de tarifas de la Ciudad de Glendale, y haremos una revisión de nuestra estructura."
+      },
+      {
+        "start": 750.55,
+        "end": 770.11,
+        "text": "En la tercera parte, tenemos algunas revisiones pendientes del cuadro de tarifas que solicitó el CDD, y daremos más detalles. Y la cuarta parte es un momento de discusión de políticas y de dirección, en el que queremos escuchar la orientación del concejo sobre varios puntos o sobre cualquier otro tema que les interese plantear y discutir."
+      },
+      {
+        "start": 771.53,
+        "end": 787.25,
+        "text": "Con eso, pasamos a la primera parte de nuestra presentación de hoy, la metodología para establecer tarifas, que presentará Khushbu Ingle, de Matrix Consulting Group. Entiendo que debería estar disponible en línea. ¿Podemos promoverla como presentadora, por favor?"
+      },
+      {
+        "start": 788.63,
+        "end": 806.91,
+        "text": "Sí. Buenas tardes, concejo. Soy Khushbu Ingle, vicepresidenta de Matrix Consulting Group. He trabajado con la ciudad durante los últimos años en estudios de tarifas, y quería dar un breve contexto. Pasemos a la primera diapositiva de la sección de metodología."
+      },
+      {
+        "start": 810.25,
+        "end": 831.53,
+        "text": "Perfecto. Doy una breve visión general de quién paga por estos servicios. Cuando pensamos en servicios relacionados con tarifas, pensamos en tres categorías principales. Primero, el beneficio comunitario: la comunidad en general, los residentes de Glendale, ¿qué benefician de esos servicios? Son cosas como los servicios de policía, los servicios de bomberos y el mantenimiento de parques."
+      },
+      {
+        "start": 831.59,
+        "end": 857.13,
+        "text": "Normalmente se consideran servicios con tarifas de menor recuperación de costos, porque existe ese beneficio comunitario más amplio. Cuando hablamos de un beneficio compartido, son servicios que benefician a la comunidad en general, pero que a veces también tienen beneficios más a nivel de grupo o individuales. Es un beneficio compartido entre un grupo más grande y la comunidad en general."
+      }
+    ],
+    "7": [
+      {
+        "start": 857.21,
+        "end": 881.83,
+        "text": "Se trata de cosas como recreación y servicios comunitarios, muchas actividades de prevención de incendios o artes y cultura de la biblioteca. Y luego pasamos a lo que llamamos servicios de beneficio mucho más individualizado. Cosas como permisos de construcción, planificación y zonificación, ingeniería, revisión de desarrollo, alquiler de instalaciones. Son cosas de las que se beneficia específicamente solo la persona que tramita esos permisos o que participa en esos alquileres."
+      },
+      {
+        "start": 881.89,
+        "end": 889.19,
+        "text": "Así que estos servicios no tienen un beneficio comunitario más amplio ni siquiera un beneficio compartido. Es muy individual. Si pasamos a la siguiente diapositiva."
+      },
+      {
+        "start": 892.27,
+        "end": 913.51,
+        "text": "Entonces, ¿por qué hacemos estudios de tarifas? En términos generales, el propósito de un estudio de tarifas es determinar cuál es el costo real para la ciudad de prestar estos servicios. Es decir, cuál es el costo total de estos servicios, sus costos directos e indirectos. Y como parte de eso, hay algunos requisitos legales en el estado de California que establecen que no se puede cobrar más de lo que cuesta en las tarifas de usuario."
+      },
+      {
+        "start": 913.57,
+        "end": 934.95,
+        "text": "Así que parte de este estudio también es asegurar el cumplimiento y la documentación de esos requisitos legales. Cuando hacemos estos estudios, realmente tratamos de entender, de nuevo, cuáles son todos los niveles de esfuerzo que implican estos servicios. ¿Hay diferentes maneras de expresar estos servicios? Si necesitamos simplificar estos servicios, ya sea agregando tarifas, eliminando tarifas o ampliando tarifas."
+      },
+      {
+        "start": 935.01,
+        "end": 959.69,
+        "text": "De nuevo, asegurarnos de que la lista de tarifas refleje realmente los servicios que presta la ciudad. También nos gusta comparar las tarifas actuales de la ciudad con las de otras jurisdicciones. Una advertencia que siempre ponemos es que el hecho de que una tarifa tenga el mismo nombre en otra ciudad no significa que refleje el mismo nivel de servicio. Podría significar algo diferente en Glendale que en Burbank o en Pasadena."
+      },
+      {
+        "start": 959.75,
+        "end": 976.57,
+        "text": "Se trata de entender realmente, de nuevo, cuáles son los matices detrás de eso. Y finalmente, los resultados de este tipo de análisis les ayudan a ustedes, como Concejo Municipal, a tomar decisiones informadas sobre dónde y cómo quieren fijar las tarifas y cómo quieren recuperar esos costos. Pasamos a la siguiente diapositiva."
+      }
+    ],
+    "8": [
+      {
+        "start": 979.23,
+        "end": 1003.69,
+        "text": "En términos generales, hablemos un poco de cómo se calculan las tarifas de usuario. En este estudio examinamos dos componentes principales: el tiempo y esfuerzo que requiere, y la tarifa totalmente cargada. Cuando hablamos de ese tiempo y esfuerzo, no nos enfocamos en el proyecto más complicado que el personal haya hecho, ni en el más sencillo. Nos enfocamos en cuál es el proyecto promedio, cuál es el nivel de tiempo promedio."
+      },
+      {
+        "start": 1004.09,
+        "end": 1039.29,
+        "text": "Tampoco nos enfocamos en el hecho de que los proyectos pueden durar varias semanas, meses, a veces años. Nos enfocamos en el tiempo dedicado a la tarea. Está pensado para ser el tiempo específico que el personal dedica a cada una de esas actividades, solicitudes y proyectos. Nuevamente, trabajamos con el personal para elaborar estas estimaciones de tiempo. Las revisamos contra nuestra verificación basada en la experiencia, asegurándonos de que hemos hecho este tipo de proyectos en todo el estado y en todo el país, para confirmar que no haya variaciones importantes, y que si las hay, tengamos documentación y entendamos por qué podrían existir."
+      },
+      {
+        "start": 1040.37,
+        "end": 1060.55,
+        "text": "Tomamos esa información del tiempo estimado y la multiplicamos por la tarifa totalmente cargada. Esa tarifa totalmente cargada no es el pago neto de una persona. Es el costo total que tiene ese empleado para la ciudad. Toma en cuenta los salarios, los beneficios, y cuando vemos esos salarios, vemos los salarios aprobados y presupuestados adoptados."
+      },
+      {
+        "start": 1060.59,
+        "end": 1091.25,
+        "text": "No los salarios más caros, del escalón más alto, ni los más baratos, del escalón más bajo. La razón es que esos son valores adoptados y aprobados oficialmente. Y lo que queremos es conciliar esta información con el costo del servicio, y ese costo se basa directamente en la información presupuestada adoptada. Agregamos las horas productivas, es decir, cosas como vacaciones, enfermedad, días festivos, capacitaciones, descansos, esas horas en que el personal no está disponible para prestar esos servicios."
+      }
+    ],
+    "31": [
+      {
+        "start": 3730.42,
+        "end": 3761.24,
+        "text": "Si me permiten añadir una última cosa sobre eso. Sé que escalonamos nuestras inspecciones entre departamentos. Creo que parte de eso también es preguntarnos si tiene que ser bomberos quienes salgan. ¿Tiene que ser CDD? ¿Se podría hacer al mismo tiempo? Porque creo que una de las principales quejas que recibimos es que sale uno, pero luego GWP tarda otras tres semanas, y bomberos tarda otras tres semanas, y entonces es retraso tras retraso para la persona que está haciendo la construcción."
+      },
+      {
+        "start": 3762.32,
+        "end": 3777.96,
+        "text": "Sí, somos conscientes, concejal Asatryan. Conocemos situaciones como esa, y los departamentos se están coordinando para ver si podemos consolidar la inspección cuando sea aplicable. Está en su lista."
+      },
+      {
+        "start": 3778.28,
+        "end": 3778.5,
+        "text": "Está bien."
+      },
+      {
+        "start": 3781.2,
+        "end": 3810.36,
+        "text": "Bien. Pasamos a la siguiente parte. Como estamos hablando del calendario de tarifas, hemos recibido una solicitud de CDD con algunas revisiones, y son revisiones posteriores a la última vez que ustedes adoptaron el calendario de tarifas en junio de 2026. Esta solicitud tiene dos partes. La primera es que estamos eliminando una de las tarifas de los sistemas de paneles solares, que antes era una sola tarifa de $649 por permiso."
+      },
+      {
+        "start": 3810.9,
+        "end": 3838.74,
+        "text": "Y hay una nueva legislación estatal, el Código de Gobierno de California 66015, que establece un enfoque escalonado para este permiso. Así que en lugar de una sola tarifa para todos, estamos introduciendo un enfoque escalonado con $450 por los primeros 1 a 15 kilovatios, y otros $15 por cada kilovatio adicional, hasta 29 kilovatios."
+      },
+      {
+        "start": 3839.24,
+        "end": 3859.48,
+        "text": "Y cuando son 30 kilovatios o más, la tarifa pasa a ser $649, y eso es igual para cualquier tarifa especial para sistemas de paneles solares comerciales. Es decir, eliminamos la tarifa única tradicional e introducimos cuatro tarifas nuevas, para cumplir con el código de gobierno."
+      }
+    ],
+    "32": [
+      {
+        "start": 3860.16,
+        "end": 3887.44,
+        "text": "Ese es el primer cambio que solicitó CDD. El segundo cambio son solo algunos cambios menores en las descripciones. No hay cambios en las tarifas en esta parte de la solicitud. Se trata de describir estas dos tarifas diferentes, describiendo el proyecto mayor y el proyecto menor. En cuanto al proyecto mayor, creo que tradicionalmente los llamábamos exentos de revisión de diseño, y luego revisión de diseño para cercas y muros."
+      },
+      {
+        "start": 3887.82,
+        "end": 3899.08,
+        "text": "Pero la solicitud de CDD, llamarlos proyectos mayores y proyectos menores, son descripciones más precisas de estas tarifas. Esa es la segunda solicitud de CDD."
+      },
+      {
+        "start": 3900.82,
+        "end": 3921,
+        "text": "¿Es que... Sé que hay un punto que debe venir para que hablemos de lo que va a la Junta de Revisión de Diseño, porque sé que somos una de las pocas ciudades en las que estos proyectos unifamiliares van a la Junta de Revisión de Diseño. ¿Se reevaluaría esto cuando llegue ese punto?"
+      },
+      {
+        "start": 3921.34,
+        "end": 3941.82,
+        "text": "Eso no es... Se reevaluará dependiendo de los cambios de proceso que ocurran con el tiempo. Ajustaríamos lo que llamamos los diferentes procesos y cuáles son las tarifas. Este cambio específico que solicitamos es para lo que no va a la Junta de Revisión de Diseño, sino que se revisa administrativamente, e incluso hay una revisión de diseño administrativa."
+      },
+      {
+        "start": 3941.9,
+        "end": 3961.76,
+        "text": "Es una revisión de planificación de un nivel un poco más bajo que se hace internamente. Obviamente tenemos estructuras de tarifas muy diferentes para menor y mayor. Y lo que buscamos es cambiar la definición para que muchos más proyectos entren en la categoría menor."
+      }
+    ],
+    "34": [
+      {
+        "start": 4092.32,
+        "end": 4115.62,
+        "text": "Así que se debe considerar el posible impacto en los ingresos de nuestra estructura financiera. Como se mencionó antes, los impuestos por sí solos no cubren el costo total de nuestros servicios municipales. De hecho, dependemos de los ingresos por tarifas para cubrir gran parte de nuestros servicios. Las tarifas son aproximadamente el 20% de los ingresos del fondo general, que es lo que financia los servicios generales de nuestro fondo general."
+      },
+      {
+        "start": 4116.22,
+        "end": 4144.68,
+        "text": "Y cualquier subsidio adicional que decidamos reducirá los ingresos del fondo general y podría llevar a recortes de servicios más adelante. Esos son solo algunos puntos para que los consideremos. Y el primer tema que queremos retomar con el concejo es una política de subsidio para organizaciones sin fines de lucro que se presentó al concejo en el último proceso de adopción del presupuesto."
+      },
+      {
+        "start": 4145.08,
+        "end": 4168.32,
+        "text": "Esta fue una política implementada mediante la Resolución 24-170 en junio de 2024. Y el concejo determinó que, para seguir prestando servicios eficaces para el bienestar público, la ciudad debe establecer una tarifa para organizaciones sin fines de lucro, que es un descuento del cincuenta por ciento para estas organizaciones en varias de nuestras tarifas estándar."
+      },
+      {
+        "start": 4168.68,
+        "end": 4193.96,
+        "text": "La política excluye el Alex Theatre y exige que la organización demuestre su condición 501[c][3]. Y para eventos grandes que requieran personal de la ciudad, el subsidio también cubriría hasta $10,000 del costo del personal. Se estima que el subsidio para organizaciones sin fines de lucro en toda la ciudad, básicamente con ese 50%, implica renunciar a unos $150,000 en ingresos en esas áreas."
+      },
+      {
+        "start": 4194.7,
+        "end": 4197.12,
+        "text": "Así que haré una pausa aquí solo para... ¿Sí?"
+      },
+      {
+        "start": 4197.68,
+        "end": 4208.12,
+        "text": "Bueno, la última vez que surgió esta conversación, este concejo le dio instrucciones al personal de presentar la política por separado de la conversación sobre las tarifas-"
+      }
+    ],
+    "35": [
+      {
+        "start": 4208.64,
+        "end": 4208.68,
+        "text": "Mm-hmm"
+      },
+      {
+        "start": 4208.7,
+        "end": 4216.94,
+        "text": "... porque habíamos acordado que hay que hacer algunas revisiones. No está funcionando como esperábamos."
+      },
+      {
+        "start": 4217.08,
+        "end": 4217.08,
+        "text": "Sí."
+      },
+      {
+        "start": 4217.12,
+        "end": 4220.66,
+        "text": "Y por eso espero que todavía podamos tratarlo como un punto aparte."
+      },
+      {
+        "start": 4221.22,
+        "end": 4221.3,
+        "text": "Sí."
+      },
+      {
+        "start": 4221.5,
+        "end": 4245.52,
+        "text": "Y creo que valdría la pena que el personal no solo identifique los problemas que se les presentan, sino también algunos de los eventos anuales que ya han ocurrido. Porque lo que terminó pasando es que, después de aprobar esta política, también terminamos aumentando nuestras tarifas de manera significativa."
+      },
+      {
+        "start": 4246.04,
+        "end": 4269.7,
+        "text": "Y aunque seguíamos subsidiando al 50%, los costos estaban más cerca de aquella cifra original. Creo que di algunos ejemplos, pero valdría la pena que ese informe también incluya un desglose de cuánto terminaron costándole estos eventos al solicitante."
+      },
+      {
+        "start": 4269.84,
+        "end": 4302.8,
+        "text": "También diré, como ejemplo, que la Fundación de la Policía de Glendale solía organizar el evento K9 en Verdugo Park. Era un evento abierto al público, donde los miembros de la comunidad y las familias podían reunirse, y fueron las tarifas del parque y todas las demás tarifas asociadas las que lo convirtieron en la noche de comedia que tienen ahora, porque les resultaba más rentable organizar una noche de comedia que el evento comunitario en el parque."
+      },
+      {
+        "start": 4303.5,
+        "end": 4311.8,
+        "text": "Puedo hablar de Vartavar y de todos los demás eventos, pero creo que nos ayudaría recibir ese informe, revisarlo y modificarlo-"
+      },
+      {
+        "start": 4312.5,
+        "end": 4312.52,
+        "text": "Está bien"
+      },
+      {
+        "start": 4312.52,
+        "end": 4313.58,
+        "text": "... es mi postura al respecto."
+      },
+      {
+        "start": 4314.04,
+        "end": 4314.28,
+        "text": "Bien."
+      },
+      {
+        "start": 4314.46,
+        "end": 4315.26,
+        "text": "Concejal Gharpetian."
+      },
+      {
+        "start": 4315.5,
+        "end": 4332.24,
+        "text": "Sí, tengo una pregunta. ¿Cuánto tiempo tenemos? Porque entendía que teníamos que revisar esta estructura de tarifas o este paquete y hacer preguntas sobre distintos puntos. Y tengo, quizás, siete u ocho preguntas."
+      }
+    ],
+    "54": [
+      {
+        "start": 6493.91,
+        "end": 6500.99,
+        "text": "Porque no puede ser tan diferente a las ciudades vecinas, y eso lo escucho todo el tiempo, especialmente con nuestras tarifas del CDBG. ¿Está bien?"
+      },
+      {
+        "start": 6501.41,
+        "end": 6501.57,
+        "text": "Está bien."
+      },
+      {
+        "start": 6501.63,
+        "end": 6501.85,
+        "text": "Gracias."
+      },
+      {
+        "start": 6502.15,
+        "end": 6503.37,
+        "text": "Muy bien. Sí, ahora."
+      },
+      {
+        "start": 6503.89,
+        "end": 6504.11,
+        "text": "Muy bien."
+      },
+      {
+        "start": 6504.13,
+        "end": 6504.17,
+        "text": "Muy bien."
+      },
+      {
+        "start": 6504.25,
+        "end": 6530.09,
+        "text": "Escuchamos varias indicaciones de política de varios miembros del concejo. Solo quería repasarlas rápidamente en resumen, para asegurarnos de que las entendimos bien y podamos dar seguimiento con planes posteriores. Primero, escuchamos al concejal Gharpetian sobre varias tarifas relacionadas con el desarrollo, y la solicitud fue que busquemos formas de promover ciertas actividades, como el desarrollo de condominios, por ejemplo."
+      },
+      {
+        "start": 6530.43,
+        "end": 6533.39,
+        "text": "¿Es algo que todo el concejo apoya?"
+      },
+      {
+        "start": 6533.71,
+        "end": 6534.01,
+        "text": "Yo..."
+      },
+      {
+        "start": 6534.31,
+        "end": 6538.89,
+        "text": "¿Necesitan que levantemos el pulgar? Yo estaría a favor de eso."
+      },
+      {
+        "start": 6538.93,
+        "end": 6538.99,
+        "text": "Sí."
+      },
+      {
+        "start": 6539.01,
+        "end": 6541.73,
+        "text": "¿Puedo recomendar algo sobre esto?"
+      },
+      {
+        "start": 6542.01,
+        "end": 6542.27,
+        "text": "Claro."
+      },
+      {
+        "start": 6542.49,
+        "end": 6545.65,
+        "text": "No escuché nada de mis colegas con lo que yo no estuviera de acuerdo."
+      },
+      {
+        "start": 6546.17,
+        "end": 6546.77,
+        "text": "Está bien. Eso es..."
+      },
+      {
+        "start": 6546.85,
+        "end": 6550.55,
+        "text": "Solo como ejemplo. Ninguno de mis colegas dijo nada que..."
+      },
+      {
+        "start": 6551.73,
+        "end": 6552.33,
+        "text": "A mí también me parece bien."
+      },
+      {
+        "start": 6552.33,
+        "end": 6552.39,
+        "text": "Supongo."
+      },
+      {
+        "start": 6552.43,
+        "end": 6553.49,
+        "text": "Pueden darme el pulgar hacia abajo."
+      },
+      {
+        "start": 6553.51,
+        "end": 6556.95,
+        "text": "¿Sería más fácil que él resuma lo que escuchó, y luego, si alguno de ustedes tiene alguna objeción...?"
+      },
+      {
+        "start": 6556.97,
+        "end": 6558.63,
+        "text": "Sí. Y quizás se quede algo fuera, así que."
+      },
+      {
+        "start": 6558.73,
+        "end": 6558.95,
+        "text": "Sí, sí."
+      },
+      {
+        "start": 6559.01,
+        "end": 6561.71,
+        "text": "Creo que vale la pena hacer el resumen, ya que tenemos un poco de tiempo."
+      },
+      {
+        "start": 6562.01,
+        "end": 6585.89,
+        "text": "Por supuesto. Y entiendo que el concejo está interesado en estudiar un programa de subsidios relacionado con la biblioteca, los parques y las actividades de filmación, con el objetivo de promover la actividad económica dentro de la ciudad. Y, como mencionó la alcaldesa, no solo para la actividad económica, sino también para crear ese tercer espacio que construye una cultura comunitaria hacia un lugar positivo, me imagino."
+      },
+      {
+        "start": 6586.39,
+        "end": 6596.09,
+        "text": "Con esos objetivos, podemos estudiar un programa de subsidios y que el personal presente un programa o una política para que el concejo la considere. Yo no... Bien."
+      },
+      {
+        "start": 6596.19,
+        "end": 6596.25,
+        "text": "Creo que..."
+      },
+      {
+        "start": 6596.31,
+        "end": 6597.17,
+        "text": "Sin objeciones ahí."
+      },
+      {
+        "start": 6597.37,
+        "end": 6597.79,
+        "text": "Sí. Pulgar arriba."
+      },
+      {
+        "start": 6598.25,
+        "end": 6598.43,
+        "text": "Bien."
+      },
+      {
+        "start": 6598.71,
+        "end": 6617.73,
+        "text": "Sobre eso. Y también, específicamente sobre la filmación, escuché de la alcaldesa que tenemos que buscar formas de promover las actividades de filmación, mantener la industria en la zona, y posiblemente considerar un programa piloto con plazo definido para medir el progreso de un posible subsidio."
+      }
+    ],
+    "55": [
+      {
+        "start": 6617.75,
+        "end": 6619.87,
+        "text": "Eso también, creo, lo mencionó nuestro concejal-"
+      },
+      {
+        "start": 6619.91,
+        "end": 6620.99,
+        "text": "Correcto. Varios concejales."
+      },
+      {
+        "start": 6621.01,
+        "end": 6621.01,
+        "text": "..."
+      },
+      {
+        "start": 6621.07,
+        "end": 6621.25,
+        "text": "Correcto."
+      },
+      {
+        "start": 6621.27,
+        "end": 6621.73,
+        "text": "Gharpetian y otros."
+      },
+      {
+        "start": 6621.77,
+        "end": 6636.45,
+        "text": "Sí. Sí. Parece que todos se sienten cómodos con ese. Del concejal Brotman, escucho la electrificación y la energía limpia. Buscar formas adicionales para que el fondo de beneficio público posiblemente aumente el esfuerzo del incentivo."
+      },
+      {
+        "start": 6636.89,
+        "end": 6640.69,
+        "text": "Bueno, específicamente en cuanto a las tarifas, las tarifas de permisos que-"
+      },
+      {
+        "start": 6641.57,
+        "end": 6641.65,
+        "text": "Sí"
+      },
+      {
+        "start": 6641.79,
+        "end": 6648.93,
+        "text": "... vienen con algunas de estas ofertas que brindamos a través de los programas del cargo de beneficio público."
+      },
+      {
+        "start": 6649.25,
+        "end": 6650.77,
+        "text": "En realidad, si mal no recuerdo-"
+      },
+      {
+        "start": 6650.83,
+        "end": 6650.83,
+        "text": "Mm-hmm"
+      },
+      {
+        "start": 6650.83,
+        "end": 6658.51,
+        "text": "... el que nos gustaría, la gente puede inscribirse para cambiar su jardín delantero, el permiso cuesta más que el-"
+      },
+      {
+        "start": 6659.09,
+        "end": 6659.31,
+        "text": "¿Que el reembolso?"
+      },
+      {
+        "start": 6659.31,
+        "end": 6660.71,
+        "text": "... que el, que el reembolso."
+      },
+      {
+        "start": 6661.17,
+        "end": 6662.19,
+        "text": "Mm-hmm. Bien."
+      },
+      {
+        "start": 6662.51,
+        "end": 6663.09,
+        "text": "Buen ejemplo."
+      },
+      {
+        "start": 6663.45,
+        "end": 6664.77,
+        "text": "Vale la pena examinar eso."
+      },
+      {
+        "start": 6665.17,
+        "end": 6689.43,
+        "text": "Bien. Entonces definitivamente podemos examinarlo, y es algo que hemos escuchado, y parece que no hay objeciones en el concejo. Lo único que, honestamente, podría revisar la política de tarifas, el calendario de tarifas, muy rápido es la Ley Mills. Actualmente tiene una tarifa subsidiada. Escucho de varios concejales que les interesa considerar cobrar el costo total por estas solicitudes."
+      },
+      {
+        "start": 6690.27,
+        "end": 6690.77,
+        "text": "O más cerca-"
+      },
+      {
+        "start": 6690.85,
+        "end": 6691.11,
+        "text": "Yo, yo estoy, yo estoy-"
+      },
+      {
+        "start": 6691.11,
+        "end": 6691.69,
+        "text": "... más cerca del total"
+      },
+      {
+        "start": 6691.73,
+        "end": 6704.61,
+        "text": "... con gusto lo reviso. No sé si el costo total, porque creo que parte del propósito era ayudar a preservar casas y estructuras únicas que tienen algún carácter y valor histórico o de otro tipo."
+      },
+      {
+        "start": 6705.01,
+        "end": 6705.07,
+        "text": "Mm-hmm."
+      },
+      {
+        "start": 6705.09,
+        "end": 6716.65,
+        "text": "Pero, bueno, sé que teníamos una tarifa mucho más baja para fomentar eso. Puede ser momento, en estos tiempos económicos, de revisarlo. Así que estaría abierto a revisarlo."
+      },
+      {
+        "start": 6717.09,
+        "end": 6717.09,
+        "text": "Bien."
+      },
+      {
+        "start": 6717.13,
+        "end": 6727.01,
+        "text": "Sí. Para que conste, yo no dije costo total, sino algo entre lo que tenemos actualmente con nuestra tarifa y, y alrededor de."
+      }
+    ]
+  }
+}
