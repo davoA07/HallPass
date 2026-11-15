@@ -136,6 +136,20 @@ body {
   }
 }
 
+/* The photo eases in on page load. CSS only, so it never waits on JavaScript. */
+.hero-fade {
+  animation: hero-fade 1.2s ease-out both;
+}
+
+@keyframes hero-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .flash {
     animation: none;
@@ -143,5 +157,8 @@ body {
   .hero-drift {
     animation: none;
     transform: scale(1.05);
+  }
+  .hero-fade {
+    animation: none;
   }
 }

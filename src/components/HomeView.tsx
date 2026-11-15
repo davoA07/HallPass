@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
-import { Suspense, useEffect, useRef, useState } from "react";
+import { Suspense, useEffect, useRef } from "react";
 import type { VideoCard } from "@/lib/types";
 import { useAssistant } from "./AssistantProvider";
 import { Composer, Suggestions } from "./ChatPanel";
@@ -70,24 +70,18 @@ function Hero() {
 /**
  * Glendale City Hall behind the hero: grey, washed toward the page colour so the
  * heading and buttons stay readable in light and dark mode, drifting slowly, and
- * fading into the page at the bottom. It fades in once the photo has loaded.
+ * fading into the page at the bottom. The fade-in is pure CSS, so the photo shows
+ * even before (or without) JavaScript running.
  */
 function HeroBackdrop() {
-  const [loaded, setLoaded] = useState(false);
   return (
-    <div
-      aria-hidden
-      className={`pointer-events-none absolute inset-0 -z-10 overflow-hidden transition-opacity duration-1000 ${
-        loaded ? "opacity-100" : "opacity-0"
-      }`}
-    >
+    <div aria-hidden className="hero-fade pointer-events-none absolute inset-0 -z-10 overflow-hidden">
       <Image
         src="/glendale-city-hall.webp"
         alt=""
         fill
         priority
         sizes="100vw"
-        onLoad={() => setLoaded(true)}
         className="hero-drift object-cover object-[50%_65%] contrast-[.85] grayscale"
       />
       <div className="absolute inset-0 bg-bg/72" />
