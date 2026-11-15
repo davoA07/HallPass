@@ -4,6 +4,7 @@ import Link from "next/link";
 import { LANGUAGES } from "@/lib/languages";
 import { useAssistant } from "./AssistantProvider";
 import { CapitolIcon } from "./icons";
+import { ThemeToggle } from "./ThemeToggle";
 import { useVoice } from "./VoiceProvider";
 
 export function SiteHeader() {
@@ -25,7 +26,8 @@ export function SiteHeader() {
           </span>
           <span>HallPass</span>
         </Link>
-        <div className="ms-auto">
+        <div className="ms-auto flex items-center gap-2">
+          <ThemeToggle />
           <label className="sr-only" htmlFor="lang-select">
             {tr("language")}
           </label>

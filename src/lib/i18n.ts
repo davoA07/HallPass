@@ -6,6 +6,10 @@
 const en = {
   sample: "Sample data",
   language: "Language",
+
+  darkMode: "Switch to dark mode",
+
+  lightMode: "Switch to light mode",
   send: "Send",
   thinking: "Looking through the meetings…",
   noVideo: "No video is available for this meeting.",
@@ -72,6 +76,10 @@ type Dict = Record<StringKey, string>;
 const hy: Dict = {
   sample: "Օրինակային տվյալներ",
   language: "Լեզու",
+
+  darkMode: "Անցնել մուգ ռեժիմի",
+
+  lightMode: "Անցնել բաց ռեժիմի",
   send: "Ուղարկել",
   thinking: "Փնտրում եմ նիստերում…",
   noVideo: "Այս նիստի տեսանյութը հասանելի չէ։",
@@ -133,6 +141,10 @@ const hy: Dict = {
 const es: Dict = {
   sample: "Datos de ejemplo",
   language: "Idioma",
+
+  darkMode: "Cambiar a modo oscuro",
+
+  lightMode: "Cambiar a modo claro",
   send: "Enviar",
   thinking: "Buscando en las sesiones…",
   noVideo: "No hay video disponible para esta sesión.",
@@ -194,6 +206,10 @@ const es: Dict = {
 const ko: Dict = {
   sample: "샘플 데이터",
   language: "언어",
+
+  darkMode: "다크 모드로 전환",
+
+  lightMode: "라이트 모드로 전환",
   send: "보내기",
   thinking: "회의 기록을 찾는 중…",
   translating: "번역 중…",
@@ -254,6 +270,10 @@ const ko: Dict = {
 
 const tl: Dict = {
   language: "Wika",
+
+  darkMode: "Lumipat sa dark mode",
+
+  lightMode: "Lumipat sa light mode",
   send: "Ipadala",
   thinking: "Hinahanap sa mga pulong…",
   translating: "Isinasalin…",
@@ -315,6 +335,10 @@ const tl: Dict = {
 
 const fa: Dict = {
   language: "زبان",
+
+  darkMode: "رفتن به حالت تیره",
+
+  lightMode: "رفتن به حالت روشن",
   send: "ارسال",
   thinking: "در حال جستجو در جلسات…",
   translating: "در حال ترجمه…",

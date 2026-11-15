@@ -60,6 +60,17 @@
   --neutral-soft: #242a32;
 }
 
+/* Native controls (select menus, scrollbars) follow the chosen theme too. */
+:root {
+  color-scheme: light dark;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
 @theme inline {
   --color-bg: var(--bg);
   --color-surface: var(--surface);
