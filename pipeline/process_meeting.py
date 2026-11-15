@@ -375,7 +375,10 @@ def step_structure(args, work: Path) -> None:
     log(f"structuring with {MODEL}…")
     response = client.beta.messages.parse(
         model=MODEL,
-        max_tokens=16000,
+        # Long meetings (2+ hours, many items) need room for reasoning plus the JSON;
+        # the explicit timeout lets the SDK accept a large max_tokens without streaming.
+        max_tokens=48000,
+        timeout=1800.0,
         system=STRUCTURE_SYSTEM,
         messages=[{"role": "user", "content": content}],
         output_format=Structure,
