@@ -111,3 +111,9 @@ kbardzranan?") is understood and answered in Armenian script.
 
 Not an official city service. Summaries are AI-generated from public meeting
 recordings; every answer links to the video so residents can check it.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Meeting videos, agendas
+and transcripts come from the City of Glendale's public records and are not
+covered by this license.
